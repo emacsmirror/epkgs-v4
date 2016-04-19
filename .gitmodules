@@ -1751,6 +1751,10 @@
 [submodule "cl-array"]
 	path = attic/cl-array
 	url = git@github.com:emacsattic/cl-array.git
+[submodule "cl-format"]
+	path = mirror/cl-format
+	url = git@github.com:emacsmirror/cl-format.git
+	branch = master
 [submodule "cl-info"]
 	path = attic/cl-info
 	url = git@github.com:emacsattic/cl-info.git
@@ -4289,6 +4293,10 @@
 [submodule "etxt"]
 	path = mirror/etxt
 	url = git@github.com:emacsmirror/etxt.git
+[submodule "euslisp-mode"]
+	path = mirror/euslisp-mode
+	url = git@github.com:emacsmirror/euslisp-mode.git
+	branch = master
 [submodule "eval-expr"]
 	path = mirror/eval-expr
 	url = git@github.com:emacsmirror/eval-expr.git
@@ -9777,6 +9785,10 @@
 [submodule "nhexl-mode"]
 	path = mirror/nhexl-mode
 	url = git@github.com:emacsmirror/nhexl-mode.git
+[submodule "niceify-info"]
+	path = mirror/niceify-info
+	url = git@github.com:emacsmirror/niceify-info.git
+	branch = master
 [submodule "nim-mode"]
 	path = mirror/nim-mode
 	url = git@github.com:emacsmirror/nim-mode.git
@@ -15326,6 +15338,10 @@
 [submodule "weechat"]
 	path = mirror/weechat
 	url = git@github.com:emacsmirror/weechat.git
+[submodule "weechat-alert"]
+	path = mirror/weechat-alert
+	url = git@github.com:emacsmirror/weechat-alert.git
+	branch = master
 [submodule "weibo"]
 	path = mirror/weibo
 	url = git@github.com:emacsmirror/weibo.git
