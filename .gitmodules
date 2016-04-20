@@ -14408,10 +14408,6 @@
 [submodule "tldr"]
 	path = mirror/tldr
 	url = git@github.com:emacsmirror/tldr.git
-[submodule "tle"]
-	path = mirror/tle
-	url = git@github.com:emacsmirror/tle.git
-	branch = master
 [submodule "tlh-util"]
 	path = mirror/tlh-util
 	url = git@github.com:emacsmirror/tlh-util.git
