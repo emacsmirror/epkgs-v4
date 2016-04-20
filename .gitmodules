@@ -536,6 +536,10 @@
 [submodule "artbollocks-mode"]
 	path = mirror/artbollocks-mode
 	url = git@github.com:emacsmirror/artbollocks-mode.git
+[submodule "arview"]
+	path = mirror/arview
+	url = git@github.com:emacsmirror/arview.git
+	branch = master
 [submodule "arxiv-reader"]
 	path = attic/arxiv-reader
 	url = git@github.com:emacsattic/arxiv-reader.git
@@ -3054,6 +3058,10 @@
 [submodule "docker"]
 	path = mirror/docker
 	url = git@github.com:emacsmirror/docker.git
+[submodule "docker-api"]
+	path = mirror/docker-api
+	url = git@github.com:emacsmirror/docker-api.git
+	branch = master
 [submodule "docker-tramp"]
 	path = mirror/docker-tramp
 	url = git@github.com:emacsmirror/docker-tramp.git
@@ -3859,6 +3867,10 @@
 [submodule "emhacks"]
 	path = attic/emhacks
 	url = git@github.com:emacsattic/emhacks.git
+[submodule "emir"]
+	path = mirror/emir
+	url = git@github.com:emacsmirror/emir.git
+	branch = master
 [submodule "emmental"]
 	path = mirror/emmental
 	url = git@github.com:emacsmirror/emmental.git
@@ -4089,6 +4101,10 @@
 [submodule "erc-tweet"]
 	path = mirror/erc-tweet
 	url = git@github.com:emacsmirror/erc-tweet.git
+[submodule "erc-twitch"]
+	path = mirror/erc-twitch
+	url = git@github.com:emacsmirror/erc-twitch.git
+	branch = master
 [submodule "erc-view-log"]
 	path = mirror/erc-view-log
 	url = git@github.com:emacsmirror/erc-view-log.git
@@ -5163,6 +5179,10 @@
 [submodule "flymake-shell"]
 	path = mirror/flymake-shell
 	url = git@github.com:emacsmirror/flymake-shell.git
+[submodule "flymake-solidity"]
+	path = mirror/flymake-solidity
+	url = git@github.com:emacsmirror/flymake-solidity.git
+	branch = master
 [submodule "flymake-vala"]
 	path = mirror/flymake-vala
 	url = git@github.com:emacsmirror/flymake-vala.git
@@ -5579,6 +5599,10 @@
 [submodule "ghq"]
 	path = mirror/ghq
 	url = git@github.com:emacsmirror/ghq.git
+[submodule "ghub"]
+	path = mirror/ghub
+	url = git@github.com:emacsmirror/ghub.git
+	branch = master
 [submodule "gildas-mode"]
 	path = mirror/gildas-mode
 	url = git@github.com:emacsmirror/gildas-mode.git
@@ -5702,6 +5726,10 @@
 [submodule "gitty"]
 	path = mirror/gitty
 	url = git@github.com:emacsmirror/gitty.git
+[submodule "glab"]
+	path = mirror/glab
+	url = git@github.com:emacsmirror/glab.git
+	branch = master
 [submodule "glade-mode"]
 	path = mirror/glade-mode
 	url = git@github.com:emacsmirror/glade-mode.git
@@ -7278,6 +7306,10 @@
 [submodule "iman"]
 	path = mirror/iman
 	url = git@github.com:emacsmirror/iman.git
+[submodule "imapfilter"]
+	path = mirror/imapfilter
+	url = git@github.com:emacsmirror/imapfilter.git
+	branch = master
 [submodule "imapua"]
 	path = mirror/imapua
 	url = git@github.com:emacsmirror/imapua.git
@@ -12991,6 +13023,10 @@
 [submodule "shift-lock"]
 	path = attic/shift-lock
 	url = git@github.com:emacsattic/shift-lock.git
+[submodule "shift-number"]
+	path = mirror/shift-number
+	url = git@github.com:emacsmirror/shift-number.git
+	branch = master
 [submodule "shift-text"]
 	path = mirror/shift-text
 	url = git@github.com:emacsmirror/shift-text.git
@@ -15821,6 +15857,10 @@
 [submodule "xrdb-mode"]
 	path = mirror/xrdb-mode
 	url = git@github.com:emacsmirror/xrdb-mode.git
+[submodule "xref-js2"]
+	path = mirror/xref-js2
+	url = git@github.com:emacsmirror/xref-js2.git
+	branch = master
 [submodule "xrefresh"]
 	path = mirror/xrefresh
 	url = git@github.com:emacsmirror/xrefresh.git
