@@ -3491,6 +3491,10 @@
 [submodule "egit"]
 	path = mirror/egit
 	url = git@github.com:emacsmirror/egit.git
+[submodule "ego"]
+	path = mirror/ego
+	url = git@github.com:emacsmirror/ego.git
+	branch = master
 [submodule "egocentric"]
 	path = attic/egocentric
 	url = git@github.com:emacsattic/egocentric.git
@@ -3524,6 +3528,10 @@
 [submodule "ejacs"]
 	path = attic/ejacs
 	url = git@github.com:emacsattic/ejacs.git
+[submodule "ejc-sql"]
+	path = mirror/ejc-sql
+	url = git@github.com:emacsmirror/ejc-sql.git
+	branch = master
 [submodule "el-autoyas"]
 	path = mirror/el-autoyas
 	url = git@github.com:emacsmirror/el-autoyas.git
@@ -3858,6 +3866,10 @@
 [submodule "emboss"]
 	path = mirror/emboss
 	url = git@github.com:emacsmirror/emboss.git
+[submodule "embrace"]
+	path = mirror/embrace
+	url = git@github.com:emacsmirror/embrace.git
+	branch = master
 [submodule "emdroid"]
 	path = mirror/emdroid
 	url = git@github.com:emacsmirror/emdroid.git
@@ -3910,6 +3922,10 @@
 [submodule "emms-soundcloud"]
 	path = mirror/emms-soundcloud
 	url = git@github.com:emacsmirror/emms-soundcloud.git
+[submodule "emms-status"]
+	path = mirror/emms-status
+	url = git@github.com:emacsmirror/emms-status.git
+	branch = master
 [submodule "emoji"]
 	path = attic/emoji
 	url = git@github.com:emacsattic/emoji.git
@@ -4367,6 +4383,10 @@
 [submodule "evil-elscreen"]
 	path = mirror/evil-elscreen
 	url = git@github.com:emacsmirror/evil-elscreen.git
+[submodule "evil-embrace"]
+	path = mirror/evil-embrace
+	url = git@github.com:emacsmirror/evil-embrace.git
+	branch = master
 [submodule "evil-escape"]
 	path = mirror/evil-escape
 	url = git@github.com:emacsmirror/evil-escape.git
@@ -4701,6 +4721,10 @@
 [submodule "fic-mode"]
 	path = mirror/fic-mode
 	url = git@github.com:emacsmirror/fic-mode.git
+[submodule "fifo-class"]
+	path = mirror/fifo-class
+	url = git@github.com:emacsmirror/fifo-class.git
+	branch = master
 [submodule "figlet"]
 	path = mirror/figlet
 	url = git@github.com:emacsmirror/figlet.git
@@ -6664,6 +6688,10 @@
 [submodule "helm-swoop"]
 	path = mirror/helm-swoop
 	url = git@github.com:emacsmirror/helm-swoop.git
+[submodule "helm-systemd"]
+	path = mirror/helm-systemd
+	url = git@github.com:emacsmirror/helm-systemd.git
+	branch = master
 [submodule "helm-themes"]
 	path = mirror/helm-themes
 	url = git@github.com:emacsmirror/helm-themes.git
@@ -10931,6 +10959,10 @@
 [submodule "path-headerline-mode"]
 	path = mirror/path-headerline-mode
 	url = git@github.com:emacsmirror/path-headerline-mode.git
+[submodule "pathify"]
+	path = mirror/pathify
+	url = git@github.com:emacsmirror/pathify.git
+	branch = master
 [submodule "paxedit"]
 	path = mirror/paxedit
 	url = git@github.com:emacsmirror/paxedit.git
@@ -12873,6 +12905,10 @@
 [submodule "sekka"]
 	path = mirror/sekka
 	url = git@github.com:emacsmirror/sekka.git
+[submodule "selected"]
+	path = mirror/selected
+	url = git@github.com:emacsmirror/selected.git
+	branch = master
 [submodule "selectric-mode"]
 	path = mirror/selectric-mode
 	url = git@github.com:emacsmirror/selectric-mode.git
@@ -12888,6 +12924,10 @@
 [submodule "sendmail-mode"]
 	path = attic/sendmail-mode
 	url = git@github.com:emacsattic/sendmail-mode.git
+[submodule "sendto"]
+	path = mirror/sendto
+	url = git@github.com:emacsmirror/sendto.git
+	branch = master
 [submodule "sensitive"]
 	path = mirror/sensitive
 	url = git@github.com:emacsmirror/sensitive.git
@@ -13117,6 +13157,10 @@
 [submodule "sigbegone"]
 	path = attic/sigbegone
 	url = git@github.com:emacsattic/sigbegone.git
+[submodule "signal"]
+	path = mirror/signal
+	url = git@github.com:emacsmirror/signal.git
+	branch = master
 [submodule "signature"]
 	path = mirror/signature
 	url = git@github.com:emacsmirror/signature.git
@@ -13713,6 +13757,10 @@
 [submodule "status-table"]
 	path = attic/status-table
 	url = git@github.com:emacsattic/status-table.git
+[submodule "steam"]
+	path = mirror/steam
+	url = git@github.com:emacsmirror/steam.git
+	branch = master
 [submodule "steersman"]
 	path = mirror/steersman
 	url = git@github.com:emacsmirror/steersman.git
