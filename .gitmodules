@@ -12362,6 +12362,7 @@
 [submodule "request"]
 	path = mirror/request
 	url = git@github.com:emacsmirror/request.git
+	branch = master
 [submodule "require-or-install"]
 	path = mirror/require-or-install
 	url = git@github.com:emacsmirror/require-or-install.git
