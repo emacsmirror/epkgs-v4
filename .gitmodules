@@ -10317,9 +10317,6 @@
 [submodule "org-buffers"]
 	path = mirror/org-buffers
 	url = git@github.com:emacsmirror/org-buffers.git
-[submodule "org-bullets"]
-	path = mirror/org-bullets
-	url = git@github.com:emacsmirror/org-bullets.git
 [submodule "org-caldav"]
 	path = mirror/org-caldav
 	url = git@github.com:emacsmirror/org-caldav.git
@@ -10353,9 +10350,6 @@
 [submodule "org-dotemacs"]
 	path = mirror/org-dotemacs
 	url = git@github.com:emacsmirror/org-dotemacs.git
-[submodule "org-download"]
-	path = mirror/org-download
-	url = git@github.com:emacsmirror/org-download.git
 [submodule "org-dp"]
 	path = mirror/org-dp
 	url = git@github.com:emacsmirror/org-dp.git
@@ -10485,9 +10479,6 @@
 	path = mirror/org-password-manager
 	url = git@github.com:emacsmirror/org-password-manager.git
 	branch = master
-[submodule "org-passwords"]
-	path = mirror/org-passwords
-	url = git@github.com:emacsmirror/org-passwords.git
 [submodule "org-pdfview"]
 	path = mirror/org-pdfview
 	url = git@github.com:emacsmirror/org-pdfview.git
@@ -10548,9 +10539,6 @@
 [submodule "org-site"]
 	path = attic/org-site
 	url = git@github.com:emacsattic/org-site.git
-[submodule "org-slides"]
-	path = mirror/org-slides
-	url = git@github.com:emacsmirror/org-slides.git
 [submodule "org-status"]
 	path = mirror/org-status
 	url = git@github.com:emacsmirror/org-status.git
@@ -10745,9 +10733,6 @@
 [submodule "ox-asciidoc"]
 	path = mirror/ox-asciidoc
 	url = git@github.com:emacsmirror/ox-asciidoc.git
-[submodule "ox-gfm"]
-	path = mirror/ox-gfm
-	url = git@github.com:emacsmirror/ox-gfm.git
 [submodule "ox-html5slide"]
 	path = mirror/ox-html5slide
 	url = git@github.com:emacsmirror/ox-html5slide.git
