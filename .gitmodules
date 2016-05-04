@@ -4415,6 +4415,10 @@
 [submodule "evil-lisp-state"]
 	path = mirror/evil-lisp-state
 	url = git@github.com:emacsmirror/evil-lisp-state.git
+[submodule "evil-lispy"]
+	path = mirror/evil-lispy
+	url = git@github.com:emacsmirror/evil-lispy.git
+	branch = master
 [submodule "evil-magit"]
 	path = mirror/evil-magit
 	url = git@github.com:emacsmirror/evil-magit.git
@@ -5080,6 +5084,10 @@
 	path = mirror/flycheck-pkg-config
 	url = git@github.com:emacsmirror/flycheck-pkg-config.git
 	branch = master
+[submodule "flycheck-pony"]
+	path = mirror/flycheck-pony
+	url = git@github.com:emacsmirror/flycheck-pony.git
+	branch = master
 [submodule "flycheck-pos-tip"]
 	path = mirror/flycheck-pos-tip
 	url = git@github.com:emacsmirror/flycheck-pos-tip.git
@@ -5095,6 +5103,10 @@
 [submodule "flycheck-rust"]
 	path = mirror/flycheck-rust
 	url = git@github.com:emacsmirror/flycheck-rust.git
+[submodule "flycheck-stack"]
+	path = mirror/flycheck-stack
+	url = git@github.com:emacsmirror/flycheck-stack.git
+	branch = master
 [submodule "flycheck-status-emoji"]
 	path = mirror/flycheck-status-emoji
 	url = git@github.com:emacsmirror/flycheck-status-emoji.git
@@ -5508,6 +5520,14 @@
 [submodule "gds"]
 	path = attic/gds
 	url = git@github.com:emacsattic/gds.git
+[submodule "geben"]
+	path = mirror/geben
+	url = git@github.com:emacsmirror/geben.git
+	branch = master
+[submodule "geben-helm-projectile"]
+	path = mirror/geben-helm-projectile
+	url = git@github.com:emacsmirror/geben-helm-projectile.git
+	branch = master
 [submodule "gedcom"]
 	path = mirror/gedcom
 	url = git@github.com:emacsmirror/gedcom.git
@@ -6763,6 +6783,10 @@
 [submodule "hgignore-mode"]
 	path = mirror/hgignore-mode
 	url = git@github.com:emacsmirror/hgignore-mode.git
+[submodule "hgrc-mode"]
+	path = mirror/hgrc-mode
+	url = git@github.com:emacsmirror/hgrc-mode.git
+	branch = master
 [submodule "hi2"]
 	path = mirror/hi2
 	url = git@github.com:emacsmirror/hi2.git
@@ -9373,6 +9397,10 @@
 [submodule "moo"]
 	path = mirror/moo
 	url = git@github.com:emacsmirror/moo.git
+[submodule "moonscript"]
+	path = mirror/moonscript
+	url = git@github.com:emacsmirror/moonscript.git
+	branch = master
 [submodule "morlock"]
 	path = mirror/morlock
 	url = git@github.com:emacsmirror/morlock.git
@@ -11334,6 +11362,10 @@
 [submodule "plunger"]
 	path = attic/plunger
 	url = git@github.com:emacsattic/plunger.git
+[submodule "plur"]
+	path = mirror/plur
+	url = git@github.com:emacsmirror/plur.git
+	branch = master
 [submodule "plural"]
 	path = mirror/plural
 	url = git@github.com:emacsmirror/plural.git
@@ -13043,6 +13075,10 @@
 [submodule "shelltest-mode"]
 	path = mirror/shelltest-mode
 	url = git@github.com:emacsmirror/shelltest-mode.git
+[submodule "shen"]
+	path = mirror/shen
+	url = git@github.com:emacsmirror/shen.git
+	branch = master
 [submodule "shen-mode"]
 	path = mirror/shen-mode
 	url = git@github.com:emacsmirror/shen-mode.git
@@ -13641,6 +13677,10 @@
 [submodule "sql-ident"]
 	path = mirror/sql-ident
 	url = git@github.com:bsvingen/sql-indent.git
+[submodule "sql-impala"]
+	path = mirror/sql-impala
+	url = git@github.com:emacsmirror/sql-impala.git
+	branch = master
 [submodule "sql-indent"]
 	path = mirror/sql-indent
 	url = git@github.com:emacsmirror/sql-indent.git
@@ -14114,6 +14154,10 @@
 [submodule "taskpaper"]
 	path = mirror/taskpaper
 	url = git@github.com:emacsmirror/taskpaper.git
+[submodule "tawny-mode"]
+	path = mirror/tawny-mode
+	url = git@github.com:emacsmirror/tawny-mode.git
+	branch = master
 [submodule "tbemail"]
 	path = mirror/tbemail
 	url = git@github.com:emacsmirror/tbemail.git
@@ -14677,6 +14721,10 @@
 [submodule "tt-mode"]
 	path = mirror/tt-mode
 	url = git@github.com:emacsmirror/tt-mode.git
+[submodule "ttl-mode"]
+	path = mirror/ttl-mode
+	url = git@github.com:emacsmirror/ttl-mode.git
+	branch = master
 [submodule "ttrss"]
 	path = mirror/ttrss
 	url = git@github.com:emacsmirror/ttrss.git
