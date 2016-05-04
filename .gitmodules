@@ -3922,9 +3922,9 @@
 [submodule "emms-soundcloud"]
 	path = mirror/emms-soundcloud
 	url = git@github.com:emacsmirror/emms-soundcloud.git
-[submodule "emms-status"]
-	path = mirror/emms-status
-	url = git@github.com:emacsmirror/emms-status.git
+[submodule "emms-state"]
+	path = mirror/emms-state
+	url = git@github.com:emacsmirror/emms-state.git
 	branch = master
 [submodule "emoji"]
 	path = attic/emoji
