@@ -3655,6 +3655,7 @@
 [submodule "elisp-format"]
 	path = mirror/elisp-format
 	url = git@github.com:emacsmirror/elisp-format.git
+	branch = master
 [submodule "elisp-lint"]
 	path = mirror/elisp-lint
 	url = git@github.com:emacsmirror/elisp-lint.git
