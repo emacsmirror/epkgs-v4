@@ -2907,6 +2907,10 @@
 [submodule "dired-k"]
 	path = mirror/dired-k
 	url = git@github.com:emacsmirror/dired-k.git
+[submodule "dired-quick-sort"]
+	path = mirror/dired-quick-sort
+	url = git@github.com:emacsmirror/dired-quick-sort.git
+	branch = master
 [submodule "dired-sequence"]
 	path = mirror/dired-sequence
 	url = git@github.com:emacsmirror/dired-sequence.git
@@ -4398,6 +4402,10 @@
 	path = mirror/evil-extra-operator
 	url = git@github.com:emacsmirror/evil-extra-operator.git
 	branch = master
+[submodule "evil-find-char-pinyin"]
+	path = mirror/evil-find-char-pinyin
+	url = git@github.com:emacsmirror/evil-find-char-pinyin.git
+	branch = master
 [submodule "evil-god-state"]
 	path = mirror/evil-god-state
 	url = git@github.com:emacsmirror/evil-god-state.git
@@ -5232,6 +5240,10 @@
 [submodule "flyspell-babel"]
 	path = mirror/flyspell-babel
 	url = git@github.com:emacsmirror/flyspell-babel.git
+[submodule "flyspell-correct"]
+	path = mirror/flyspell-correct
+	url = git@github.com:emacsmirror/flyspell-correct.git
+	branch = master
 [submodule "flyspell-lazy"]
 	path = mirror/flyspell-lazy
 	url = git@github.com:emacsmirror/flyspell-lazy.git
@@ -6664,6 +6676,10 @@
 [submodule "helm-pydoc"]
 	path = mirror/helm-pydoc
 	url = git@github.com:emacsmirror/helm-pydoc.git
+[submodule "helm-qiita"]
+	path = mirror/helm-qiita
+	url = git@github.com:emacsmirror/helm-qiita.git
+	branch = master
 [submodule "helm-rails"]
 	path = mirror/helm-rails
 	url = git@github.com:emacsmirror/helm-rails.git
@@ -8217,6 +8233,10 @@
 [submodule "kroman"]
 	path = mirror/kroman
 	url = git@github.com:emacsmirror/kroman.git
+[submodule "ksp-cfg-mode"]
+	path = mirror/ksp-cfg-mode
+	url = git@github.com:emacsmirror/ksp-cfg-mode.git
+	branch = master
 [submodule "kurecolor"]
 	path = mirror/kurecolor
 	url = git@github.com:emacsmirror/kurecolor.git
@@ -10106,6 +10126,10 @@
 [submodule "ob-mongo"]
 	path = mirror/ob-mongo
 	url = git@github.com:emacsmirror/ob-mongo.git
+[submodule "ob-php"]
+	path = mirror/ob-php
+	url = git@github.com:emacsmirror/ob-php.git
+	branch = master
 [submodule "ob-prolog"]
 	path = mirror/ob-prolog
 	url = git@github.com:emacsmirror/ob-prolog.git
@@ -10123,6 +10147,10 @@
 [submodule "ob-sml"]
 	path = mirror/ob-sml
 	url = git@github.com:emacsmirror/ob-sml.git
+[submodule "ob-swift"]
+	path = mirror/ob-swift
+	url = git@github.com:emacsmirror/ob-swift.git
+	branch = master
 [submodule "ob-translate"]
 	path = mirror/ob-translate
 	url = git@github.com:emacsmirror/ob-translate.git
@@ -10352,6 +10380,10 @@
 [submodule "org-camp"]
 	path = attic/org-camp
 	url = git@github.com:emacsattic/org-camp.git
+[submodule "org-capture-pop-frame"]
+	path = mirror/org-capture-pop-frame
+	url = git@github.com:emacsmirror/org-capture-pop-frame.git
+	branch = master
 [submodule "org-cliplink"]
 	path = mirror/org-cliplink
 	url = git@github.com:emacsmirror/org-cliplink.git
@@ -11296,6 +11328,10 @@
 [submodule "pinyin-search"]
 	path = mirror/pinyin-search
 	url = git@github.com:emacsmirror/pinyin-search.git
+[submodule "pinyinlib"]
+	path = mirror/pinyinlib
+	url = git@github.com:emacsmirror/pinyinlib.git
+	branch = master
 [submodule "pip-requirements"]
 	path = mirror/pip-requirements
 	url = git@github.com:emacsmirror/pip-requirements.git
@@ -11613,6 +11649,10 @@
 [submodule "projectile-direnv"]
 	path = mirror/projectile-direnv
 	url = git@github.com:emacsmirror/projectile-direnv.git
+	branch = master
+[submodule "projectile-hanami"]
+	path = mirror/projectile-hanami
+	url = git@github.com:emacsmirror/projectile-hanami.git
 	branch = master
 [submodule "projectile-rails"]
 	path = mirror/projectile-rails
@@ -11952,6 +11992,10 @@
 [submodule "quickrun"]
 	path = mirror/quickrun
 	url = git@github.com:emacsmirror/quickrun.git
+[submodule "quiet"]
+	path = mirror/quiet
+	url = git@github.com:emacsmirror/quiet.git
+	branch = master
 [submodule "quotes"]
 	path = attic/quotes
 	url = git@github.com:emacsattic/quotes.git
@@ -13669,6 +13713,10 @@
 [submodule "spss"]
 	path = mirror/spss
 	url = git@github.com:emacsmirror/spss.git
+[submodule "spu"]
+	path = mirror/spu
+	url = git@github.com:emacsmirror/spu.git
+	branch = master
 [submodule "sql-complete"]
 	path = attic/sql-complete
 	url = git@github.com:emacsattic/sql-complete.git
@@ -14493,6 +14541,10 @@
 [submodule "timid"]
 	path = mirror/timid
 	url = git@github.com:emacsmirror/timid.git
+[submodule "timp"]
+	path = mirror/timp
+	url = git@github.com:emacsmirror/timp.git
+	branch = master
 [submodule "tinkerer"]
 	path = mirror/tinkerer
 	url = git@github.com:emacsmirror/tinkerer.git
