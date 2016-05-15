@@ -866,6 +866,10 @@
 [submodule "aws"]
 	path = mirror/aws
 	url = git@github.com:emacsmirror/aws.git
+[submodule "aws-ec2"]
+	path = mirror/aws-ec2
+	url = git@github.com:emacsmirror/aws-ec2.git
+	branch = master
 [submodule "axcess"]
 	path = mirror/axcess
 	url = git@github.com:emacsmirror/axcess.git
@@ -3333,6 +3337,10 @@
 [submodule "ebib"]
 	path = mirror/ebib
 	url = git@github.com:emacsmirror/ebib.git
+[submodule "ebib-handy"]
+	path = mirror/ebib-handy
+	url = git@github.com:emacsmirror/ebib-handy.git
+	branch = master
 [submodule "ebm"]
 	path = mirror/ebm
 	url = git@github.com:emacsmirror/ebm.git
@@ -5234,6 +5242,10 @@
 [submodule "flymake-yaml"]
 	path = mirror/flymake-yaml
 	url = git@github.com:emacsmirror/flymake-yaml.git
+[submodule "flymd"]
+	path = mirror/flymd
+	url = git@github.com:emacsmirror/flymd.git
+	branch = master
 [submodule "flyparens"]
 	path = mirror/flyparens
 	url = git@github.com:emacsmirror/flyparens.git
@@ -6652,6 +6664,10 @@
 [submodule "helm-perldoc"]
 	path = mirror/helm-perldoc
 	url = git@github.com:emacsmirror/helm-perldoc.git
+[submodule "helm-phpunit"]
+	path = mirror/helm-phpunit
+	url = git@github.com:emacsmirror/helm-phpunit.git
+	branch = master
 [submodule "helm-proc"]
 	path = mirror/helm-proc
 	url = git@github.com:emacsmirror/helm-proc.git
@@ -9913,6 +9929,10 @@
 [submodule "nlinum"]
 	path = mirror/nlinum
 	url = git@github.com:emacsmirror/nlinum.git
+[submodule "nlinum-relative"]
+	path = mirror/nlinum-relative
+	url = git@github.com:emacsmirror/nlinum-relative.git
+	branch = master
 [submodule "nm"]
 	path = mirror/nm
 	url = git@github.com:emacsmirror/nm.git
@@ -10123,6 +10143,10 @@
 [submodule "ob-markdown"]
 	path = mirror/ob-markdown
 	url = git@github.com:emacsmirror/ob-markdown.git
+[submodule "ob-ml-marklogic"]
+	path = mirror/ob-ml-marklogic
+	url = git@github.com:emacsmirror/ob-ml-marklogic.git
+	branch = master
 [submodule "ob-mongo"]
 	path = mirror/ob-mongo
 	url = git@github.com:emacsmirror/ob-mongo.git
@@ -10383,6 +10407,10 @@
 [submodule "org-capture-pop-frame"]
 	path = mirror/org-capture-pop-frame
 	url = git@github.com:emacsmirror/org-capture-pop-frame.git
+	branch = master
+[submodule "org-chinese-utils"]
+	path = mirror/org-chinese-utils
+	url = git@github.com:emacsmirror/org-chinese-utils.git
 	branch = master
 [submodule "org-cliplink"]
 	path = mirror/org-cliplink
@@ -10794,6 +10822,10 @@
 [submodule "ox-asciidoc"]
 	path = mirror/ox-asciidoc
 	url = git@github.com:emacsmirror/ox-asciidoc.git
+[submodule "ox-bibtex-chinese"]
+	path = mirror/ox-bibtex-chinese
+	url = git@github.com:emacsmirror/ox-bibtex-chinese.git
+	branch = master
 [submodule "ox-html5slide"]
 	path = mirror/ox-html5slide
 	url = git@github.com:emacsmirror/ox-html5slide.git
@@ -10806,6 +10838,10 @@
 [submodule "ox-jira"]
 	path = mirror/ox-jira
 	url = git@github.com:emacsmirror/ox-jira.git
+	branch = master
+[submodule "ox-latex-chinese"]
+	path = mirror/ox-latex-chinese
+	url = git@github.com:emacsmirror/ox-latex-chinese.git
 	branch = master
 [submodule "ox-mediawiki"]
 	path = mirror/ox-mediawiki
@@ -12801,6 +12837,10 @@
 [submodule "sawfish"]
 	path = attic/sawfish
 	url = git@github.com:emacsattic/sawfish.git
+[submodule "say-what-im-doing"]
+	path = mirror/say-what-im-doing
+	url = git@github.com:emacsmirror/say-what-im-doing.git
+	branch = master
 [submodule "sbt"]
 	path = mirror/sbt
 	url = git@github.com:emacsmirror/sbt.git
@@ -13733,6 +13773,10 @@
 [submodule "sql-indent"]
 	path = mirror/sql-indent
 	url = git@github.com:emacsmirror/sql-indent.git
+[submodule "sql-mssql"]
+	path = mirror/sql-mssql
+	url = git@github.com:emacsmirror/sql-mssql.git
+	branch = master
 [submodule "sql-transform"]
 	path = mirror/sql-transform
 	url = git@github.com:emacsmirror/sql-transform.git
@@ -16086,6 +16130,10 @@
 [submodule "yank-whitespace"]
 	path = mirror/yank-whitespace
 	url = git@github.com:emacsmirror/yank-whitespace.git
+[submodule "yankpad"]
+	path = mirror/yankpad
+	url = git@github.com:emacsmirror/yankpad.git
+	branch = master
 [submodule "yaoddmuse"]
 	path = mirror/yaoddmuse
 	url = git@github.com:emacsmirror/yaoddmuse.git
