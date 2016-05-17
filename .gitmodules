@@ -15157,6 +15157,10 @@
 [submodule "vala-snippets"]
 	path = mirror/vala-snippets
 	url = git@github.com:emacsmirror/vala-snippets.git
+[submodule "validate"]
+	path = mirror/validate
+	url = git@github.com:emacsmirror/validate.git
+	branch = master
 [submodule "variant-abbc"]
 	path = mirror/variant-abbc
 	url = git@github.com:emacsmirror/variant-abbc.git
