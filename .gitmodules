@@ -7751,6 +7751,10 @@
 [submodule "ivs-edit"]
 	path = mirror/ivs-edit
 	url = git@github.com:emacsmirror/ivs-edit.git
+[submodule "ivy"]
+	path = mirror/ivy
+	url = git@github.com:emacsmirror/ivy.git
+	branch = master
 [submodule "ix"]
 	path = mirror/ix
 	url = git@github.com:emacsmirror/ix.git
@@ -14075,9 +14079,6 @@
 [submodule "swimmers"]
 	path = mirror/swimmers
 	url = git@github.com:emacsmirror/swimmers.git
-[submodule "swiper"]
-	path = mirror/swiper
-	url = git@github.com:emacsmirror/swiper.git
 [submodule "swiper-helm"]
 	path = mirror/swiper-helm
 	url = git@github.com:emacsmirror/swiper-helm.git
