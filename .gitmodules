@@ -4662,6 +4662,10 @@
 [submodule "fasm-mode"]
 	path = attic/fasm-mode
 	url = git@github.com:emacsattic/fasm-mode.git
+[submodule "fastdef"]
+	path = mirror/fastdef
+	url = git@github.com:emacsmirror/fastdef.git
+	branch = master
 [submodule "fastfuzz"]
 	path = mirror/fastfuzz
 	url = git@github.com:emacsmirror/fastfuzz.git
@@ -6901,6 +6905,10 @@
 [submodule "highlight-numbers"]
 	path = mirror/highlight-numbers
 	url = git@github.com:emacsmirror/highlight-numbers.git
+[submodule "highlight-operators"]
+	path = mirror/highlight-operators
+	url = git@github.com:emacsmirror/highlight-operators.git
+	branch = master
 [submodule "highlight-parentheses"]
 	path = mirror/highlight-parentheses
 	url = git@github.com:emacsmirror/highlight-parentheses.git
@@ -7441,6 +7449,10 @@
 [submodule "immigrant"]
 	path = attic/immigrant
 	url = git@github.com:emacsattic/immigrant.git
+[submodule "immortal-scratch"]
+	path = mirror/immortal-scratch
+	url = git@github.com:emacsmirror/immortal-scratch.git
+	branch = master
 [submodule "immutant-server"]
 	path = mirror/immutant-server
 	url = git@github.com:emacsmirror/immutant-server.git
@@ -7857,6 +7869,10 @@
 [submodule "jaword"]
 	path = mirror/jaword
 	url = git@github.com:emacsmirror/jaword.git
+[submodule "jb-misc-functions"]
+	path = mirror/jb-misc-functions
+	url = git@github.com:emacsmirror/jb-misc-functions.git
+	branch = master
 [submodule "jcl-command-subset"]
 	path = mirror/jcl-command-subset
 	url = git@github.com:emacsmirror/jcl-command-subset.git
