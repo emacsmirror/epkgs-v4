@@ -1221,6 +1221,10 @@
 [submodule "boon"]
 	path = mirror/boon
 	url = git@github.com:emacsmirror/boon.git
+[submodule "borg"]
+	path = mirror/borg
+	url = git@github.com:emacsmirror/borg.git
+	branch = master
 [submodule "boxquote"]
 	path = mirror/boxquote
 	url = git@github.com:emacsmirror/boxquote.git
@@ -13683,6 +13687,10 @@
 [submodule "spamtrap"]
 	path = attic/spamtrap
 	url = git@github.com:emacsattic/spamtrap.git
+[submodule "spark"]
+	path = mirror/spark
+	url = git@github.com:emacsmirror/spark.git
+	branch = master
 [submodule "sparkline"]
 	path = mirror/sparkline
 	url = git@github.com:emacsmirror/sparkline.git
