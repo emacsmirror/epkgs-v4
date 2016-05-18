@@ -12889,9 +12889,6 @@
 	path = mirror/scala-mode
 	url = git@github.com:emacsmirror/scala-mode.git
 	branch = master
-[submodule "scala-outline-popup"]
-	path = mirror/scala-outline-popup
-	url = git@github.com:emacsmirror/scala-outline-popup.git
 [submodule "scamacs"]
 	path = attic/scamacs
 	url = git@github.com:emacsattic/scamacs.git
