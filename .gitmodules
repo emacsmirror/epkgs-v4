@@ -13521,6 +13521,10 @@
 [submodule "smart-window"]
 	path = mirror/smart-window
 	url = git@github.com:emacsmirror/smart-window.git
+[submodule "smart-yank"]
+	path = mirror/smart-yank
+	url = git@github.com:emacsmirror/smart-yank.git
+	branch = master
 [submodule "smartchr"]
 	path = mirror/smartchr
 	url = git@github.com:emacsmirror/smartchr.git
