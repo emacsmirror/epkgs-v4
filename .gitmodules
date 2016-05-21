@@ -7478,6 +7478,7 @@
 [submodule "import-js"]
 	path = mirror/import-js
 	url = git@github.com:emacsmirror/import-js.git
+	branch = master
 [submodule "import-popwin"]
 	path = mirror/import-popwin
 	url = git@github.com:emacsmirror/import-popwin.git
