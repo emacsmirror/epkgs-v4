@@ -383,6 +383,10 @@
 [submodule "annotate"]
 	path = mirror/annotate
 	url = git@github.com:emacsmirror/annotate.git
+[submodule "annotate-depth"]
+	path = mirror/annotate-depth
+	url = git@github.com:emacsmirror/annotate-depth.git
+	branch = master
 [submodule "annoying-arrows-mode"]
 	path = mirror/annoying-arrows-mode
 	url = git@github.com:emacsmirror/annoying-arrows-mode.git
@@ -2608,6 +2612,14 @@
 [submodule "date-field"]
 	path = mirror/date-field
 	url = git@github.com:emacsmirror/date-field.git
+[submodule "datetime"]
+	path = mirror/datetime
+	url = git@github.com:emacsmirror/datetime.git
+	branch = master
+[submodule "datetime-format"]
+	path = mirror/datetime-format
+	url = git@github.com:emacsmirror/datetime-format.git
+	branch = master
 [submodule "datomic-snippets"]
 	path = mirror/datomic-snippets
 	url = git@github.com:emacsmirror/datomic-snippets.git
@@ -9040,6 +9052,10 @@
 [submodule "markchars"]
 	path = mirror/markchars
 	url = git@github.com:emacsmirror/markchars.git
+[submodule "markdown-mac-link"]
+	path = mirror/markdown-mac-link
+	url = git@github.com:emacsmirror/markdown-mac-link.git
+	branch = master
 [submodule "markdown-mode"]
 	path = mirror/markdown-mode
 	url = git@github.com:emacsmirror/markdown-mode.git
@@ -9423,6 +9439,10 @@
 [submodule "modeline-posn"]
 	path = mirror/modeline-posn
 	url = git@github.com:emacsmirror/modeline-posn.git
+[submodule "modern-cpp-font-lock"]
+	path = mirror/modern-cpp-font-lock
+	url = git@github.com:emacsmirror/modern-cpp-font-lock.git
+	branch = master
 [submodule "modtime-skip-mode"]
 	path = mirror/modtime-skip-mode
 	url = git@github.com:emacsmirror/modtime-skip-mode.git
@@ -12512,6 +12532,10 @@
 [submodule "restclient"]
 	path = mirror/restclient
 	url = git@github.com:emacsmirror/restclient.git
+[submodule "restclient-test"]
+	path = mirror/restclient-test
+	url = git@github.com:emacsmirror/restclient-test.git
+	branch = master
 [submodule "restorebuffer"]
 	path = attic/restorebuffer
 	url = git@github.com:emacsattic/restorebuffer.git
