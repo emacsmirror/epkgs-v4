@@ -2287,6 +2287,10 @@
 [submodule "couchdb-document-text"]
 	path = mirror/couchdb-document-text
 	url = git@github.com:emacsmirror/couchdb-document-text.git
+[submodule "counsel-dash"]
+	path = mirror/counsel-dash
+	url = git@github.com:emacsmirror/counsel-dash.git
+	branch = master
 [submodule "counsel-projectile"]
 	path = mirror/counsel-projectile
 	url = git@github.com:emacsmirror/counsel-projectile.git
