@@ -11991,9 +11991,6 @@
 [submodule "python-x"]
 	path = mirror/python-x
 	url = git@github.com:emacsmirror/python-x.git
-[submodule "python3-info"]
-	path = mirror/python3-info
-	url = git@github.com:emacsmirror/python3-info.git
 [submodule "pythonic"]
 	path = mirror/pythonic
 	url = git@github.com:emacsmirror/pythonic.git
