@@ -15767,6 +15767,7 @@
 [submodule "window-number"]
 	path = mirror/window-number
 	url = git@github.com:emacsmirror/window-number.git
+	branch = master
 [submodule "window-numbering"]
 	path = mirror/window-numbering
 	url = git@github.com:emacsmirror/window-numbering.git
