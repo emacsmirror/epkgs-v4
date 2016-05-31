@@ -2353,6 +2353,10 @@
 [submodule "creole-mode"]
 	path = mirror/creole-mode
 	url = git@github.com:emacsmirror/creole-mode.git
+[submodule "cricbuzz"]
+	path = mirror/cricbuzz
+	url = git@github.com:emacsmirror/cricbuzz.git
+	branch = master
 [submodule "cricket"]
 	path = mirror/cricket
 	url = git@github.com:emacsmirror/cricket.git
@@ -6778,6 +6782,10 @@
 [submodule "helm-slime"]
 	path = mirror/helm-slime
 	url = git@github.com:emacsmirror/helm-slime.git
+[submodule "helm-smex"]
+	path = mirror/helm-smex
+	url = git@github.com:emacsmirror/helm-smex.git
+	branch = master
 [submodule "helm-spaces"]
 	path = mirror/helm-spaces
 	url = git@github.com:emacsmirror/helm-spaces.git
@@ -15446,6 +15454,10 @@
 [submodule "vm-multdom"]
 	path = attic/vm-multdom
 	url = git@github.com:emacsattic/vm-multdom.git
+[submodule "vmd-mode"]
+	path = mirror/vmd-mode
+	url = git@github.com:emacsmirror/vmd-mode.git
+	branch = master
 [submodule "vnesting"]
 	path = mirror/vnesting
 	url = git@github.com:emacsmirror/vnesting.git
