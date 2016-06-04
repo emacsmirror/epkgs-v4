@@ -4279,6 +4279,10 @@
 [submodule "eshell-did-you-mean"]
 	path = mirror/eshell-did-you-mean
 	url = git@github.com:emacsmirror/eshell-did-you-mean.git
+[submodule "eshell-fringe-status"]
+	path = mirror/eshell-fringe-status
+	url = git@github.com:emacsmirror/eshell-fringe-status.git
+	branch = master
 [submodule "eshell-git-prompt"]
 	path = mirror/eshell-git-prompt
 	url = git@github.com:emacsmirror/eshell-git-prompt.git
@@ -7660,6 +7664,10 @@
 [submodule "interleave"]
 	path = mirror/interleave
 	url = git@github.com:emacsmirror/interleave.git
+[submodule "intero"]
+	path = mirror/intero
+	url = git@github.com:emacsmirror/intero.git
+	branch = master
 [submodule "interpreter-minor"]
 	path = mirror/interpreter-minor
 	url = git@github.com:emacsmirror/interpreter-minor.git
@@ -11696,6 +11704,10 @@
 [submodule "preseed-generic-mode"]
 	path = mirror/preseed-generic-mode
 	url = git@github.com:emacsmirror/preseed-generic-mode.git
+[submodule "prettify-greek"]
+	path = mirror/prettify-greek
+	url = git@github.com:emacsmirror/prettify-greek.git
+	branch = master
 [submodule "pretty-lambdada"]
 	path = mirror/pretty-lambdada
 	url = git@github.com:emacsmirror/pretty-lambdada.git
@@ -12466,6 +12478,10 @@
 [submodule "regression"]
 	path = mirror/regression
 	url = git@github.com:emacsmirror/regression.git
+[submodule "related"]
+	path = mirror/related
+	url = git@github.com:emacsmirror/related.git
+	branch = master
 [submodule "relative-buffers"]
 	path = mirror/relative-buffers
 	url = git@github.com:emacsmirror/relative-buffers.git
@@ -14487,6 +14503,10 @@
 [submodule "term-cmd"]
 	path = mirror/term-cmd
 	url = git@github.com:emacsmirror/term-cmd.git
+[submodule "term-manager"]
+	path = mirror/term-manager
+	url = git@github.com:emacsmirror/term-manager.git
+	branch = master
 [submodule "term-run"]
 	path = mirror/term-run
 	url = git@github.com:emacsmirror/term-run.git
@@ -14898,6 +14918,10 @@
 [submodule "trindle"]
 	path = mirror/trindle
 	url = git@github.com:emacsmirror/trindle.git
+[submodule "trr"]
+	path = mirror/trr
+	url = git@github.com:emacsmirror/trr.git
+	branch = master
 [submodule "truthy"]
 	path = mirror/truthy
 	url = git@github.com:emacsmirror/truthy.git
