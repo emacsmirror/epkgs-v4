@@ -1196,6 +1196,10 @@
 [submodule "bmi"]
 	path = mirror/bmi
 	url = git@github.com:emacsmirror/bmi.git
+[submodule "bnfc"]
+	path = mirror/bnfc
+	url = git@github.com:emacsmirror/bnfc.git
+	branch = master
 [submodule "bog"]
 	path = mirror/bog
 	url = git@github.com:emacsmirror/bog.git
@@ -1763,6 +1767,10 @@
 [submodule "circe"]
 	path = mirror/circe
 	url = git@github.com:emacsmirror/circe.git
+[submodule "circe-notifications"]
+	path = mirror/circe-notifications
+	url = git@github.com:emacsmirror/circe-notifications.git
+	branch = master
 [submodule "circle"]
 	path = mirror/circle
 	url = git@github.com:emacsmirror/circle.git
@@ -2270,6 +2278,10 @@
 [submodule "copyedit"]
 	path = attic/copyedit
 	url = git@github.com:emacsattic/copyedit.git
+[submodule "copyit"]
+	path = mirror/copyit
+	url = git@github.com:emacsmirror/copyit.git
+	branch = master
 [submodule "copyright-both-ends"]
 	path = mirror/copyright-both-ends
 	url = git@github.com:emacsmirror/copyright-both-ends.git
@@ -5130,6 +5142,10 @@
 [submodule "flycheck-mercury"]
 	path = mirror/flycheck-mercury
 	url = git@github.com:emacsmirror/flycheck-mercury.git
+[submodule "flycheck-mix"]
+	path = mirror/flycheck-mix
+	url = git@github.com:emacsmirror/flycheck-mix.git
+	branch = master
 [submodule "flycheck-mypy"]
 	path = mirror/flycheck-mypy
 	url = git@github.com:emacsmirror/flycheck-mypy.git
@@ -10948,6 +10964,10 @@
 [submodule "ox-pukiwiki"]
 	path = mirror/ox-pukiwiki
 	url = git@github.com:emacsmirror/ox-pukiwiki.git
+[submodule "ox-qmd"]
+	path = mirror/ox-qmd
+	url = git@github.com:emacsmirror/ox-qmd.git
+	branch = master
 [submodule "ox-reveal"]
 	path = mirror/ox-reveal
 	url = git@github.com:emacsmirror/ox-reveal.git
@@ -11035,6 +11055,10 @@
 [submodule "pallet"]
 	path = mirror/pallet
 	url = git@github.com:emacsmirror/pallet.git
+[submodule "pandoc"]
+	path = mirror/pandoc
+	url = git@github.com:emacsmirror/pandoc.git
+	branch = master
 [submodule "pandoc-mode"]
 	path = mirror/pandoc-mode
 	url = git@github.com:emacsmirror/pandoc-mode.git
@@ -13644,6 +13668,10 @@
 [submodule "smarty-mode"]
 	path = mirror/smarty-mode
 	url = git@github.com:emacsmirror/smarty-mode.git
+[submodule "smbc"]
+	path = mirror/smbc
+	url = git@github.com:emacsmirror/smbc.git
+	branch = master
 [submodule "smblog"]
 	path = mirror/smblog
 	url = git@github.com:emacsmirror/smblog.git
