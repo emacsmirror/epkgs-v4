@@ -8343,6 +8343,10 @@
 [submodule "konoha-mode"]
 	path = mirror/konoha-mode
 	url = git@github.com:emacsmirror/konoha-mode.git
+[submodule "kotlin-mode"]
+	path = mirror/kotlin-mode
+	url = git@github.com:emacsmirror/kotlin-mode.git
+	branch = master
 [submodule "kpm-list"]
 	path = mirror/kpm-list
 	url = git@github.com:emacsmirror/kpm-list.git
@@ -9128,6 +9132,10 @@
 [submodule "markdown-toc"]
 	path = mirror/markdown-toc
 	url = git@github.com:emacsmirror/markdown-toc.git
+[submodule "markdownfmt"]
+	path = mirror/markdownfmt
+	url = git@github.com:emacsmirror/markdownfmt.git
+	branch = master
 [submodule "marker-visit"]
 	path = attic/marker-visit
 	url = git@github.com:emacsattic/marker-visit.git
@@ -10065,6 +10073,10 @@
 [submodule "nntodo"]
 	path = mirror/nntodo
 	url = git@github.com:emacsmirror/nntodo.git
+[submodule "no-littering"]
+	path = mirror/no-littering
+	url = git@github.com:emacsmirror/no-littering.git
+	branch = master
 [submodule "no-word"]
 	path = mirror/no-word
 	url = git@github.com:emacsmirror/no-word.git
@@ -14182,6 +14194,10 @@
 [submodule "swadesh-numbers"]
 	path = mirror/swadesh-numbers
 	url = git@github.com:emacsmirror/swadesh-numbers.git
+[submodule "swagger-to-org"]
+	path = mirror/swagger-to-org
+	url = git@github.com:emacsmirror/swagger-to-org.git
+	branch = master
 [submodule "swallow-window"]
 	path = mirror/swallow-window
 	url = git@github.com:emacsmirror/swallow-window.git
