@@ -6176,6 +6176,10 @@
 [submodule "grab-and-drag"]
 	path = mirror/grab-and-drag
 	url = git@github.com:emacsmirror/grab-and-drag.git
+[submodule "grab-mac-link"]
+	path = mirror/grab-mac-link
+	url = git@github.com:emacsmirror/grab-mac-link.git
+	branch = master
 [submodule "grabbox"]
 	path = mirror/grabbox
 	url = git@github.com:emacsmirror/grabbox.git
@@ -9113,10 +9117,6 @@
 [submodule "markchars"]
 	path = mirror/markchars
 	url = git@github.com:emacsmirror/markchars.git
-[submodule "markdown-mac-link"]
-	path = mirror/markdown-mac-link
-	url = git@github.com:emacsmirror/markdown-mac-link.git
-	branch = master
 [submodule "markdown-mode"]
 	path = mirror/markdown-mode
 	url = git@github.com:emacsmirror/markdown-mode.git
