@@ -2242,6 +2242,10 @@
 	path = mirror/composable
 	url = git@github.com:emacsmirror/composable.git
 	branch = master
+[submodule "composer"]
+	path = mirror/composer
+	url = git@github.com:emacsmirror/composer.git
+	branch = master
 [submodule "config-parser"]
 	path = mirror/config-parser
 	url = git@github.com:emacsmirror/config-parser.git
@@ -4634,6 +4638,10 @@
 [submodule "evil-visual-mark-mode"]
 	path = mirror/evil-visual-mark-mode
 	url = git@github.com:emacsmirror/evil-visual-mark-mode.git
+[submodule "evil-visual-replace"]
+	path = mirror/evil-visual-replace
+	url = git@github.com:emacsmirror/evil-visual-replace.git
+	branch = master
 [submodule "evil-visualstar"]
 	path = mirror/evil-visualstar
 	url = git@github.com:emacsmirror/evil-visualstar.git
@@ -6638,6 +6646,10 @@
 [submodule "helm-dictionary"]
 	path = mirror/helm-dictionary
 	url = git@github.com:emacsmirror/helm-dictionary.git
+[submodule "helm-dired-history"]
+	path = mirror/helm-dired-history
+	url = git@github.com:emacsmirror/helm-dired-history.git
+	branch = master
 [submodule "helm-dired-recent-dirs"]
 	path = mirror/helm-dired-recent-dirs
 	url = git@github.com:emacsmirror/helm-dired-recent-dirs.git
@@ -7957,6 +7969,10 @@
 [submodule "jack-connect"]
 	path = mirror/jack-connect
 	url = git@github.com:emacsmirror/jack-connect.git
+[submodule "jade"]
+	path = mirror/jade
+	url = git@github.com:emacsmirror/jade.git
+	branch = master
 [submodule "jade-mode"]
 	path = mirror/jade-mode
 	url = git@github.com:emacsmirror/jade-mode.git
@@ -10679,6 +10695,10 @@
 [submodule "org-clock-convenience"]
 	path = mirror/org-clock-convenience
 	url = git@github.com:emacsmirror/org-clock-convenience.git
+[submodule "org-commentary"]
+	path = mirror/org-commentary
+	url = git@github.com:emacsmirror/org-commentary.git
+	branch = master
 [submodule "org-context"]
 	path = mirror/org-context
 	url = git@github.com:emacsmirror/org-context.git
@@ -10728,6 +10748,7 @@
 [submodule "org-eww"]
 	path = mirror/org-eww
 	url = git@github.com:emacsmirror/org-eww.git
+	branch = master
 [submodule "org-extension"]
 	path = mirror/org-extension
 	url = git@github.com:emacsmirror/org-extension.git
