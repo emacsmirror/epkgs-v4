@@ -5297,6 +5297,7 @@
 [submodule "flymake-cursor"]
 	path = mirror/flymake-cursor
 	url = git@github.com:emacsmirror/flymake-cursor.git
+	branch = master
 [submodule "flymake-easy"]
 	path = mirror/flymake-easy
 	url = git@github.com:emacsmirror/flymake-easy.git
