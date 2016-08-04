@@ -10745,10 +10745,6 @@
 [submodule "org-email"]
 	path = mirror/org-email
 	url = git@github.com:emacsmirror/org-email.git
-[submodule "org-eww"]
-	path = mirror/org-eww
-	url = git@github.com:emacsmirror/org-eww.git
-	branch = master
 [submodule "org-extension"]
 	path = mirror/org-extension
 	url = git@github.com:emacsmirror/org-extension.git
