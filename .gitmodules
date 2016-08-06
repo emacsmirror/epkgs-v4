@@ -13702,6 +13702,7 @@
 [submodule "sl"]
 	path = mirror/sl
 	url = git@github.com:emacsmirror/sl.git
+	branch = master
 [submodule "slack"]
 	path = mirror/slack
 	url = git@github.com:emacsmirror/slack.git
