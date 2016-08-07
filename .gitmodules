@@ -2103,6 +2103,10 @@
 [submodule "common-lisp-snippets"]
 	path = mirror/common-lisp-snippets
 	url = git@github.com:emacsmirror/common-lisp-snippets.git
+[submodule "compact-docstrings"]
+	path = mirror/compact-docstrings
+	url = git@github.com:emacsmirror/compact-docstrings.git
+	branch = master
 [submodule "company"]
 	path = mirror/company
 	url = git@github.com:emacsmirror/company.git
@@ -2582,6 +2586,10 @@
 [submodule "cycle-mini"]
 	path = attic/cycle-mini
 	url = git@github.com:emacsattic/cycle-mini.git
+[submodule "cycle-quotes"]
+	path = mirror/cycle-quotes
+	url = git@github.com:emacsmirror/cycle-quotes.git
+	branch = master
 [submodule "cycle-resize"]
 	path = mirror/cycle-resize
 	url = git@github.com:emacsmirror/cycle-resize.git
@@ -9982,6 +9990,10 @@
 [submodule "mybuffers"]
 	path = mirror/mybuffers
 	url = git@github.com:emacsmirror/mybuffers.git
+[submodule "myers"]
+	path = mirror/myers
+	url = git@github.com:emacsmirror/myers.git
+	branch = master
 [submodule "mykie"]
 	path = mirror/mykie
 	url = git@github.com:emacsmirror/mykie.git
