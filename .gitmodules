@@ -2794,6 +2794,7 @@
 [submodule "delight"]
 	path = mirror/delight
 	url = git@github.com:emacsmirror/delight.git
+	branch = master
 [submodule "delim-kill"]
 	path = mirror/delim-kill
 	url = git@github.com:emacsmirror/delim-kill.git
@@ -7355,8 +7356,9 @@
 	path = attic/hyper-compile
 	url = git@github.com:emacsattic/hyper-compile.git
 [submodule "hyperbole"]
-	path = attic/hyperbole
-	url = git@github.com:emacsattic/hyperbole.git
+	path = mirror/hyperbole
+	url = git@github.com:emacsmirror/hyperbole.git
+	branch = master
 [submodule "hyphenate"]
 	path = mirror/hyphenate
 	url = git@github.com:emacsmirror/hyphenate.git
