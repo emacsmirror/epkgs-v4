@@ -1161,6 +1161,10 @@
 [submodule "bitly"]
 	path = mirror/bitly
 	url = git@github.com:emacsmirror/bitly.git
+[submodule "blackboard-bold-mode"]
+	path = mirror/blackboard-bold-mode
+	url = git@github.com:emacsmirror/blackboard-bold-mode.git
+	branch = master
 [submodule "blackbook"]
 	path = mirror/blackbook
 	url = git@github.com:emacsmirror/blackbook.git
@@ -2520,6 +2524,10 @@
 [submodule "cua-lite-bootstrap"]
 	path = mirror/cua-lite-bootstrap
 	url = git@github.com:emacsmirror/cua-lite-bootstrap.git
+[submodule "cubicaltt"]
+	path = mirror/cubicaltt
+	url = git@github.com:emacsmirror/cubicaltt.git
+	branch = master
 [submodule "cucumber-goto-step"]
 	path = mirror/cucumber-goto-step
 	url = git@github.com:emacsmirror/cucumber-goto-step.git
@@ -2850,6 +2858,10 @@
 [submodule "df-mode"]
 	path = mirror/df-mode
 	url = git@github.com:emacsmirror/df-mode.git
+[submodule "dfmt"]
+	path = mirror/dfmt
+	url = git@github.com:emacsmirror/dfmt.git
+	branch = master
 [submodule "dgpg"]
 	path = mirror/dgpg
 	url = git@github.com:emacsmirror/dgpg.git
@@ -3059,6 +3071,10 @@
 [submodule "disaster"]
 	path = mirror/disaster
 	url = git@github.com:emacsmirror/disaster.git
+[submodule "discourse"]
+	path = mirror/discourse
+	url = git@github.com:emacsmirror/discourse.git
+	branch = master
 [submodule "discover"]
 	path = mirror/discover
 	url = git@github.com:emacsmirror/discover.git
@@ -6510,6 +6526,10 @@
 [submodule "haskell-tab-indent"]
 	path = mirror/haskell-tab-indent
 	url = git@github.com:emacsmirror/haskell-tab-indent.git
+[submodule "hasky-extensions"]
+	path = mirror/hasky-extensions
+	url = git@github.com:emacsmirror/hasky-extensions.git
+	branch = master
 [submodule "haste"]
 	path = mirror/haste
 	url = git@github.com:emacsmirror/haste.git
@@ -6891,6 +6911,10 @@
 [submodule "helm-robe"]
 	path = mirror/helm-robe
 	url = git@github.com:emacsmirror/helm-robe.git
+[submodule "helm-ros"]
+	path = mirror/helm-ros
+	url = git@github.com:emacsmirror/helm-ros.git
+	branch = master
 [submodule "helm-rubygems-local"]
 	path = mirror/helm-rubygems-local
 	url = git@github.com:emacsmirror/helm-rubygems-local.git
@@ -7698,6 +7722,10 @@
 [submodule "inferior-pop-mode"]
 	path = mirror/inferior-pop-mode
 	url = git@github.com:emacsmirror/inferior-pop-mode.git
+[submodule "inferior-spim"]
+	path = mirror/inferior-spim
+	url = git@github.com:emacsmirror/inferior-spim.git
+	branch = master
 [submodule "infix"]
 	path = mirror/infix
 	url = git@github.com:emacsmirror/infix.git
@@ -10005,6 +10033,10 @@
 [submodule "mysql"]
 	path = mirror/mysql
 	url = git@github.com:emacsmirror/mysql.git
+[submodule "mysql-to-org"]
+	path = mirror/mysql-to-org
+	url = git@github.com:emacsmirror/mysql-to-org.git
+	branch = master
 [submodule "mysql2sqlite"]
 	path = mirror/mysql2sqlite
 	url = git@github.com:emacsmirror/mysql2sqlite.git
