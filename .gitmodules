@@ -16372,6 +16372,10 @@
 [submodule "wwtime"]
 	path = mirror/wwtime
 	url = git@github.com:emacsmirror/wwtime.git
+[submodule "www-synonyms"]
+	path = mirror/www-synonyms
+	url = git@github.com:emacsmirror/www-synonyms.git
+	branch = master
 [submodule "x-dict"]
 	path = mirror/x-dict
 	url = git@github.com:emacsmirror/x-dict.git
