@@ -8126,8 +8126,8 @@
 	path = mirror/jde-maven
 	url = git@github.com:emacsmirror/jde-maven.git
 [submodule "jde-mvn"]
-	path = mirror/jde-mvn
-	url = git@github.com:emacsmirror/jde-mvn.git
+	path = attic/jde-mvn
+	url = git@github.com:emacsattic/jde-mvn.git
 [submodule "jde-refactor"]
 	path = attic/jde-refactor
 	url = git@github.com:emacsattic/jde-refactor.git
