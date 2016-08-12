@@ -1779,6 +1779,10 @@
 [submodule "cider-spy"]
 	path = mirror/cider-spy
 	url = git@github.com:emacsmirror/cider-spy.git
+[submodule "ciel"]
+	path = mirror/ciel
+	url = git@github.com:emacsmirror/ciel.git
+	branch = master
 [submodule "cif"]
 	path = mirror/cif
 	url = git@github.com:emacsmirror/cif.git
@@ -2325,6 +2329,10 @@
 [submodule "copyright-both-ends"]
 	path = mirror/copyright-both-ends
 	url = git@github.com:emacsmirror/copyright-both-ends.git
+[submodule "coq-commenter"]
+	path = mirror/coq-commenter
+	url = git@github.com:emacsmirror/coq-commenter.git
+	branch = master
 [submodule "corba"]
 	path = mirror/corba
 	url = git@github.com:emacsmirror/corba.git
@@ -2991,6 +2999,10 @@
 [submodule "dired-efap"]
 	path = mirror/dired-efap
 	url = git@github.com:emacsmirror/dired-efap.git
+[submodule "dired-explorer"]
+	path = mirror/dired-explorer
+	url = git@github.com:emacsmirror/dired-explorer.git
+	branch = master
 [submodule "dired-extension"]
 	path = mirror/dired-extension
 	url = git@github.com:emacsmirror/dired-extension.git
@@ -10146,6 +10158,10 @@
 [submodule "ne2wm"]
 	path = mirror/ne2wm
 	url = git@github.com:emacsmirror/ne2wm.git
+[submodule "neon-mode"]
+	path = mirror/neon-mode
+	url = git@github.com:emacsmirror/neon-mode.git
+	branch = master
 [submodule "neophyte"]
 	path = attic/neophyte
 	url = git@github.com:emacsattic/neophyte.git
@@ -10429,6 +10445,10 @@
 [submodule "ob-cypher"]
 	path = mirror/ob-cypher
 	url = git@github.com:emacsmirror/ob-cypher.git
+[submodule "ob-dart"]
+	path = mirror/ob-dart
+	url = git@github.com:emacsmirror/ob-dart.git
+	branch = master
 [submodule "ob-diagrams"]
 	path = mirror/ob-diagrams
 	url = git@github.com:emacsmirror/ob-diagrams.git
@@ -11225,6 +11245,10 @@
 [submodule "package+"]
 	path = mirror/package+
 	url = git@github.com:emacsmirror/package-plus.git
+[submodule "package-build"]
+	path = mirror/package-build
+	url = git@github.com:emacsmirror/package-build.git
+	branch = master
 [submodule "package-safe-delete"]
 	path = mirror/package-safe-delete
 	url = git@github.com:emacsmirror/package-safe-delete.git
@@ -11825,6 +11849,10 @@
 [submodule "policy-switch"]
 	path = mirror/policy-switch
 	url = git@github.com:emacsmirror/policy-switch.git
+[submodule "pollen-mode"]
+	path = mirror/pollen-mode
+	url = git@github.com:emacsmirror/pollen-mode.git
+	branch = master
 [submodule "polymode"]
 	path = mirror/polymode
 	url = git@github.com:emacsmirror/polymode.git
@@ -12362,6 +12390,14 @@
 [submodule "quarter-plane"]
 	path = mirror/quarter-plane
 	url = git@github.com:emacsmirror/quarter-plane.git
+[submodule "quelpa"]
+	path = mirror/quelpa
+	url = git@github.com:emacsmirror/quelpa.git
+	branch = master
+[submodule "quelpa-use-package"]
+	path = mirror/quelpa-use-package
+	url = git@github.com:emacsmirror/quelpa-use-package.git
+	branch = master
 [submodule "querer"]
 	path = attic/querer
 	url = git@github.com:emacsattic/querer.git
