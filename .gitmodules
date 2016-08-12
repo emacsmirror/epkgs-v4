@@ -3278,9 +3278,6 @@
 [submodule "dpaste_de"]
 	path = mirror/dpaste_de
 	url = git@github.com:emacsmirror/dpaste_de.git
-[submodule "dpastede"]
-	path = mirror/dpastede
-	url = git@github.com:emacsmirror/dpastede.git
 [submodule "dracula-mode"]
 	path = attic/dracula-mode
 	url = git@github.com:emacsattic/dracula-mode.git
