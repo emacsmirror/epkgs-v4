@@ -5060,6 +5060,7 @@
 [submodule "findwalker"]
 	path = mirror/findwalker
 	url = git@github.com:emacsmirror/findwalker.git
+	branch = master
 [submodule "fingers"]
 	path = mirror/fingers
 	url = git@github.com:emacsmirror/fingers.git
