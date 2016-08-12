@@ -4685,6 +4685,7 @@
 [submodule "evimodeline"]
 	path = mirror/evimodeline
 	url = git@github.com:emacsmirror/evimodeline.git
+	branch = master
 [submodule "evm"]
 	path = mirror/evm
 	url = git@github.com:emacsmirror/evm.git
