@@ -15773,8 +15773,8 @@
 	path = mirror/vim-empty-lines-mode
 	url = git@github.com:emacsmirror/vim-empty-lines-mode.git
 [submodule "vim-mode"]
-	path = mirror/vim-mode
-	url = git@github.com:emacsmirror/vim-mode.git
+	path = attic/vim-mode
+	url = git@github.com:emacsattic/vim-mode.git
 [submodule "vim-modeline"]
 	path = mirror/vim-modeline
 	url = git@github.com:emacsmirror/vim-modeline.git
