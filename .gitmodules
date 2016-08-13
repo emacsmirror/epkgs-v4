@@ -4657,6 +4657,10 @@
 [submodule "evil-terminal-cursor-changer"]
 	path = mirror/evil-terminal-cursor-changer
 	url = git@github.com:emacsmirror/evil-terminal-cursor-changer.git
+[submodule "evil-text-object-python"]
+	path = mirror/evil-text-object-python
+	url = git@github.com:emacsmirror/evil-text-object-python.git
+	branch = master
 [submodule "evil-textobj-anyblock"]
 	path = mirror/evil-textobj-anyblock
 	url = git@github.com:emacsmirror/evil-textobj-anyblock.git
@@ -8655,6 +8659,10 @@
 [submodule "ldraw-mode"]
 	path = attic/ldraw-mode
 	url = git@github.com:emacsattic/ldraw-mode.git
+[submodule "leanote"]
+	path = mirror/leanote
+	url = git@github.com:emacsmirror/leanote.git
+	branch = master
 [submodule "lectionary"]
 	path = attic/lectionary
 	url = git@github.com:emacsattic/lectionary.git
@@ -12601,6 +12609,10 @@
 [submodule "read-all-emacs-help"]
 	path = mirror/read-all-emacs-help
 	url = git@github.com:emacsmirror/read-all-emacs-help.git
+[submodule "read-aloud"]
+	path = mirror/read-aloud
+	url = git@github.com:emacsmirror/read-aloud.git
+	branch = master
 [submodule "read-char-spec"]
 	path = mirror/read-char-spec
 	url = git@github.com:emacsmirror/read-char-spec.git
@@ -12909,6 +12921,10 @@
 [submodule "revealjs-mode"]
 	path = mirror/revealjs-mode
 	url = git@github.com:emacsmirror/revealjs-mode.git
+[submodule "reverse-im"]
+	path = mirror/reverse-im
+	url = git@github.com:emacsmirror/reverse-im.git
+	branch = master
 [submodule "review"]
 	path = mirror/review
 	url = git@github.com:emacsmirror/review.git
