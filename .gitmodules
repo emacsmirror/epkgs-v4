@@ -7346,6 +7346,7 @@
 [submodule "htmlize"]
 	path = mirror/htmlize
 	url = git@github.com:emacsmirror/htmlize.git
+	branch = master
 [submodule "htmlr"]
 	path = mirror/htmlr
 	url = git@github.com:emacsmirror/htmlr.git
