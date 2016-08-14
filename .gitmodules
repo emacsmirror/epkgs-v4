@@ -6551,6 +6551,10 @@
 [submodule "hatena-tools"]
 	path = attic/hatena-tools
 	url = git@github.com:emacsattic/hatena-tools.git
+[submodule "haxe-imports"]
+	path = mirror/haxe-imports
+	url = git@github.com:emacsmirror/haxe-imports.git
+	branch = master
 [submodule "haxe-mode"]
 	path = mirror/haxe-mode
 	url = git@github.com:emacsmirror/haxe-mode.git
@@ -7775,6 +7779,10 @@
 [submodule "initsplit"]
 	path = mirror/initsplit
 	url = git@github.com:emacsmirror/initsplit.git
+[submodule "ink-mode"]
+	path = mirror/ink-mode
+	url = git@github.com:emacsmirror/ink-mode.git
+	branch = master
 [submodule "inkmacs"]
 	path = attic/inkmacs
 	url = git@github.com:emacsattic/inkmacs.git
@@ -13206,6 +13214,10 @@
 [submodule "sage-shell-mode"]
 	path = mirror/sage-shell-mode
 	url = git@github.com:emacsmirror/sage-shell-mode.git
+[submodule "salesforce-utils"]
+	path = mirror/salesforce-utils
+	url = git@github.com:emacsmirror/salesforce-utils.git
+	branch = master
 [submodule "salt-mode"]
 	path = mirror/salt-mode
 	url = git@github.com:emacsmirror/salt-mode.git
