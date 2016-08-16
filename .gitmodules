@@ -3120,6 +3120,10 @@
 [submodule "distel"]
 	path = mirror/distel
 	url = git@github.com:emacsmirror/distel.git
+[submodule "distel-completion-lib"]
+	path = mirror/distel-completion-lib
+	url = git@github.com:emacsmirror/distel-completion-lib.git
+	branch = master
 [submodule "ditz"]
 	path = mirror/ditz
 	url = git@github.com:emacsmirror/ditz.git
@@ -12775,6 +12779,10 @@
 [submodule "redpen-paragraph"]
 	path = mirror/redpen-paragraph
 	url = git@github.com:emacsmirror/redpen-paragraph.git
+[submodule "redprl"]
+	path = mirror/redprl
+	url = git@github.com:emacsmirror/redprl.git
+	branch = master
 [submodule "redshank"]
 	path = mirror/redshank
 	url = git@github.com:emacsmirror/redshank.git
