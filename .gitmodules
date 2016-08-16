@@ -5255,6 +5255,10 @@
 [submodule "flycheck-ledger"]
 	path = mirror/flycheck-ledger
 	url = git@github.com:emacsmirror/flycheck-ledger.git
+[submodule "flycheck-liquidhs"]
+	path = mirror/flycheck-liquidhs
+	url = git@github.com:emacsmirror/flycheck-liquidhs.git
+	branch = master
 [submodule "flycheck-mercury"]
 	path = mirror/flycheck-mercury
 	url = git@github.com:emacsmirror/flycheck-mercury.git
@@ -5548,6 +5552,10 @@
 [submodule "fracc"]
 	path = attic/fracc
 	url = git@github.com:emacsattic/fracc.git
+[submodule "fraktur-mode"]
+	path = mirror/fraktur-mode
+	url = git@github.com:emacsmirror/fraktur-mode.git
+	branch = master
 [submodule "frame+"]
 	path = mirror/frame+
 	url = git@github.com:emacsmirror/frame-plus.git
@@ -6880,6 +6888,10 @@
 [submodule "helm-pages"]
 	path = mirror/helm-pages
 	url = git@github.com:emacsmirror/helm-pages.git
+[submodule "helm-pass"]
+	path = mirror/helm-pass
+	url = git@github.com:emacsmirror/helm-pass.git
+	branch = master
 [submodule "helm-perldoc"]
 	path = mirror/helm-perldoc
 	url = git@github.com:emacsmirror/helm-perldoc.git
@@ -8241,6 +8253,10 @@
 [submodule "jpl-reformat"]
 	path = mirror/jpl-reformat
 	url = git@github.com:emacsmirror/jpl-reformat.git
+[submodule "jpop"]
+	path = mirror/jpop
+	url = git@github.com:emacsmirror/jpop.git
+	branch = master
 [submodule "jq-mode"]
 	path = mirror/jq-mode
 	url = git@github.com:emacsmirror/jq-mode.git
@@ -8650,6 +8666,10 @@
 [submodule "lbdb"]
 	path = mirror/lbdb
 	url = git@github.com:emacsmirror/lbdb.git
+[submodule "lcb-mode"]
+	path = mirror/lcb-mode
+	url = git@github.com:emacsmirror/lcb-mode.git
+	branch = master
 [submodule "lcomp"]
 	path = mirror/lcomp
 	url = git@github.com:emacsmirror/lcomp.git
@@ -8813,6 +8833,10 @@
 [submodule "linuxproc"]
 	path = mirror/linuxproc
 	url = git@github.com:emacsmirror/linuxproc.git
+[submodule "liquid-types"]
+	path = mirror/liquid-types
+	url = git@github.com:emacsmirror/liquid-types.git
+	branch = master
 [submodule "lisp-editing"]
 	path = mirror/lisp-editing
 	url = git@github.com:emacsmirror/lisp-editing.git
@@ -10498,6 +10522,10 @@
 [submodule "ob-mongo"]
 	path = mirror/ob-mongo
 	url = git@github.com:emacsmirror/ob-mongo.git
+[submodule "ob-nim"]
+	path = mirror/ob-nim
+	url = git@github.com:emacsmirror/ob-nim.git
+	branch = master
 [submodule "ob-php"]
 	path = mirror/ob-php
 	url = git@github.com:emacsmirror/ob-php.git
@@ -13382,6 +13410,10 @@
 [submodule "screenshot"]
 	path = mirror/screenshot
 	url = git@github.com:emacsmirror/screenshot.git
+[submodule "scribble-mode"]
+	path = mirror/scribble-mode
+	url = git@github.com:emacsmirror/scribble-mode.git
+	branch = master
 [submodule "scriptify"]
 	path = mirror/scriptify
 	url = git@github.com:emacsmirror/scriptify.git
@@ -13890,6 +13922,10 @@
 [submodule "sm-c-mode"]
 	path = mirror/sm-c-mode
 	url = git@github.com:emacsmirror/sm-c-mode.git
+[submodule "smali-mode"]
+	path = mirror/smali-mode
+	url = git@github.com:emacsmirror/smali-mode.git
+	branch = master
 [submodule "smallurl"]
 	path = mirror/smallurl
 	url = git@github.com:emacsmirror/smallurl.git
