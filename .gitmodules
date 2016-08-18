@@ -4499,6 +4499,7 @@
 [submodule "eval-expr"]
 	path = mirror/eval-expr
 	url = git@github.com:emacsmirror/eval-expr.git
+	branch = master
 [submodule "eval-in-repl"]
 	path = mirror/eval-in-repl
 	url = git@github.com:emacsmirror/eval-in-repl.git
@@ -14207,8 +14208,9 @@
 	path = mirror/sphinx-frontend
 	url = git@github.com:emacsmirror/sphinx-frontend.git
 [submodule "spice-mode"]
-	path = attic/spice-mode
-	url = git@github.com:emacsattic/spice-mode.git
+	path = mirror/spice-mode
+	url = git@github.com:emacsmirror/spice-mode.git
+	branch = master
 [submodule "spinasm-mode"]
 	path = mirror/spinasm-mode
 	url = git@github.com:emacsmirror/spinasm-mode.git
