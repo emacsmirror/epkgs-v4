@@ -2951,6 +2951,10 @@
 [submodule "digistar-mode"]
 	path = mirror/digistar-mode
 	url = git@github.com:emacsmirror/digistar-mode.git
+[submodule "digit-groups"]
+	path = mirror/digit-groups
+	url = git@github.com:emacsmirror/digit-groups.git
+	branch = master
 [submodule "dim"]
 	path = mirror/dim
 	url = git@github.com:emacsmirror/dim.git
@@ -10555,6 +10559,10 @@
 [submodule "ob-sml"]
 	path = mirror/ob-sml
 	url = git@github.com:emacsmirror/ob-sml.git
+[submodule "ob-spice"]
+	path = mirror/ob-spice
+	url = git@github.com:emacsmirror/ob-spice.git
+	branch = master
 [submodule "ob-swift"]
 	path = mirror/ob-swift
 	url = git@github.com:emacsmirror/ob-swift.git
