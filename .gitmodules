@@ -4405,6 +4405,10 @@
 [submodule "eshell-z"]
 	path = mirror/eshell-z
 	url = git@github.com:emacsmirror/eshell-z.git
+[submodule "eslint-fix"]
+	path = mirror/eslint-fix
+	url = git@github.com:emacsmirror/eslint-fix.git
+	branch = master
 [submodule "esms"]
 	path = attic/esms
 	url = git@github.com:emacsattic/esms.git
@@ -5158,6 +5162,10 @@
 [submodule "flex-isearch"]
 	path = mirror/flex-isearch
 	url = git@github.com:emacsmirror/flex-isearch.git
+[submodule "flimenu"]
+	path = mirror/flimenu
+	url = git@github.com:emacsmirror/flimenu.git
+	branch = master
 [submodule "flip-tables"]
 	path = mirror/flip-tables
 	url = git@github.com:emacsmirror/flip-tables.git
@@ -16503,6 +16511,10 @@
 [submodule "x-migrant"]
 	path = mirror/x-migrant
 	url = git@github.com:emacsmirror/x-migrant.git
+[submodule "x-path-walker"]
+	path = mirror/x-path-walker
+	url = git@github.com:emacsmirror/x-path-walker.git
+	branch = master
 [submodule "x-symbol"]
 	path = attic/x-symbol
 	url = git@github.com:emacsattic/x-symbol.git
@@ -16758,6 +16770,10 @@
 [submodule "yapfify"]
 	path = mirror/yapfify
 	url = git@github.com:emacsmirror/yapfify.git
+	branch = master
+[submodule "yara-mode"]
+	path = mirror/yara-mode
+	url = git@github.com:emacsmirror/yara-mode.git
 	branch = master
 [submodule "yard-mode"]
 	path = mirror/yard-mode
