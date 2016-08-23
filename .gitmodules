@@ -1166,8 +1166,8 @@
 	url = git@github.com:emacsmirror/blackboard-bold-mode.git
 	branch = master
 [submodule "blackbook"]
-	path = mirror/blackbook
-	url = git@github.com:emacsmirror/blackbook.git
+	path = attic/blackbook
+	url = git@github.com:emacsattic/blackbook.git
 [submodule "blank-mode"]
 	path = mirror/blank-mode
 	url = git@github.com:emacsmirror/blank-mode.git
@@ -9415,7 +9415,7 @@
 	url = git@github.com:emacsattic/matlab-publish.git
 [submodule "matrix-client"]
 	path = mirror/matrix-client
-	url = git@github.com:emacsmirror/matrix-client.git
+	url = http://fort.kickass.systems/git/rrix/matrix-client.git
 [submodule "maude-mode"]
 	path = mirror/maude-mode
 	url = git@github.com:emacsmirror/maude-mode.git
@@ -13261,8 +13261,8 @@
 	path = attic/sa-learn-invoke
 	url = git@github.com:emacsattic/sa-learn-invoke.git
 [submodule "saaxy"]
-	path = mirror/saaxy
-	url = git@github.com:emacsmirror/saaxy.git
+	path = attic/saaxy
+	url = git@github.com:emacsattic/saaxy.git
 [submodule "sackspace"]
 	path = mirror/sackspace
 	url = git@github.com:emacsmirror/sackspace.git
@@ -14325,8 +14325,8 @@
 	path = mirror/sqlplus
 	url = git@github.com:emacsmirror/sqlplus.git
 [submodule "sqlplus-html"]
-	path = mirror/sqlplus-html
-	url = git@github.com:emacsmirror/sqlplus-html.git
+	path = attic/sqlplus-html
+	url = git@github.com:emacsattic/sqlplus-html.git
 [submodule "sqlplus-mode"]
 	path = attic/sqlplus-mode
 	url = git@github.com:emacsattic/sqlplus-mode.git
@@ -16443,8 +16443,8 @@
 	path = mirror/worklog
 	url = git@github.com:emacsmirror/worklog.git
 [submodule "worktracker"]
-	path = mirror/worktracker
-	url = git@github.com:emacsmirror/worktracker.git
+	path = attic/worktracker
+	url = git@github.com:emacsattic/worktracker.git
 [submodule "world-time-mode"]
 	path = mirror/world-time-mode
 	url = git@github.com:emacsmirror/world-time-mode.git
