@@ -5120,6 +5120,10 @@
 [submodule "fix-input"]
 	path = mirror/fix-input
 	url = git@github.com:emacsmirror/fix-input.git
+[submodule "fix-muscle-memory"]
+	path = mirror/fix-muscle-memory
+	url = git@github.com:emacsmirror/fix-muscle-memory.git
+	branch = master
 [submodule "fix-word"]
 	path = mirror/fix-word
 	url = git@github.com:emacsmirror/fix-word.git
@@ -7276,6 +7280,10 @@
 [submodule "hobo"]
 	path = mirror/hobo
 	url = git@github.com:emacsmirror/hobo.git
+[submodule "holiday-pascha-etc"]
+	path = mirror/holiday-pascha-etc
+	url = git@github.com:emacsmirror/holiday-pascha-etc.git
+	branch = master
 [submodule "homebrew-mode"]
 	path = mirror/homebrew-mode
 	url = git@github.com:emacsmirror/homebrew-mode.git
