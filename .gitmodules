@@ -1073,6 +1073,10 @@
 [submodule "better-defaults"]
 	path = mirror/better-defaults
 	url = git@github.com:emacsmirror/better-defaults.git
+[submodule "better-jump"]
+	path = mirror/better-jump
+	url = git@github.com:emacsmirror/better-jump.git
+	branch = master
 [submodule "better-registers"]
 	path = mirror/better-registers
 	url = git@github.com:emacsmirror/better-registers.git
