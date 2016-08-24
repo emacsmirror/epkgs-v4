@@ -14600,6 +14600,10 @@
 [submodule "swarmhacker"]
 	path = mirror/swarmhacker
 	url = git@github.com:emacsmirror/swarmhacker.git
+[submodule "swbuff"]
+	path = mirror/swbuff
+	url = git@github.com:emacsmirror/swbuff.git
+	branch = master
 [submodule "swbuff-advice"]
 	path = mirror/swbuff-advice
 	url = git@github.com:emacsmirror/swbuff-advice.git
