@@ -6522,6 +6522,10 @@
 [submodule "hamapo"]
 	path = attic/hamapo
 	url = git@github.com:emacsattic/hamapo.git
+[submodule "hamburger-menu"]
+	path = mirror/hamburger-menu
+	url = git@github.com:emacsmirror/hamburger-menu.git
+	branch = master
 [submodule "haml-mode"]
 	path = mirror/haml-mode
 	url = git@github.com:emacsmirror/haml-mode.git
