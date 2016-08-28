@@ -1080,6 +1080,10 @@
 [submodule "better-registers"]
 	path = mirror/better-registers
 	url = git@github.com:emacsmirror/better-registers.git
+[submodule "better-shell"]
+	path = mirror/better-shell
+	url = git@github.com:emacsmirror/better-shell.git
+	branch = master
 [submodule "bf"]
 	path = mirror/bf
 	url = git@github.com:emacsmirror/bf.git
@@ -1506,6 +1510,10 @@
 [submodule "calendar+"]
 	path = mirror/calendar+
 	url = git@github.com:emacsmirror/calendar-plus.git
+[submodule "calendar-norway"]
+	path = mirror/calendar-norway
+	url = git@github.com:emacsmirror/calendar-norway.git
+	branch = master
 [submodule "calfw"]
 	path = mirror/calfw
 	url = git@github.com:emacsmirror/calfw.git
@@ -4668,6 +4676,10 @@
 [submodule "evil-surround"]
 	path = mirror/evil-surround
 	url = git@github.com:emacsmirror/evil-surround.git
+[submodule "evil-swap-keys"]
+	path = mirror/evil-swap-keys
+	url = git@github.com:emacsmirror/evil-swap-keys.git
+	branch = master
 [submodule "evil-tabs"]
 	path = mirror/evil-tabs
 	url = git@github.com:emacsmirror/evil-tabs.git
@@ -6500,6 +6512,10 @@
 [submodule "h4x0r"]
 	path = attic/h4x0r
 	url = git@github.com:emacsattic/h4x0r.git
+[submodule "habitica"]
+	path = mirror/habitica
+	url = git@github.com:emacsmirror/habitica.git
+	branch = master
 [submodule "hachette"]
 	path = mirror/hachette
 	url = git@github.com:emacsmirror/hachette.git
@@ -10469,6 +10485,10 @@
 [submodule "number"]
 	path = mirror/number
 	url = git@github.com:emacsmirror/number.git
+[submodule "number-lock"]
+	path = mirror/number-lock
+	url = git@github.com:emacsmirror/number-lock.git
+	branch = master
 [submodule "numbered-outline"]
 	path = attic/numbered-outline
 	url = git@github.com:emacsattic/numbered-outline.git
@@ -15342,6 +15362,10 @@
 [submodule "transcript"]
 	path = mirror/transcript
 	url = git@github.com:emacsmirror/transcript.git
+[submodule "transfer-sh"]
+	path = mirror/transfer-sh
+	url = git@github.com:emacsmirror/transfer-sh.git
+	branch = master
 [submodule "translate"]
 	path = attic/translate
 	url = git@github.com:emacsattic/translate.git
