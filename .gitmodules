@@ -2164,6 +2164,10 @@
 [submodule "company-ess"]
 	path = mirror/company-ess
 	url = git@github.com:emacsmirror/company-ess.git
+[submodule "company-flow"]
+	path = mirror/company-flow
+	url = git@github.com:emacsmirror/company-flow.git
+	branch = master
 [submodule "company-flx"]
 	path = mirror/company-flx
 	url = git@github.com:emacsmirror/company-flx.git
@@ -3783,6 +3787,10 @@
 [submodule "elein"]
 	path = mirror/elein
 	url = git@github.com:emacsmirror/elein.git
+[submodule "elf-mode"]
+	path = mirror/elf-mode
+	url = git@github.com:emacsmirror/elf-mode.git
+	branch = master
 [submodule "elfeed"]
 	path = mirror/elfeed
 	url = git@github.com:emacsmirror/elfeed.git
