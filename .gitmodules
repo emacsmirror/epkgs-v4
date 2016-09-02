@@ -10573,10 +10573,6 @@
 [submodule "ob-lfe"]
 	path = mirror/ob-lfe
 	url = git@github.com:emacsmirror/ob-lfe.git
-[submodule "ob-lua"]
-	path = mirror/ob-lua
-	url = git@github.com:emacsmirror/ob-lua.git
-	branch = master
 [submodule "ob-markdown"]
 	path = mirror/ob-markdown
 	url = git@github.com:emacsmirror/ob-markdown.git
