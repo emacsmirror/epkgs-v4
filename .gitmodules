@@ -14296,6 +14296,7 @@
 [submodule "spray"]
 	path = mirror/spray
 	url = git@github.com:emacsmirror/spray.git
+	branch = master
 [submodule "spread"]
 	path = mirror/spread
 	url = git@github.com:emacsmirror/spread.git
