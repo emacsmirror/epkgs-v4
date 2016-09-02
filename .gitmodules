@@ -5247,6 +5247,10 @@
 [submodule "flycheck-color-mode-line"]
 	path = mirror/flycheck-color-mode-line
 	url = git@github.com:emacsmirror/flycheck-color-mode-line.git
+[submodule "flycheck-credo"]
+	path = mirror/flycheck-credo
+	url = git@github.com:emacsmirror/flycheck-credo.git
+	branch = master
 [submodule "flycheck-css-colorguard"]
 	path = mirror/flycheck-css-colorguard
 	url = git@github.com:emacsmirror/flycheck-css-colorguard.git
@@ -11541,6 +11545,10 @@
 [submodule "pcache"]
 	path = mirror/pcache
 	url = git@github.com:emacsmirror/pcache.git
+[submodule "pcap-mode"]
+	path = mirror/pcap-mode
+	url = git@github.com:emacsmirror/pcap-mode.git
+	branch = master
 [submodule "pcb-mode"]
 	path = mirror/pcb-mode
 	url = git@github.com:emacsmirror/pcb-mode.git
