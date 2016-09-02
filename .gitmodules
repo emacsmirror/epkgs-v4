@@ -16963,6 +16963,10 @@
 [submodule "zotxt"]
 	path = mirror/zotxt
 	url = git@github.com:emacsmirror/zotxt.git
+[submodule "zoutline"]
+	path = mirror/zoutline
+	url = git@github.com:emacsmirror/zoutline.git
+	branch = master
 [submodule "ztree"]
 	path = mirror/ztree
 	url = git@github.com:emacsmirror/ztree.git
