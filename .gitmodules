@@ -4319,6 +4319,10 @@
 [submodule "ercn"]
 	path = mirror/ercn
 	url = git@github.com:emacsmirror/ercn.git
+[submodule "ereader"]
+	path = mirror/ereader
+	url = git@github.com:emacsmirror/ereader.git
+	branch = master
 [submodule "erec"]
 	path = mirror/erec
 	url = git@github.com:emacsmirror/erec.git
@@ -11061,6 +11065,10 @@
 [submodule "org-repo-todo"]
 	path = mirror/org-repo-todo
 	url = git@github.com:emacsmirror/org-repo-todo.git
+[submodule "org-review"]
+	path = mirror/org-review
+	url = git@github.com:emacsmirror/org-review.git
+	branch = master
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
@@ -11330,6 +11338,10 @@
 [submodule "ox-trac"]
 	path = mirror/ox-trac
 	url = git@github.com:emacsmirror/ox-trac.git
+[submodule "ox-tufte"]
+	path = mirror/ox-tufte
+	url = git@github.com:emacsmirror/ox-tufte.git
+	branch = master
 [submodule "ox-twbs"]
 	path = mirror/ox-twbs
 	url = git@github.com:emacsmirror/ox-twbs.git
@@ -12640,6 +12652,10 @@
 [submodule "rbt"]
 	path = mirror/rbt
 	url = git@github.com:emacsmirror/rbt.git
+[submodule "rc-mode"]
+	path = mirror/rc-mode
+	url = git@github.com:emacsmirror/rc-mode.git
+	branch = master
 [submodule "rcfiles"]
 	path = mirror/rcfiles
 	url = git@github.com:emacsmirror/rcfiles.git
