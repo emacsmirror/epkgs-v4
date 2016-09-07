@@ -3044,6 +3044,10 @@
 [submodule "dired-k"]
 	path = mirror/dired-k
 	url = git@github.com:emacsmirror/dired-k.git
+[submodule "dired-launch"]
+	path = mirror/dired-launch
+	url = git@github.com:emacsmirror/dired-launch.git
+	branch = master
 [submodule "dired-quick-sort"]
 	path = mirror/dired-quick-sort
 	url = git@github.com:emacsmirror/dired-quick-sort.git
@@ -10345,6 +10349,10 @@
 [submodule "nimrod-mode"]
 	path = mirror/nimrod-mode
 	url = git@github.com:emacsmirror/nimrod-mode.git
+[submodule "nix-buffer"]
+	path = mirror/nix-buffer
+	url = git@github.com:emacsmirror/nix-buffer.git
+	branch = master
 [submodule "nix-mode"]
 	path = mirror/nix-mode
 	url = git@github.com:emacsmirror/nix-mode.git
@@ -10872,6 +10880,10 @@
 [submodule "org-clock-convenience"]
 	path = mirror/org-clock-convenience
 	url = git@github.com:emacsmirror/org-clock-convenience.git
+[submodule "org-clock-csv"]
+	path = mirror/org-clock-csv
+	url = git@github.com:emacsmirror/org-clock-csv.git
+	branch = master
 [submodule "org-commentary"]
 	path = mirror/org-commentary
 	url = git@github.com:emacsmirror/org-commentary.git
@@ -11035,6 +11047,10 @@
 [submodule "org-presie"]
 	path = mirror/org-presie
 	url = git@github.com:emacsmirror/org-presie.git
+[submodule "org-preview-html"]
+	path = mirror/org-preview-html
+	url = git@github.com:emacsmirror/org-preview-html.git
+	branch = master
 [submodule "org-projectile"]
 	path = mirror/org-projectile
 	url = git@github.com:emacsmirror/org-projectile.git
