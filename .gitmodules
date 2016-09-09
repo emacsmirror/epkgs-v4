@@ -6186,6 +6186,10 @@
 [submodule "go"]
 	path = mirror/go
 	url = git@github.com:emacsmirror/go.git
+[submodule "go-add-tags"]
+	path = mirror/go-add-tags
+	url = git@github.com:emacsmirror/go-add-tags.git
+	branch = master
 [submodule "go-autocomplete"]
 	path = mirror/go-autocomplete
 	url = git@github.com:emacsmirror/go-autocomplete.git
@@ -14192,6 +14196,10 @@
 [submodule "sort+"]
 	path = mirror/sort+
 	url = git@github.com:emacsmirror/sort-plus.git
+[submodule "sort-words"]
+	path = mirror/sort-words
+	url = git@github.com:emacsmirror/sort-words.git
+	branch = master
 [submodule "sorter"]
 	path = attic/sorter
 	url = git@github.com:emacsattic/sorter.git
@@ -14685,6 +14693,10 @@
 [submodule "swift-mode"]
 	path = mirror/swift-mode
 	url = git@github.com:emacsmirror/swift-mode.git
+[submodule "swift3-mode"]
+	path = mirror/swift3-mode
+	url = git@github.com:emacsmirror/swift3-mode.git
+	branch = master
 [submodule "swimmers"]
 	path = mirror/swimmers
 	url = git@github.com:emacsmirror/swimmers.git
