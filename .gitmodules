@@ -304,6 +304,10 @@
 	path = mirror/all-ext
 	url = git@github.com:emacsmirror/all-ext.git
 	branch = master
+[submodule "all-the-icons"]
+	path = mirror/all-the-icons
+	url = git@github.com:emacsmirror/all-the-icons.git
+	branch = master
 [submodule "alore-mode"]
 	path = mirror/alore-mode
 	url = git@github.com:emacsmirror/alore-mode.git
@@ -7855,6 +7859,10 @@
 [submodule "inform7-mode"]
 	path = mirror/inform7-mode
 	url = git@github.com:emacsmirror/inform7-mode.git
+[submodule "inherit-local"]
+	path = mirror/inherit-local
+	url = git@github.com:emacsmirror/inherit-local.git
+	branch = master
 [submodule "init-loader"]
 	path = mirror/init-loader
 	url = git@github.com:emacsmirror/init-loader.git
@@ -9689,6 +9697,10 @@
 [submodule "mip-mode"]
 	path = mirror/mip-mode
 	url = git@github.com:emacsmirror/mip-mode.git
+[submodule "mips-mode"]
+	path = mirror/mips-mode
+	url = git@github.com:emacsmirror/mips-mode.git
+	branch = master
 [submodule "miranda-mode"]
 	path = attic/miranda-mode
 	url = git@github.com:emacsattic/miranda-mode.git
