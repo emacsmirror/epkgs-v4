@@ -748,6 +748,10 @@
 [submodule "auto-highlight-symbol"]
 	path = mirror/auto-highlight-symbol
 	url = git@github.com:emacsmirror/auto-highlight-symbol.git
+[submodule "auto-img-link-insert"]
+	path = mirror/auto-img-link-insert
+	url = git@github.com:emacsmirror/auto-img-link-insert.git
+	branch = master
 [submodule "auto-indent"]
 	path = mirror/auto-indent
 	url = git@github.com:emacsmirror/auto-indent.git
@@ -3917,6 +3921,10 @@
 [submodule "elscreen-edit-server"]
 	path = mirror/elscreen-edit-server
 	url = git@github.com:emacsmirror/elscreen-edit-server.git
+[submodule "elscreen-fr"]
+	path = mirror/elscreen-fr
+	url = git@github.com:emacsmirror/elscreen-fr.git
+	branch = master
 [submodule "elscreen-mew"]
 	path = mirror/elscreen-mew
 	url = git@github.com:emacsmirror/elscreen-mew.git
@@ -4031,6 +4039,10 @@
 [submodule "emamux-ruby-test"]
 	path = mirror/emamux-ruby-test
 	url = git@github.com:emacsmirror/emamux-ruby-test.git
+[submodule "emaps"]
+	path = mirror/emaps
+	url = git@github.com:emacsmirror/emaps.git
+	branch = master
 [submodule "emathica"]
 	path = attic/emathica
 	url = git@github.com:emacsattic/emathica.git
@@ -9843,6 +9855,10 @@
 [submodule "mongolian"]
 	path = attic/mongolian
 	url = git@github.com:emacsattic/mongolian.git
+[submodule "monitor"]
+	path = mirror/monitor
+	url = git@github.com:emacsmirror/monitor.git
+	branch = master
 [submodule "monk"]
 	path = attic/monk
 	url = git@github.com:emacsattic/monk.git
@@ -10339,6 +10355,10 @@
 [submodule "nf-procmail-mode"]
 	path = mirror/nf-procmail-mode
 	url = git@github.com:emacsmirror/nf-procmail-mode.git
+[submodule "ng2-mode"]
+	path = mirror/ng2-mode
+	url = git@github.com:emacsmirror/ng2-mode.git
+	branch = master
 [submodule "nginx-mode"]
 	path = mirror/nginx-mode
 	url = git@github.com:emacsmirror/nginx-mode.git
@@ -12235,6 +12255,10 @@
 [submodule "projectile-speedbar"]
 	path = mirror/projectile-speedbar
 	url = git@github.com:emacsmirror/projectile-speedbar.git
+[submodule "projectile-variable"]
+	path = mirror/projectile-variable
+	url = git@github.com:emacsmirror/projectile-variable.git
+	branch = master
 [submodule "projector"]
 	path = mirror/projector
 	url = git@github.com:emacsmirror/projector.git
