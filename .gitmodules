@@ -748,10 +748,6 @@
 [submodule "auto-highlight-symbol"]
 	path = mirror/auto-highlight-symbol
 	url = git@github.com:emacsmirror/auto-highlight-symbol.git
-[submodule "auto-img-link-insert"]
-	path = mirror/auto-img-link-insert
-	url = git@github.com:emacsmirror/auto-img-link-insert.git
-	branch = master
 [submodule "auto-indent"]
 	path = mirror/auto-indent
 	url = git@github.com:emacsmirror/auto-indent.git
@@ -10961,6 +10957,10 @@
 [submodule "org-e-caldav"]
 	path = attic/org-e-caldav
 	url = git@github.com:emacsattic/org-e-caldav.git
+[submodule "org-easy-img-insert"]
+	path = mirror/org-easy-img-insert
+	url = git@github.com:emacsmirror/org-easy-img-insert.git
+	branch = master
 [submodule "org-ehtml"]
 	path = mirror/org-ehtml
 	url = git@github.com:emacsmirror/org-ehtml.git
