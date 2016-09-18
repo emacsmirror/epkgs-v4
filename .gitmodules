@@ -213,6 +213,10 @@
 [submodule "ada-gpr"]
 	path = mirror/ada-gpr
 	url = git@github.com:emacsmirror/ada-gpr.git
+[submodule "ada-mode"]
+	path = mirror/ada-mode
+	url = git@github.com:emacsmirror/ada-mode.git
+	branch = master
 [submodule "adaptive-wrap"]
 	path = mirror/adaptive-wrap
 	url = git@github.com:emacsmirror/adaptive-wrap.git
