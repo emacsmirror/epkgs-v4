@@ -2278,6 +2278,10 @@
 	path = mirror/composer
 	url = git@github.com:emacsmirror/composer.git
 	branch = master
+[submodule "conda"]
+	path = mirror/conda
+	url = git@github.com:emacsmirror/conda.git
+	branch = master
 [submodule "config-parser"]
 	path = mirror/config-parser
 	url = git@github.com:emacsmirror/config-parser.git
@@ -4727,6 +4731,10 @@
 [submodule "evil-tutor"]
 	path = mirror/evil-tutor
 	url = git@github.com:emacsmirror/evil-tutor.git
+[submodule "evil-tutor-ja"]
+	path = mirror/evil-tutor-ja
+	url = git@github.com:emacsmirror/evil-tutor-ja.git
+	branch = master
 [submodule "evil-vimish-fold"]
 	path = mirror/evil-vimish-fold
 	url = git@github.com:emacsmirror/evil-vimish-fold.git
@@ -5679,6 +5687,10 @@
 [submodule "fs-mode"]
 	path = mirror/fs-mode
 	url = git@github.com:emacsmirror/fs-mode.git
+[submodule "fsbot-data-browser"]
+	path = mirror/fsbot-data-browser
+	url = git@github.com:emacsmirror/fsbot-data-browser.git
+	branch = master
 [submodule "fscroll"]
 	path = mirror/fscroll
 	url = git@github.com:emacsmirror/fscroll.git
@@ -6059,6 +6071,10 @@
 [submodule "gitsum"]
 	path = mirror/gitsum
 	url = git@github.com:emacsmirror/gitsum.git
+[submodule "gitter"]
+	path = mirror/gitter
+	url = git@github.com:emacsmirror/gitter.git
+	branch = master
 [submodule "gitty"]
 	path = mirror/gitty
 	url = git@github.com:emacsmirror/gitty.git
@@ -6530,6 +6546,10 @@
 [submodule "guido-mode"]
 	path = attic/guido-mode
 	url = git@github.com:emacsattic/guido-mode.git
+[submodule "gulp-task-runner"]
+	path = mirror/gulp-task-runner
+	url = git@github.com:emacsmirror/gulp-task-runner.git
+	branch = master
 [submodule "guru-mode"]
 	path = mirror/guru-mode
 	url = git@github.com:emacsmirror/guru-mode.git
@@ -8112,6 +8132,10 @@
 	path = mirror/ivy-purpose
 	url = git@github.com:emacsmirror/ivy-purpose.git
 	branch = master
+[submodule "ivy-xcdoc"]
+	path = mirror/ivy-xcdoc
+	url = git@github.com:emacsmirror/ivy-xcdoc.git
+	branch = master
 [submodule "ix"]
 	path = mirror/ix
 	url = git@github.com:emacsmirror/ix.git
@@ -9542,6 +9566,10 @@
 [submodule "meditate"]
 	path = mirror/meditate
 	url = git@github.com:emacsmirror/meditate.git
+[submodule "meghanada"]
+	path = mirror/meghanada
+	url = git@github.com:emacsmirror/meghanada.git
+	branch = master
 [submodule "melpa-upstream-visit"]
 	path = mirror/melpa-upstream-visit
 	url = git@github.com:emacsmirror/melpa-upstream-visit.git
@@ -10579,6 +10607,10 @@
 [submodule "oauth2"]
 	path = mirror/oauth2
 	url = git@github.com:emacsmirror/oauth2.git
+[submodule "ob-applescript"]
+	path = mirror/ob-applescript
+	url = git@github.com:emacsmirror/ob-applescript.git
+	branch = master
 [submodule "ob-browser"]
 	path = mirror/ob-browser
 	url = git@github.com:emacsmirror/ob-browser.git
@@ -10883,6 +10915,10 @@
 [submodule "org-babel-plugins"]
 	path = attic/org-babel-plugins
 	url = git@github.com:emacsattic/org-babel-plugins.git
+[submodule "org-board"]
+	path = mirror/org-board
+	url = git@github.com:emacsmirror/org-board.git
+	branch = master
 [submodule "org-bom"]
 	path = mirror/org-bom
 	url = git@github.com:emacsmirror/org-bom.git
@@ -10971,6 +11007,10 @@
 [submodule "org-email"]
 	path = mirror/org-email
 	url = git@github.com:emacsmirror/org-email.git
+[submodule "org-evil"]
+	path = mirror/org-evil
+	url = git@github.com:emacsmirror/org-evil.git
+	branch = master
 [submodule "org-extension"]
 	path = mirror/org-extension
 	url = git@github.com:emacsmirror/org-extension.git
@@ -12281,6 +12321,10 @@
 [submodule "prompt-text"]
 	path = mirror/prompt-text
 	url = git@github.com:emacsmirror/prompt-text.git
+[submodule "prompts"]
+	path = mirror/prompts
+	url = git@github.com:emacsmirror/prompts.git
+	branch = master
 [submodule "prop-menu"]
 	path = mirror/prop-menu
 	url = git@github.com:emacsmirror/prop-menu.git
