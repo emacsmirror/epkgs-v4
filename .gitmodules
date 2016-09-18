@@ -13700,6 +13700,10 @@
 [submodule "seognil"]
 	path = mirror/seognil
 	url = git@github.com:emacsmirror/seognil.git
+[submodule "seq"]
+	path = mirror/seq
+	url = git@github.com:emacsmirror/seq.git
+	branch = master
 [submodule "seq-numbering"]
 	path = attic/seq-numbering
 	url = git@github.com:emacsattic/seq-numbering.git
