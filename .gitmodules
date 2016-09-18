@@ -9257,8 +9257,9 @@
 	path = mirror/magit-view-file
 	url = git@github.com:emacsmirror/magit-view-file.git
 [submodule "magithub"]
-	path = attic/magithub
-	url = git@github.com:emacsattic/magithub.git
+	path = mirror/magithub
+	url = git@github.com:emacsmirror/magithub.git
+	branch = master
 [submodule "magma-mode"]
 	path = mirror/magma-mode
 	url = git@github.com:emacsmirror/magma-mode.git
