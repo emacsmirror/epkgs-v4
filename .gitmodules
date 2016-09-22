@@ -3577,6 +3577,10 @@
 [submodule "ede-compdb"]
 	path = mirror/ede-compdb
 	url = git@github.com:emacsmirror/ede-compdb.git
+[submodule "ede-php-autoload"]
+	path = mirror/ede-php-autoload
+	url = git@github.com:emacsmirror/ede-php-autoload.git
+	branch = master
 [submodule "edebug-x"]
 	path = mirror/edebug-x
 	url = git@github.com:emacsmirror/edebug-x.git
@@ -4592,6 +4596,10 @@
 	path = mirror/evil-colemak-basics
 	url = git@github.com:emacsmirror/evil-colemak-basics.git
 	branch = master
+[submodule "evil-colemak-minimal"]
+	path = mirror/evil-colemak-minimal
+	url = git@github.com:emacsmirror/evil-colemak-minimal.git
+	branch = master
 [submodule "evil-commentary"]
 	path = mirror/evil-commentary
 	url = git@github.com:emacsmirror/evil-commentary.git
@@ -5392,6 +5400,10 @@
 [submodule "flycheck-status-emoji"]
 	path = mirror/flycheck-status-emoji
 	url = git@github.com:emacsmirror/flycheck-status-emoji.git
+[submodule "flycheck-swift"]
+	path = mirror/flycheck-swift
+	url = git@github.com:emacsmirror/flycheck-swift.git
+	branch = master
 [submodule "flycheck-tip"]
 	path = mirror/flycheck-tip
 	url = git@github.com:emacsmirror/flycheck-tip.git
@@ -5615,6 +5627,10 @@
 [submodule "forml-mode"]
 	path = mirror/forml-mode
 	url = git@github.com:emacsmirror/forml-mode.git
+[submodule "forth-mode"]
+	path = mirror/forth-mode
+	url = git@github.com:emacsmirror/forth-mode.git
+	branch = master
 [submodule "fortpy"]
 	path = mirror/fortpy
 	url = git@github.com:emacsmirror/fortpy.git
@@ -6475,6 +6491,10 @@
 [submodule "grizzl"]
 	path = mirror/grizzl
 	url = git@github.com:emacsmirror/grizzl.git
+[submodule "groovy-imports"]
+	path = mirror/groovy-imports
+	url = git@github.com:emacsmirror/groovy-imports.git
+	branch = master
 [submodule "groovy-mode"]
 	path = mirror/groovy-mode
 	url = git@github.com:emacsmirror/groovy-mode.git
