@@ -268,6 +268,10 @@
 [submodule "ahk-mode"]
 	path = mirror/ahk-mode
 	url = git@github.com:emacsmirror/ahk-mode.git
+[submodule "ahungry-theme"]
+	path = mirror/ahungry-theme
+	url = git@github.com:emacsmirror/ahungry-theme.git
+	branch = master
 [submodule "airplay"]
 	path = mirror/airplay
 	url = git@github.com:emacsmirror/airplay.git
@@ -15520,6 +15524,10 @@
 [submodule "tramp-term"]
 	path = mirror/tramp-term
 	url = git@github.com:emacsmirror/tramp-term.git
+[submodule "tramp-theme"]
+	path = mirror/tramp-theme
+	url = git@github.com:emacsmirror/tramp-theme.git
+	branch = master
 [submodule "trans-ej"]
 	path = mirror/trans-ej
 	url = git@github.com:emacsmirror/trans-ej.git
