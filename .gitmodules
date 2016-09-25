@@ -6077,6 +6077,10 @@
 [submodule "github-clone"]
 	path = mirror/github-clone
 	url = git@github.com:emacsmirror/github-clone.git
+[submodule "github-elpa"]
+	path = mirror/github-elpa
+	url = git@github.com:emacsmirror/github-elpa.git
+	branch = master
 [submodule "github-issues"]
 	path = mirror/github-issues
 	url = git@github.com:emacsmirror/github-issues.git
@@ -11592,6 +11596,10 @@
 [submodule "parfait-mode"]
 	path = mirror/parfait-mode
 	url = git@github.com:emacsmirror/parfait-mode.git
+[submodule "parinfer"]
+	path = mirror/parinfer
+	url = git@github.com:emacsmirror/parinfer.git
+	branch = master
 [submodule "parse-csv"]
 	path = mirror/parse-csv
 	url = git@github.com:emacsmirror/parse-csv.git
@@ -14738,6 +14746,10 @@
 [submodule "suggest"]
 	path = mirror/suggest
 	url = git@github.com:emacsmirror/suggest.git
+	branch = master
+[submodule "suggestion-box"]
+	path = mirror/suggestion-box
+	url = git@github.com:emacsmirror/suggestion-box.git
 	branch = master
 [submodule "summarye"]
 	path = mirror/summarye
