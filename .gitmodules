@@ -952,6 +952,7 @@
 [submodule "bar-cursor"]
 	path = mirror/bar-cursor
 	url = git@github.com:emacsmirror/bar-cursor.git
+	branch = master
 [submodule "bash-completion"]
 	path = mirror/bash-completion
 	url = git@github.com:emacsmirror/bash-completion.git
