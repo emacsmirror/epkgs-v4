@@ -774,6 +774,10 @@
 [submodule "auto-mounter"]
 	path = mirror/auto-mounter
 	url = git@github.com:emacsmirror/auto-mounter.git
+[submodule "auto-org-md"]
+	path = mirror/auto-org-md
+	url = git@github.com:emacsmirror/auto-org-md.git
+	branch = master
 [submodule "auto-overlays"]
 	path = mirror/auto-overlays
 	url = git@github.com:emacsmirror/auto-overlays.git
