@@ -3854,6 +3854,10 @@
 [submodule "elisp-lint"]
 	path = mirror/elisp-lint
 	url = git@github.com:emacsmirror/elisp-lint.git
+[submodule "elisp-refs"]
+	path = mirror/elisp-refs
+	url = git@github.com:emacsmirror/elisp-refs.git
+	branch = master
 [submodule "elisp-sandbox"]
 	path = mirror/elisp-sandbox
 	url = git@github.com:emacsmirror/elisp-sandbox.git
@@ -10882,6 +10886,10 @@
 [submodule "opam"]
 	path = mirror/opam
 	url = git@github.com:emacsmirror/opam.git
+[submodule "open-in-msvs"]
+	path = mirror/open-in-msvs
+	url = git@github.com:emacsmirror/open-in-msvs.git
+	branch = master
 [submodule "open-junk-file"]
 	path = mirror/open-junk-file
 	url = git@github.com:emacsmirror/open-junk-file.git
@@ -13268,6 +13276,10 @@
 [submodule "rings"]
 	path = mirror/rings
 	url = git@github.com:emacsmirror/rings.git
+[submodule "ripgrep"]
+	path = mirror/ripgrep
+	url = git@github.com:emacsmirror/ripgrep.git
+	branch = master
 [submodule "rlpic"]
 	path = attic/rlpic
 	url = git@github.com:emacsattic/rlpic.git
