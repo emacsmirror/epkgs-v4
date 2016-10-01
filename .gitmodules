@@ -3194,6 +3194,10 @@
 [submodule "dkdo"]
 	path = mirror/dkdo
 	url = git@github.com:emacsmirror/dkdo.git
+[submodule "dkl"]
+	path = mirror/dkl
+	url = git@github.com:emacsmirror/dkl.git
+	branch = master
 [submodule "dklrt"]
 	path = mirror/dklrt
 	url = git@github.com:emacsmirror/dklrt.git
@@ -6314,6 +6318,10 @@
 [submodule "gob"]
 	path = mirror/gob
 	url = git@github.com:emacsmirror/gob.git
+[submodule "gobgen"]
+	path = mirror/gobgen
+	url = git@github.com:emacsmirror/gobgen.git
+	branch = master
 [submodule "gobject-class"]
 	path = mirror/gobject-class
 	url = git@github.com:emacsmirror/gobject-class.git
@@ -12095,6 +12103,10 @@
 [submodule "pocketcompletion"]
 	path = mirror/pocketcompletion
 	url = git@github.com:emacsmirror/pocketcompletion.git
+[submodule "podcaster"]
+	path = mirror/podcaster
+	url = git@github.com:emacsmirror/podcaster.git
+	branch = master
 [submodule "point-ring"]
 	path = mirror/point-ring
 	url = git@github.com:emacsmirror/point-ring.git
