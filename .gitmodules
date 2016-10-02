@@ -1,6 +1,10 @@
 [submodule "0blayout"]
 	path = mirror/0blayout
 	url = git@github.com:emacsmirror/0blayout.git
+[submodule "0xc"]
+	path = mirror/0xc
+	url = git@github.com:emacsmirror/0xc.git
+	branch = master
 [submodule "2048-game"]
 	path = mirror/2048-game
 	url = git@github.com:emacsmirror/2048-game.git
@@ -411,6 +415,10 @@
 [submodule "ansible-doc"]
 	path = mirror/ansible-doc
 	url = git@github.com:emacsmirror/ansible-doc.git
+[submodule "ansible-vault"]
+	path = mirror/ansible-vault
+	url = git@github.com:emacsmirror/ansible-vault.git
+	branch = master
 [submodule "ansys-mod"]
 	path = mirror/ansys-mod
 	url = git@github.com:emacsmirror/ansys-mod.git
@@ -2419,6 +2427,10 @@
 [submodule "cpan"]
 	path = attic/cpan
 	url = git@github.com:emacsattic/cpan.git
+[submodule "cpanfile-mode"]
+	path = mirror/cpanfile-mode
+	url = git@github.com:emacsmirror/cpanfile-mode.git
+	branch = master
 [submodule "cparen"]
 	path = attic/cparen
 	url = git@github.com:emacsattic/cparen.git
@@ -10073,6 +10085,10 @@
 [submodule "msvc"]
 	path = mirror/msvc
 	url = git@github.com:emacsmirror/msvc.git
+[submodule "mtg-deck-mode"]
+	path = mirror/mtg-deck-mode
+	url = git@github.com:emacsmirror/mtg-deck-mode.git
+	branch = master
 [submodule "mthesaur"]
 	path = mirror/mthesaur
 	url = git@github.com:emacsmirror/mthesaur.git
@@ -13291,6 +13307,10 @@
 [submodule "ripgrep"]
 	path = mirror/ripgrep
 	url = git@github.com:emacsmirror/ripgrep.git
+	branch = master
+[submodule "riscv-mode"]
+	path = mirror/riscv-mode
+	url = git@github.com:emacsmirror/riscv-mode.git
 	branch = master
 [submodule "rlpic"]
 	path = attic/rlpic
