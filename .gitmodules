@@ -3118,6 +3118,10 @@
 [submodule "diredful"]
 	path = mirror/diredful
 	url = git@github.com:emacsmirror/diredful.git
+[submodule "direnv"]
+	path = mirror/direnv
+	url = git@github.com:emacsmirror/direnv.git
+	branch = master
 [submodule "direx"]
 	path = mirror/direx
 	url = git@github.com:emacsmirror/direx.git
