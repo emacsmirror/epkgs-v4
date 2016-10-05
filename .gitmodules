@@ -11533,6 +11533,10 @@
 	path = mirror/package-build
 	url = git@github.com:emacsmirror/package-build.git
 	branch = master
+[submodule "package-demo"]
+	path = mirror/package-demo
+	url = git@github.com:emacsmirror/package-demo.git
+	branch = master
 [submodule "package-safe-delete"]
 	path = mirror/package-safe-delete
 	url = git@github.com:emacsmirror/package-safe-delete.git
