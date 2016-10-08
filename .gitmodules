@@ -1754,6 +1754,10 @@
 [submodule "chinese-fonts-setup"]
 	path = mirror/chinese-fonts-setup
 	url = git@github.com:emacsmirror/chinese-fonts-setup.git
+[submodule "chinese-number"]
+	path = mirror/chinese-number
+	url = git@github.com:emacsmirror/chinese-number.git
+	branch = master
 [submodule "chinese-pyim"]
 	path = mirror/chinese-pyim
 	url = git@github.com:emacsmirror/chinese-pyim.git
@@ -9969,6 +9973,10 @@
 [submodule "morlock"]
 	path = mirror/morlock
 	url = git@github.com:emacsmirror/morlock.git
+[submodule "mosey"]
+	path = mirror/mosey
+	url = git@github.com:emacsmirror/mosey.git
+	branch = master
 [submodule "mote-mode"]
 	path = mirror/mote-mode
 	url = git@github.com:emacsmirror/mote-mode.git
@@ -10815,6 +10823,10 @@
 [submodule "octicons"]
 	path = mirror/octicons
 	url = git@github.com:emacsmirror/octicons.git
+[submodule "octo-mode"]
+	path = mirror/octo-mode
+	url = git@github.com:emacsmirror/octo-mode.git
+	branch = master
 [submodule "octomacs"]
 	path = attic/octomacs
 	url = git@github.com:emacsattic/octomacs.git
@@ -11026,6 +11038,10 @@
 [submodule "org-clock-csv"]
 	path = mirror/org-clock-csv
 	url = git@github.com:emacsmirror/org-clock-csv.git
+	branch = master
+[submodule "org-clock-today"]
+	path = mirror/org-clock-today
+	url = git@github.com:emacsmirror/org-clock-today.git
 	branch = master
 [submodule "org-commentary"]
 	path = mirror/org-commentary
@@ -14345,6 +14361,10 @@
 [submodule "snapshot-timemachine"]
 	path = mirror/snapshot-timemachine
 	url = git@github.com:emacsmirror/snapshot-timemachine.git
+[submodule "snapshot-timemachine-rsnapshot"]
+	path = mirror/snapshot-timemachine-rsnapshot
+	url = git@github.com:emacsmirror/snapshot-timemachine-rsnapshot.git
+	branch = master
 [submodule "snippet"]
 	path = mirror/snippet
 	url = git@github.com:emacsmirror/snippet.git
@@ -15082,6 +15102,10 @@
 [submodule "tbemail"]
 	path = mirror/tbemail
 	url = git@github.com:emacsmirror/tbemail.git
+[submodule "tblui"]
+	path = mirror/tblui
+	url = git@github.com:emacsmirror/tblui.git
+	branch = master
 [submodule "tbx2org"]
 	path = mirror/tbx2org
 	url = git@github.com:emacsmirror/tbx2org.git
@@ -15664,6 +15688,10 @@
 [submodule "try-code"]
 	path = mirror/try-code
 	url = git@github.com:emacsmirror/try-code.git
+[submodule "ts-comint"]
+	path = mirror/ts-comint
+	url = git@github.com:emacsmirror/ts-comint.git
+	branch = master
 [submodule "ts-mode"]
 	path = mirror/ts-mode
 	url = git@github.com:emacsmirror/ts-mode.git
@@ -16434,6 +16462,10 @@
 [submodule "webmaster-macros"]
 	path = attic/webmaster-macros
 	url = git@github.com:emacsattic/webmaster-macros.git
+[submodule "webpaste"]
+	path = mirror/webpaste
+	url = git@github.com:emacsmirror/webpaste.git
+	branch = master
 [submodule "websocket"]
 	path = mirror/websocket
 	url = git@github.com:emacsmirror/websocket.git
