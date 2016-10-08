@@ -3323,6 +3323,7 @@
 [submodule "dot-mode"]
 	path = mirror/dot-mode
 	url = git@github.com:emacsmirror/dot-mode.git
+	branch = master
 [submodule "dotassoc"]
 	path = attic/dotassoc
 	url = git@github.com:emacsattic/dotassoc.git
