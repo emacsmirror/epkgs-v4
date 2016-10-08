@@ -3560,6 +3560,7 @@
 [submodule "ecb"]
 	path = mirror/ecb
 	url = git@github.com:emacsmirror/ecb.git
+	branch = master
 [submodule "ecco"]
 	path = mirror/ecco
 	url = git@github.com:emacsmirror/ecco.git
