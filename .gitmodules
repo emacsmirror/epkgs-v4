@@ -1433,6 +1433,10 @@
 [submodule "bugzilla"]
 	path = attic/bugzilla
 	url = git@github.com:emacsattic/bugzilla.git
+[submodule "build-helper"]
+	path = mirror/build-helper
+	url = git@github.com:emacsmirror/build-helper.git
+	branch = master
 [submodule "build-tags"]
 	path = attic/build-tags
 	url = git@github.com:emacsattic/build-tags.git
@@ -6490,6 +6494,10 @@
 [submodule "grails-projectile-mode"]
 	path = mirror/grails-projectile-mode
 	url = git@github.com:emacsmirror/grails-projectile-mode.git
+[submodule "graphql-mode"]
+	path = mirror/graphql-mode
+	url = git@github.com:emacsmirror/graphql-mode.git
+	branch = master
 [submodule "graphviz-dot"]
 	path = mirror/graphviz-dot
 	url = git@github.com:emacsmirror/graphviz-dot.git
@@ -13516,6 +13524,10 @@
 [submodule "rw-language-and-country-codes"]
 	path = attic/rw-language-and-country-codes
 	url = git@github.com:emacsattic/rw-language-and-country-codes.git
+[submodule "ryo-modal"]
+	path = mirror/ryo-modal
+	url = git@github.com:emacsmirror/ryo-modal.git
+	branch = master
 [submodule "s"]
 	path = mirror/s
 	url = git@github.com:emacsmirror/s.git
