@@ -2175,6 +2175,10 @@
 [submodule "company-auctex"]
 	path = mirror/company-auctex
 	url = git@github.com:emacsmirror/company-auctex.git
+[submodule "company-bibtex"]
+	path = mirror/company-bibtex
+	url = git@github.com:emacsmirror/company-bibtex.git
+	branch = master
 [submodule "company-c-headers"]
 	path = mirror/company-c-headers
 	url = git@github.com:emacsmirror/company-c-headers.git
@@ -4497,6 +4501,10 @@
 [submodule "eshell-prompt-extras"]
 	path = mirror/eshell-prompt-extras
 	url = git@github.com:emacsmirror/eshell-prompt-extras.git
+[submodule "eshell-up"]
+	path = mirror/eshell-up
+	url = git@github.com:emacsmirror/eshell-up.git
+	branch = master
 [submodule "eshell-z"]
 	path = mirror/eshell-z
 	url = git@github.com:emacsmirror/eshell-z.git
@@ -5410,6 +5418,7 @@
 [submodule "flycheck-package"]
 	path = mirror/flycheck-package
 	url = git@github.com:emacsmirror/flycheck-package.git
+	branch = master
 [submodule "flycheck-perl6"]
 	path = mirror/flycheck-perl6
 	url = git@github.com:emacsmirror/flycheck-perl6.git
@@ -6357,6 +6366,10 @@
 [submodule "god-mode"]
 	path = mirror/god-mode
 	url = git@github.com:emacsmirror/god-mode.git
+[submodule "godoctor"]
+	path = mirror/godoctor
+	url = git@github.com:emacsmirror/godoctor.git
+	branch = master
 [submodule "golb"]
 	path = mirror/golb
 	url = git@github.com:emacsmirror/golb.git
@@ -10951,6 +10964,10 @@
 	path = mirror/opencl-mode
 	url = git@github.com:emacsmirror/opencl-mode.git
 	branch = master
+[submodule "opener"]
+	path = mirror/opener
+	url = git@github.com:emacsmirror/opener.git
+	branch = master
 [submodule "openpaste"]
 	path = mirror/openpaste
 	url = git@github.com:emacsmirror/openpaste.git
@@ -11562,6 +11579,10 @@
 [submodule "package-demo"]
 	path = mirror/package-demo
 	url = git@github.com:emacsmirror/package-demo.git
+	branch = master
+[submodule "package-lint"]
+	path = mirror/package-lint
+	url = git@github.com:emacsmirror/package-lint.git
 	branch = master
 [submodule "package-safe-delete"]
 	path = mirror/package-safe-delete
@@ -12524,9 +12545,6 @@
 [submodule "pulseaudio"]
 	path = mirror/pulseaudio
 	url = git@github.com:emacsmirror/pulseaudio.git
-[submodule "puml-mode"]
-	path = mirror/puml-mode
-	url = git@github.com:emacsmirror/puml-mode.git
 [submodule "punctuality-logger"]
 	path = mirror/punctuality-logger
 	url = git@github.com:emacsmirror/punctuality-logger.git
@@ -13775,6 +13793,10 @@
 [submodule "second-sel"]
 	path = mirror/second-sel
 	url = git@github.com:emacsmirror/second-sel.git
+[submodule "secretaria"]
+	path = mirror/secretaria
+	url = git@github.com:emacsmirror/secretaria.git
+	branch = master
 [submodule "sed-mode"]
 	path = mirror/sed-mode
 	url = git@github.com:emacsmirror/sed-mode.git
