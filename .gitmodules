@@ -3080,6 +3080,10 @@
 [submodule "dired-hacks"]
 	path = mirror/dired-hacks
 	url = git@github.com:emacsmirror/dired-hacks.git
+[submodule "dired-icon"]
+	path = mirror/dired-icon
+	url = git@github.com:emacsmirror/dired-icon.git
+	branch = master
 [submodule "dired-imenu"]
 	path = mirror/dired-imenu
 	url = git@github.com:emacsmirror/dired-imenu.git
@@ -7587,6 +7591,10 @@
 [submodule "hugs-mode"]
 	path = attic/hugs-mode
 	url = git@github.com:emacsattic/hugs-mode.git
+[submodule "hungarian-holidays"]
+	path = mirror/hungarian-holidays
+	url = git@github.com:emacsmirror/hungarian-holidays.git
+	branch = master
 [submodule "hungry-delete"]
 	path = mirror/hungry-delete
 	url = git@github.com:emacsmirror/hungry-delete.git
