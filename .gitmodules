@@ -227,6 +227,10 @@
 [submodule "add-lispdir"]
 	path = attic/add-lispdir
 	url = git@github.com:emacsattic/add-lispdir.git
+[submodule "add-node-modules-path"]
+	path = mirror/add-node-modules-path
+	url = git@github.com:emacsmirror/add-node-modules-path.git
+	branch = master
 [submodule "addressbook-bookmark"]
 	path = mirror/addressbook-bookmark
 	url = git@github.com:emacsmirror/addressbook-bookmark.git
