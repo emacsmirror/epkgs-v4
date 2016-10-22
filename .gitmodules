@@ -6356,9 +6356,6 @@
 [submodule "go-projectile"]
 	path = mirror/go-projectile
 	url = git@github.com:emacsmirror/go-projectile.git
-[submodule "go-rename"]
-	path = mirror/go-rename
-	url = git@github.com:emacsmirror/go-rename.git
 [submodule "go-scratch"]
 	path = mirror/go-scratch
 	url = git@github.com:emacsmirror/go-scratch.git
