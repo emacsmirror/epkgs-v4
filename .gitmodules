@@ -1894,8 +1894,8 @@
 	path = mirror/clay-mode
 	url = git@github.com:emacsmirror/clay-mode.git
 [submodule "cldoc"]
-	path = mirror/cldoc
-	url = git@github.com:emacsmirror/cldoc.git
+	path = attic/cldoc
+	url = git@github.com:emacsattic/cldoc.git
 [submodule "clean-aindent-mode"]
 	path = mirror/clean-aindent-mode
 	url = git@github.com:emacsmirror/clean-aindent-mode.git
@@ -2310,8 +2310,8 @@
 	path = mirror/compile-dwim
 	url = git@github.com:emacsmirror/compile-dwim.git
 [submodule "completing-help"]
-	path = mirror/completing-help
-	url = git@github.com:emacsmirror/completing-help.git
+	path = attic/completing-help
+	url = git@github.com:emacsattic/completing-help.git
 [submodule "completion-ignored-build"]
 	path = attic/completion-ignored-build
 	url = git@github.com:emacsattic/completion-ignored-build.git
@@ -7861,8 +7861,8 @@
 	path = mirror/imakado
 	url = git@github.com:emacsmirror/imakado.git
 [submodule "iman"]
-	path = mirror/iman
-	url = git@github.com:emacsmirror/iman.git
+	path = attic/iman
+	url = git@github.com:emacsattic/iman.git
 [submodule "imapfilter"]
 	path = mirror/imapfilter
 	url = git@github.com:emacsmirror/imapfilter.git
@@ -9669,8 +9669,8 @@
 	path = attic/mc-safe-sign-message
 	url = git@github.com:emacsattic/mc-safe-sign-message.git
 [submodule "mcomplete"]
-	path = mirror/mcomplete
-	url = git@github.com:emacsmirror/mcomplete.git
+	path = attic/mcomplete
+	url = git@github.com:emacsattic/mcomplete.git
 [submodule "mcskels"]
 	path = mirror/mcskels
 	url = git@github.com:emacsmirror/mcskels.git
@@ -13762,8 +13762,8 @@
 	path = mirror/scratches
 	url = git@github.com:emacsmirror/scratches.git
 [submodule "screen-lines"]
-	path = mirror/screen-lines
-	url = git@github.com:emacsmirror/screen-lines.git
+	path = attic/screen-lines
+	url = git@github.com:emacsattic/screen-lines.git
 [submodule "screen-setups"]
 	path = attic/screen-setups
 	url = git@github.com:emacsattic/screen-setups.git
@@ -15571,8 +15571,8 @@
 	path = attic/tm-vcard
 	url = git@github.com:emacsattic/tm-vcard.git
 [submodule "tmenu"]
-	path = mirror/tmenu
-	url = git@github.com:emacsmirror/tmenu.git
+	path = attic/tmenu
+	url = git@github.com:emacsattic/tmenu.git
 [submodule "tmmofl"]
 	path = mirror/tmmofl
 	url = git@github.com:emacsmirror/tmmofl.git
