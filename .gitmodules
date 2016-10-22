@@ -1437,6 +1437,10 @@
 [submodule "bugzilla"]
 	path = attic/bugzilla
 	url = git@github.com:emacsattic/bugzilla.git
+[submodule "bui"]
+	path = mirror/bui
+	url = git@github.com:emacsmirror/bui.git
+	branch = master
 [submodule "build-helper"]
 	path = mirror/build-helper
 	url = git@github.com:emacsmirror/build-helper.git
@@ -1822,6 +1826,10 @@
 [submodule "cider-eval-sexp-fu"]
 	path = mirror/cider-eval-sexp-fu
 	url = git@github.com:emacsmirror/cider-eval-sexp-fu.git
+[submodule "cider-hydra"]
+	path = mirror/cider-hydra
+	url = git@github.com:emacsmirror/cider-hydra.git
+	branch = master
 [submodule "cider-profile"]
 	path = mirror/cider-profile
 	url = git@github.com:emacsmirror/cider-profile.git
@@ -3368,6 +3376,10 @@
 [submodule "dpaste_de"]
 	path = mirror/dpaste_de
 	url = git@github.com:emacsmirror/dpaste_de.git
+[submodule "dr-racket-like-unicode"]
+	path = mirror/dr-racket-like-unicode
+	url = git@github.com:emacsmirror/dr-racket-like-unicode.git
+	branch = master
 [submodule "dracula-mode"]
 	path = attic/dracula-mode
 	url = git@github.com:emacsattic/dracula-mode.git
@@ -5450,6 +5462,10 @@
 [submodule "flycheck-pyflakes"]
 	path = mirror/flycheck-pyflakes
 	url = git@github.com:emacsmirror/flycheck-pyflakes.git
+[submodule "flycheck-rebar3"]
+	path = mirror/flycheck-rebar3
+	url = git@github.com:emacsmirror/flycheck-rebar3.git
+	branch = master
 [submodule "flycheck-rust"]
 	path = mirror/flycheck-rust
 	url = git@github.com:emacsmirror/flycheck-rust.git
@@ -7442,6 +7458,10 @@
 [submodule "hl-todo"]
 	path = mirror/hl-todo
 	url = git@github.com:emacsmirror/hl-todo.git
+[submodule "hledger-mode"]
+	path = mirror/hledger-mode
+	url = git@github.com:emacsmirror/hledger-mode.git
+	branch = master
 [submodule "hlint-refactor"]
 	path = mirror/hlint-refactor
 	url = git@github.com:emacsmirror/hlint-refactor.git
@@ -8480,6 +8500,10 @@
 [submodule "jquery-doc"]
 	path = mirror/jquery-doc
 	url = git@github.com:emacsmirror/jquery-doc.git
+[submodule "js-auto-beautify"]
+	path = mirror/js-auto-beautify
+	url = git@github.com:emacsmirror/js-auto-beautify.git
+	branch = master
 [submodule "js-comint"]
 	path = mirror/js-comint
 	url = git@github.com:emacsmirror/js-comint.git
@@ -8613,6 +8637,10 @@
 [submodule "kbdraw"]
 	path = attic/kbdraw
 	url = git@github.com:emacsattic/kbdraw.git
+[submodule "kdeconnect"]
+	path = mirror/kdeconnect
+	url = git@github.com:emacsmirror/kdeconnect.git
+	branch = master
 [submodule "kdic"]
 	path = mirror/kdic
 	url = git@github.com:emacsmirror/kdic.git
@@ -10229,6 +10257,10 @@
 [submodule "multishell"]
 	path = mirror/multishell
 	url = git@github.com:emacsmirror/multishell.git
+[submodule "multitran"]
+	path = mirror/multitran
+	url = git@github.com:emacsmirror/multitran.git
+	branch = master
 [submodule "multiverse"]
 	path = mirror/multiverse
 	url = git@github.com:emacsmirror/multiverse.git
