@@ -8511,6 +8511,10 @@
 [submodule "js-doctor"]
 	path = attic/js-doctor
 	url = git@github.com:emacsattic/js-doctor.git
+[submodule "js-import"]
+	path = mirror/js-import
+	url = git@github.com:emacsmirror/js-import.git
+	branch = master
 [submodule "js-lookup"]
 	path = mirror/js-lookup
 	url = git@github.com:emacsmirror/js-lookup.git
