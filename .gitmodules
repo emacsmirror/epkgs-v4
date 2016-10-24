@@ -551,6 +551,7 @@
 [submodule "aria2"]
 	path = mirror/aria2
 	url = git@github.com:emacsmirror/aria2.git
+	branch = master
 [submodule "ariadne"]
 	path = mirror/ariadne
 	url = git@github.com:emacsmirror/ariadne.git
