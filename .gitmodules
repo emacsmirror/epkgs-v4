@@ -12264,9 +12264,6 @@
 [submodule "ponylang-mode"]
 	path = mirror/ponylang-mode
 	url = git@github.com:emacsmirror/ponylang-mode.git
-[submodule "poor-mans-bidi"]
-	path = attic/poor-mans-bidi
-	url = git@github.com:emacsattic/poor-mans-bidi.git
 [submodule "pop-help-mode"]
 	path = mirror/pop-help-mode
 	url = git@github.com:emacsmirror/pop-help-mode.git
