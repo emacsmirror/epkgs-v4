@@ -638,6 +638,10 @@
 [submodule "atom-syndication"]
 	path = mirror/atom-syndication
 	url = git@github.com:emacsmirror/atom-syndication.git
+[submodule "atomic-chrome"]
+	path = mirror/atomic-chrome
+	url = git@github.com:emacsmirror/atomic-chrome.git
+	branch = master
 [submodule "atompub"]
 	path = attic/atompub
 	url = git@github.com:emacsattic/atompub.git
@@ -2561,9 +2565,6 @@
 [submodule "css-helper"]
 	path = mirror/css-helper
 	url = git@github.com:emacsmirror/css-helper.git
-[submodule "cssfmt"]
-	path = mirror/cssfmt
-	url = git@github.com:emacsmirror/cssfmt.git
 [submodule "cssh"]
 	path = mirror/cssh
 	url = git@github.com:emacsmirror/cssh.git
@@ -7141,6 +7142,10 @@
 [submodule "helm-qiita"]
 	path = mirror/helm-qiita
 	url = git@github.com:emacsmirror/helm-qiita.git
+	branch = master
+[submodule "helm-rage"]
+	path = mirror/helm-rage
+	url = git@github.com:emacsmirror/helm-rage.git
 	branch = master
 [submodule "helm-rails"]
 	path = mirror/helm-rails
@@ -14418,6 +14423,10 @@
 [submodule "sml-mode"]
 	path = mirror/sml-mode
 	url = git@github.com:emacsmirror/sml-mode.git
+[submodule "smmry"]
+	path = mirror/smmry
+	url = git@github.com:emacsmirror/smmry.git
+	branch = master
 [submodule "smooth-scroll"]
 	path = mirror/smooth-scroll
 	url = git@github.com:emacsmirror/smooth-scroll.git
@@ -14857,6 +14866,10 @@
 [submodule "stupid-indent-mode"]
 	path = mirror/stupid-indent-mode
 	url = git@github.com:emacsmirror/stupid-indent-mode.git
+[submodule "stylefmt"]
+	path = mirror/stylefmt
+	url = git@github.com:emacsmirror/stylefmt.git
+	branch = master
 [submodule "subedit"]
 	path = mirror/subedit
 	url = git@github.com:emacsmirror/subedit.git
