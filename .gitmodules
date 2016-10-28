@@ -1783,6 +1783,9 @@
 [submodule "cexp"]
 	path = mirror/cexp
 	url = git@github.com:emacsmirror/cexp.git
+[submodule "cfengine-code-style"]
+	path = mirror/cfengine-code-style
+	url = git@github.com:emacsmirror/cfengine-code-style.git
 [submodule "cff"]
 	path = mirror/cff
 	url = git@github.com:emacsmirror/cff.git
@@ -2120,6 +2123,9 @@
 [submodule "cmake-ide"]
 	path = mirror/cmake-ide
 	url = git@github.com:emacsmirror/cmake-ide.git
+[submodule "cmake-mode"]
+	path = mirror/cmake-mode
+	url = git@github.com:emacsmirror/cmake-mode.git
 [submodule "cmake-project"]
 	path = mirror/cmake-project
 	url = git@github.com:emacsmirror/cmake-project.git
@@ -2841,6 +2847,9 @@
 [submodule "cypher-mode"]
 	path = mirror/cypher-mode
 	url = git@github.com:emacsmirror/cypher-mode.git
+[submodule "cython-mode"]
+	path = mirror/cython-mode
+	url = git@github.com:emacsmirror/cython-mode.git
 [submodule "czech-holidays"]
 	path = mirror/czech-holidays
 	url = git@github.com:emacsmirror/czech-holidays.git
@@ -6667,6 +6676,9 @@
 [submodule "google"]
 	path = mirror/google
 	url = git@github.com:emacsmirror/google.git
+[submodule "google-c-style"]
+	path = mirror/google-c-style
+	url = git@github.com:emacsmirror/google-c-style.git
 [submodule "google-calendar"]
 	path = mirror/google-calendar
 	url = git@github.com:emacsmirror/google-calendar.git
@@ -10973,6 +10985,9 @@
 [submodule "nimrod-mode"]
 	path = mirror/nimrod-mode
 	url = git@github.com:emacsmirror/nimrod-mode.git
+[submodule "ninja-mode"]
+	path = mirror/ninja-mode
+	url = git@github.com:emacsmirror/ninja-mode.git
 [submodule "nix-buffer"]
 	path = mirror/nix-buffer
 	url = git@github.com:emacsmirror/nix-buffer.git
@@ -12698,6 +12713,9 @@
 [submodule "pmdm"]
 	path = mirror/pmdm
 	url = git@github.com:emacsmirror/pmdm.git
+[submodule "po-mode"]
+	path = mirror/po-mode
+	url = git@github.com:emacsmirror/po-mode.git
 [submodule "pocket-api"]
 	path = mirror/pocket-api
 	url = git@github.com:emacsmirror/pocket-api.git
@@ -13177,6 +13195,9 @@
 [submodule "pyimpsort"]
 	path = mirror/pyimpsort
 	url = git@github.com:emacsmirror/pyimpsort.git
+[submodule "pylint"]
+	path = mirror/pylint
+	url = git@github.com:emacsmirror/pylint.git
 [submodule "pylit"]
 	path = mirror/pylit
 	url = git@github.com:emacsmirror/pylit.git
@@ -16083,6 +16104,9 @@
 	path = mirror/threes
 	url = git@github.com:emacsmirror/threes.git
 	branch = master
+[submodule "thrift"]
+	path = mirror/thrift
+	url = git@github.com:emacsmirror/thrift.git
 [submodule "thrift-mode"]
 	path = mirror/thrift-mode
 	url = git@github.com:emacsmirror/thrift-mode.git
@@ -17414,6 +17438,9 @@
 [submodule "wisi"]
 	path = mirror/wisi
 	url = git@github.com:emacsmirror/wisi.git
+[submodule "wisp-mode"]
+	path = mirror/wisp-mode
+	url = git@github.com:emacsmirror/wisp-mode.git
 [submodule "wispjs-mode"]
 	path = mirror/wispjs-mode
 	url = git@github.com:emacsmirror/wispjs-mode.git
