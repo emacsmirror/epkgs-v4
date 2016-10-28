@@ -2135,6 +2135,10 @@
 [submodule "cmds-menu"]
 	path = mirror/cmds-menu
 	url = git@github.com:emacsmirror/cmds-menu.git
+[submodule "cmm-mode"]
+	path = mirror/cmm-mode
+	url = git@github.com:emacsmirror/cmm-mode.git
+	branch = master
 [submodule "cmucl-wire"]
 	path = mirror/cmucl-wire
 	url = git@github.com:emacsmirror/cmucl-wire.git
