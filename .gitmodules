@@ -938,10 +938,6 @@
 [submodule "avenue-mode"]
 	path = mirror/avenue-mode
 	url = git@github.com:emacsmirror/avenue-mode.git
-[submodule "avk-emacs-themes"]
-	path = mirror/avk-emacs-themes
-	url = git@github.com:emacsmirror/avk-emacs-themes.git
-	branch = master
 [submodule "avmmf"]
 	path = mirror/avmmf
 	url = git@github.com:emacsmirror/avmmf.git
@@ -5190,10 +5186,6 @@
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = git@github.com:emacsmirror/fancy-narrow.git
-[submodule "farmhouse-theme"]
-	path = mirror/farmhouse-theme
-	url = git@github.com:emacsmirror/farmhouse-theme.git
-	branch = master
 [submodule "fasd"]
 	path = mirror/fasd
 	url = git@github.com:emacsmirror/fasd.git
