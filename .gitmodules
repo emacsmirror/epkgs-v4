@@ -142,6 +142,10 @@
 [submodule "ac-racer"]
 	path = mirror/ac-racer
 	url = git@github.com:emacsmirror/ac-racer.git
+[submodule "ac-skk"]
+	path = mirror/ac-skk
+	url = git@github.com:emacsmirror/ac-skk.git
+	branch = master
 [submodule "ac-slime"]
 	path = mirror/ac-slime
 	url = git@github.com:emacsmirror/ac-slime.git
@@ -526,6 +530,10 @@
 [submodule "apache-mode"]
 	path = mirror/apache-mode
 	url = git@github.com:emacsmirror/apache-mode.git
+[submodule "apel"]
+	path = mirror/apel
+	url = git@github.com:emacsmirror/apel.git
+	branch = master
 [submodule "aplac-mode"]
 	path = attic/aplac-mode
 	url = git@github.com:emacsattic/aplac-mode.git
@@ -5544,6 +5552,10 @@
 [submodule "flex-isearch"]
 	path = mirror/flex-isearch
 	url = git@github.com:emacsmirror/flex-isearch.git
+[submodule "flim"]
+	path = mirror/flim
+	url = git@github.com:emacsmirror/flim.git
+	branch = master
 [submodule "flimenu"]
 	path = mirror/flimenu
 	url = git@github.com:emacsmirror/flimenu.git
@@ -8090,6 +8102,10 @@
 [submodule "ido-select-window"]
 	path = mirror/ido-select-window
 	url = git@github.com:emacsmirror/ido-select-window.git
+[submodule "ido-skk"]
+	path = mirror/ido-skk
+	url = git@github.com:emacsmirror/ido-skk.git
+	branch = master
 [submodule "ido-sort-mtime"]
 	path = mirror/ido-sort-mtime
 	url = git@github.com:emacsmirror/ido-sort-mtime.git
@@ -10594,6 +10610,10 @@
 [submodule "mu"]
 	path = mirror/mu
 	url = git@github.com:emacsmirror/mu.git
+[submodule "mu-cite"]
+	path = mirror/mu-cite
+	url = git@github.com:emacsmirror/mu-cite.git
+	branch = master
 [submodule "mu4e"]
 	path = mirror/mu4e
 	url = git@github.com:emacsmirror/mu4e.git
@@ -14401,6 +14421,10 @@
 [submodule "selftest"]
 	path = mirror/selftest
 	url = git@github.com:emacsmirror/selftest.git
+[submodule "semi"]
+	path = mirror/semi
+	url = git@github.com:emacsmirror/semi.git
+	branch = master
 [submodule "semibalanced"]
 	path = attic/semibalanced
 	url = git@github.com:emacsattic/semibalanced.git
@@ -18040,3 +18064,11 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "wanderlust"]
+	path = mirror/wanderlust
+	url = git@github.com:emacsmirror/wanderlust.git
+	branch = master
+[submodule "ddskk"]
+	path = mirror/ddskk
+	url = git@github.com:emacsmirror/ddskk.git
+	branch = master
