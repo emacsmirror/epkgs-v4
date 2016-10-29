@@ -2227,6 +2227,10 @@
 [submodule "color-theme-approximate"]
 	path = mirror/color-theme-approximate
 	url = git@github.com:emacsmirror/color-theme-approximate.git
+[submodule "color-theme-modern"]
+	path = mirror/color-theme-modern
+	url = git@github.com:emacsmirror/color-theme-modern.git
+	branch = master
 [submodule "color-theme-sanityinc-solarized"]
 	path = mirror/color-theme-sanityinc-solarized
 	url = git@github.com:emacsmirror/color-theme-sanityinc-solarized.git
@@ -10916,6 +10920,9 @@
 [submodule "ne2wm"]
 	path = mirror/ne2wm
 	url = git@github.com:emacsmirror/ne2wm.git
+[submodule "nemerle"]
+	path = mirror/nemerle
+	url = git@github.com:emacsmirror/nemerle.git
 [submodule "neon-mode"]
 	path = mirror/neon-mode
 	url = git@github.com:emacsmirror/neon-mode.git
@@ -11066,6 +11073,10 @@
 [submodule "noccur"]
 	path = mirror/noccur
 	url = git@github.com:emacsmirror/noccur.git
+[submodule "noctilux-theme"]
+	path = mirror/noctilux-theme
+	url = git@github.com:emacsmirror/noctilux-theme.git
+	branch = master
 [submodule "node-console"]
 	path = mirror/node-console
 	url = git@github.com:emacsmirror/node-console.git
@@ -12494,6 +12505,10 @@
 [submodule "pgsrc"]
 	path = mirror/pgsrc
 	url = git@github.com:emacsmirror/pgsrc.git
+[submodule "ph"]
+	path = mirror/ph
+	url = git@github.com:emacsmirror/ph.git
+	branch = master
 [submodule "phabricator"]
 	path = mirror/phabricator
 	url = git@github.com:emacsmirror/phabricator.git
@@ -14364,6 +14379,10 @@
 [submodule "scroll-restore"]
 	path = mirror/scroll-restore
 	url = git@github.com:emacsmirror/scroll-restore.git
+[submodule "scrooge"]
+	path = mirror/scrooge
+	url = git@github.com:emacsmirror/scrooge.git
+	branch = master
 [submodule "scrum"]
 	path = mirror/scrum
 	url = git@github.com:emacsmirror/scrum.git
