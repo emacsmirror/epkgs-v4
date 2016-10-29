@@ -3008,6 +3008,10 @@
 [submodule "ddl-mode"]
 	path = mirror/ddl-mode
 	url = git@github.com:emacsmirror/ddl-mode.git
+[submodule "ddskk"]
+	path = mirror/ddskk
+	url = git@github.com:emacsmirror/ddskk.git
+	branch = master
 [submodule "debbugs"]
 	path = mirror/debbugs
 	url = git@github.com:emacsmirror/debbugs.git
@@ -14583,9 +14587,9 @@
 [submodule "shelltest-mode"]
 	path = mirror/shelltest-mode
 	url = git@github.com:emacsmirror/shelltest-mode.git
-[submodule "shen"]
-	path = mirror/shen
-	url = git@github.com:emacsmirror/shen.git
+[submodule "shen-elisp"]
+	path = mirror/shen-elisp
+	url = git@github.com:emacsmirror/shen-elisp.git
 	branch = master
 [submodule "shen-mode"]
 	path = mirror/shen-mode
@@ -17139,6 +17143,10 @@
 [submodule "wandbox"]
 	path = mirror/wandbox
 	url = git@github.com:emacsmirror/wandbox.git
+[submodule "wanderlust"]
+	path = mirror/wanderlust
+	url = git@github.com:emacsmirror/wanderlust.git
+	branch = master
 [submodule "warlord"]
 	path = mirror/warlord
 	url = git@github.com:emacsmirror/warlord.git
@@ -18064,11 +18072,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "wanderlust"]
-	path = mirror/wanderlust
-	url = git@github.com:emacsmirror/wanderlust.git
-	branch = master
-[submodule "ddskk"]
-	path = mirror/ddskk
-	url = git@github.com:emacsmirror/ddskk.git
-	branch = master
