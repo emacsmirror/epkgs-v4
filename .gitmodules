@@ -229,6 +229,10 @@
 	path = mirror/ada-mode
 	url = git@github.com:emacsmirror/ada-mode.git
 	branch = master
+[submodule "ada-ref-man"]
+	path = mirror/ada-ref-man
+	url = git@github.com:emacsmirror/ada-ref-man.git
+	branch = master
 [submodule "adaptive-wrap"]
 	path = mirror/adaptive-wrap
 	url = git@github.com:emacsmirror/adaptive-wrap.git
@@ -12151,6 +12155,10 @@
 	path = mirror/package-filter
 	url = git@github.com:emacsmirror/package-filter.git
 	branch = master
+[submodule "package-fixes"]
+	path = mirror/package-fixes
+	url = git@github.com:emacsmirror/package-fixes.git
+	branch = master
 [submodule "package-lint"]
 	path = mirror/package-lint
 	url = git@github.com:emacsmirror/package-lint.git
@@ -16735,6 +16743,10 @@
 [submodule "unfill"]
 	path = mirror/unfill
 	url = git@github.com:emacsmirror/unfill.git
+[submodule "uni-confusables"]
+	path = mirror/uni-confusables
+	url = git@github.com:emacsmirror/uni-confusables.git
+	branch = master
 [submodule "unibasic"]
 	path = attic/unibasic
 	url = git@github.com:emacsattic/unibasic.git
