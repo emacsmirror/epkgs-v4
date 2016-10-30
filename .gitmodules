@@ -1368,6 +1368,10 @@
 [submodule "bookmark-search"]
 	path = attic/bookmark-search
 	url = git@github.com:emacsattic/bookmark-search.git
+[submodule "bool-flip"]
+	path = mirror/bool-flip
+	url = git@github.com:emacsmirror/bool-flip.git
+	branch = master
 [submodule "boon"]
 	path = mirror/boon
 	url = git@github.com:emacsmirror/boon.git
@@ -4699,6 +4703,10 @@
 [submodule "ert-modeline"]
 	path = mirror/ert-modeline
 	url = git@github.com:emacsmirror/ert-modeline.git
+[submodule "ert-runner"]
+	path = mirror/ert-runner
+	url = git@github.com:emacsmirror/ert-runner.git
+	branch = master
 [submodule "ertorrent"]
 	path = mirror/ertorrent
 	url = git@github.com:emacsmirror/ertorrent.git
@@ -12121,6 +12129,10 @@
 	path = mirror/package-demo
 	url = git@github.com:emacsmirror/package-demo.git
 	branch = master
+[submodule "package-filter"]
+	path = mirror/package-filter
+	url = git@github.com:emacsmirror/package-filter.git
+	branch = master
 [submodule "package-lint"]
 	path = mirror/package-lint
 	url = git@github.com:emacsmirror/package-lint.git
@@ -13417,6 +13429,10 @@
 [submodule "rails-test-toggler"]
 	path = mirror/rails-test-toggler
 	url = git@github.com:emacsmirror/rails-test-toggler.git
+[submodule "railscasts-reloaded-theme"]
+	path = mirror/railscasts-reloaded-theme
+	url = git@github.com:emacsmirror/railscasts-reloaded-theme.git
+	branch = master
 [submodule "railscasts-theme"]
 	path = mirror/railscasts-theme
 	url = git@github.com:emacsmirror/railscasts-theme.git
@@ -14293,6 +14309,10 @@
 [submodule "school-points-off"]
 	path = mirror/school-points-off
 	url = git@github.com:emacsmirror/school-points-off.git
+[submodule "schrute"]
+	path = mirror/schrute
+	url = git@github.com:emacsmirror/schrute.git
+	branch = master
 [submodule "scim-bridge"]
 	path = attic/scim-bridge
 	url = git@github.com:emacsattic/scim-bridge.git
