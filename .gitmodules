@@ -516,6 +516,10 @@
 [submodule "anything-milkode"]
 	path = mirror/anything-milkode
 	url = git@github.com:emacsmirror/anything-milkode.git
+[submodule "anything-project"]
+	path = mirror/anything-project
+	url = git@github.com:emacsmirror/anything-project.git
+	branch = master
 [submodule "anything-replace-string"]
 	path = mirror/anything-replace-string
 	url = git@github.com:emacsmirror/anything-replace-string.git
@@ -1911,6 +1915,10 @@
 [submodule "chinese-pyim-greatdict"]
 	path = mirror/chinese-pyim-greatdict
 	url = git@github.com:emacsmirror/chinese-pyim-greatdict.git
+	branch = master
+[submodule "chinese-pyim-wbdict"]
+	path = mirror/chinese-pyim-wbdict
+	url = git@github.com:emacsmirror/chinese-pyim-wbdict.git
 	branch = master
 [submodule "chinese-remote-input"]
 	path = mirror/chinese-remote-input
@@ -4009,6 +4017,14 @@
 [submodule "eimp"]
 	path = mirror/eimp
 	url = git@github.com:emacsmirror/eimp.git
+[submodule "ein"]
+	path = mirror/ein
+	url = git@github.com:emacsmirror/ein.git
+	branch = master
+[submodule "ein-mumamo"]
+	path = mirror/ein-mumamo
+	url = git@github.com:emacsmirror/ein-mumamo.git
+	branch = master
 [submodule "eink-theme"]
 	path = mirror/eink-theme
 	url = git@github.com:emacsmirror/eink-theme.git
@@ -5603,6 +5619,10 @@
 [submodule "flobl"]
 	path = mirror/flobl
 	url = git@github.com:emacsmirror/flobl.git
+[submodule "floobits"]
+	path = mirror/floobits
+	url = git@github.com:emacsmirror/floobits.git
+	branch = master
 [submodule "flowtimer"]
 	path = mirror/flowtimer
 	url = git@github.com:emacsmirror/flowtimer.git
@@ -5842,6 +5862,9 @@
 [submodule "flymake-less"]
 	path = mirror/flymake-less
 	url = git@github.com:emacsmirror/flymake-less.git
+[submodule "flymake-lua"]
+	path = mirror/flymake-lua
+	url = git@github.com:emacsmirror/flymake-lua.git
 [submodule "flymake-perlcritic"]
 	path = mirror/flymake-perlcritic
 	url = git@github.com:emacsmirror/flymake-perlcritic.git
@@ -6837,6 +6860,10 @@
 	path = mirror/grandshell-theme
 	url = git@github.com:emacsmirror/grandshell-theme.git
 	branch = master
+[submodule "graphene"]
+	path = mirror/graphene
+	url = git@github.com:emacsmirror/graphene.git
+	branch = master
 [submodule "graphene-meta-theme"]
 	path = mirror/graphene-meta-theme
 	url = git@github.com:emacsmirror/graphene-meta-theme.git
@@ -7004,6 +7031,10 @@
 [submodule "gwizard"]
 	path = attic/gwizard
 	url = git@github.com:emacsattic/gwizard.git
+[submodule "gxref"]
+	path = mirror/gxref
+	url = git@github.com:emacsmirror/gxref.git
+	branch = master
 [submodule "h2o"]
 	path = mirror/h2o
 	url = git@github.com:emacsmirror/h2o.git
@@ -9570,6 +9601,10 @@
 [submodule "literate-coffee-mode"]
 	path = mirror/literate-coffee-mode
 	url = git@github.com:emacsmirror/literate-coffee-mode.git
+[submodule "literate-starter-kit"]
+	path = mirror/literate-starter-kit
+	url = git@github.com:emacsmirror/literate-starter-kit.git
+	branch = master
 [submodule "litprog"]
 	path = attic/litprog
 	url = git@github.com:emacsattic/litprog.git
@@ -9928,6 +9963,10 @@
 [submodule "makey"]
 	path = mirror/makey
 	url = git@github.com:emacsmirror/makey.git
+[submodule "malabar-mode"]
+	path = mirror/malabar-mode
+	url = git@github.com:emacsmirror/malabar-mode.git
+	branch = master
 [submodule "malinka"]
 	path = mirror/malinka
 	url = git@github.com:emacsmirror/malinka.git
@@ -10060,6 +10099,10 @@
 [submodule "maths-menu"]
 	path = mirror/maths-menu
 	url = git@github.com:emacsmirror/maths-menu.git
+[submodule "matlab-mode"]
+	path = mirror/matlab-mode
+	url = git@github.com:emacsmirror/matlab-mode.git
+	branch = master
 [submodule "matlab-publish"]
 	path = attic/matlab-publish
 	url = git@github.com:emacsattic/matlab-publish.git
@@ -11228,6 +11271,10 @@
 [submodule "nvm"]
 	path = mirror/nvm
 	url = git@github.com:emacsmirror/nvm.git
+[submodule "nxhtml"]
+	path = mirror/nxhtml
+	url = git@github.com:emacsmirror/nxhtml.git
+	branch = master
 [submodule "nyan-mode"]
 	path = mirror/nyan-mode
 	url = git@github.com:emacsmirror/nyan-mode.git
@@ -12458,6 +12505,10 @@
 [submodule "perkymbf"]
 	path = attic/perkymbf
 	url = git@github.com:emacsattic/perkymbf.git
+[submodule "perl-completion"]
+	path = mirror/perl-completion
+	url = git@github.com:emacsmirror/perl-completion.git
+	branch = master
 [submodule "perl-find-library"]
 	path = mirror/perl-find-library
 	url = git@github.com:emacsmirror/perl-find-library.git
@@ -12591,6 +12642,10 @@
 [submodule "phonetic"]
 	path = mirror/phonetic
 	url = git@github.com:emacsmirror/phonetic.git
+[submodule "php+-mode"]
+	path = mirror/php+-mode
+	url = git@github.com:emacsmirror/php-plus-mode.git
+	branch = master
 [submodule "php-auto-yasnippets"]
 	path = mirror/php-auto-yasnippets
 	url = git@github.com:emacsmirror/php-auto-yasnippets.git
@@ -13068,6 +13123,10 @@
 [submodule "projekt"]
 	path = mirror/projekt
 	url = git@github.com:emacsmirror/projekt.git
+[submodule "projmake-mode"]
+	path = mirror/projmake-mode
+	url = git@github.com:emacsmirror/projmake-mode.git
+	branch = master
 [submodule "projman"]
 	path = mirror/projman
 	url = git@github.com:emacsmirror/projman.git
@@ -16941,6 +17000,10 @@
 [submodule "vc-darcs"]
 	path = mirror/vc-darcs
 	url = git@github.com:emacsmirror/vc-darcs.git
+[submodule "vc-fossil"]
+	path = mirror/vc-fossil
+	url = git@github.com:emacsmirror/vc-fossil.git
+	branch = master
 [submodule "vc-hooks+"]
 	path = mirror/vc-hooks+
 	url = git@github.com:emacsmirror/vc-hooks-plus.git
@@ -17120,6 +17183,10 @@
 [submodule "vnesting"]
 	path = mirror/vnesting
 	url = git@github.com:emacsmirror/vnesting.git
+[submodule "voca-builder"]
+	path = mirror/voca-builder
+	url = git@github.com:emacsmirror/voca-builder.git
+	branch = master
 [submodule "volatile-highlights"]
 	path = mirror/volatile-highlights
 	url = git@github.com:emacsmirror/volatile-highlights.git
