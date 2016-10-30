@@ -929,6 +929,9 @@
 [submodule "autosmiley"]
 	path = mirror/autosmiley
 	url = git@github.com:emacsmirror/autosmiley.git
+[submodule "autotest"]
+	path = mirror/autotest
+	url = git@github.com:emacsmirror/autotest.git
 [submodule "autotetris-mode"]
 	path = mirror/autotetris-mode
 	url = git@github.com:emacsmirror/autotetris-mode.git
@@ -2356,6 +2359,10 @@
 [submodule "company-cabal"]
 	path = mirror/company-cabal
 	url = git@github.com:emacsmirror/company-cabal.git
+[submodule "company-coq"]
+	path = mirror/company-coq
+	url = git@github.com:emacsmirror/company-coq.git
+	branch = master
 [submodule "company-dcd"]
 	path = mirror/company-dcd
 	url = git@github.com:emacsmirror/company-dcd.git
@@ -2557,6 +2564,10 @@
 [submodule "copyright-both-ends"]
 	path = mirror/copyright-both-ends
 	url = git@github.com:emacsmirror/copyright-both-ends.git
+[submodule "coq"]
+	path = mirror/coq
+	url = git@github.com:emacsmirror/coq.git
+	branch = master
 [submodule "coq-commenter"]
 	path = mirror/coq-commenter
 	url = git@github.com:emacsmirror/coq-commenter.git
@@ -9573,6 +9584,9 @@
 [submodule "livid-mode"]
 	path = mirror/livid-mode
 	url = git@github.com:emacsmirror/livid-mode.git
+[submodule "llvm-mode"]
+	path = mirror/llvm-mode
+	url = git@github.com:emacsmirror/llvm-mode.git
 [submodule "lmc"]
 	path = mirror/lmc
 	url = git@github.com:emacsmirror/lmc.git
@@ -11639,6 +11653,10 @@
 [submodule "org-dotemacs"]
 	path = mirror/org-dotemacs
 	url = git@github.com:emacsmirror/org-dotemacs.git
+[submodule "org-download"]
+	path = mirror/org-download
+	url = git@github.com:emacsmirror/org-download.git
+	branch = master
 [submodule "org-dp"]
 	path = mirror/org-dp
 	url = git@github.com:emacsmirror/org-dp.git
@@ -15801,6 +15819,9 @@
 [submodule "tabbar-ruler"]
 	path = mirror/tabbar-ruler
 	url = git@github.com:emacsmirror/tabbar-ruler.git
+[submodule "tablegen-mode"]
+	path = mirror/tablegen-mode
+	url = git@github.com:emacsmirror/tablegen-mode.git
 [submodule "tablist"]
 	path = mirror/tablist
 	url = git@github.com:emacsmirror/tablist.git
@@ -16319,6 +16340,9 @@
 [submodule "togetherly"]
 	path = mirror/togetherly
 	url = git@github.com:emacsmirror/togetherly.git
+[submodule "toggle"]
+	path = mirror/toggle
+	url = git@github.com:emacsmirror/toggle.git
 [submodule "toggle-buffer"]
 	path = mirror/toggle-buffer
 	url = git@github.com:emacsmirror/toggle-buffer.git
