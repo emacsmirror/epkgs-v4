@@ -551,6 +551,10 @@
 [submodule "apples-mode"]
 	path = mirror/apples-mode
 	url = git@github.com:emacsmirror/apples-mode.git
+[submodule "applescript-mode"]
+	path = mirror/applescript-mode
+	url = git@github.com:emacsmirror/applescript-mode.git
+	branch = master
 [submodule "application"]
 	path = mirror/application
 	url = git@github.com:emacsmirror/application.git
@@ -1687,6 +1691,10 @@
 [submodule "camelcase-mode"]
 	path = attic/camelcase-mode
 	url = git@github.com:emacsattic/camelcase-mode.git
+[submodule "caml"]
+	path = mirror/caml
+	url = git@github.com:emacsmirror/caml.git
+	branch = master
 [submodule "campfire"]
 	path = mirror/campfire
 	url = git@github.com:emacsmirror/campfire.git
@@ -1815,6 +1823,10 @@
 [submodule "cfs"]
 	path = attic/cfs
 	url = git@github.com:emacsattic/cfs.git
+[submodule "cg"]
+	path = mirror/cg
+	url = git@github.com:emacsmirror/cg.git
+	branch = master
 [submodule "cg-mode"]
 	path = mirror/cg-mode
 	url = git@github.com:emacsmirror/cg-mode.git
@@ -2023,6 +2035,10 @@
 [submodule "claire-mode"]
 	path = mirror/claire-mode
 	url = git@github.com:emacsmirror/claire-mode.git
+[submodule "clang-format"]
+	path = mirror/clang-format
+	url = git@github.com:emacsmirror/clang-format.git
+	branch = master
 [submodule "clang-lookup"]
 	path = mirror/clang-lookup
 	url = git@github.com:emacsmirror/clang-lookup.git
@@ -2243,6 +2259,10 @@
 [submodule "color-mode"]
 	path = attic/color-mode
 	url = git@github.com:emacsattic/color-mode.git
+[submodule "color-theme"]
+	path = mirror/color-theme
+	url = git@github.com:emacsmirror/color-theme.git
+	branch = master
 [submodule "color-theme-approximate"]
 	path = mirror/color-theme-approximate
 	url = git@github.com:emacsmirror/color-theme-approximate.git
@@ -2508,6 +2528,10 @@
 [submodule "config-parser"]
 	path = mirror/config-parser
 	url = git@github.com:emacsmirror/config-parser.git
+[submodule "confluence"]
+	path = mirror/confluence
+	url = git@github.com:emacsmirror/confluence.git
+	branch = master
 [submodule "conjecture-mode"]
 	path = attic/conjecture-mode
 	url = git@github.com:emacsattic/conjecture-mode.git
@@ -2934,6 +2958,10 @@
 [submodule "dar"]
 	path = mirror/dar
 	url = git@github.com:emacsmirror/dar.git
+[submodule "darcsum"]
+	path = mirror/darcsum
+	url = git@github.com:emacsmirror/darcsum.git
+	branch = master
 [submodule "darcula-theme"]
 	path = mirror/darcula-theme
 	url = git@github.com:emacsmirror/darcula-theme.git
@@ -3206,6 +3234,10 @@
 [submodule "diatheke"]
 	path = mirror/diatheke
 	url = git@github.com:emacsmirror/diatheke.git
+[submodule "dic-lookup-w3m"]
+	path = mirror/dic-lookup-w3m
+	url = git@github.com:emacsmirror/dic-lookup-w3m.git
+	branch = master
 [submodule "dict-tree"]
 	path = mirror/dict-tree
 	url = git@github.com:emacsmirror/dict-tree.git
@@ -3447,6 +3479,10 @@
 	path = mirror/distel-completion-lib
 	url = git@github.com:emacsmirror/distel-completion-lib.git
 	branch = master
+[submodule "distinguished-theme"]
+	path = mirror/distinguished-theme
+	url = git@github.com:emacsmirror/distinguished-theme.git
+	branch = develop
 [submodule "ditz"]
 	path = mirror/ditz
 	url = git@github.com:emacsmirror/ditz.git
@@ -5245,6 +5281,10 @@
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = git@github.com:emacsmirror/fancy-narrow.git
+[submodule "farmhouse-theme"]
+	path = mirror/farmhouse-theme
+	url = git@github.com:emacsmirror/farmhouse-theme.git
+	branch = master
 [submodule "fasd"]
 	path = mirror/fasd
 	url = git@github.com:emacsmirror/fasd.git
@@ -7426,6 +7466,10 @@
 [submodule "helm-ls-hg"]
 	path = mirror/helm-ls-hg
 	url = git@github.com:emacsmirror/helm-ls-hg.git
+[submodule "helm-ls-svn"]
+	path = mirror/helm-ls-svn
+	url = git@github.com:emacsmirror/helm-ls-svn.git
+	branch = master
 [submodule "helm-make"]
 	path = mirror/helm-make
 	url = git@github.com:emacsmirror/helm-make.git
@@ -9936,6 +9980,10 @@
 [submodule "main-line"]
 	path = mirror/main-line
 	url = git@github.com:emacsmirror/main-line.git
+[submodule "majapahit-theme"]
+	path = mirror/majapahit-theme
+	url = git@github.com:emacsmirror/majapahit-theme.git
+	branch = master
 [submodule "majordomo"]
 	path = attic/majordomo
 	url = git@github.com:emacsattic/majordomo.git
@@ -10165,6 +10213,10 @@
 [submodule "mdfind"]
 	path = attic/mdfind
 	url = git@github.com:emacsattic/mdfind.git
+[submodule "meacupla-theme"]
+	path = mirror/meacupla-theme
+	url = git@github.com:emacsmirror/meacupla-theme.git
+	branch = master
 [submodule "media-files"]
 	path = attic/media-files
 	url = git@github.com:emacsattic/media-files.git
@@ -11651,6 +11703,10 @@
 [submodule "org-buffers"]
 	path = mirror/org-buffers
 	url = git@github.com:emacsmirror/org-buffers.git
+[submodule "org-bullets"]
+	path = mirror/org-bullets
+	url = git@github.com:emacsmirror/org-bullets.git
+	branch = master
 [submodule "org-caldav"]
 	path = mirror/org-caldav
 	url = git@github.com:emacsmirror/org-caldav.git
@@ -12119,6 +12175,10 @@
 [submodule "ox-clip"]
 	path = mirror/ox-clip
 	url = git@github.com:emacsmirror/ox-clip.git
+	branch = master
+[submodule "ox-gfm"]
+	path = mirror/ox-gfm
+	url = git@github.com:emacsmirror/ox-gfm.git
 	branch = master
 [submodule "ox-html5slide"]
 	path = mirror/ox-html5slide
@@ -13237,6 +13297,10 @@
 [submodule "pungi"]
 	path = mirror/pungi
 	url = git@github.com:emacsmirror/pungi.git
+[submodule "punpun-theme"]
+	path = mirror/punpun-theme
+	url = git@github.com:emacsmirror/punpun-theme.git
+	branch = master
 [submodule "punycode"]
 	path = attic/punycode
 	url = git@github.com:emacsattic/punycode.git
@@ -14184,6 +14248,9 @@
 [submodule "rubocop"]
 	path = mirror/rubocop
 	url = git@github.com:emacsmirror/rubocop.git
+[submodule "ruby-additional"]
+	path = mirror/ruby-additional
+	url = git@github.com:emacsmirror/ruby-additional.git
 [submodule "ruby-block"]
 	path = mirror/ruby-block
 	url = git@github.com:emacsmirror/ruby-block.git
@@ -14193,6 +14260,9 @@
 [submodule "ruby-dev"]
 	path = mirror/ruby-dev
 	url = git@github.com:emacsmirror/ruby-dev.git
+[submodule "ruby-electric"]
+	path = mirror/ruby-electric
+	url = git@github.com:emacsmirror/ruby-electric.git
 [submodule "ruby-end"]
 	path = mirror/ruby-end
 	url = git@github.com:emacsmirror/ruby-end.git
@@ -15268,6 +15338,10 @@
 [submodule "spaceline"]
 	path = mirror/spaceline
 	url = git@github.com:emacsmirror/spaceline.git
+[submodule "spacemacs-theme"]
+	path = mirror/spacemacs-theme
+	url = git@github.com:emacsmirror/spacemacs-theme.git
+	branch = master
 [submodule "spamprobe"]
 	path = mirror/spamprobe
 	url = git@github.com:emacsmirror/spamprobe.git
@@ -15703,6 +15777,10 @@
 [submodule "supertab"]
 	path = attic/supertab
 	url = git@github.com:emacsattic/supertab.git
+[submodule "suscolors-theme"]
+	path = mirror/suscolors-theme
+	url = git@github.com:emacsmirror/suscolors-theme.git
+	branch = master
 [submodule "svg"]
 	path = mirror/svg
 	url = git@github.com:emacsmirror/svg.git
@@ -15943,6 +16021,10 @@
 	path = mirror/tangotango-theme
 	url = git@github.com:emacsmirror/tangotango-theme.git
 	branch = master
+[submodule "tao-theme"]
+	path = mirror/tao-theme
+	url = git@github.com:emacsmirror/tao-theme.git
+	branch = master
 [submodule "tap-mode"]
 	path = mirror/tap-mode
 	url = git@github.com:emacsmirror/tap-mode.git
@@ -16092,6 +16174,10 @@
 [submodule "tempo2"]
 	path = attic/tempo2
 	url = git@github.com:emacsattic/tempo2.git
+[submodule "ten-hundred-mode"]
+	path = mirror/ten-hundred-mode
+	url = git@github.com:emacsmirror/ten-hundred-mode.git
+	branch = master
 [submodule "term+"]
 	path = mirror/term+
 	url = git@github.com:emacsmirror/term-plus.git
@@ -16168,6 +16254,9 @@
 [submodule "tex-math-preview"]
 	path = attic/tex-math-preview
 	url = git@github.com:emacsattic/tex-math-preview.git
+[submodule "tex-smart-umlauts"]
+	path = mirror/tex-smart-umlauts
+	url = git@github.com:emacsmirror/tex-smart-umlauts.git
 [submodule "tex-wcount"]
 	path = attic/tex-wcount
 	url = git@github.com:emacsattic/tex-wcount.git
@@ -16216,6 +16305,10 @@
 [submodule "tfs"]
 	path = mirror/tfs
 	url = git@github.com:emacsmirror/tfs.git
+[submodule "theme-changer"]
+	path = mirror/theme-changer
+	url = git@github.com:emacsmirror/theme-changer.git
+	branch = master
 [submodule "theme-helper"]
 	path = mirror/theme-helper
 	url = git@github.com:emacsmirror/theme-helper.git
@@ -17168,8 +17261,9 @@
 	path = attic/vls
 	url = git@github.com:emacsattic/vls.git
 [submodule "vm"]
-	path = attic/vm
-	url = git@github.com:emacsattic/vm.git
+	path = mirror/vm
+	url = git@github.com:emacsmirror/vm.git
+	branch = master
 [submodule "vm-addons"]
 	path = attic/vm-addons
 	url = git@github.com:emacsattic/vm-addons.git
@@ -17392,6 +17486,10 @@
 [submodule "webjump-plus"]
 	path = attic/webjump-plus
 	url = git@github.com:emacsattic/webjump-plus.git
+[submodule "weblogger"]
+	path = mirror/weblogger
+	url = git@github.com:emacsmirror/weblogger.git
+	branch = master
 [submodule "webmaster-macros"]
 	path = attic/webmaster-macros
 	url = git@github.com:emacsattic/webmaster-macros.git
