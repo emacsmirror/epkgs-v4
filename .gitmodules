@@ -2175,6 +2175,10 @@
 [submodule "cmd-mode"]
 	path = mirror/cmd-mode
 	url = git@github.com:emacsmirror/cmd-mode.git
+[submodule "cmd-to-echo"]
+	path = mirror/cmd-to-echo
+	url = git@github.com:emacsmirror/cmd-to-echo.git
+	branch = master
 [submodule "cmds-menu"]
 	path = mirror/cmds-menu
 	url = git@github.com:emacsmirror/cmds-menu.git
@@ -7993,6 +7997,10 @@
 [submodule "html-sizes"]
 	path = attic/html-sizes
 	url = git@github.com:emacsattic/html-sizes.git
+[submodule "html-to-hiccup"]
+	path = mirror/html-to-hiccup
+	url = git@github.com:emacsmirror/html-to-hiccup.git
+	branch = master
 [submodule "html-to-markdown"]
 	path = mirror/html-to-markdown
 	url = git@github.com:emacsmirror/html-to-markdown.git
@@ -12624,6 +12632,10 @@
 [submodule "persistent-soft"]
 	path = mirror/persistent-soft
 	url = git@github.com:emacsmirror/persistent-soft.git
+[submodule "persp-fr"]
+	path = mirror/persp-fr
+	url = git@github.com:emacsmirror/persp-fr.git
+	branch = master
 [submodule "persp-mode"]
 	path = mirror/persp-mode
 	url = git@github.com:emacsmirror/persp-mode.git
@@ -17765,6 +17777,10 @@
 [submodule "word-wrap"]
 	path = attic/word-wrap
 	url = git@github.com:emacsattic/word-wrap.git
+[submodule "wordgen"]
+	path = mirror/wordgen
+	url = git@github.com:emacsmirror/wordgen.git
+	branch = master
 [submodule "wordnik"]
 	path = mirror/wordnik
 	url = git@github.com:emacsmirror/wordnik.git
