@@ -12183,7 +12183,6 @@
 [submodule "ox-clip"]
 	path = mirror/ox-clip
 	url = git@github.com:emacsmirror/ox-clip.git
-	branch = master
 [submodule "ox-gfm"]
 	path = mirror/ox-gfm
 	url = git@github.com:emacsmirror/ox-gfm.git
