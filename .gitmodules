@@ -6106,8 +6106,8 @@
 	path = mirror/frame-fns
 	url = git@github.com:emacsmirror/frame-fns.git
 [submodule "frame-restore"]
-	path = mirror/frame-restore
-	url = git@github.com:emacsmirror/frame-restore.git
+	path = attic/frame-restore
+	url = git@github.com:emacsattic/frame-restore.git
 [submodule "frame-tag"]
 	path = mirror/frame-tag
 	url = git@github.com:emacsmirror/frame-tag.git
