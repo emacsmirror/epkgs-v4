@@ -3702,6 +3702,9 @@
 [submodule "drupal-spell"]
 	path = mirror/drupal-spell
 	url = git@github.com:emacsmirror/drupal-spell.git
+[submodule "dsvn"]
+	path = mirror/dsvn
+	url = git@github.com:emacsmirror/dsvn.git
 [submodule "dtrace-script-mode"]
 	path = mirror/dtrace-script-mode
 	url = git@github.com:emacsmirror/dtrace-script-mode.git
