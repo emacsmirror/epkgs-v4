@@ -2630,6 +2630,10 @@
 [submodule "couchdb-document-text"]
 	path = mirror/couchdb-document-text
 	url = git@github.com:emacsmirror/couchdb-document-text.git
+[submodule "counsel-bbdb"]
+	path = mirror/counsel-bbdb
+	url = git@github.com:emacsmirror/counsel-bbdb.git
+	branch = master
 [submodule "counsel-dash"]
 	path = mirror/counsel-dash
 	url = git@github.com:emacsmirror/counsel-dash.git
@@ -3078,6 +3082,12 @@
 [submodule "debbugs"]
 	path = mirror/debbugs
 	url = git@github.com:emacsmirror/debbugs.git
+[submodule "debian-bug"]
+	path = mirror/debian-bug
+	url = git@github.com:emacsmirror/debian-bug.git
+[submodule "debian-changelog-mode"]
+	path = mirror/debian-changelog-mode
+	url = git@github.com:emacsmirror/debian-changelog-mode.git
 [submodule "debpaste"]
 	path = mirror/debpaste
 	url = git@github.com:emacsmirror/debpaste.git
@@ -3690,6 +3700,10 @@
 [submodule "drill-instructor-AZIK-force"]
 	path = mirror/drill-instructor-AZIK-force
 	url = git@github.com:emacsmirror/drill-instructor-AZIK-force.git
+[submodule "drone"]
+	path = mirror/drone
+	url = git@github.com:emacsmirror/drone.git
+	branch = master
 [submodule "dropbox"]
 	path = mirror/dropbox
 	url = git@github.com:emacsmirror/dropbox.git
@@ -13174,6 +13188,10 @@
 	path = mirror/projectile-direnv
 	url = git@github.com:emacsmirror/projectile-direnv.git
 	branch = master
+[submodule "projectile-git-autofetch"]
+	path = mirror/projectile-git-autofetch
+	url = git@github.com:emacsmirror/projectile-git-autofetch.git
+	branch = master
 [submodule "projectile-hanami"]
 	path = mirror/projectile-hanami
 	url = git@github.com:emacsmirror/projectile-hanami.git
@@ -14158,6 +14176,10 @@
 [submodule "riscv-mode"]
 	path = mirror/riscv-mode
 	url = git@github.com:emacsmirror/riscv-mode.git
+	branch = master
+[submodule "rjsx-mode"]
+	path = mirror/rjsx-mode
+	url = git@github.com:emacsmirror/rjsx-mode.git
 	branch = master
 [submodule "rlpic"]
 	path = attic/rlpic
@@ -16317,6 +16339,10 @@
 [submodule "textsnip"]
 	path = mirror/textsnip
 	url = git@github.com:emacsmirror/textsnip.git
+[submodule "textx-mode"]
+	path = mirror/textx-mode
+	url = git@github.com:emacsmirror/textx-mode.git
+	branch = master
 [submodule "tfs"]
 	path = mirror/tfs
 	url = git@github.com:emacsmirror/tfs.git
@@ -16394,6 +16420,10 @@
 [submodule "tiger"]
 	path = mirror/tiger
 	url = git@github.com:emacsmirror/tiger.git
+[submodule "tile"]
+	path = mirror/tile
+	url = git@github.com:emacsmirror/tile.git
+	branch = master
 [submodule "tiling"]
 	path = mirror/tiling
 	url = git@github.com:emacsmirror/tiling.git
