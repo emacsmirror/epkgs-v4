@@ -17522,8 +17522,8 @@
 	path = mirror/wavefront-obj-mode
 	url = git@github.com:emacsmirror/wavefront-obj-mode.git
 [submodule "wb-line-number"]
-	path = mirror/wb-line-number
-	url = git@github.com:emacsmirror/wb-line-number.git
+	path = attic/wb-line-number
+	url = git@github.com:emacsattic/wb-line-number.git
 [submodule "wc"]
 	path = mirror/wc
 	url = git@github.com:emacsmirror/wc.git
