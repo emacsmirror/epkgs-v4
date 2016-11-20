@@ -2784,6 +2784,7 @@
 [submodule "csv"]
 	path = mirror/csv
 	url = git@github.com:emacsmirror/csv.git
+	branch = master
 [submodule "csv-mode"]
 	path = mirror/csv-mode
 	url = git@github.com:emacsmirror/csv-mode.git
@@ -15770,8 +15771,9 @@
 	path = mirror/sudo-save
 	url = git@github.com:emacsmirror/sudo-save.git
 [submodule "sudoku"]
-	path = attic/sudoku
-	url = git@github.com:emacsattic/sudoku.git
+	path = mirror/sudoku
+	url = git@github.com:emacsmirror/sudoku.git
+	branch = master
 [submodule "suggbind"]
 	path = mirror/suggbind
 	url = git@github.com:emacsmirror/suggbind.git
