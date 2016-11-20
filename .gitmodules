@@ -348,6 +348,10 @@
 	path = mirror/all-the-icons
 	url = git@github.com:emacsmirror/all-the-icons.git
 	branch = master
+[submodule "all-the-icons-dired"]
+	path = mirror/all-the-icons-dired
+	url = git@github.com:emacsmirror/all-the-icons-dired.git
+	branch = master
 [submodule "alore-mode"]
 	path = mirror/alore-mode
 	url = git@github.com:emacsmirror/alore-mode.git
@@ -2964,6 +2968,10 @@
 	path = mirror/danneskjold-theme
 	url = git@github.com:emacsmirror/danneskjold-theme.git
 	branch = master
+[submodule "dante"]
+	path = mirror/dante
+	url = git@github.com:emacsmirror/dante.git
+	branch = master
 [submodule "dar"]
 	path = mirror/dar
 	url = git@github.com:emacsmirror/dar.git
@@ -2986,6 +2994,10 @@
 [submodule "dark-souls"]
 	path = mirror/dark-souls
 	url = git@github.com:emacsmirror/dark-souls.git
+[submodule "darkane-theme"]
+	path = mirror/darkane-theme
+	url = git@github.com:emacsmirror/darkane-theme.git
+	branch = master
 [submodule "darkburn-theme"]
 	path = mirror/darkburn-theme
 	url = git@github.com:emacsmirror/darkburn-theme.git
@@ -3023,6 +3035,10 @@
 [submodule "dash-outline-mode"]
 	path = attic/dash-outline-mode
 	url = git@github.com:emacsattic/dash-outline-mode.git
+[submodule "dashboard"]
+	path = mirror/dashboard
+	url = git@github.com:emacsmirror/dashboard.git
+	branch = master
 [submodule "date-at-point"]
 	path = mirror/date-at-point
 	url = git@github.com:emacsmirror/date-at-point.git
@@ -4477,6 +4493,10 @@
 	path = mirror/emir
 	url = git@github.com:emacsmirror/emir.git
 	branch = master
+[submodule "emlib"]
+	path = mirror/emlib
+	url = git@github.com:emacsmirror/emlib.git
+	branch = master
 [submodule "emmental"]
 	path = mirror/emmental
 	url = git@github.com:emacsmirror/emmental.git
@@ -5691,6 +5711,10 @@
 [submodule "fluiddb"]
 	path = mirror/fluiddb
 	url = git@github.com:emacsmirror/fluiddb.git
+[submodule "fluxus-mode"]
+	path = mirror/fluxus-mode
+	url = git@github.com:emacsmirror/fluxus-mode.git
+	branch = master
 [submodule "flx"]
 	path = mirror/flx
 	url = git@github.com:emacsmirror/flx.git
@@ -5746,6 +5770,10 @@
 [submodule "flycheck-dedukti"]
 	path = mirror/flycheck-dedukti
 	url = git@github.com:emacsmirror/flycheck-dedukti.git
+[submodule "flycheck-demjsonlint"]
+	path = mirror/flycheck-demjsonlint
+	url = git@github.com:emacsmirror/flycheck-demjsonlint.git
+	branch = master
 [submodule "flycheck-dialyzer"]
 	path = mirror/flycheck-dialyzer
 	url = git@github.com:emacsmirror/flycheck-dialyzer.git
@@ -5837,6 +5865,10 @@
 [submodule "flycheck-rust"]
 	path = mirror/flycheck-rust
 	url = git@github.com:emacsmirror/flycheck-rust.git
+[submodule "flycheck-scala-sbt"]
+	path = mirror/flycheck-scala-sbt
+	url = git@github.com:emacsmirror/flycheck-scala-sbt.git
+	branch = master
 [submodule "flycheck-stack"]
 	path = mirror/flycheck-stack
 	url = git@github.com:emacsmirror/flycheck-stack.git
@@ -5851,6 +5883,10 @@
 [submodule "flycheck-tip"]
 	path = mirror/flycheck-tip
 	url = git@github.com:emacsmirror/flycheck-tip.git
+[submodule "flycheck-title"]
+	path = mirror/flycheck-title
+	url = git@github.com:emacsmirror/flycheck-title.git
+	branch = master
 [submodule "flycheck-typescript-tslint"]
 	path = mirror/flycheck-typescript-tslint
 	url = git@github.com:emacsmirror/flycheck-typescript-tslint.git
@@ -7268,6 +7304,10 @@
 [submodule "helm-backup"]
 	path = mirror/helm-backup
 	url = git@github.com:emacsmirror/helm-backup.git
+[submodule "helm-bbdb"]
+	path = mirror/helm-bbdb
+	url = git@github.com:emacsmirror/helm-bbdb.git
+	branch = master
 [submodule "helm-bibtex"]
 	path = mirror/helm-bibtex
 	url = git@github.com:emacsmirror/helm-bibtex.git
@@ -7657,6 +7697,10 @@
 [submodule "helm-xcdoc"]
 	path = mirror/helm-xcdoc
 	url = git@github.com:emacsmirror/helm-xcdoc.git
+[submodule "helm-youtube"]
+	path = mirror/helm-youtube
+	url = git@github.com:emacsmirror/helm-youtube.git
+	branch = master
 [submodule "helm-zhihu-daily"]
 	path = mirror/helm-zhihu-daily
 	url = git@github.com:emacsmirror/helm-zhihu-daily.git
@@ -9341,6 +9385,10 @@
 [submodule "langtool"]
 	path = mirror/langtool
 	url = git@github.com:emacsmirror/langtool.git
+[submodule "language-detection"]
+	path = mirror/language-detection
+	url = git@github.com:emacsmirror/language-detection.git
+	branch = master
 [submodule "lat1conv"]
 	path = mirror/lat1conv
 	url = git@github.com:emacsmirror/lat1conv.git
@@ -11708,6 +11756,10 @@
 [submodule "org-autolist"]
 	path = mirror/org-autolist
 	url = git@github.com:emacsmirror/org-autolist.git
+[submodule "org-babel-eval-in-repl"]
+	path = mirror/org-babel-eval-in-repl
+	url = git@github.com:emacsmirror/org-babel-eval-in-repl.git
+	branch = master
 [submodule "org-babel-plugins"]
 	path = attic/org-babel-plugins
 	url = git@github.com:emacsattic/org-babel-plugins.git
@@ -13421,6 +13473,10 @@
 [submodule "pyfmt"]
 	path = mirror/pyfmt
 	url = git@github.com:emacsmirror/pyfmt.git
+[submodule "pygen"]
+	path = mirror/pygen
+	url = git@github.com:emacsmirror/pygen.git
+	branch = master
 [submodule "pyimport"]
 	path = mirror/pyimport
 	url = git@github.com:emacsmirror/pyimport.git
@@ -13944,6 +14000,10 @@
 [submodule "region-bindings-mode"]
 	path = mirror/region-bindings-mode
 	url = git@github.com:emacsmirror/region-bindings-mode.git
+[submodule "region-convert"]
+	path = mirror/region-convert
+	url = git@github.com:emacsmirror/region-convert.git
+	branch = master
 [submodule "region-state"]
 	path = mirror/region-state
 	url = git@github.com:emacsmirror/region-state.git
@@ -17521,6 +17581,10 @@
 [submodule "web-mode"]
 	path = mirror/web-mode
 	url = git@github.com:emacsmirror/web-mode.git
+[submodule "web-mode-edit-element"]
+	path = mirror/web-mode-edit-element
+	url = git@github.com:emacsmirror/web-mode-edit-element.git
+	branch = master
 [submodule "web-server"]
 	path = mirror/web-server
 	url = git@github.com:emacsmirror/web-server.git
@@ -17601,6 +17665,10 @@
 [submodule "whitespace-mode"]
 	path = attic/whitespace-mode
 	url = git@github.com:emacsattic/whitespace-mode.git
+[submodule "whizzml-mode"]
+	path = mirror/whizzml-mode
+	url = git@github.com:emacsmirror/whizzml-mode.git
+	branch = master
 [submodule "whizzytex"]
 	path = attic/whizzytex
 	url = git@github.com:emacsattic/whizzytex.git
