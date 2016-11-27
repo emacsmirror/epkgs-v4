@@ -2642,6 +2642,10 @@
 	path = mirror/counsel-dash
 	url = git@github.com:emacsmirror/counsel-dash.git
 	branch = master
+[submodule "counsel-gtags"]
+	path = mirror/counsel-gtags
+	url = git@github.com:emacsmirror/counsel-gtags.git
+	branch = master
 [submodule "counsel-osx-app"]
 	path = mirror/counsel-osx-app
 	url = git@github.com:emacsmirror/counsel-osx-app.git
@@ -5842,6 +5846,10 @@
 	path = mirror/flycheck-pkg-config
 	url = git@github.com:emacsmirror/flycheck-pkg-config.git
 	branch = master
+[submodule "flycheck-plantuml"]
+	path = mirror/flycheck-plantuml
+	url = git@github.com:emacsmirror/flycheck-plantuml.git
+	branch = master
 [submodule "flycheck-pony"]
 	path = mirror/flycheck-pony
 	url = git@github.com:emacsmirror/flycheck-pony.git
@@ -6928,6 +6936,10 @@
 [submodule "grab-mac-link"]
 	path = mirror/grab-mac-link
 	url = git@github.com:emacsmirror/grab-mac-link.git
+	branch = master
+[submodule "grab-x-link"]
+	path = mirror/grab-x-link
+	url = git@github.com:emacsmirror/grab-x-link.git
 	branch = master
 [submodule "grabbox"]
 	path = mirror/grabbox
