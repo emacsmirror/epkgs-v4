@@ -3999,6 +3999,10 @@
 [submodule "edit-indirect"]
 	path = mirror/edit-indirect
 	url = git@github.com:emacsmirror/edit-indirect.git
+[submodule "edit-indirect-region-latex"]
+	path = mirror/edit-indirect-region-latex
+	url = git@github.com:emacsmirror/edit-indirect-region-latex.git
+	branch = master
 [submodule "edit-list"]
 	path = mirror/edit-list
 	url = git@github.com:emacsmirror/edit-list.git
@@ -5126,6 +5130,10 @@
 [submodule "evil-rebellion"]
 	path = mirror/evil-rebellion
 	url = git@github.com:emacsmirror/evil-rebellion.git
+[submodule "evil-replace-with-register"]
+	path = mirror/evil-replace-with-register
+	url = git@github.com:emacsmirror/evil-replace-with-register.git
+	branch = master
 [submodule "evil-rsi"]
 	path = mirror/evil-rsi
 	url = git@github.com:emacsmirror/evil-rsi.git
