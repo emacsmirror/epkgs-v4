@@ -10128,6 +10128,7 @@
 [submodule "malyon"]
 	path = mirror/malyon
 	url = git@github.com:emacsmirror/malyon.git
+	branch = master
 [submodule "man-commands"]
 	path = mirror/man-commands
 	url = git@github.com:emacsmirror/man-commands.git
