@@ -6395,9 +6395,6 @@
 	path = mirror/general
 	url = git@github.com:emacsmirror/general.git
 	branch = master
-[submodule "general-close"]
-	path = mirror/general-close
-	url = git@github.com:emacsmirror/general-close.git
 [submodule "generic-dl"]
 	path = attic/generic-dl
 	url = git@github.com:emacsattic/generic-dl.git
@@ -16053,6 +16050,10 @@
 [submodule "synquid"]
 	path = mirror/synquid
 	url = git@github.com:emacsmirror/synquid.git
+	branch = master
+[submodule "syntactic-close"]
+	path = mirror/syntactic-close
+	url = git@github.com:emacsmirror/syntactic-close.git
 	branch = master
 [submodule "syntactic-sugar"]
 	path = mirror/syntactic-sugar
