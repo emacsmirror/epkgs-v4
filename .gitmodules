@@ -546,6 +546,10 @@
 	path = mirror/apel
 	url = git@github.com:emacsmirror/apel.git
 	branch = master
+[submodule "apib-mode"]
+	path = mirror/apib-mode
+	url = git@github.com:emacsmirror/apib-mode.git
+	branch = master
 [submodule "aplac-mode"]
 	path = attic/aplac-mode
 	url = git@github.com:emacsattic/aplac-mode.git
@@ -1324,6 +1328,10 @@
 [submodule "bliss-theme"]
 	path = mirror/bliss-theme
 	url = git@github.com:emacsmirror/bliss-theme.git
+	branch = master
+[submodule "bln-mode"]
+	path = mirror/bln-mode
+	url = git@github.com:emacsmirror/bln-mode.git
 	branch = master
 [submodule "blockdiag-mode"]
 	path = mirror/blockdiag-mode
@@ -2589,6 +2597,10 @@
 [submodule "cook-mode"]
 	path = mirror/cook-mode
 	url = git@github.com:emacsmirror/cook-mode.git
+[submodule "copy-as-format"]
+	path = mirror/copy-as-format
+	url = git@github.com:emacsmirror/copy-as-format.git
+	branch = master
 [submodule "copy-chars"]
 	path = attic/copy-chars
 	url = git@github.com:emacsattic/copy-chars.git
@@ -2759,6 +2771,10 @@
 [submodule "csense"]
 	path = attic/csense
 	url = git@github.com:emacsattic/csense.git
+[submodule "csgo-conf-mode"]
+	path = mirror/csgo-conf-mode
+	url = git@github.com:emacsmirror/csgo-conf-mode.git
+	branch = master
 [submodule "csharp-mode"]
 	path = mirror/csharp-mode
 	url = git@github.com:emacsmirror/csharp-mode.git
@@ -8453,6 +8469,10 @@
 [submodule "import-popwin"]
 	path = mirror/import-popwin
 	url = git@github.com:emacsmirror/import-popwin.git
+[submodule "importmagic"]
+	path = mirror/importmagic
+	url = git@github.com:emacsmirror/importmagic.git
+	branch = master
 [submodule "impress"]
 	path = attic/impress
 	url = git@github.com:emacsattic/impress.git
@@ -16306,6 +16326,10 @@
 [submodule "tempo2"]
 	path = attic/tempo2
 	url = git@github.com:emacsattic/tempo2.git
+[submodule "temporary-persistent"]
+	path = mirror/temporary-persistent
+	url = git@github.com:emacsmirror/temporary-persistent.git
+	branch = master
 [submodule "ten-hundred-mode"]
 	path = mirror/ten-hundred-mode
 	url = git@github.com:emacsmirror/ten-hundred-mode.git
@@ -16437,6 +16461,10 @@
 [submodule "textx-mode"]
 	path = mirror/textx-mode
 	url = git@github.com:emacsmirror/textx-mode.git
+	branch = master
+[submodule "tf2-conf-mode"]
+	path = mirror/tf2-conf-mode
+	url = git@github.com:emacsmirror/tf2-conf-mode.git
 	branch = master
 [submodule "tfs"]
 	path = mirror/tfs
@@ -18273,6 +18301,10 @@
 [submodule "yandex-weather"]
 	path = mirror/yandex-weather
 	url = git@github.com:emacsmirror/yandex-weather.git
+[submodule "yang-mode"]
+	path = mirror/yang-mode
+	url = git@github.com:emacsmirror/yang-mode.git
+	branch = master
 [submodule "yank-menu"]
 	path = attic/yank-menu
 	url = git@github.com:emacsattic/yank-menu.git
