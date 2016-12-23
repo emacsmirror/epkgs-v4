@@ -955,6 +955,10 @@
 [submodule "autotetris-mode"]
 	path = mirror/autotetris-mode
 	url = git@github.com:emacsmirror/autotetris-mode.git
+[submodule "autothemer"]
+	path = mirror/autothemer
+	url = git@github.com:emacsmirror/autothemer.git
+	branch = master
 [submodule "autumn-light-theme"]
 	path = mirror/autumn-light-theme
 	url = git@github.com:emacsmirror/autumn-light-theme.git
@@ -1309,6 +1313,10 @@
 [submodule "blackboard-bold-mode"]
 	path = mirror/blackboard-bold-mode
 	url = git@github.com:emacsmirror/blackboard-bold-mode.git
+	branch = master
+[submodule "blackboard-theme"]
+	path = mirror/blackboard-theme
+	url = git@github.com:emacsmirror/blackboard-theme.git
 	branch = master
 [submodule "blackbook"]
 	path = attic/blackbook
@@ -4818,6 +4826,10 @@
 [submodule "erobot"]
 	path = mirror/erobot
 	url = git@github.com:emacsmirror/erobot.git
+[submodule "eros"]
+	path = mirror/eros
+	url = git@github.com:emacsmirror/eros.git
+	branch = master
 [submodule "erp"]
 	path = attic/erp
 	url = git@github.com:emacsattic/erp.git
@@ -5856,6 +5868,10 @@
 [submodule "flycheck-nim"]
 	path = mirror/flycheck-nim
 	url = git@github.com:emacsmirror/flycheck-nim.git
+[submodule "flycheck-objc-clang"]
+	path = mirror/flycheck-objc-clang
+	url = git@github.com:emacsmirror/flycheck-objc-clang.git
+	branch = master
 [submodule "flycheck-ocaml"]
 	path = mirror/flycheck-ocaml
 	url = git@github.com:emacsmirror/flycheck-ocaml.git
@@ -5911,6 +5927,10 @@
 [submodule "flycheck-swift"]
 	path = mirror/flycheck-swift
 	url = git@github.com:emacsmirror/flycheck-swift.git
+	branch = master
+[submodule "flycheck-swift3"]
+	path = mirror/flycheck-swift3
+	url = git@github.com:emacsmirror/flycheck-swift3.git
 	branch = master
 [submodule "flycheck-tip"]
 	path = mirror/flycheck-tip
@@ -8485,6 +8505,10 @@
 [submodule "indent-tabs-maybe"]
 	path = mirror/indent-tabs-maybe
 	url = git@github.com:emacsmirror/indent-tabs-maybe.git
+[submodule "indent-tools"]
+	path = mirror/indent-tools
+	url = git@github.com:emacsmirror/indent-tools.git
+	branch = master
 [submodule "indicate-changes"]
 	path = mirror/indicate-changes
 	url = git@github.com:emacsmirror/indicate-changes.git
@@ -8816,6 +8840,10 @@
 	path = mirror/ivy-purpose
 	url = git@github.com:emacsmirror/ivy-purpose.git
 	branch = master
+[submodule "ivy-rich"]
+	path = mirror/ivy-rich
+	url = git@github.com:emacsmirror/ivy-rich.git
+	branch = master
 [submodule "ivy-xcdoc"]
 	path = mirror/ivy-xcdoc
 	url = git@github.com:emacsmirror/ivy-xcdoc.git
@@ -8872,6 +8900,10 @@
 [submodule "jasminejs-mode"]
 	path = mirror/jasminejs-mode
 	url = git@github.com:emacsmirror/jasminejs-mode.git
+[submodule "jastadd-ast-mode"]
+	path = mirror/jastadd-ast-mode
+	url = git@github.com:emacsmirror/jastadd-ast-mode.git
+	branch = master
 [submodule "jaunte"]
 	path = mirror/jaunte
 	url = git@github.com:emacsmirror/jaunte.git
@@ -9081,6 +9113,10 @@
 [submodule "js-doctor"]
 	path = attic/js-doctor
 	url = git@github.com:emacsattic/js-doctor.git
+[submodule "js-format"]
+	path = mirror/js-format
+	url = git@github.com:emacsmirror/js-format.git
+	branch = master
 [submodule "js-import"]
 	path = mirror/js-import
 	url = git@github.com:emacsmirror/js-import.git
@@ -9903,6 +9939,10 @@
 [submodule "lsl-mode"]
 	path = attic/lsl-mode
 	url = git@github.com:emacsattic/lsl-mode.git
+[submodule "lsp-mode"]
+	path = mirror/lsp-mode
+	url = git@github.com:emacsmirror/lsp-mode.git
+	branch = master
 [submodule "ltsv"]
 	path = mirror/ltsv
 	url = git@github.com:emacsmirror/ltsv.git
@@ -12080,6 +12120,10 @@
 [submodule "org-search-goto-ml"]
 	path = mirror/org-search-goto-ml
 	url = git@github.com:emacsmirror/org-search-goto-ml.git
+[submodule "org-seek"]
+	path = mirror/org-seek
+	url = git@github.com:emacsmirror/org-seek.git
+	branch = master
 [submodule "org-seenthis"]
 	path = mirror/org-seenthis
 	url = git@github.com:emacsmirror/org-seenthis.git
@@ -13568,6 +13612,10 @@
 [submodule "python-pylint"]
 	path = mirror/python-pylint
 	url = git@github.com:emacsmirror/python-pylint.git
+[submodule "python-switch-quotes"]
+	path = mirror/python-switch-quotes
+	url = git@github.com:emacsmirror/python-switch-quotes.git
+	branch = master
 [submodule "python-test"]
 	path = mirror/python-test
 	url = git@github.com:emacsmirror/python-test.git
@@ -17881,6 +17929,10 @@
 [submodule "winsize"]
 	path = attic/winsize
 	url = git@github.com:emacsattic/winsize.git
+[submodule "winum"]
+	path = mirror/winum
+	url = git@github.com:emacsmirror/winum.git
+	branch = master
 [submodule "wipe"]
 	path = mirror/wipe
 	url = git@github.com:emacsmirror/wipe.git
@@ -18090,6 +18142,10 @@
 [submodule "xah-math-input"]
 	path = mirror/xah-math-input
 	url = git@github.com:emacsmirror/xah-math-input.git
+[submodule "xah-reformat-code"]
+	path = mirror/xah-reformat-code
+	url = git@github.com:emacsmirror/xah-reformat-code.git
+	branch = master
 [submodule "xah-replace-pairs"]
 	path = mirror/xah-replace-pairs
 	url = git@github.com:emacsmirror/xah-replace-pairs.git
