@@ -4281,6 +4281,7 @@
 [submodule "elisp-depend"]
 	path = mirror/elisp-depend
 	url = git@github.com:emacsmirror/elisp-depend.git
+	branch = master
 [submodule "elisp-format"]
 	path = mirror/elisp-format
 	url = git@github.com:emacsmirror/elisp-format.git
@@ -5002,8 +5003,9 @@
 	path = mirror/etest
 	url = git@github.com:emacsmirror/etest.git
 [submodule "etexshow"]
-	path = attic/etexshow
-	url = git@github.com:emacsattic/etexshow.git
+	path = mirror/etexshow
+	url = git@github.com:emacsmirror/etexshow.git
+	branch = master
 [submodule "ethan-wspace"]
 	path = mirror/ethan-wspace
 	url = git@github.com:emacsmirror/ethan-wspace.git
@@ -7143,8 +7145,9 @@
 	path = mirror/gst-inspect
 	url = git@github.com:emacsmirror/gst-inspect.git
 [submodule "gtags"]
-	path = attic/gtags
-	url = git@github.com:emacsattic/gtags.git
+	path = mirror/gtags
+	url = git@github.com:emacsmirror/gtags.git
+	branch = master
 [submodule "gtk-look"]
 	path = attic/gtk-look
 	url = git@github.com:emacsattic/gtk-look.git
@@ -9946,8 +9949,9 @@
 	path = mirror/ls-lisp+
 	url = git@github.com:emacsmirror/ls-lisp-plus.git
 [submodule "lsdb"]
-	path = attic/lsdb
-	url = git@github.com:emacsattic/lsdb.git
+	path = mirror/lsdb
+	url = git@github.com:emacsmirror/lsdb.git
+	branch = master
 [submodule "lsl-mode"]
 	path = attic/lsl-mode
 	url = git@github.com:emacsattic/lsl-mode.git
@@ -10124,8 +10128,9 @@
 	path = mirror/mailcap-view
 	url = git@github.com:emacsmirror/mailcap-view.git
 [submodule "mailcrypt"]
-	path = attic/mailcrypt
-	url = git@github.com:emacsattic/mailcrypt.git
+	path = mirror/mailcrypt
+	url = git@github.com:emacsmirror/mailcrypt.git
+	branch = master
 [submodule "maildir"]
 	path = mirror/maildir
 	url = git@github.com:emacsmirror/maildir.git
@@ -12254,8 +12259,9 @@
 	path = mirror/osc
 	url = git@github.com:emacsmirror/osc.git
 [submodule "osd"]
-	path = attic/osd
-	url = git@github.com:emacsattic/osd.git
+	path = mirror/osd
+	url = git@github.com:emacsmirror/osd.git
+	branch = master
 [submodule "osm-mode"]
 	path = mirror/osm-mode
 	url = git@github.com:emacsmirror/osm-mode.git
@@ -15317,8 +15323,8 @@
 	path = mirror/smart-dash
 	url = git@github.com:emacsmirror/smart-dash.git
 [submodule "smart-dnd"]
-	path = attic/smart-dnd
-	url = git@github.com:emacsattic/smart-dnd.git
+	path = mirror/smart-dnd
+	url = git@github.com:emacsmirror/smart-dnd.git
 [submodule "smart-forward"]
 	path = mirror/smart-forward
 	url = git@github.com:emacsmirror/smart-forward.git
@@ -16219,8 +16225,9 @@
 	path = mirror/tags-view
 	url = git@github.com:emacsmirror/tags-view.git
 [submodule "tail"]
-	path = attic/tail
-	url = git@github.com:emacsattic/tail.git
+	path = mirror/tail
+	url = git@github.com:emacsmirror/tail.git
+	branch = master
 [submodule "take-off"]
 	path = mirror/take-off
 	url = git@github.com:emacsmirror/take-off.git
