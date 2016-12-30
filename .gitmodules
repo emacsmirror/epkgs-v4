@@ -1039,6 +1039,10 @@
 [submodule "backups-mode"]
 	path = mirror/backups-mode
 	url = git@github.com:emacsmirror/backups-mode.git
+[submodule "backward-forward"]
+	path = mirror/backward-forward
+	url = git@github.com:emacsmirror/backward-forward.git
+	branch = master
 [submodule "badger-theme"]
 	path = mirror/badger-theme
 	url = git@github.com:emacsmirror/badger-theme.git
@@ -1967,6 +1971,10 @@
 [submodule "chm-view"]
 	path = mirror/chm-view
 	url = git@github.com:emacsmirror/chm-view.git
+[submodule "choice-program"]
+	path = mirror/choice-program
+	url = git@github.com:emacsmirror/choice-program.git
+	branch = master
 [submodule "choose"]
 	path = attic/choose
 	url = git@github.com:emacsattic/choose.git
@@ -2432,6 +2440,10 @@
 [submodule "company-emoji"]
 	path = mirror/company-emoji
 	url = git@github.com:emacsmirror/company-emoji.git
+[submodule "company-erlang"]
+	path = mirror/company-erlang
+	url = git@github.com:emacsmirror/company-erlang.git
+	branch = master
 [submodule "company-ess"]
 	path = mirror/company-ess
 	url = git@github.com:emacsmirror/company-ess.git
@@ -13961,6 +13973,10 @@
 [submodule "realplay"]
 	path = attic/realplay
 	url = git@github.com:emacsattic/realplay.git
+[submodule "rebecca-theme"]
+	path = mirror/rebecca-theme
+	url = git@github.com:emacsmirror/rebecca-theme.git
+	branch = master
 [submodule "rebox2"]
 	path = mirror/rebox2
 	url = git@github.com:emacsmirror/rebox2.git
@@ -14498,6 +14514,10 @@
 [submodule "rust-mode"]
 	path = mirror/rust-mode
 	url = git@github.com:emacsmirror/rust-mode.git
+[submodule "rust-playground"]
+	path = mirror/rust-playground
+	url = git@github.com:emacsmirror/rust-playground.git
+	branch = master
 [submodule "rustfmt"]
 	path = mirror/rustfmt
 	url = git@github.com:emacsmirror/rustfmt.git
