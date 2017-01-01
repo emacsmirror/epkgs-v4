@@ -4336,6 +4336,10 @@
 [submodule "elnode"]
 	path = mirror/elnode
 	url = git@github.com:emacsmirror/elnode.git
+[submodule "elo"]
+	path = mirror/elo
+	url = git@github.com:emacsmirror/elo.git
+	branch = master
 [submodule "elog"]
 	path = mirror/elog
 	url = git@github.com:emacsmirror/elog.git
