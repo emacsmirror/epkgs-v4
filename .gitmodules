@@ -1022,8 +1022,9 @@
 	path = mirror/back-button
 	url = git@github.com:emacsmirror/back-button.git
 [submodule "background"]
-	path = attic/background
-	url = git@github.com:emacsattic/background.git
+	path = mirror/background
+	url = git@github.com:emacsmirror/background.git
+	branch = master
 [submodule "backup"]
 	path = attic/backup
 	url = git@github.com:emacsattic/backup.git
@@ -3940,8 +3941,9 @@
 	path = attic/ecamax
 	url = git@github.com:emacsattic/ecamax.git
 [submodule "ecasound"]
-	path = attic/ecasound
-	url = git@github.com:emacsattic/ecasound.git
+	path = mirror/ecasound
+	url = git@github.com:emacsmirror/ecasound.git
+	branch = master
 [submodule "ecaspace"]
 	path = attic/ecaspace
 	url = git@github.com:emacsattic/ecaspace.git
@@ -10834,8 +10836,9 @@
 	path = mirror/moz-controller
 	url = git@github.com:emacsmirror/moz-controller.git
 [submodule "mozart"]
-	path = attic/mozart
-	url = git@github.com:emacsattic/mozart.git
+	path = mirror/mozart
+	url = git@github.com:emacsmirror/mozart.git
+	branch = master
 [submodule "mozc"]
 	path = mirror/mozc
 	url = git@github.com:emacsmirror/mozc.git
