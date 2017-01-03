@@ -12956,6 +12956,10 @@
 [submodule "pickel"]
 	path = mirror/pickel
 	url = git@github.com:emacsmirror/pickel.git
+[submodule "picolisp"]
+	path = mirror/picolisp
+	url = git@github.com:emacsmirror/picolisp.git
+	branch = master
 [submodule "picolisp-mode"]
 	path = mirror/picolisp-mode
 	url = git@github.com:emacsmirror/picolisp-mode.git
@@ -13914,6 +13918,10 @@
 [submodule "rcirc-ucomplete"]
 	path = mirror/rcirc-ucomplete
 	url = git@github.com:emacsmirror/rcirc-ucomplete.git
+[submodule "rcodetools"]
+	path = mirror/rcodetools
+	url = git@github.com:emacsmirror/rcodetools.git
+	branch = master
 [submodule "rd-mode"]
 	path = mirror/rd-mode
 	url = git@github.com:emacsmirror/rd-mode.git
