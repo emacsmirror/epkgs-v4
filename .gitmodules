@@ -5296,6 +5296,10 @@
 [submodule "extract-ical"]
 	path = mirror/extract-ical
 	url = git@github.com:emacsmirror/extract-ical.git
+[submodule "extract-text"]
+	path = mirror/extract-text
+	url = git@github.com:emacsmirror/extract-text.git
+	branch = master
 [submodule "extview"]
 	path = mirror/extview
 	url = git@github.com:emacsmirror/extview.git
@@ -9340,6 +9344,10 @@
 [submodule "keywiz"]
 	path = mirror/keywiz
 	url = git@github.com:emacsmirror/keywiz.git
+[submodule "keyword-arg-macros"]
+	path = mirror/keyword-arg-macros
+	url = git@github.com:emacsmirror/keyword-arg-macros.git
+	branch = master
 [submodule "keyword-search"]
 	path = mirror/keyword-search
 	url = git@github.com:emacsmirror/keyword-search.git
@@ -12190,6 +12198,10 @@
 [submodule "org-vcard"]
 	path = mirror/org-vcard
 	url = git@github.com:emacsmirror/org-vcard.git
+[submodule "org-watchdoc"]
+	path = mirror/org-watchdoc
+	url = git@github.com:emacsmirror/org-watchdoc.git
+	branch = master
 [submodule "org-wc"]
 	path = mirror/org-wc
 	url = git@github.com:emacsmirror/org-wc.git
@@ -16233,6 +16245,9 @@
 [submodule "tagging"]
 	path = attic/tagging
 	url = git@github.com:emacsattic/tagging.git
+[submodule "taggit"]
+	path = mirror/taggit
+	url = git@github.com:emacsmirror/taggit.git
 [submodule "tags-tree"]
 	path = mirror/tags-tree
 	url = git@github.com:emacsmirror/tags-tree.git
@@ -16531,6 +16546,10 @@
 [submodule "text-to-html"]
 	path = attic/text-to-html
 	url = git@github.com:emacsattic/text-to-html.git
+[submodule "text-translator"]
+	path = mirror/text-translator
+	url = git@github.com:emacsmirror/text-translator.git
+	branch = master
 [submodule "textile-mode"]
 	path = mirror/textile-mode
 	url = git@github.com:emacsmirror/textile-mode.git
