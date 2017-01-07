@@ -9505,8 +9505,9 @@
 	path = attic/later-do
 	url = git@github.com:emacsattic/later-do.git
 [submodule "latest-clojure-libraries"]
-	path = mirror/latest-clojure-libraries
-	url = git@github.com:emacsmirror/latest-clojure-libraries.git
+	path = attic/latest-clojure-libraries
+	url = git@github.com:emacsattic/latest-clojure-libraries.git
+	branch = master
 [submodule "latex-doc"]
 	path = attic/latex-doc
 	url = git@github.com:emacsattic/latex-doc.git
@@ -15246,8 +15247,8 @@
 	path = mirror/slack
 	url = git@github.com:emacsmirror/slack.git
 [submodule "slamhound"]
-	path = mirror/slamhound
-	url = git@github.com:emacsmirror/slamhound.git
+	path = attic/slamhound
+	url = git@github.com:emacsattic/slamhound.git
 [submodule "slashdot"]
 	path = mirror/slashdot
 	url = git@github.com:emacsmirror/slashdot.git
