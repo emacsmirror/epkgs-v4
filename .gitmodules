@@ -4911,6 +4911,10 @@
 [submodule "eshell-did-you-mean"]
 	path = mirror/eshell-did-you-mean
 	url = git@github.com:emacsmirror/eshell-did-you-mean.git
+[submodule "eshell-fixed-prompt"]
+	path = mirror/eshell-fixed-prompt
+	url = git@github.com:emacsmirror/eshell-fixed-prompt.git
+	branch = master
 [submodule "eshell-fringe-status"]
 	path = mirror/eshell-fringe-status
 	url = git@github.com:emacsmirror/eshell-fringe-status.git
@@ -5851,6 +5855,10 @@
 [submodule "flycheck-elm"]
 	path = mirror/flycheck-elm
 	url = git@github.com:emacsmirror/flycheck-elm.git
+[submodule "flycheck-flawfinder"]
+	path = mirror/flycheck-flawfinder
+	url = git@github.com:emacsmirror/flycheck-flawfinder.git
+	branch = master
 [submodule "flycheck-flow"]
 	path = mirror/flycheck-flow
 	url = git@github.com:emacsmirror/flycheck-flow.git
@@ -6654,6 +6662,10 @@
 	path = mirror/github-search
 	url = git@github.com:emacsmirror/github-search.git
 	branch = master
+[submodule "github-theme"]
+	path = mirror/github-theme
+	url = git@github.com:emacsmirror/github-theme.git
+	branch = master
 [submodule "gitlab"]
 	path = mirror/gitlab
 	url = git@github.com:emacsmirror/gitlab.git
@@ -7191,6 +7203,10 @@
 [submodule "guido-mode"]
 	path = attic/guido-mode
 	url = git@github.com:emacsattic/guido-mode.git
+[submodule "guix"]
+	path = mirror/guix
+	url = git@github.com:emacsmirror/guix.git
+	branch = master
 [submodule "gulp-task-runner"]
 	path = mirror/gulp-task-runner
 	url = git@github.com:emacsmirror/gulp-task-runner.git
@@ -8589,6 +8605,10 @@
 [submodule "info-apropos"]
 	path = mirror/info-apropos
 	url = git@github.com:emacsmirror/info-apropos.git
+[submodule "info-buffer"]
+	path = mirror/info-buffer
+	url = git@github.com:emacsmirror/info-buffer.git
+	branch = master
 [submodule "info-lookmore"]
 	path = mirror/info-lookmore
 	url = git@github.com:emacsmirror/info-lookmore.git
@@ -9544,6 +9564,10 @@
 [submodule "launch"]
 	path = mirror/launch
 	url = git@github.com:emacsmirror/launch.git
+[submodule "launch-mode"]
+	path = mirror/launch-mode
+	url = git@github.com:emacsmirror/launch-mode.git
+	branch = master
 [submodule "launchctl"]
 	path = mirror/launchctl
 	url = git@github.com:emacsmirror/launchctl.git
@@ -12838,6 +12862,10 @@
 [submodule "perspective"]
 	path = mirror/perspective
 	url = git@github.com:emacsmirror/perspective.git
+[submodule "perspeen"]
+	path = mirror/perspeen
+	url = git@github.com:emacsmirror/perspeen.git
+	branch = master
 [submodule "pg"]
 	path = mirror/pg
 	url = git@github.com:emacsmirror/pg.git
@@ -17264,6 +17292,10 @@
 [submodule "unparen"]
 	path = mirror/unparen
 	url = git@github.com:emacsmirror/unparen.git
+[submodule "untitled-new-buffer"]
+	path = mirror/untitled-new-buffer
+	url = git@github.com:emacsmirror/untitled-new-buffer.git
+	branch = master
 [submodule "update-autoloads"]
 	path = attic/update-autoloads
 	url = git@github.com:emacsattic/update-autoloads.git
