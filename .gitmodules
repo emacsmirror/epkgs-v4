@@ -1533,6 +1533,10 @@
 [submodule "buffer-fns"]
 	path = mirror/buffer-fns
 	url = git@github.com:emacsmirror/buffer-fns.git
+[submodule "buffer-manage"]
+	path = mirror/buffer-manage
+	url = git@github.com:emacsmirror/buffer-manage.git
+	branch = master
 [submodule "buffer-move"]
 	path = mirror/buffer-move
 	url = git@github.com:emacsmirror/buffer-move.git
@@ -2848,6 +2852,10 @@
 [submodule "ctags"]
 	path = mirror/ctags
 	url = git@github.com:emacsmirror/ctags.git
+[submodule "ctags-update"]
+	path = mirror/ctags-update
+	url = git@github.com:emacsmirror/ctags-update.git
+	branch = master
 [submodule "ctl-mode"]
 	path = mirror/ctl-mode
 	url = git@github.com:emacsmirror/ctl-mode.git
@@ -8894,6 +8902,10 @@
 	path = mirror/ivy-xcdoc
 	url = git@github.com:emacsmirror/ivy-xcdoc.git
 	branch = master
+[submodule "ivy-youtube"]
+	path = mirror/ivy-youtube
+	url = git@github.com:emacsmirror/ivy-youtube.git
+	branch = master
 [submodule "ix"]
 	path = mirror/ix
 	url = git@github.com:emacsmirror/ix.git
@@ -12088,6 +12100,10 @@
 [submodule "org-manage"]
 	path = mirror/org-manage
 	url = git@github.com:emacsmirror/org-manage.git
+[submodule "org-mime"]
+	path = mirror/org-mime
+	url = git@github.com:emacsmirror/org-mime.git
+	branch = master
 [submodule "org-mobile-sync"]
 	path = mirror/org-mobile-sync
 	url = git@github.com:emacsmirror/org-mobile-sync.git
@@ -14574,6 +14590,10 @@
 [submodule "rusewiki"]
 	path = mirror/rusewiki
 	url = git@github.com:emacsmirror/rusewiki.git
+[submodule "russian-holidays"]
+	path = mirror/russian-holidays
+	url = git@github.com:emacsmirror/russian-holidays.git
+	branch = master
 [submodule "rust-mode"]
 	path = mirror/rust-mode
 	url = git@github.com:emacsmirror/rust-mode.git
