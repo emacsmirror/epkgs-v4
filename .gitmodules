@@ -7497,9 +7497,10 @@
 [submodule "helm-emms"]
 	path = mirror/helm-emms
 	url = git@github.com:emacsmirror/helm-emms.git
-[submodule "helm-etags+"]
-	path = mirror/helm-etags+
+[submodule "helm-etags-plus"]
+	path = mirror/helm-etags-plus
 	url = git@github.com:emacsmirror/helm-etags-plus.git
+	branch = master
 [submodule "helm-filesets"]
 	path = mirror/helm-filesets
 	url = git@github.com:emacsmirror/helm-filesets.git
