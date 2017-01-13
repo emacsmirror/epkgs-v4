@@ -1877,12 +1877,13 @@
 [submodule "char-menu"]
 	path = mirror/char-menu
 	url = git@github.com:emacsmirror/char-menu.git
-[submodule "character-fold+"]
-	path = mirror/character-fold+
-	url = git@github.com:emacsmirror/character-fold-plus.git
 [submodule "charmap"]
 	path = mirror/charmap
 	url = git@github.com:emacsmirror/charmap.git
+[submodule "chasen"]
+	path = mirror/chasen
+	url = git@github.com:emacsmirror/chasen.git
+	branch = master
 [submodule "chatwork"]
 	path = mirror/chatwork
 	url = git@github.com:emacsmirror/chatwork.git
@@ -4346,10 +4347,6 @@
 [submodule "elnode"]
 	path = mirror/elnode
 	url = git@github.com:emacsmirror/elnode.git
-[submodule "elo"]
-	path = mirror/elo
-	url = git@github.com:emacsmirror/elo.git
-	branch = master
 [submodule "elog"]
 	path = mirror/elog
 	url = git@github.com:emacsmirror/elog.git
@@ -7661,8 +7658,8 @@
 	path = attic/helm-nrepl
 	url = git@github.com:emacsattic/helm-nrepl.git
 [submodule "helm-odoc"]
-	path = mirror/helm-odoc
-	url = git@github.com:emacsmirror/helm-odoc.git
+	path = attic/helm-odoc
+	url = git@github.com:emacsattic/helm-odoc.git
 [submodule "helm-open-github"]
 	path = mirror/helm-open-github
 	url = git@github.com:emacsmirror/helm-open-github.git
@@ -8943,6 +8940,10 @@
 [submodule "japanese-holidays"]
 	path = mirror/japanese-holidays
 	url = git@github.com:emacsmirror/japanese-holidays.git
+[submodule "japanese-tokenizer"]
+	path = mirror/japanese-tokenizer
+	url = git@github.com:emacsmirror/japanese-tokenizer.git
+	branch = master
 [submodule "japanlaw"]
 	path = mirror/japanlaw
 	url = git@github.com:emacsmirror/japanlaw.git
@@ -9973,6 +9974,10 @@
 [submodule "lookout"]
 	path = mirror/lookout
 	url = git@github.com:emacsmirror/lookout.git
+[submodule "lookup"]
+	path = mirror/lookup
+	url = git@github.com:emacsmirror/lookup.git
+	branch = master
 [submodule "loop"]
 	path = mirror/loop
 	url = git@github.com:emacsmirror/loop.git
@@ -15636,6 +15641,10 @@
 [submodule "spacemacs-theme"]
 	path = mirror/spacemacs-theme
 	url = git@github.com:emacsmirror/spacemacs-theme.git
+	branch = master
+[submodule "spamfilter"]
+	path = mirror/spamfilter
+	url = git@github.com:emacsmirror/spamfilter.git
 	branch = master
 [submodule "spamprobe"]
 	path = mirror/spamprobe
