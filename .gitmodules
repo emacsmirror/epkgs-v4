@@ -1883,7 +1883,6 @@
 [submodule "chasen"]
 	path = mirror/chasen
 	url = git@github.com:emacsmirror/chasen.git
-	branch = master
 [submodule "chatwork"]
 	path = mirror/chatwork
 	url = git@github.com:emacsmirror/chatwork.git
@@ -8947,7 +8946,6 @@
 [submodule "japanese-tokenizer"]
 	path = mirror/japanese-tokenizer
 	url = git@github.com:emacsmirror/japanese-tokenizer.git
-	branch = master
 [submodule "japanlaw"]
 	path = mirror/japanlaw
 	url = git@github.com:emacsmirror/japanlaw.git
@@ -15657,7 +15655,6 @@
 [submodule "spamfilter"]
 	path = mirror/spamfilter
 	url = git@github.com:emacsmirror/spamfilter.git
-	branch = master
 [submodule "spamprobe"]
 	path = mirror/spamprobe
 	url = git@github.com:emacsmirror/spamprobe.git
