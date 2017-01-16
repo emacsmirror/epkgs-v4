@@ -8255,6 +8255,10 @@
 [submodule "i3"]
 	path = mirror/i3
 	url = git@github.com:emacsmirror/i3.git
+[submodule "i3wm"]
+	path = mirror/i3wm
+	url = git@github.com:emacsmirror/i3wm.git
+	branch = master
 [submodule "iasm-mode"]
 	path = mirror/iasm-mode
 	url = git@github.com:emacsmirror/iasm-mode.git
@@ -12651,6 +12655,10 @@
 [submodule "pass"]
 	path = mirror/pass
 	url = git@github.com:emacsmirror/pass.git
+[submodule "passmm"]
+	path = mirror/passmm
+	url = git@github.com:emacsmirror/passmm.git
+	branch = master
 [submodule "passthword"]
 	path = mirror/passthword
 	url = git@github.com:emacsmirror/passthword.git
@@ -14381,6 +14389,10 @@
 [submodule "rfringe"]
 	path = mirror/rfringe
 	url = git@github.com:emacsmirror/rfringe.git
+[submodule "rg"]
+	path = mirror/rg
+	url = git@github.com:emacsmirror/rg.git
+	branch = master
 [submodule "rheeet-mail"]
 	path = attic/rheeet-mail
 	url = git@github.com:emacsattic/rheeet-mail.git
@@ -18540,6 +18552,10 @@
 [submodule "ycmd"]
 	path = mirror/ycmd
 	url = git@github.com:emacsmirror/ycmd.git
+[submodule "ydk-mode"]
+	path = mirror/ydk-mode
+	url = git@github.com:emacsmirror/ydk-mode.git
+	branch = master
 [submodule "yeoman"]
 	path = mirror/yeoman
 	url = git@github.com:emacsmirror/yeoman.git
@@ -18668,6 +18684,10 @@
 [submodule "ztree"]
 	path = mirror/ztree
 	url = git@github.com:emacsmirror/ztree.git
+[submodule "zweilight-theme"]
+	path = mirror/zweilight-theme
+	url = git@github.com:emacsmirror/zweilight-theme.git
+	branch = master
 [submodule "zwiebel"]
 	path = mirror/zwiebel
 	url = git@github.com:emacsmirror/zwiebel.git
