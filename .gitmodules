@@ -2851,8 +2851,8 @@
 	path = mirror/ctable
 	url = git@github.com:emacsmirror/ctable.git
 [submodule "ctags"]
-	path = mirror/ctags
-	url = git@github.com:emacsmirror/ctags.git
+	path = attic/ctags
+	url = git@github.com:emacsattic/ctags.git
 [submodule "ctags-update"]
 	path = mirror/ctags-update
 	url = git@github.com:emacsmirror/ctags-update.git
