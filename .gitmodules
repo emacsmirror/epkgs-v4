@@ -5877,8 +5877,8 @@
 	path = mirror/flycheck-gometalinter
 	url = git@github.com:emacsmirror/flycheck-gometalinter.git
 [submodule "flycheck-google-cpplint"]
-	path = mirror/flycheck-google-cpplint
-	url = git@github.com:emacsmirror/flycheck-google-cpplint.git
+	path = attic/flycheck-google-cpplint
+	url = git@github.com:emacsattic/flycheck-google-cpplint.git
 [submodule "flycheck-haskell"]
 	path = mirror/flycheck-haskell
 	url = git@github.com:emacsmirror/flycheck-haskell.git
