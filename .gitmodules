@@ -10426,6 +10426,10 @@
 	path = mirror/mbo70s-theme
 	url = git@github.com:emacsmirror/mbo70s-theme.git
 	branch = master
+[submodule "mbsync"]
+	path = mirror/mbsync
+	url = git@github.com:emacsmirror/mbsync.git
+	branch = master
 [submodule "mc"]
 	path = mirror/mc
 	url = git@github.com:emacsmirror/mc.git
@@ -13477,6 +13481,10 @@
 [submodule "promela-mode"]
 	path = attic/promela-mode
 	url = git@github.com:emacsattic/promela-mode.git
+[submodule "promise"]
+	path = mirror/promise
+	url = git@github.com:emacsmirror/promise.git
+	branch = master
 [submodule "prompt-text"]
 	path = mirror/prompt-text
 	url = git@github.com:emacsmirror/prompt-text.git
