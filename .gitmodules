@@ -10111,6 +10111,7 @@
 [submodule "magit-filenotify"]
 	path = mirror/magit-filenotify
 	url = git@github.com:emacsmirror/magit-filenotify.git
+	branch = master
 [submodule "magit-find-file"]
 	path = mirror/magit-find-file
 	url = git@github.com:emacsmirror/magit-find-file.git
