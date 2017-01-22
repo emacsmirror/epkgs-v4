@@ -1490,6 +1490,10 @@
 [submodule "bs-ext"]
 	path = mirror/bs-ext
 	url = git@github.com:emacsmirror/bs-ext.git
+[submodule "bshell"]
+	path = mirror/bshell
+	url = git@github.com:emacsmirror/bshell.git
+	branch = master
 [submodule "bst-mode"]
 	path = mirror/bst-mode
 	url = git@github.com:emacsmirror/bst-mode.git
