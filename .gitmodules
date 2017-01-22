@@ -2869,11 +2869,11 @@
 	path = attic/cua-emul
 	url = git@github.com:emacsattic/cua-emul.git
 [submodule "cua-lite"]
-	path = mirror/cua-lite
-	url = git@github.com:emacsmirror/cua-lite.git
+	path = attic/cua-lite
+	url = git@github.com:emacsattic/cua-lite.git
 [submodule "cua-lite-bootstrap"]
-	path = mirror/cua-lite-bootstrap
-	url = git@github.com:emacsmirror/cua-lite-bootstrap.git
+	path = attic/cua-lite-bootstrap
+	url = git@github.com:emacsattic/cua-lite-bootstrap.git
 [submodule "cubicaltt"]
 	path = mirror/cubicaltt
 	url = git@github.com:emacsmirror/cubicaltt.git
@@ -4432,8 +4432,8 @@
 	path = mirror/elx
 	url = git@github.com:emacsmirror/elx.git
 [submodule "em-joc"]
-	path = mirror/em-joc
-	url = git@github.com:emacsmirror/em-joc.git
+	path = attic/em-joc
+	url = git@github.com:emacsattic/em-joc.git
 [submodule "em-zle"]
 	path = attic/em-zle
 	url = git@github.com:emacsattic/em-zle.git
@@ -5728,11 +5728,11 @@
 	path = mirror/flash-region
 	url = git@github.com:emacsmirror/flash-region.git
 [submodule "flashcard"]
-	path = mirror/flashcard
-	url = git@github.com:emacsmirror/flashcard.git
+	path = attic/flashcard
+	url = git@github.com:emacsattic/flashcard.git
 [submodule "flashcard-sm5"]
-	path = mirror/flashcard-sm5
-	url = git@github.com:emacsmirror/flashcard-sm5.git
+	path = attic/flashcard-sm5
+	url = git@github.com:emacsattic/flashcard-sm5.git
 [submodule "flashmaker"]
 	path = mirror/flashmaker
 	url = git@github.com:emacsmirror/flashmaker.git
@@ -8983,8 +8983,8 @@
 	path = mirror/java-complete
 	url = git@github.com:emacsmirror/java-complete.git
 [submodule "java-find"]
-	path = mirror/java-find
-	url = git@github.com:emacsmirror/java-find.git
+	path = attic/java-find
+	url = git@github.com:emacsattic/java-find.git
 [submodule "java-imports"]
 	path = mirror/java-imports
 	url = git@github.com:emacsmirror/java-imports.git
@@ -16154,8 +16154,8 @@
 	url = git@github.com:emacsmirror/swbuff.git
 	branch = master
 [submodule "swbuff-advice"]
-	path = mirror/swbuff-advice
-	url = git@github.com:emacsmirror/swbuff-advice.git
+	path = attic/swbuff-advice
+	url = git@github.com:emacsattic/swbuff-advice.git
 [submodule "swbuff-x"]
 	path = mirror/swbuff-x
 	url = git@github.com:emacsmirror/swbuff-x.git
@@ -16871,11 +16871,11 @@
 	path = mirror/toggle
 	url = git@github.com:emacsmirror/toggle.git
 [submodule "toggle-buffer"]
-	path = mirror/toggle-buffer
-	url = git@github.com:emacsmirror/toggle-buffer.git
+	path = attic/toggle-buffer
+	url = git@github.com:emacsattic/toggle-buffer.git
 [submodule "toggle-case"]
-	path = mirror/toggle-case
-	url = git@github.com:emacsmirror/toggle-case.git
+	path = attic/toggle-case
+	url = git@github.com:emacsattic/toggle-case.git
 [submodule "toggle-quotes"]
 	path = mirror/toggle-quotes
 	url = git@github.com:emacsmirror/toggle-quotes.git
