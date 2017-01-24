@@ -4195,6 +4195,10 @@
 [submodule "el-mock"]
 	path = mirror/el-mock
 	url = git@github.com:emacsmirror/el-mock.git
+[submodule "el-patch"]
+	path = mirror/el-patch
+	url = git@github.com:emacsmirror/el-patch.git
+	branch = master
 [submodule "el-pocket"]
 	path = mirror/el-pocket
 	url = git@github.com:emacsmirror/el-pocket.git
@@ -5342,6 +5346,10 @@
 [submodule "ezbl"]
 	path = mirror/ezbl
 	url = git@github.com:emacsmirror/ezbl.git
+[submodule "eziam-theme"]
+	path = mirror/eziam-theme
+	url = git@github.com:emacsmirror/eziam-theme.git
+	branch = master
 [submodule "f"]
 	path = mirror/f
 	url = git@github.com:emacsmirror/f.git
@@ -5893,6 +5901,10 @@
 [submodule "flycheck-irony"]
 	path = mirror/flycheck-irony
 	url = git@github.com:emacsmirror/flycheck-irony.git
+[submodule "flycheck-kotlin"]
+	path = mirror/flycheck-kotlin
+	url = git@github.com:emacsmirror/flycheck-kotlin.git
+	branch = master
 [submodule "flycheck-ledger"]
 	path = mirror/flycheck-ledger
 	url = git@github.com:emacsmirror/flycheck-ledger.git
