@@ -5075,6 +5075,7 @@
 [submodule "evil"]
 	path = mirror/evil
 	url = git@github.com:emacsmirror/evil.git
+	branch = master
 [submodule "evil-anzu"]
 	path = mirror/evil-anzu
 	url = git@github.com:emacsmirror/evil-anzu.git
