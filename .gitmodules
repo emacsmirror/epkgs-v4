@@ -10265,6 +10265,10 @@
 	path = mirror/majapahit-theme
 	url = git@github.com:emacsmirror/majapahit-theme.git
 	branch = master
+[submodule "major-mode-icons"]
+	path = mirror/major-mode-icons
+	url = git@github.com:emacsmirror/major-mode-icons.git
+	branch = master
 [submodule "majordomo"]
 	path = attic/majordomo
 	url = git@github.com:emacsattic/majordomo.git
@@ -17102,8 +17106,8 @@
 	url = git@github.com:emacsmirror/ttl-mode.git
 	branch = master
 [submodule "ttrss"]
-	path = mirror/ttrss
-	url = git@github.com:emacsmirror/ttrss.git
+	path = attic/ttrss
+	url = git@github.com:emacsattic/ttrss.git
 [submodule "tty-format"]
 	path = attic/tty-format
 	url = git@github.com:emacsattic/tty-format.git
