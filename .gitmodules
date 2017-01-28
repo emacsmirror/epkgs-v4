@@ -5863,12 +5863,20 @@
 	path = mirror/flycheck-demjsonlint
 	url = git@github.com:emacsmirror/flycheck-demjsonlint.git
 	branch = master
+[submodule "flycheck-dialyxir"]
+	path = mirror/flycheck-dialyxir
+	url = git@github.com:emacsmirror/flycheck-dialyxir.git
+	branch = master
 [submodule "flycheck-dialyzer"]
 	path = mirror/flycheck-dialyzer
 	url = git@github.com:emacsmirror/flycheck-dialyzer.git
 [submodule "flycheck-dmd-dub"]
 	path = mirror/flycheck-dmd-dub
 	url = git@github.com:emacsmirror/flycheck-dmd-dub.git
+[submodule "flycheck-dogma"]
+	path = mirror/flycheck-dogma
+	url = git@github.com:emacsmirror/flycheck-dogma.git
+	branch = master
 [submodule "flycheck-elixir"]
 	path = mirror/flycheck-elixir
 	url = git@github.com:emacsmirror/flycheck-elixir.git
@@ -6150,6 +6158,10 @@
 [submodule "fmailutils"]
 	path = mirror/fmailutils
 	url = git@github.com:emacsmirror/fmailutils.git
+[submodule "fn"]
+	path = mirror/fn
+	url = git@github.com:emacsmirror/fn.git
+	branch = master
 [submodule "focus"]
 	path = mirror/focus
 	url = git@github.com:emacsmirror/focus.git
@@ -6277,6 +6289,10 @@
 [submodule "framemove"]
 	path = mirror/framemove
 	url = git@github.com:emacsmirror/framemove.git
+[submodule "frames-only-mode"]
+	path = mirror/frames-only-mode
+	url = git@github.com:emacsmirror/frames-only-mode.git
+	branch = master
 [submodule "framesize"]
 	path = mirror/framesize
 	url = git@github.com:emacsmirror/framesize.git
@@ -7272,6 +7288,10 @@
 [submodule "hack-locals"]
 	path = attic/hack-locals
 	url = git@github.com:emacsattic/hack-locals.git
+[submodule "hacker-typer"]
+	path = mirror/hacker-typer
+	url = git@github.com:emacsmirror/hacker-typer.git
+	branch = master
 [submodule "hackernews"]
 	path = mirror/hackernews
 	url = git@github.com:emacsmirror/hackernews.git
@@ -8688,6 +8708,10 @@
 [submodule "inline-crypt"]
 	path = mirror/inline-crypt
 	url = git@github.com:emacsmirror/inline-crypt.git
+[submodule "inline-docs"]
+	path = mirror/inline-docs
+	url = git@github.com:emacsmirror/inline-docs.git
+	branch = master
 [submodule "inline-html"]
 	path = attic/inline-html
 	url = git@github.com:emacsattic/inline-html.git
@@ -16598,6 +16622,10 @@
 [submodule "test"]
 	path = attic/test
 	url = git@github.com:emacsattic/test.git
+[submodule "test-c"]
+	path = mirror/test-c
+	url = git@github.com:emacsmirror/test-c.git
+	branch = master
 [submodule "test-case-mode"]
 	path = mirror/test-case-mode
 	url = git@github.com:emacsmirror/test-case-mode.git
