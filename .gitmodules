@@ -6080,6 +6080,7 @@
 [submodule "flymake-lua"]
 	path = mirror/flymake-lua
 	url = git@github.com:emacsmirror/flymake-lua.git
+	branch = master
 [submodule "flymake-perlcritic"]
 	path = mirror/flymake-perlcritic
 	url = git@github.com:emacsmirror/flymake-perlcritic.git
