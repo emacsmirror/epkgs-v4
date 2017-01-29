@@ -6358,6 +6358,10 @@
 [submodule "ftnchek"]
 	path = attic/ftnchek
 	url = git@github.com:emacsattic/ftnchek.git
+[submodule "fuff"]
+	path = mirror/fuff
+	url = git@github.com:emacsmirror/fuff.git
+	branch = master
 [submodule "full-ack"]
 	path = mirror/full-ack
 	url = git@github.com:emacsmirror/full-ack.git
@@ -12198,6 +12202,10 @@
 [submodule "org-page"]
 	path = mirror/org-page
 	url = git@github.com:emacsmirror/org-page.git
+[submodule "org-parser"]
+	path = mirror/org-parser
+	url = git@github.com:emacsmirror/org-parser.git
+	branch = master
 [submodule "org-password-manager"]
 	path = mirror/org-password-manager
 	url = git@github.com:emacsmirror/org-password-manager.git
@@ -15620,6 +15628,10 @@
 [submodule "soap"]
 	path = mirror/soap
 	url = git@github.com:emacsmirror/soap.git
+[submodule "socyl"]
+	path = mirror/socyl
+	url = git@github.com:emacsmirror/socyl.git
+	branch = master
 [submodule "sofa"]
 	path = mirror/sofa
 	url = git@github.com:emacsmirror/sofa.git
