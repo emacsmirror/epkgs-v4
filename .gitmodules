@@ -7010,6 +7010,10 @@
 [submodule "googleaccount"]
 	path = mirror/googleaccount
 	url = git@github.com:emacsmirror/googleaccount.git
+[submodule "goose-theme"]
+	path = mirror/goose-theme
+	url = git@github.com:emacsmirror/goose-theme.git
+	branch = master
 [submodule "gopher"]
 	path = mirror/gopher
 	url = git@github.com:emacsmirror/gopher.git
