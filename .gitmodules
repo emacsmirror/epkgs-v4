@@ -10513,10 +10513,6 @@
 [submodule "mdfind"]
 	path = attic/mdfind
 	url = git@github.com:emacsattic/mdfind.git
-[submodule "meacupla-theme"]
-	path = mirror/meacupla-theme
-	url = git@github.com:emacsmirror/meacupla-theme.git
-	branch = master
 [submodule "media-files"]
 	path = attic/media-files
 	url = git@github.com:emacsattic/media-files.git
