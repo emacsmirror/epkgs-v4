@@ -1662,9 +1662,10 @@
 [submodule "c0-mode"]
 	path = mirror/c0-mode
 	url = git@github.com:emacsmirror/c0-mode.git
-[submodule "ca2"]
-	path = mirror/ca2
-	url = git@github.com:emacsmirror/ca2.git
+[submodule "ca2+"]
+	path = mirror/ca2+
+	url = git@github.com:emacsmirror/ca2-plus.git
+	branch = master
 [submodule "cabecera"]
 	path = attic/cabecera
 	url = git@github.com:emacsattic/cabecera.git
