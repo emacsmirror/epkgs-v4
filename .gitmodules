@@ -4871,6 +4871,10 @@
 [submodule "ert-async"]
 	path = mirror/ert-async
 	url = git@github.com:emacsmirror/ert-async.git
+[submodule "ert-buffer-report"]
+	path = mirror/ert-buffer-report
+	url = git@github.com:emacsmirror/ert-buffer-report.git
+	branch = master
 [submodule "ert-expectations"]
 	path = mirror/ert-expectations
 	url = git@github.com:emacsmirror/ert-expectations.git
@@ -18282,9 +18286,6 @@
 [submodule "ws-butler"]
 	path = mirror/ws-butler
 	url = git@github.com:emacsmirror/ws-butler.git
-[submodule "ws-tests"]
-	path = mirror/ws-tests
-	url = git@github.com:emacsmirror/ws-tests.git
 [submodule "ws-trim"]
 	path = attic/ws-trim
 	url = git@github.com:emacsattic/ws-trim.git
