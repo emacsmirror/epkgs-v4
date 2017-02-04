@@ -684,6 +684,10 @@
 [submodule "async"]
 	path = mirror/async
 	url = git@github.com:emacsmirror/async.git
+[submodule "async-await"]
+	path = mirror/async-await
+	url = git@github.com:emacsmirror/async-await.git
+	branch = master
 [submodule "async-eval"]
 	path = mirror/async-eval
 	url = git@github.com:emacsmirror/async-eval.git
@@ -7244,6 +7248,10 @@
 [submodule "guess-lang"]
 	path = attic/guess-lang
 	url = git@github.com:emacsattic/guess-lang.git
+[submodule "guess-language"]
+	path = mirror/guess-language
+	url = git@github.com:emacsmirror/guess-language.git
+	branch = master
 [submodule "guess-offset"]
 	path = mirror/guess-offset
 	url = git@github.com:emacsmirror/guess-offset.git
@@ -10145,6 +10153,10 @@
 [submodule "macrostep"]
 	path = mirror/macrostep
 	url = git@github.com:emacsmirror/macrostep.git
+[submodule "madhat2r-theme"]
+	path = mirror/madhat2r-theme
+	url = git@github.com:emacsmirror/madhat2r-theme.git
+	branch = master
 [submodule "mag-menu"]
 	path = mirror/mag-menu
 	url = git@github.com:emacsmirror/mag-menu.git
