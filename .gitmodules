@@ -8136,8 +8136,8 @@
 	path = mirror/hoa-pp-mode
 	url = git@github.com:emacsmirror/hoa-pp-mode.git
 [submodule "hobo"]
-	path = mirror/hobo
-	url = git@github.com:emacsmirror/hobo.git
+	path = attic/hobo
+	url = git@github.com:emacsattic/hobo.git
 [submodule "holiday-pascha-etc"]
 	path = mirror/holiday-pascha-etc
 	url = git@github.com:emacsmirror/holiday-pascha-etc.git
