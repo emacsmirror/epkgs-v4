@@ -2241,6 +2241,7 @@
 [submodule "cobol-mode"]
 	path = mirror/cobol-mode
 	url = git@github.com:emacsmirror/cobol-mode.git
+	branch = master
 [submodule "cobra-mode"]
 	path = mirror/cobra-mode
 	url = git@github.com:emacsmirror/cobra-mode.git
