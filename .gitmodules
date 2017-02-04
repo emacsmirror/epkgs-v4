@@ -13619,6 +13619,10 @@
 [submodule "pseudo-grep"]
 	path = attic/pseudo-grep
 	url = git@github.com:emacsattic/pseudo-grep.git
+[submodule "psgml"]
+	path = mirror/psgml
+	url = git@github.com:emacsmirror/psgml.git
+	branch = master
 [submodule "psgml-jade"]
 	path = attic/psgml-jade
 	url = git@github.com:emacsattic/psgml-jade.git
