@@ -12792,6 +12792,10 @@
 	path = mirror/pastels-on-dark-theme
 	url = git@github.com:emacsmirror/pastels-on-dark-theme.git
 	branch = master
+[submodule "pastery"]
+	path = mirror/pastery
+	url = git@github.com:emacsmirror/pastery.git
+	branch = master
 [submodule "pastie"]
 	path = mirror/pastie
 	url = git@github.com:emacsmirror/pastie.git
@@ -13019,6 +13023,10 @@
 [submodule "phabricator"]
 	path = mirror/phabricator
 	url = git@github.com:emacsmirror/phabricator.git
+[submodule "phan"]
+	path = mirror/phan
+	url = git@github.com:emacsmirror/phan.git
+	branch = master
 [submodule "phantomjs"]
 	path = mirror/phantomjs
 	url = git@github.com:emacsmirror/phantomjs.git
