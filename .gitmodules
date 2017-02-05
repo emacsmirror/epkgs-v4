@@ -6216,6 +6216,14 @@
 [submodule "font-lock-menus"]
 	path = mirror/font-lock-menus
 	url = git@github.com:emacsmirror/font-lock-menus.git
+[submodule "font-lock-profiler"]
+	path = mirror/font-lock-profiler
+	url = git@github.com:emacsmirror/font-lock-profiler.git
+	branch = master
+[submodule "font-lock-regression-suite"]
+	path = mirror/font-lock-regression-suite
+	url = git@github.com:emacsmirror/font-lock-regression-suite.git
+	branch = master
 [submodule "font-lock-studio"]
 	path = mirror/font-lock-studio
 	url = git@github.com:emacsmirror/font-lock-studio.git
