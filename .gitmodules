@@ -7758,6 +7758,10 @@
 [submodule "helm-perldoc"]
 	path = mirror/helm-perldoc
 	url = git@github.com:emacsmirror/helm-perldoc.git
+[submodule "helm-perspeen"]
+	path = mirror/helm-perspeen
+	url = git@github.com:emacsmirror/helm-perspeen.git
+	branch = master
 [submodule "helm-phpunit"]
 	path = mirror/helm-phpunit
 	url = git@github.com:emacsmirror/helm-phpunit.git
@@ -7858,6 +7862,10 @@
 [submodule "helm-themes"]
 	path = mirror/helm-themes
 	url = git@github.com:emacsmirror/helm-themes.git
+[submodule "helm-tramp"]
+	path = mirror/helm-tramp
+	url = git@github.com:emacsmirror/helm-tramp.git
+	branch = master
 [submodule "helm-unicode"]
 	path = mirror/helm-unicode
 	url = git@github.com:emacsmirror/helm-unicode.git
@@ -18795,6 +18803,10 @@
 [submodule "zoutline"]
 	path = mirror/zoutline
 	url = git@github.com:emacsmirror/zoutline.git
+	branch = master
+[submodule "zpresent"]
+	path = mirror/zpresent
+	url = git@github.com:emacsmirror/zpresent.git
 	branch = master
 [submodule "ztree"]
 	path = mirror/ztree
