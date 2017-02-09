@@ -530,6 +530,10 @@
 [submodule "anything-sage"]
 	path = mirror/anything-sage
 	url = git@github.com:emacsmirror/anything-sage.git
+[submodule "anything-tramp"]
+	path = mirror/anything-tramp
+	url = git@github.com:emacsmirror/anything-tramp.git
+	branch = master
 [submodule "anzu"]
 	path = mirror/anzu
 	url = git@github.com:emacsmirror/anzu.git
@@ -7150,6 +7154,10 @@
 	path = mirror/green-phosphor-theme
 	url = git@github.com:emacsmirror/green-phosphor-theme.git
 	branch = master
+[submodule "green-screen-theme"]
+	path = mirror/green-screen-theme
+	url = git@github.com:emacsmirror/green-screen-theme.git
+	branch = master
 [submodule "gregorio-mode"]
 	path = mirror/gregorio-mode
 	url = git@github.com:emacsmirror/gregorio-mode.git
@@ -10416,6 +10424,10 @@
 [submodule "markchars"]
 	path = mirror/markchars
 	url = git@github.com:emacsmirror/markchars.git
+[submodule "markdown-edit-indirect"]
+	path = mirror/markdown-edit-indirect
+	url = git@github.com:emacsmirror/markdown-edit-indirect.git
+	branch = master
 [submodule "markdown-mode"]
 	path = mirror/markdown-mode
 	url = git@github.com:emacsmirror/markdown-mode.git
