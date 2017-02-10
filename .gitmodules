@@ -3724,9 +3724,6 @@
 	path = mirror/dot-mode
 	url = git@github.com:emacsmirror/dot-mode.git
 	branch = master
-[submodule "dotassoc"]
-	path = attic/dotassoc
-	url = git@github.com:emacsattic/dotassoc.git
 [submodule "download-region"]
 	path = mirror/download-region
 	url = git@github.com:emacsmirror/download-region.git
@@ -4978,9 +4975,6 @@
 [submodule "espect"]
 	path = mirror/espect
 	url = git@github.com:emacsmirror/espect.git
-[submodule "espresso"]
-	path = attic/espresso
-	url = git@github.com:emacsattic/espresso.git
 [submodule "espresso-theme"]
 	path = mirror/espresso-theme
 	url = git@github.com:emacsmirror/espresso-theme.git
@@ -6328,9 +6322,6 @@
 [submodule "free-keys"]
 	path = mirror/free-keys
 	url = git@github.com:emacsmirror/free-keys.git
-[submodule "free-tagging"]
-	path = attic/free-tagging
-	url = git@github.com:emacsattic/free-tagging.git
 [submodule "freex"]
 	path = attic/freex
 	url = git@github.com:emacsattic/freex.git
@@ -7386,9 +7377,6 @@
 	path = mirror/harvest
 	url = git@github.com:emacsmirror/harvest.git
 	branch = master
-[submodule "haskell"]
-	path = attic/haskell
-	url = git@github.com:emacsattic/haskell.git
 [submodule "haskell-emacs"]
 	path = mirror/haskell-emacs
 	url = git@github.com:emacsmirror/haskell-emacs.git
@@ -8283,9 +8271,6 @@
 [submodule "http-emacs"]
 	path = attic/http-emacs
 	url = git@github.com:emacsattic/http-emacs.git
-[submodule "http-headers"]
-	path = attic/http-headers
-	url = git@github.com:emacsattic/http-headers.git
 [submodule "http-post-simple"]
 	path = mirror/http-post-simple
 	url = git@github.com:emacsmirror/http-post-simple.git
@@ -9633,9 +9618,6 @@
 [submodule "latch"]
 	path = mirror/latch
 	url = git@github.com:emacsmirror/latch.git
-[submodule "later-do"]
-	path = attic/later-do
-	url = git@github.com:emacsattic/later-do.git
 [submodule "latest-clojure-libraries"]
 	path = attic/latest-clojure-libraries
 	url = git@github.com:emacsattic/latest-clojure-libraries.git
@@ -9814,9 +9796,6 @@
 [submodule "ligeti"]
 	path = attic/ligeti
 	url = git@github.com:emacsattic/ligeti.git
-[submodule "light"]
-	path = attic/light
-	url = git@github.com:emacsattic/light.git
 [submodule "light-soap-theme"]
 	path = mirror/light-soap-theme
 	url = git@github.com:emacsmirror/light-soap-theme.git
@@ -10129,9 +10108,6 @@
 [submodule "lude"]
 	path = mirror/lude
 	url = git@github.com:emacsmirror/lude.git
-[submodule "lui"]
-	path = attic/lui
-	url = git@github.com:emacsattic/lui.git
 [submodule "lunar-mode-line"]
 	path = attic/lunar-mode-line
 	url = git@github.com:emacsattic/lunar-mode-line.git
@@ -10278,9 +10254,6 @@
 [submodule "mail-notify"]
 	path = mirror/mail-notify
 	url = git@github.com:emacsmirror/mail-notify.git
-[submodule "mail-reorder-headers"]
-	path = attic/mail-reorder-headers
-	url = git@github.com:emacsattic/mail-reorder-headers.git
 [submodule "mail-signature"]
 	path = mirror/mail-signature
 	url = git@github.com:emacsmirror/mail-signature.git
@@ -10492,9 +10465,6 @@
 	path = mirror/matlab-mode
 	url = git@github.com:emacsmirror/matlab-mode.git
 	branch = master
-[submodule "matlab-publish"]
-	path = attic/matlab-publish
-	url = git@github.com:emacsattic/matlab-publish.git
 [submodule "matrix-client"]
 	path = mirror/matrix-client
 	url = http://fort.kickass.systems/git/rrix/matrix-client.git
@@ -18200,9 +18170,6 @@
 [submodule "winring"]
 	path = mirror/winring
 	url = git@github.com:emacsmirror/winring.git
-[submodule "winsize"]
-	path = attic/winsize
-	url = git@github.com:emacsattic/winsize.git
 [submodule "winum"]
 	path = mirror/winum
 	url = git@github.com:emacsmirror/winum.git
