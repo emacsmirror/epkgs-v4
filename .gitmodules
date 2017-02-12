@@ -9139,6 +9139,10 @@
 [submodule "jde-transmogrify"]
 	path = attic/jde-transmogrify
 	url = git@github.com:emacsattic/jde-transmogrify.git
+[submodule "jdecomp"]
+	path = mirror/jdecomp
+	url = git@github.com:emacsmirror/jdecomp.git
+	branch = master
 [submodule "jdee"]
 	path = mirror/jdee
 	url = git@github.com:emacsmirror/jdee.git
@@ -12677,6 +12681,10 @@
 [submodule "paper-theme"]
 	path = mirror/paper-theme
 	url = git@github.com:emacsmirror/paper-theme.git
+	branch = master
+[submodule "paperless"]
+	path = mirror/paperless
+	url = git@github.com:emacsmirror/paperless.git
 	branch = master
 [submodule "paradox"]
 	path = mirror/paradox
