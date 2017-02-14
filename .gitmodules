@@ -11399,8 +11399,8 @@
 	path = mirror/netherlands-holidays
 	url = git@github.com:emacsmirror/netherlands-holidays.git
 [submodule "netrexx-mode"]
-	path = mirror/netrexx-mode
-	url = git@github.com:emacsmirror/netrexx-mode.git
+	path = attic/netrexx-mode
+	url = git@github.com:emacsattic/netrexx-mode.git
 [submodule "netrunner"]
 	path = mirror/netrunner
 	url = git@github.com:emacsmirror/netrunner.git
