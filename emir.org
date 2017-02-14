@@ -1,0 +1,53 @@
+#+SETUPFILE: .orgconfig
+#+NAME: setup
+#+BEGIN_SRC emacs-lisp :results silent
+  (require 'emir)
+  (defun emir--save-variable (variable value)
+    (customize-save-variable variable (and (not (equal value "nil")) value))
+    nil)
+#+END_SRC
+* Set ~emir-pending-packages~
+#+NAME: set--emir-pending-packages
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-pending-packages
+  (emir--save-variable 'emir-pending-packages value)
+#+END_SRC
+#+NAME: val--emir-pending-packages
+| Package | Reason |
+|---------+--------|
+
+* Set ~emir-suspended-packages~
+#+NAME: set--emir-suspended-packages
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-suspended-packages
+  (emir--save-variable 'emir-suspended-packages value)
+#+END_SRC
+#+NAME: val--emir-suspended-packages
+| Package | Reason |
+|---------+--------|
+
+* Set ~emir-secondary-packages~
+#+NAME: set--emir-secondary-packages
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-secondary-packages
+  (emir--save-variable 'emir-secondary-packages value)
+#+END_SRC
+#+NAME: val--emir-secondary-packages
+| Secondary    | Primary |
+|--------------+---------|
+| shimbun      | w3m     |
+| sml-modeline | nxhtml  |
+
+* Set ~emir-renamed-files~
+#+NAME: set--emir-renamed-files
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-renamed-files
+  (emir--save-variable 'emir-renamed-files value)
+#+END_SRC
+#+NAME: val--emir-renamed-files
+| Name                  | Filename                                     |
+|-----------------------+----------------------------------------------|
+| chasen                | chasen.el.txt                                |
+| debian-bug            | debian-bug.el?root=pkg-goodies-el            |
+| debian-changelog-mode | debian-changelog-mode.el?root=pkg-goodies-el |
+| japanese-tokenizer    | japanese-tokenizer.el.txt                    |
+| llvm-mode             | llvm-mode.el?view=co                         |
+| spamfilter            | spamfilter.el.txt                            |
+| tablegen-mode         | tablegen-mode.el?view=co                     |
+
