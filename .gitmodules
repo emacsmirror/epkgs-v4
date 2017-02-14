@@ -2708,6 +2708,10 @@
 [submodule "counter"]
 	path = mirror/counter
 	url = git@github.com:emacsmirror/counter.git
+[submodule "cov"]
+	path = mirror/cov
+	url = git@github.com:emacsmirror/cov.git
+	branch = master
 [submodule "coverage"]
 	path = mirror/coverage
 	url = git@github.com:emacsmirror/coverage.git
@@ -3677,6 +3681,10 @@
 [submodule "doit-mode"]
 	path = mirror/doit-mode
 	url = git@github.com:emacsmirror/doit-mode.git
+[submodule "dokuwiki"]
+	path = mirror/dokuwiki
+	url = git@github.com:emacsmirror/dokuwiki.git
+	branch = master
 [submodule "dokuwiki-mode"]
 	path = mirror/dokuwiki-mode
 	url = git@github.com:emacsmirror/dokuwiki-mode.git
@@ -8031,6 +8039,10 @@
 [submodule "highlight-quoted"]
 	path = mirror/highlight-quoted
 	url = git@github.com:emacsmirror/highlight-quoted.git
+[submodule "highlight-refontification"]
+	path = mirror/highlight-refontification
+	url = git@github.com:emacsmirror/highlight-refontification.git
+	branch = master
 [submodule "highlight-regexp"]
 	path = mirror/highlight-regexp
 	url = git@github.com:emacsmirror/highlight-regexp.git
