@@ -10336,10 +10336,6 @@
 [submodule "makey"]
 	path = mirror/makey
 	url = git@github.com:emacsmirror/makey.git
-[submodule "malabar-mode"]
-	path = mirror/malabar-mode
-	url = git@github.com:emacsmirror/malabar-mode.git
-	branch = master
 [submodule "malinka"]
 	path = mirror/malinka
 	url = git@github.com:emacsmirror/malinka.git
