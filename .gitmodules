@@ -4974,6 +4974,10 @@
 	path = mirror/eslint-fix
 	url = git@github.com:emacsmirror/eslint-fix.git
 	branch = master
+[submodule "eslintd-fix"]
+	path = mirror/eslintd-fix
+	url = git@github.com:emacsmirror/eslintd-fix.git
+	branch = master
 [submodule "esms"]
 	path = attic/esms
 	url = git@github.com:emacsattic/esms.git
@@ -5846,6 +5850,10 @@
 [submodule "flycheck-checkbashisms"]
 	path = mirror/flycheck-checkbashisms
 	url = git@github.com:emacsmirror/flycheck-checkbashisms.git
+[submodule "flycheck-checkpatch"]
+	path = mirror/flycheck-checkpatch
+	url = git@github.com:emacsmirror/flycheck-checkpatch.git
+	branch = master
 [submodule "flycheck-clangcheck"]
 	path = mirror/flycheck-clangcheck
 	url = git@github.com:emacsmirror/flycheck-clangcheck.git
@@ -6401,6 +6409,10 @@
 [submodule "furl"]
 	path = mirror/furl
 	url = git@github.com:emacsmirror/furl.git
+[submodule "futhark-mode"]
+	path = mirror/futhark-mode
+	url = git@github.com:emacsmirror/futhark-mode.git
+	branch = master
 [submodule "fuzz"]
 	path = mirror/fuzz
 	url = git@github.com:emacsmirror/fuzz.git
@@ -10336,6 +10348,10 @@
 [submodule "makey"]
 	path = mirror/makey
 	url = git@github.com:emacsmirror/makey.git
+[submodule "malabar-mode"]
+	path = attic/malabar-mode
+	url = git@github.com:emacsattic/malabar-mode.git
+	branch = master
 [submodule "malinka"]
 	path = mirror/malinka
 	url = git@github.com:emacsmirror/malinka.git
@@ -10609,6 +10625,10 @@
 [submodule "message-x"]
 	path = mirror/message-x
 	url = git@github.com:emacsmirror/message-x.git
+[submodule "messages-are-flowing"]
+	path = mirror/messages-are-flowing
+	url = git@github.com:emacsmirror/messages-are-flowing.git
+	branch = master
 [submodule "messkeyw"]
 	path = mirror/messkeyw
 	url = git@github.com:emacsmirror/messkeyw.git
@@ -11522,6 +11542,10 @@
 [submodule "noccur"]
 	path = mirror/noccur
 	url = git@github.com:emacsmirror/noccur.git
+[submodule "nocomments-mode"]
+	path = mirror/nocomments-mode
+	url = git@github.com:emacsmirror/nocomments-mode.git
+	branch = master
 [submodule "noctilux-theme"]
 	path = mirror/noctilux-theme
 	url = git@github.com:emacsmirror/noctilux-theme.git
@@ -11648,6 +11672,10 @@
 [submodule "nunmove"]
 	path = attic/nunmove
 	url = git@github.com:emacsattic/nunmove.git
+[submodule "nv-delete-back"]
+	path = mirror/nv-delete-back
+	url = git@github.com:emacsmirror/nv-delete-back.git
+	branch = master
 [submodule "nvm"]
 	path = mirror/nvm
 	url = git@github.com:emacsmirror/nvm.git
@@ -11758,6 +11786,10 @@
 [submodule "ob-spice"]
 	path = mirror/ob-spice
 	url = git@github.com:emacsmirror/ob-spice.git
+	branch = master
+[submodule "ob-sql-mode"]
+	path = mirror/ob-sql-mode
+	url = git@github.com:emacsmirror/ob-sql-mode.git
 	branch = master
 [submodule "ob-swift"]
 	path = mirror/ob-swift
@@ -12319,6 +12351,10 @@
 [submodule "org-table-comment"]
 	path = mirror/org-table-comment
 	url = git@github.com:emacsmirror/org-table-comment.git
+[submodule "org-table-sticky-header"]
+	path = mirror/org-table-sticky-header
+	url = git@github.com:emacsmirror/org-table-sticky-header.git
+	branch = master
 [submodule "org-tfl"]
 	path = mirror/org-tfl
 	url = git@github.com:emacsmirror/org-tfl.git
@@ -13146,6 +13182,10 @@
 [submodule "picolisp-wiki-mode"]
 	path = mirror/picolisp-wiki-mode
 	url = git@github.com:emacsmirror/picolisp-wiki-mode.git
+[submodule "picpocket"]
+	path = mirror/picpocket
+	url = git@github.com:emacsmirror/picpocket.git
+	branch = master
 [submodule "pifont"]
 	path = attic/pifont
 	url = git@github.com:emacsattic/pifont.git
