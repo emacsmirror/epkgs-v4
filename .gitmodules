@@ -4037,6 +4037,10 @@
 	path = mirror/ede-php-autoload
 	url = git@github.com:emacsmirror/ede-php-autoload.git
 	branch = master
+[submodule "ede-php-autoload-composer-installers"]
+	path = mirror/ede-php-autoload-composer-installers
+	url = git@github.com:emacsmirror/ede-php-autoload-composer-installers.git
+	branch = master
 [submodule "edebug-x"]
 	path = mirror/edebug-x
 	url = git@github.com:emacsmirror/edebug-x.git
@@ -11705,6 +11709,10 @@
 	path = mirror/ob-applescript
 	url = git@github.com:emacsmirror/ob-applescript.git
 	branch = master
+[submodule "ob-async"]
+	path = mirror/ob-async
+	url = git@github.com:emacsmirror/ob-async.git
+	branch = master
 [submodule "ob-browser"]
 	path = mirror/ob-browser
 	url = git@github.com:emacsmirror/ob-browser.git
@@ -13480,6 +13488,10 @@
 [submodule "prand"]
 	path = mirror/prand
 	url = git@github.com:emacsmirror/prand.git
+[submodule "prassee-theme"]
+	path = mirror/prassee-theme
+	url = git@github.com:emacsmirror/prassee-theme.git
+	branch = master
 [submodule "prefixkey"]
 	path = mirror/prefixkey
 	url = git@github.com:emacsmirror/prefixkey.git
