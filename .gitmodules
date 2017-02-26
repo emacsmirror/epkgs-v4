@@ -4041,6 +4041,10 @@
 	path = mirror/ede-php-autoload-composer-installers
 	url = git@github.com:emacsmirror/ede-php-autoload-composer-installers.git
 	branch = master
+[submodule "ede-php-autoload-drupal"]
+	path = mirror/ede-php-autoload-drupal
+	url = git@github.com:emacsmirror/ede-php-autoload-drupal.git
+	branch = master
 [submodule "edebug-x"]
 	path = mirror/edebug-x
 	url = git@github.com:emacsmirror/edebug-x.git
@@ -5857,6 +5861,10 @@
 [submodule "flycheck-checkpatch"]
 	path = mirror/flycheck-checkpatch
 	url = git@github.com:emacsmirror/flycheck-checkpatch.git
+	branch = master
+[submodule "flycheck-clang-tidy"]
+	path = mirror/flycheck-clang-tidy
+	url = git@github.com:emacsmirror/flycheck-clang-tidy.git
 	branch = master
 [submodule "flycheck-clangcheck"]
 	path = mirror/flycheck-clangcheck
@@ -9404,6 +9412,10 @@
 [submodule "kanji-mode"]
 	path = mirror/kanji-mode
 	url = git@github.com:emacsmirror/kanji-mode.git
+[submodule "kaolin-theme"]
+	path = mirror/kaolin-theme
+	url = git@github.com:emacsmirror/kaolin-theme.git
+	branch = master
 [submodule "kaomoji"]
 	path = mirror/kaomoji
 	url = git@github.com:emacsmirror/kaomoji.git
@@ -17828,6 +17840,10 @@
 [submodule "vtx"]
 	path = attic/vtx
 	url = git@github.com:emacsattic/vtx.git
+[submodule "vue-html-mode"]
+	path = mirror/vue-html-mode
+	url = git@github.com:emacsmirror/vue-html-mode.git
+	branch = master
 [submodule "vue-mode"]
 	path = mirror/vue-mode
 	url = git@github.com:emacsmirror/vue-mode.git
