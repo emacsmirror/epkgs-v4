@@ -1606,6 +1606,10 @@
 	path = mirror/build-helper
 	url = git@github.com:emacsmirror/build-helper.git
 	branch = master
+[submodule "build-status"]
+	path = mirror/build-status
+	url = git@github.com:emacsmirror/build-status.git
+	branch = master
 [submodule "build-tags"]
 	path = attic/build-tags
 	url = git@github.com:emacsattic/build-tags.git
