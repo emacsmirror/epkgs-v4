@@ -4765,6 +4765,7 @@
 [submodule "epresent"]
 	path = mirror/epresent
 	url = git@github.com:emacsmirror/epresent.git
+	branch = master
 [submodule "eprime-mode"]
 	path = mirror/eprime-mode
 	url = git@github.com:emacsmirror/eprime-mode.git
@@ -5140,6 +5141,7 @@
 [submodule "evil-ediff"]
 	path = mirror/evil-ediff
 	url = git@github.com:emacsmirror/evil-ediff.git
+	branch = master
 [submodule "evil-elscreen"]
 	path = mirror/evil-elscreen
 	url = git@github.com:emacsmirror/evil-elscreen.git
@@ -5186,6 +5188,7 @@
 [submodule "evil-magit"]
 	path = mirror/evil-magit
 	url = git@github.com:emacsmirror/evil-magit.git
+	branch = master
 [submodule "evil-mark-replace"]
 	path = mirror/evil-mark-replace
 	url = git@github.com:emacsmirror/evil-mark-replace.git
@@ -7675,6 +7678,7 @@
 [submodule "helm-growthforecast"]
 	path = mirror/helm-growthforecast
 	url = git@github.com:emacsmirror/helm-growthforecast.git
+	branch = master
 [submodule "helm-gtags"]
 	path = mirror/helm-gtags
 	url = git@github.com:emacsmirror/helm-gtags.git
@@ -7897,6 +7901,7 @@
 [submodule "helm-unicode"]
 	path = mirror/helm-unicode
 	url = git@github.com:emacsmirror/helm-unicode.git
+	branch = master
 [submodule "helm-w32-launcher"]
 	path = mirror/helm-w32-launcher
 	url = git@github.com:emacsmirror/helm-w32-launcher.git
@@ -8140,6 +8145,7 @@
 [submodule "hl-anything"]
 	path = mirror/hl-anything
 	url = git@github.com:emacsmirror/hl-anything.git
+	branch = master
 [submodule "hl-defined"]
 	path = mirror/hl-defined
 	url = git@github.com:emacsmirror/hl-defined.git
@@ -9763,6 +9769,7 @@
 [submodule "ledger-mode"]
 	path = mirror/ledger-mode
 	url = git@github.com:emacsmirror/ledger-mode.git
+	branch = master
 [submodule "leerzeichen"]
 	path = mirror/leerzeichen
 	url = git@github.com:emacsmirror/leerzeichen.git
@@ -10174,6 +10181,7 @@
 [submodule "lyrics"]
 	path = mirror/lyrics
 	url = git@github.com:emacsmirror/lyrics.git
+	branch = master
 [submodule "lyricwiki"]
 	path = mirror/lyricwiki
 	url = git@github.com:emacsmirror/lyricwiki.git
@@ -12230,6 +12238,7 @@
 [submodule "org-jira"]
 	path = mirror/org-jira
 	url = git@github.com:emacsmirror/org-jira.git
+	branch = master
 [submodule "org-journal"]
 	path = mirror/org-journal
 	url = git@github.com:emacsmirror/org-journal.git
@@ -13288,6 +13297,7 @@
 [submodule "plantuml-mode"]
 	path = mirror/plantuml-mode
 	url = git@github.com:emacsmirror/plantuml-mode.git
+	branch = master
 [submodule "platformio-mode"]
 	path = mirror/platformio-mode
 	url = git@github.com:emacsmirror/platformio-mode.git
@@ -13759,6 +13769,7 @@
 [submodule "puppet-mode"]
 	path = mirror/puppet-mode
 	url = git@github.com:emacsmirror/puppet-mode.git
+	branch = master
 [submodule "puppet-pi-mode"]
 	path = mirror/puppet-pi-mode
 	url = git@github.com:emacsmirror/puppet-pi-mode.git
@@ -14668,6 +14679,7 @@
 [submodule "rotate"]
 	path = mirror/rotate
 	url = git@github.com:emacsmirror/rotate.git
+	branch = master
 [submodule "rotate-text"]
 	path = mirror/rotate-text
 	url = git@github.com:emacsmirror/rotate-text.git
@@ -14848,6 +14860,7 @@
 [submodule "sage-shell-mode"]
 	path = mirror/sage-shell-mode
 	url = git@github.com:emacsmirror/sage-shell-mode.git
+	branch = master
 [submodule "salesforce-utils"]
 	path = mirror/salesforce-utils
 	url = git@github.com:emacsmirror/salesforce-utils.git
@@ -14980,6 +14993,7 @@
 [submodule "scratch"]
 	path = mirror/scratch
 	url = git@github.com:emacsmirror/scratch.git
+	branch = master
 [submodule "scratch-ext"]
 	path = mirror/scratch-ext
 	url = git@github.com:emacsmirror/scratch-ext.git
@@ -15882,6 +15896,7 @@
 [submodule "speed-type"]
 	path = mirror/speed-type
 	url = git@github.com:emacsmirror/speed-type.git
+	branch = master
 [submodule "speedbar-extension"]
 	path = mirror/speedbar-extension
 	url = git@github.com:emacsmirror/speedbar-extension.git
@@ -18572,6 +18587,7 @@
 [submodule "xquery-mode"]
 	path = mirror/xquery-mode
 	url = git@github.com:emacsmirror/xquery-mode.git
+	branch = master
 [submodule "xquery-tool"]
 	path = mirror/xquery-tool
 	url = git@github.com:emacsmirror/xquery-tool.git
@@ -18717,6 +18733,7 @@
 [submodule "yasnippet"]
 	path = mirror/yasnippet
 	url = git@github.com:emacsmirror/yasnippet.git
+	branch = master
 [submodule "yatemplate"]
 	path = mirror/yatemplate
 	url = git@github.com:emacsmirror/yatemplate.git
