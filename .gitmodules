@@ -5331,6 +5331,10 @@
 [submodule "exec-path-from-shell"]
 	path = mirror/exec-path-from-shell
 	url = git@github.com:emacsmirror/exec-path-from-shell.git
+[submodule "exiftool"]
+	path = mirror/exiftool
+	url = git@github.com:emacsmirror/exiftool.git
+	branch = master
 [submodule "exim"]
 	path = mirror/exim
 	url = git@github.com:emacsmirror/exim.git
@@ -11512,6 +11516,10 @@
 [submodule "niflheim-theme"]
 	path = mirror/niflheim-theme
 	url = git@github.com:emacsmirror/niflheim-theme.git
+	branch = master
+[submodule "nikola"]
+	path = mirror/nikola
+	url = git@github.com:emacsmirror/nikola.git
 	branch = master
 [submodule "nim-mode"]
 	path = mirror/nim-mode
