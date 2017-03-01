@@ -4121,6 +4121,10 @@
 [submodule "edts"]
 	path = mirror/edts
 	url = git@github.com:emacsmirror/edts.git
+[submodule "ee"]
+	path = mirror/ee
+	url = git@github.com:emacsmirror/ee.git
+	branch = master
 [submodule "eev"]
 	path = mirror/eev
 	url = git@github.com:emacsmirror/eev.git
@@ -4363,6 +4367,7 @@
 [submodule "elk-test"]
 	path = mirror/elk-test
 	url = git@github.com:emacsmirror/elk-test.git
+	branch = master
 [submodule "ell"]
 	path = attic/ell
 	url = git@github.com:emacsattic/ell.git
@@ -4455,8 +4460,9 @@
 	path = mirror/eltex
 	url = git@github.com:emacsmirror/eltex.git
 [submodule "elunit"]
-	path = attic/elunit
-	url = git@github.com:emacsattic/elunit.git
+	path = mirror/elunit
+	url = git@github.com:emacsmirror/elunit.git
+	branch = master
 [submodule "elwiki"]
 	path = mirror/elwiki
 	url = git@github.com:emacsmirror/elwiki.git
