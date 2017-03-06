@@ -554,6 +554,10 @@
 	path = mirror/apib-mode
 	url = git@github.com:emacsmirror/apib-mode.git
 	branch = master
+[submodule "apiwrap"]
+	path = mirror/apiwrap
+	url = git@github.com:emacsmirror/apiwrap.git
+	branch = master
 [submodule "aplac-mode"]
 	path = attic/aplac-mode
 	url = git@github.com:emacsattic/aplac-mode.git
@@ -1364,6 +1368,10 @@
 [submodule "blog-admin"]
 	path = mirror/blog-admin
 	url = git@github.com:emacsmirror/blog-admin.git
+[submodule "blog-minimal"]
+	path = mirror/blog-minimal
+	url = git@github.com:emacsmirror/blog-minimal.git
+	branch = master
 [submodule "blogger"]
 	path = attic/blogger
 	url = git@github.com:emacsattic/blogger.git
@@ -4422,6 +4430,10 @@
 [submodule "elpy"]
 	path = mirror/elpy
 	url = git@github.com:emacsmirror/elpy.git
+[submodule "elquery"]
+	path = mirror/elquery
+	url = git@github.com:emacsmirror/elquery.git
+	branch = master
 [submodule "elscreen"]
 	path = mirror/elscreen
 	url = git@github.com:emacsmirror/elscreen.git
@@ -5838,6 +5850,10 @@
 [submodule "floobits"]
 	path = mirror/floobits
 	url = git@github.com:emacsmirror/floobits.git
+	branch = master
+[submodule "flow-mode"]
+	path = mirror/flow-mode
+	url = git@github.com:emacsmirror/flow-mode.git
 	branch = master
 [submodule "flowtimer"]
 	path = mirror/flowtimer
@@ -7625,6 +7641,10 @@
 [submodule "helm-etags-plus"]
 	path = mirror/helm-etags-plus
 	url = git@github.com:emacsmirror/helm-etags-plus.git
+	branch = master
+[submodule "helm-ext"]
+	path = mirror/helm-ext
+	url = git@github.com:emacsmirror/helm-ext.git
 	branch = master
 [submodule "helm-filesets"]
 	path = mirror/helm-filesets
@@ -9613,6 +9633,10 @@
 	path = mirror/kooten-theme
 	url = git@github.com:emacsmirror/kooten-theme.git
 	branch = master
+[submodule "korean-holidays"]
+	path = mirror/korean-holidays
+	url = git@github.com:emacsmirror/korean-holidays.git
+	branch = master
 [submodule "kosmos-theme"]
 	path = mirror/kosmos-theme
 	url = git@github.com:emacsmirror/kosmos-theme.git
@@ -10170,6 +10194,10 @@
 [submodule "lua-mode"]
 	path = mirror/lua-mode
 	url = git@github.com:emacsmirror/lua-mode.git
+[submodule "luarocks"]
+	path = mirror/luarocks
+	url = git@github.com:emacsmirror/luarocks.git
+	branch = master
 [submodule "lude"]
 	path = mirror/lude
 	url = git@github.com:emacsmirror/lude.git
@@ -10418,6 +10446,10 @@
 [submodule "manage-minor-mode"]
 	path = mirror/manage-minor-mode
 	url = git@github.com:emacsmirror/manage-minor-mode.git
+[submodule "mandm-theme"]
+	path = mirror/mandm-theme
+	url = git@github.com:emacsmirror/mandm-theme.git
+	branch = master
 [submodule "mandoku"]
 	path = mirror/mandoku
 	url = git@github.com:emacsmirror/mandoku.git
@@ -14452,6 +14484,10 @@
 [submodule "remem"]
 	path = attic/remem
 	url = git@github.com:emacsattic/remem.git
+[submodule "remember-last-theme"]
+	path = mirror/remember-last-theme
+	url = git@github.com:emacsmirror/remember-last-theme.git
+	branch = master
 [submodule "remind"]
 	path = attic/remind
 	url = git@github.com:emacsattic/remind.git
@@ -14948,6 +14984,10 @@
 [submodule "say-what-im-doing"]
 	path = mirror/say-what-im-doing
 	url = git@github.com:emacsmirror/say-what-im-doing.git
+	branch = master
+[submodule "sayid"]
+	path = mirror/sayid
+	url = git@github.com:emacsmirror/sayid.git
 	branch = master
 [submodule "sbt"]
 	path = mirror/sbt
