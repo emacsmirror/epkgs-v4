@@ -12326,6 +12326,10 @@
 [submodule "org-nan"]
 	path = mirror/org-nan
 	url = git@github.com:emacsmirror/org-nan.git
+[submodule "org-notebook"]
+	path = mirror/org-notebook
+	url = git@github.com:emacsmirror/org-notebook.git
+	branch = master
 [submodule "org-octopress"]
 	path = mirror/org-octopress
 	url = git@github.com:emacsmirror/org-octopress.git
@@ -13653,6 +13657,10 @@
 [submodule "project-root"]
 	path = mirror/project-root
 	url = git@github.com:emacsmirror/project-root.git
+[submodule "project-shells"]
+	path = mirror/project-shells
+	url = git@github.com:emacsmirror/project-shells.git
+	branch = master
 [submodule "projectile"]
 	path = mirror/projectile
 	url = git@github.com:emacsmirror/projectile.git
