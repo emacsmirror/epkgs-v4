@@ -8083,6 +8083,7 @@
 [submodule "highlight-context-line"]
 	path = mirror/highlight-context-line
 	url = git@github.com:emacsmirror/highlight-context-line.git
+	branch = master
 [submodule "highlight-current-line"]
 	path = mirror/highlight-current-line
 	url = git@github.com:emacsmirror/highlight-current-line.git
