@@ -916,6 +916,10 @@
 [submodule "auto-virtualenv"]
 	path = mirror/auto-virtualenv
 	url = git@github.com:emacsmirror/auto-virtualenv.git
+[submodule "auto-virtualenvwrapper"]
+	path = mirror/auto-virtualenvwrapper
+	url = git@github.com:emacsmirror/auto-virtualenvwrapper.git
+	branch = master
 [submodule "auto-yasnippet"]
 	path = mirror/auto-yasnippet
 	url = git@github.com:emacsmirror/auto-yasnippet.git
@@ -7312,6 +7316,10 @@
 [submodule "gtk-perl"]
 	path = mirror/gtk-perl
 	url = git@github.com:emacsmirror/gtk-perl.git
+[submodule "gtk-pomodoro-indicator"]
+	path = mirror/gtk-pomodoro-indicator
+	url = git@github.com:emacsmirror/gtk-pomodoro-indicator.git
+	branch = master
 [submodule "gtk2hs"]
 	path = mirror/gtk2hs
 	url = git@github.com:emacsmirror/gtk2hs.git
@@ -7918,6 +7926,10 @@
 [submodule "helm-spotify"]
 	path = mirror/helm-spotify
 	url = git@github.com:emacsmirror/helm-spotify.git
+[submodule "helm-spotify-plus"]
+	path = mirror/helm-spotify-plus
+	url = git@github.com:emacsmirror/helm-spotify-plus.git
+	branch = master
 [submodule "helm-swoop"]
 	path = mirror/helm-swoop
 	url = git@github.com:emacsmirror/helm-swoop.git
@@ -8164,6 +8176,10 @@
 [submodule "hippie-namespace"]
 	path = mirror/hippie-namespace
 	url = git@github.com:emacsmirror/hippie-namespace.git
+[submodule "historian"]
+	path = mirror/historian
+	url = git@github.com:emacsmirror/historian.git
+	branch = master
 [submodule "history"]
 	path = mirror/history
 	url = git@github.com:emacsmirror/history.git
@@ -10027,6 +10043,10 @@
 [submodule "litecoin-ticker"]
 	path = mirror/litecoin-ticker
 	url = git@github.com:emacsmirror/litecoin-ticker.git
+[submodule "literal-string"]
+	path = mirror/literal-string
+	url = git@github.com:emacsmirror/literal-string.git
+	branch = master
 [submodule "literate-coffee-mode"]
 	path = mirror/literate-coffee-mode
 	url = git@github.com:emacsmirror/literate-coffee-mode.git
@@ -12643,6 +12663,10 @@
 [submodule "ox-clip"]
 	path = mirror/ox-clip
 	url = git@github.com:emacsmirror/ox-clip.git
+[submodule "ox-epub"]
+	path = mirror/ox-epub
+	url = git@github.com:emacsmirror/ox-epub.git
+	branch = master
 [submodule "ox-gfm"]
 	path = mirror/ox-gfm
 	url = git@github.com:emacsmirror/ox-gfm.git
@@ -13447,6 +13471,10 @@
 [submodule "pom"]
 	path = mirror/pom
 	url = git@github.com:emacsmirror/pom.git
+[submodule "pomidor"]
+	path = mirror/pomidor
+	url = git@github.com:emacsmirror/pomidor.git
+	branch = master
 [submodule "pomodoro"]
 	path = mirror/pomodoro
 	url = git@github.com:emacsmirror/pomodoro.git
@@ -16106,6 +16134,10 @@
 [submodule "srfi"]
 	path = mirror/srfi
 	url = git@github.com:emacsmirror/srfi.git
+[submodule "ssass-mode"]
+	path = mirror/ssass-mode
+	url = git@github.com:emacsmirror/ssass-mode.git
+	branch = master
 [submodule "ssh"]
 	path = mirror/ssh
 	url = git@github.com:emacsmirror/ssh.git
