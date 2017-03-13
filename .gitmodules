@@ -3468,6 +3468,10 @@
 [submodule "dired-hacks"]
 	path = mirror/dired-hacks
 	url = git@github.com:emacsmirror/dired-hacks.git
+[submodule "dired-hide-dotfiles"]
+	path = mirror/dired-hide-dotfiles
+	url = git@github.com:emacsmirror/dired-hide-dotfiles.git
+	branch = master
 [submodule "dired-icon"]
 	path = mirror/dired-icon
 	url = git@github.com:emacsmirror/dired-icon.git
@@ -4346,6 +4350,10 @@
 [submodule "elisp-depend"]
 	path = mirror/elisp-depend
 	url = git@github.com:emacsmirror/elisp-depend.git
+	branch = master
+[submodule "elisp-docstring-mode"]
+	path = mirror/elisp-docstring-mode
+	url = git@github.com:emacsmirror/elisp-docstring-mode.git
 	branch = master
 [submodule "elisp-format"]
 	path = mirror/elisp-format
@@ -10310,6 +10318,10 @@
 [submodule "magit-identities"]
 	path = mirror/magit-identities
 	url = git@github.com:emacsmirror/magit-identities.git
+[submodule "magit-lfs"]
+	path = mirror/magit-lfs
+	url = git@github.com:emacsmirror/magit-lfs.git
+	branch = master
 [submodule "magit-log-edit"]
 	path = attic/magit-log-edit
 	url = git@github.com:emacsattic/magit-log-edit.git
