@@ -18854,6 +18854,7 @@
 [submodule "yatex"]
 	path = mirror/yatex
 	url = git@github.com:emacsmirror/yatex.git
+	branch = master
 [submodule "yatm"]
 	path = mirror/yatm
 	url = git@github.com:emacsmirror/yatm.git
