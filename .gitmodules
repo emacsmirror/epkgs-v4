@@ -601,8 +601,8 @@
 	path = attic/arc-lzh-exe
 	url = git@github.com:emacsattic/arc-lzh-exe.git
 [submodule "archie"]
-	path = mirror/archie
-	url = git@github.com:emacsmirror/archie.git
+	path = attic/archie
+	url = git@github.com:emacsattic/archie.git
 [submodule "archive-downloader"]
 	path = mirror/archive-downloader
 	url = git@github.com:emacsmirror/archive-downloader.git
