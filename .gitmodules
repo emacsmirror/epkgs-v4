@@ -434,8 +434,8 @@
 	path = attic/ani-fcsh
 	url = git@github.com:emacsattic/ani-fcsh.git
 [submodule "annot"]
-	path = mirror/annot
-	url = git@github.com:emacsmirror/annot.git
+	path = attic/annot
+	url = git@github.com:emacsattic/annot.git
 [submodule "annotate"]
 	path = mirror/annotate
 	url = git@github.com:emacsmirror/annotate.git
@@ -1329,8 +1329,8 @@
 	path = mirror/bitlbee
 	url = git@github.com:emacsmirror/bitlbee.git
 [submodule "bitly"]
-	path = mirror/bitly
-	url = git@github.com:emacsmirror/bitly.git
+	path = attic/bitly
+	url = git@github.com:emacsattic/bitly.git
 [submodule "blackboard-bold-mode"]
 	path = mirror/blackboard-bold-mode
 	url = git@github.com:emacsmirror/blackboard-bold-mode.git
@@ -2859,8 +2859,8 @@
 	path = mirror/css-format
 	url = git@github.com:emacsmirror/css-format.git
 [submodule "css-helper"]
-	path = mirror/css-helper
-	url = git@github.com:emacsmirror/css-helper.git
+	path = attic/css-helper
+	url = git@github.com:emacsattic/css-helper.git
 [submodule "cssh"]
 	path = mirror/cssh
 	url = git@github.com:emacsmirror/cssh.git
@@ -3002,8 +3002,8 @@
 	path = mirror/cygwin-mount
 	url = git@github.com:emacsmirror/cygwin-mount.git
 [submodule "cygwin-terminal-clipboard"]
-	path = mirror/cygwin-terminal-clipboard
-	url = git@github.com:emacsmirror/cygwin-terminal-clipboard.git
+	path = attic/cygwin-terminal-clipboard
+	url = git@github.com:emacsattic/cygwin-terminal-clipboard.git
 [submodule "cyphejor"]
 	path = mirror/cyphejor
 	url = git@github.com:emacsmirror/cyphejor.git
@@ -4488,8 +4488,8 @@
 	url = git@github.com:emacsmirror/elunit.git
 	branch = master
 [submodule "elwiki"]
-	path = mirror/elwiki
-	url = git@github.com:emacsmirror/elwiki.git
+	path = attic/elwiki
+	url = git@github.com:emacsattic/elwiki.git
 [submodule "elwm"]
 	path = mirror/elwm
 	url = git@github.com:emacsmirror/elwm.git
@@ -6820,8 +6820,8 @@
 	url = git@github.com:emacsmirror/gitter.git
 	branch = master
 [submodule "gitty"]
-	path = mirror/gitty
-	url = git@github.com:emacsmirror/gitty.git
+	path = attic/gitty
+	url = git@github.com:emacsattic/gitty.git
 [submodule "glab"]
 	path = mirror/glab
 	url = git@github.com:emacsmirror/glab.git
@@ -7149,8 +7149,8 @@
 	path = mirror/gplus-mode
 	url = git@github.com:emacsmirror/gplus-mode.git
 [submodule "gplusify"]
-	path = mirror/gplusify
-	url = git@github.com:emacsmirror/gplusify.git
+	path = attic/gplusify
+	url = git@github.com:emacsattic/gplusify.git
 [submodule "grab-and-drag"]
 	path = mirror/grab-and-drag
 	url = git@github.com:emacsmirror/grab-and-drag.git
@@ -8284,8 +8284,8 @@
 	path = attic/hs
 	url = git@github.com:emacsattic/hs.git
 [submodule "hse"]
-	path = mirror/hse
-	url = git@github.com:emacsmirror/hse.git
+	path = attic/hse
+	url = git@github.com:emacsattic/hse.git
 [submodule "hsearch"]
 	path = mirror/hsearch
 	url = git@github.com:emacsmirror/hsearch.git
