@@ -4276,6 +4276,10 @@
 [submodule "el2markdown"]
 	path = mirror/el2markdown
 	url = git@github.com:emacsmirror/el2markdown.git
+[submodule "el2org"]
+	path = mirror/el2org
+	url = git@github.com:emacsmirror/el2org.git
+	branch = master
 [submodule "el4r"]
 	path = attic/el4r
 	url = git@github.com:emacsattic/el4r.git
