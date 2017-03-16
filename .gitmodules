@@ -9084,6 +9084,10 @@
 	path = mirror/ivy-rich
 	url = git@github.com:emacsmirror/ivy-rich.git
 	branch = master
+[submodule "ivy-todo"]
+	path = mirror/ivy-todo
+	url = git@github.com:emacsmirror/ivy-todo.git
+	branch = master
 [submodule "ivy-xcdoc"]
 	path = mirror/ivy-xcdoc
 	url = git@github.com:emacsmirror/ivy-xcdoc.git
@@ -13151,6 +13155,10 @@
 [submodule "persp-mode"]
 	path = mirror/persp-mode
 	url = git@github.com:emacsmirror/persp-mode.git
+[submodule "persp-mode-projectile-bridge"]
+	path = mirror/persp-mode-projectile-bridge
+	url = git@github.com:emacsmirror/persp-mode-projectile-bridge.git
+	branch = master
 [submodule "persp-projectile"]
 	path = mirror/persp-projectile
 	url = git@github.com:emacsmirror/persp-projectile.git
