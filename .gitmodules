@@ -2380,6 +2380,10 @@
 [submodule "comicscript"]
 	path = mirror/comicscript
 	url = git@github.com:emacsmirror/comicscript.git
+[submodule "comint-intercept"]
+	path = mirror/comint-intercept
+	url = git@github.com:emacsmirror/comint-intercept.git
+	branch = master
 [submodule "comint-popup"]
 	path = mirror/comint-popup
 	url = git@github.com:emacsmirror/comint-popup.git
@@ -9732,6 +9736,10 @@
 [submodule "language-detection"]
 	path = mirror/language-detection
 	url = git@github.com:emacsmirror/language-detection.git
+	branch = master
+[submodule "lastpass"]
+	path = mirror/lastpass
+	url = git@github.com:emacsmirror/lastpass.git
 	branch = master
 [submodule "lat1conv"]
 	path = mirror/lat1conv
