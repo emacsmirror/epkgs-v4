@@ -16841,6 +16841,9 @@
 	path = mirror/ten-hundred-mode
 	url = git@github.com:emacsmirror/ten-hundred-mode.git
 	branch = master
+[submodule "tenv"]
+	path = mirror/tenv
+	url = git@github.com:emacsmirror/tenv.git
 [submodule "term+"]
 	path = mirror/term+
 	url = git@github.com:emacsmirror/term-plus.git
