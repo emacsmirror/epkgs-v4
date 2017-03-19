@@ -2098,6 +2098,9 @@
 [submodule "cl-merge"]
 	path = mirror/cl-merge
 	url = git@github.com:emacsmirror/cl-merge.git
+[submodule "cl-print"]
+	path = mirror/cl-print
+	url = git@github.com:emacsmirror/cl-print.git
 [submodule "claire-mode"]
 	path = mirror/claire-mode
 	url = git@github.com:emacsmirror/claire-mode.git
