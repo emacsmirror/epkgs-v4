@@ -895,6 +895,10 @@
 [submodule "auto-pep8"]
 	path = mirror/auto-pep8
 	url = git@github.com:emacsmirror/auto-pep8.git
+[submodule "auto-read-only"]
+	path = mirror/auto-read-only
+	url = git@github.com:emacsmirror/auto-read-only.git
+	branch = master
 [submodule "auto-recomp"]
 	path = attic/auto-recomp
 	url = git@github.com:emacsattic/auto-recomp.git
@@ -7407,6 +7411,10 @@
 [submodule "hack-locals"]
 	path = attic/hack-locals
 	url = git@github.com:emacsattic/hack-locals.git
+[submodule "hack-time-mode"]
+	path = mirror/hack-time-mode
+	url = git@github.com:emacsmirror/hack-time-mode.git
+	branch = master
 [submodule "hacker-typer"]
 	path = mirror/hacker-typer
 	url = git@github.com:emacsmirror/hacker-typer.git
@@ -11605,6 +11613,10 @@
 [submodule "nim-mode"]
 	path = mirror/nim-mode
 	url = git@github.com:emacsmirror/nim-mode.git
+[submodule "nimbus-theme"]
+	path = mirror/nimbus-theme
+	url = git@github.com:emacsmirror/nimbus-theme.git
+	branch = master
 [submodule "nimrod-mode"]
 	path = mirror/nimrod-mode
 	url = git@github.com:emacsmirror/nimrod-mode.git
@@ -12369,6 +12381,10 @@
 [submodule "org-mobile-sync"]
 	path = mirror/org-mobile-sync
 	url = git@github.com:emacsmirror/org-mobile-sync.git
+[submodule "org-mru-clock"]
+	path = mirror/org-mru-clock
+	url = git@github.com:emacsmirror/org-mru-clock.git
+	branch = master
 [submodule "org-multiple-keymap"]
 	path = mirror/org-multiple-keymap
 	url = git@github.com:emacsmirror/org-multiple-keymap.git
@@ -13369,6 +13385,10 @@
 [submodule "pip-requirements"]
 	path = mirror/pip-requirements
 	url = git@github.com:emacsmirror/pip-requirements.git
+[submodule "pippel"]
+	path = mirror/pippel
+	url = git@github.com:emacsmirror/pippel.git
+	branch = master
 [submodule "pivotal-tracker"]
 	path = mirror/pivotal-tracker
 	url = git@github.com:emacsmirror/pivotal-tracker.git
@@ -13468,6 +13488,10 @@
 [submodule "pocket-api"]
 	path = mirror/pocket-api
 	url = git@github.com:emacsmirror/pocket-api.git
+	branch = master
+[submodule "pocket-mode"]
+	path = mirror/pocket-mode
+	url = git@github.com:emacsmirror/pocket-mode.git
 	branch = master
 [submodule "pocketcompletion"]
 	path = mirror/pocketcompletion
