@@ -5227,6 +5227,10 @@
 [submodule "evil-leader"]
 	path = mirror/evil-leader
 	url = git@github.com:emacsmirror/evil-leader.git
+[submodule "evil-lion"]
+	path = mirror/evil-lion
+	url = git@github.com:emacsmirror/evil-lion.git
+	branch = master
 [submodule "evil-lisp-state"]
 	path = mirror/evil-lisp-state
 	url = git@github.com:emacsmirror/evil-lisp-state.git
@@ -7956,6 +7960,10 @@
 [submodule "helm-spotify-plus"]
 	path = mirror/helm-spotify-plus
 	url = git@github.com:emacsmirror/helm-spotify-plus.git
+	branch = master
+[submodule "helm-sql-connect"]
+	path = mirror/helm-sql-connect
+	url = git@github.com:emacsmirror/helm-sql-connect.git
 	branch = master
 [submodule "helm-swoop"]
 	path = mirror/helm-swoop
