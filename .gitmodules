@@ -1304,6 +1304,7 @@
 [submodule "binclock"]
 	path = mirror/binclock
 	url = git@github.com:emacsmirror/binclock.git
+	branch = master
 [submodule "bind-map"]
 	path = mirror/bind-map
 	url = git@github.com:emacsmirror/bind-map.git
@@ -11960,6 +11961,7 @@
 [submodule "obfusurl"]
 	path = mirror/obfusurl
 	url = git@github.com:emacsmirror/obfusurl.git
+	branch = master
 [submodule "objc-c-mode"]
 	path = mirror/objc-c-mode
 	url = git@github.com:emacsmirror/objc-c-mode.git
