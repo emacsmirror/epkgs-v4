@@ -7595,6 +7595,10 @@
 [submodule "helm-bm"]
 	path = mirror/helm-bm
 	url = git@github.com:emacsmirror/helm-bm.git
+[submodule "helm-books"]
+	path = mirror/helm-books
+	url = git@github.com:emacsmirror/helm-books.git
+	branch = master
 [submodule "helm-build-command"]
 	path = mirror/helm-build-command
 	url = git@github.com:emacsmirror/helm-build-command.git
@@ -8564,6 +8568,10 @@
 [submodule "ido-exit-target"]
 	path = mirror/ido-exit-target
 	url = git@github.com:emacsmirror/ido-exit-target.git
+[submodule "ido-flex-with-migemo"]
+	path = mirror/ido-flex-with-migemo
+	url = git@github.com:emacsmirror/ido-flex-with-migemo.git
+	branch = master
 [submodule "ido-gnus"]
 	path = mirror/ido-gnus
 	url = git@github.com:emacsmirror/ido-gnus.git
@@ -11060,6 +11068,10 @@
 	path = mirror/monochrome-theme
 	url = git@github.com:emacsmirror/monochrome-theme.git
 	branch = master
+[submodule "monokai-alt-theme"]
+	path = mirror/monokai-alt-theme
+	url = git@github.com:emacsmirror/monokai-alt-theme.git
+	branch = master
 [submodule "monokai-theme"]
 	path = mirror/monokai-theme
 	url = git@github.com:emacsmirror/monokai-theme.git
@@ -12300,6 +12312,10 @@
 	path = mirror/org-easy-img-insert
 	url = git@github.com:emacsmirror/org-easy-img-insert.git
 	branch = master
+[submodule "org-edit-latex"]
+	path = mirror/org-edit-latex
+	url = git@github.com:emacsmirror/org-edit-latex.git
+	branch = master
 [submodule "org-ehtml"]
 	path = mirror/org-ehtml
 	url = git@github.com:emacsmirror/org-ehtml.git
@@ -12749,6 +12765,10 @@
 [submodule "ox-mediawiki"]
 	path = mirror/ox-mediawiki
 	url = git@github.com:emacsmirror/ox-mediawiki.git
+[submodule "ox-minutes"]
+	path = mirror/ox-minutes
+	url = git@github.com:emacsmirror/ox-minutes.git
+	branch = master
 [submodule "ox-nikola"]
 	path = mirror/ox-nikola
 	url = git@github.com:emacsmirror/ox-nikola.git
@@ -18547,6 +18567,10 @@
 [submodule "world-time-mode"]
 	path = mirror/world-time-mode
 	url = git@github.com:emacsmirror/world-time-mode.git
+[submodule "wotd"]
+	path = mirror/wotd
+	url = git@github.com:emacsmirror/wotd.git
+	branch = master
 [submodule "wpdl-mode"]
 	path = mirror/wpdl-mode
 	url = git@github.com:emacsmirror/wpdl-mode.git
