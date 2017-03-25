@@ -5883,9 +5883,9 @@
 	path = mirror/floobits
 	url = git@github.com:emacsmirror/floobits.git
 	branch = master
-[submodule "flow-mode"]
-	path = mirror/flow-mode
-	url = git@github.com:emacsmirror/flow-mode.git
+[submodule "flow-minor-mode"]
+	path = mirror/flow-minor-mode
+	url = git@github.com:emacsmirror/flow-minor-mode.git
 	branch = master
 [submodule "flowtimer"]
 	path = mirror/flowtimer
