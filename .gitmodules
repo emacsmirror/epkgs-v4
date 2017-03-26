@@ -3947,6 +3947,10 @@
 [submodule "easy-highlight"]
 	path = mirror/easy-highlight
 	url = git@github.com:emacsmirror/easy-highlight.git
+[submodule "easy-hugo"]
+	path = mirror/easy-hugo
+	url = git@github.com:emacsmirror/easy-hugo.git
+	branch = master
 [submodule "easy-imenu-index-generator"]
 	path = mirror/easy-imenu-index-generator
 	url = git@github.com:emacsmirror/easy-imenu-index-generator.git
@@ -6108,6 +6112,10 @@
 [submodule "flycheck-typescript-tslint"]
 	path = mirror/flycheck-typescript-tslint
 	url = git@github.com:emacsmirror/flycheck-typescript-tslint.git
+[submodule "flycheck-yamllint"]
+	path = mirror/flycheck-yamllint
+	url = git@github.com:emacsmirror/flycheck-yamllint.git
+	branch = master
 [submodule "flydoc"]
 	path = mirror/flydoc
 	url = git@github.com:emacsmirror/flydoc.git
@@ -12525,6 +12533,10 @@
 [submodule "org-sync"]
 	path = mirror/org-sync
 	url = git@github.com:emacsmirror/org-sync.git
+[submodule "org-sync-snippets"]
+	path = mirror/org-sync-snippets
+	url = git@github.com:emacsmirror/org-sync-snippets.git
+	branch = master
 [submodule "org-table-comment"]
 	path = mirror/org-table-comment
 	url = git@github.com:emacsmirror/org-table-comment.git
