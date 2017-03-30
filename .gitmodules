@@ -11738,6 +11738,10 @@
 [submodule "noprefix"]
 	path = mirror/noprefix
 	url = git@github.com:emacsmirror/noprefix.git
+[submodule "nord-theme"]
+	path = mirror/nord-theme
+	url = git@github.com:emacsmirror/nord-theme.git
+	branch = master
 [submodule "normalize-page"]
 	path = attic/normalize-page
 	url = git@github.com:emacsattic/normalize-page.git
@@ -13613,6 +13617,10 @@
 [submodule "popup-complete"]
 	path = mirror/popup-complete
 	url = git@github.com:emacsmirror/popup-complete.git
+[submodule "popup-edit-menu"]
+	path = mirror/popup-edit-menu
+	url = git@github.com:emacsmirror/popup-edit-menu.git
+	branch = master
 [submodule "popup-frame"]
 	path = mirror/popup-frame
 	url = git@github.com:emacsmirror/popup-frame.git
@@ -17168,6 +17176,10 @@
 [submodule "timid"]
 	path = mirror/timid
 	url = git@github.com:emacsmirror/timid.git
+[submodule "timonier"]
+	path = mirror/timonier
+	url = git@github.com:emacsmirror/timonier.git
+	branch = master
 [submodule "timp"]
 	path = mirror/timp
 	url = git@github.com:emacsmirror/timp.git
