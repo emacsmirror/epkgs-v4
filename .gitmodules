@@ -13887,6 +13887,7 @@
 [submodule "protocols"]
 	path = mirror/protocols
 	url = git@github.com:emacsmirror/protocols.git
+	branch = master
 [submodule "prove"]
 	path = mirror/prove
 	url = git@github.com:emacsmirror/prove.git
@@ -15388,6 +15389,7 @@
 [submodule "services"]
 	path = mirror/services
 	url = git@github.com:emacsmirror/services.git
+	branch = master
 [submodule "sese"]
 	path = attic/sese
 	url = git@github.com:emacsattic/sese.git
