@@ -2633,6 +2633,7 @@
 [submodule "constellations"]
 	path = mirror/constellations
 	url = git@github.com:emacsmirror/constellations.git
+	branch = master
 [submodule "constraint"]
 	path = mirror/constraint
 	url = git@github.com:emacsmirror/constraint.git
@@ -6445,6 +6446,7 @@
 [submodule "fscroll"]
 	path = mirror/fscroll
 	url = git@github.com:emacsmirror/fscroll.git
+	branch = master
 [submodule "fsdired"]
 	path = mirror/fsdired
 	url = git@github.com:emacsmirror/fsdired.git
@@ -6557,6 +6559,7 @@
 [submodule "garble"]
 	path = mirror/garble
 	url = git@github.com:emacsmirror/garble.git
+	branch = master
 [submodule "gas-mode"]
 	path = attic/gas-mode
 	url = git@github.com:emacsattic/gas-mode.git
@@ -8521,6 +8524,7 @@
 [submodule "icmp-info"]
 	path = mirror/icmp-info
 	url = git@github.com:emacsmirror/icmp-info.git
+	branch = master
 [submodule "icomplete+"]
 	path = mirror/icomplete+
 	url = git@github.com:emacsmirror/icomplete-plus.git
@@ -9852,6 +9856,7 @@
 [submodule "lbdb"]
 	path = mirror/lbdb
 	url = git@github.com:emacsmirror/lbdb.git
+	branch = master
 [submodule "lcb-mode"]
 	path = mirror/lcb-mode
 	url = git@github.com:emacsmirror/lcb-mode.git
@@ -11388,6 +11393,7 @@
 [submodule "mutt-alias"]
 	path = mirror/mutt-alias
 	url = git@github.com:emacsmirror/mutt-alias.git
+	branch = master
 [submodule "muttrc-mode"]
 	path = mirror/muttrc-mode
 	url = git@github.com:emacsmirror/muttrc-mode.git
@@ -11623,6 +11629,7 @@
 [submodule "ngn"]
 	path = mirror/ngn
 	url = git@github.com:emacsmirror/ngn.git
+	branch = master
 [submodule "nhexl-mode"]
 	path = mirror/nhexl-mode
 	url = git@github.com:emacsmirror/nhexl-mode.git
@@ -11821,6 +11828,7 @@
 [submodule "nukneval"]
 	path = mirror/nukneval
 	url = git@github.com:emacsmirror/nukneval.git
+	branch = master
 [submodule "num3-mode"]
 	path = mirror/num3-mode
 	url = git@github.com:emacsmirror/num3-mode.git
@@ -15884,6 +15892,7 @@
 [submodule "smartsig"]
 	path = mirror/smartsig
 	url = git@github.com:emacsmirror/smartsig.git
+	branch = master
 [submodule "smartwin"]
 	path = mirror/smartwin
 	url = git@github.com:emacsmirror/smartwin.git
@@ -17217,6 +17226,7 @@
 [submodule "tld"]
 	path = mirror/tld
 	url = git@github.com:emacsmirror/tld.git
+	branch = master
 [submodule "tldr"]
 	path = mirror/tldr
 	url = git@github.com:emacsmirror/tldr.git
@@ -17625,6 +17635,7 @@
 [submodule "unbind"]
 	path = mirror/unbind
 	url = git@github.com:emacsmirror/unbind.git
+	branch = master
 [submodule "unbound"]
 	path = mirror/unbound
 	url = git@github.com:emacsmirror/unbound.git
@@ -18265,6 +18276,7 @@
 [submodule "webinfo"]
 	path = mirror/webinfo
 	url = git@github.com:emacsmirror/webinfo.git
+	branch = master
 [submodule "webjump-plus"]
 	path = attic/webjump-plus
 	url = git@github.com:emacsattic/webjump-plus.git
