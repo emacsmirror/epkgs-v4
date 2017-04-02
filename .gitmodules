@@ -7846,6 +7846,10 @@
 [submodule "helm-mu-contacts"]
 	path = mirror/helm-mu-contacts
 	url = git@github.com:emacsmirror/helm-mu-contacts.git
+[submodule "helm-navi"]
+	path = mirror/helm-navi
+	url = git@github.com:emacsmirror/helm-navi.git
+	branch = master
 [submodule "helm-notmuch"]
 	path = mirror/helm-notmuch
 	url = git@github.com:emacsmirror/helm-notmuch.git
@@ -9731,6 +9735,10 @@
 [submodule "ksp-cfg-mode"]
 	path = mirror/ksp-cfg-mode
 	url = git@github.com:emacsmirror/ksp-cfg-mode.git
+	branch = master
+[submodule "kubernetes"]
+	path = mirror/kubernetes
+	url = git@github.com:emacsmirror/kubernetes.git
 	branch = master
 [submodule "kurecolor"]
 	path = mirror/kurecolor
@@ -12248,6 +12256,10 @@
 	path = mirror/org-bookmark-heading
 	url = git@github.com:emacsmirror/org-bookmark-heading.git
 	branch = master
+[submodule "org-brain"]
+	path = mirror/org-brain
+	url = git@github.com:emacsmirror/org-brain.git
+	branch = master
 [submodule "org-buffers"]
 	path = mirror/org-buffers
 	url = git@github.com:emacsmirror/org-buffers.git
@@ -14205,6 +14217,10 @@
 [submodule "quick-jump"]
 	path = mirror/quick-jump
 	url = git@github.com:emacsmirror/quick-jump.git
+[submodule "quick-peek"]
+	path = mirror/quick-peek
+	url = git@github.com:emacsmirror/quick-peek.git
+	branch = master
 [submodule "quick-preview"]
 	path = mirror/quick-preview
 	url = git@github.com:emacsmirror/quick-preview.git
@@ -17353,6 +17369,10 @@
 [submodule "tpum"]
 	path = mirror/tpum
 	url = git@github.com:emacsmirror/tpum.git
+[submodule "tql-mode"]
+	path = mirror/tql-mode
+	url = git@github.com:emacsmirror/tql-mode.git
+	branch = master
 [submodule "traad"]
 	path = mirror/traad
 	url = git@github.com:emacsmirror/traad.git
