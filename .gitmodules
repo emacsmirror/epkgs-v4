@@ -11546,6 +11546,7 @@
 [submodule "navi-mode"]
 	path = mirror/navi-mode
 	url = git@github.com:emacsmirror/navi-mode.git
+	branch = master
 [submodule "navi2ch"]
 	path = mirror/navi2ch
 	url = git@github.com:emacsmirror/navi2ch.git
@@ -12756,9 +12757,11 @@
 [submodule "outorg"]
 	path = mirror/outorg
 	url = git@github.com:emacsmirror/outorg.git
+	branch = master
 [submodule "outshine"]
 	path = mirror/outshine
 	url = git@github.com:emacsmirror/outshine.git
+	branch = master
 [submodule "ov"]
 	path = mirror/ov
 	url = git@github.com:emacsmirror/ov.git
