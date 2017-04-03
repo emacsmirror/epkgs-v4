@@ -1893,6 +1893,10 @@
 [submodule "cg-mode"]
 	path = mirror/cg-mode
 	url = git@github.com:emacsmirror/cg-mode.git
+[submodule "challenger-deep-theme"]
+	path = mirror/challenger-deep-theme
+	url = git@github.com:emacsmirror/challenger-deep-theme.git
+	branch = master
 [submodule "change-html-head-tail"]
 	path = attic/change-html-head-tail
 	url = git@github.com:emacsattic/change-html-head-tail.git
@@ -10781,6 +10785,10 @@
 [submodule "merriam"]
 	path = mirror/merriam
 	url = git@github.com:emacsmirror/merriam.git
+[submodule "meson-mode"]
+	path = mirror/meson-mode
+	url = git@github.com:emacsmirror/meson-mode.git
+	branch = master
 [submodule "message-log"]
 	path = attic/message-log
 	url = git@github.com:emacsattic/message-log.git
@@ -16976,6 +16984,10 @@
 [submodule "termbright-theme"]
 	path = mirror/termbright-theme
 	url = git@github.com:emacsmirror/termbright-theme.git
+	branch = master
+[submodule "terminal-here"]
+	path = mirror/terminal-here
+	url = git@github.com:emacsmirror/terminal-here.git
 	branch = master
 [submodule "terminal-notifier"]
 	path = mirror/terminal-notifier
