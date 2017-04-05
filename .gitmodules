@@ -4962,6 +4962,7 @@
 [submodule "ert-expectations"]
 	path = mirror/ert-expectations
 	url = git@github.com:emacsmirror/ert-expectations.git
+	branch = master
 [submodule "ert-extras"]
 	path = mirror/ert-extras
 	url = git@github.com:emacsmirror/ert-extras.git
@@ -17463,6 +17464,7 @@
 [submodule "tree-mode"]
 	path = mirror/tree-mode
 	url = git@github.com:emacsmirror/tree-mode.git
+	branch = master
 [submodule "trelloel"]
 	path = mirror/trelloel
 	url = git@github.com:emacsmirror/trelloel.git
@@ -18492,6 +18494,7 @@
 [submodule "windata"]
 	path = mirror/windata
 	url = git@github.com:emacsmirror/windata.git
+	branch = master
 [submodule "window+"]
 	path = mirror/window+
 	url = git@github.com:emacsmirror/window-plus.git
