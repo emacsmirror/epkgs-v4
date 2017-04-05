@@ -3559,6 +3559,7 @@
 [submodule "dirtree"]
 	path = mirror/dirtree
 	url = git@github.com:emacsmirror/dirtree.git
+	branch = master
 [submodule "dirvars"]
 	path = attic/dirvars
 	url = git@github.com:emacsattic/dirvars.git
@@ -5756,6 +5757,7 @@
 [submodule "findr"]
 	path = mirror/findr
 	url = git@github.com:emacsmirror/findr.git
+	branch = master
 [submodule "findwalker"]
 	path = mirror/findwalker
 	url = git@github.com:emacsmirror/findwalker.git
@@ -8100,6 +8102,7 @@
 [submodule "hide-lines"]
 	path = mirror/hide-lines
 	url = git@github.com:emacsmirror/hide-lines.git
+	branch = master
 [submodule "hide-region"]
 	path = mirror/hide-region
 	url = git@github.com:emacsmirror/hide-region.git
@@ -8426,6 +8429,7 @@
 [submodule "http-post-simple"]
 	path = mirror/http-post-simple
 	url = git@github.com:emacsmirror/http-post-simple.git
+	branch = master
 [submodule "http-twiddle"]
 	path = mirror/http-twiddle
 	url = git@github.com:emacsmirror/http-twiddle.git
@@ -9581,6 +9585,7 @@
 [submodule "key-chord"]
 	path = mirror/key-chord
 	url = git@github.com:emacsmirror/key-chord.git
+	branch = master
 [submodule "key-combo"]
 	path = mirror/key-combo
 	url = git@github.com:emacsmirror/key-combo.git
@@ -9949,6 +9954,7 @@
 [submodule "levenshtein"]
 	path = mirror/levenshtein
 	url = git@github.com:emacsmirror/levenshtein.git
+	branch = master
 [submodule "lex"]
 	path = mirror/lex
 	url = git@github.com:emacsmirror/lex.git
@@ -10235,6 +10241,7 @@
 [submodule "look-mode"]
 	path = mirror/look-mode
 	url = git@github.com:emacsmirror/look-mode.git
+	branch = master
 [submodule "lookout"]
 	path = mirror/lookout
 	url = git@github.com:emacsmirror/lookout.git
@@ -11328,6 +11335,7 @@
 [submodule "multi-term"]
 	path = mirror/multi-term
 	url = git@github.com:emacsmirror/multi-term.git
+	branch = master
 [submodule "multi-web-mode"]
 	path = mirror/multi-web-mode
 	url = git@github.com:emacsmirror/multi-web-mode.git
@@ -15484,6 +15492,7 @@
 [submodule "shell-command"]
 	path = mirror/shell-command
 	url = git@github.com:emacsmirror/shell-command.git
+	branch = master
 [submodule "shell-command-extension"]
 	path = mirror/shell-command-extension
 	url = git@github.com:emacsmirror/shell-command-extension.git
@@ -15502,6 +15511,7 @@
 [submodule "shell-history"]
 	path = mirror/shell-history
 	url = git@github.com:emacsmirror/shell-history.git
+	branch = master
 [submodule "shell-plus"]
 	path = attic/shell-plus
 	url = git@github.com:emacsattic/shell-plus.git
@@ -15600,6 +15610,7 @@
 [submodule "showtip"]
 	path = mirror/showtip
 	url = git@github.com:emacsmirror/showtip.git
+	branch = master
 [submodule "shpec-mode"]
 	path = mirror/shpec-mode
 	url = git@github.com:emacsmirror/shpec-mode.git
@@ -16276,6 +16287,7 @@
 [submodule "sr-speedbar"]
 	path = mirror/sr-speedbar
 	url = git@github.com:emacsmirror/sr-speedbar.git
+	branch = master
 [submodule "srefactor"]
 	path = mirror/srefactor
 	url = git@github.com:emacsmirror/srefactor.git
@@ -18142,6 +18154,7 @@
 [submodule "w32-browser"]
 	path = mirror/w32-browser
 	url = git@github.com:emacsmirror/w32-browser.git
+	branch = master
 [submodule "w32-find-dired"]
 	path = mirror/w32-find-dired
 	url = git@github.com:emacsmirror/w32-find-dired.git
