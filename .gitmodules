@@ -15398,6 +15398,7 @@
 [submodule "sentence-highlight"]
 	path = mirror/sentence-highlight
 	url = git@github.com:emacsmirror/sentence-highlight.git
+	branch = master
 [submodule "sentence-navigation"]
 	path = mirror/sentence-navigation
 	url = git@github.com:emacsmirror/sentence-navigation.git
