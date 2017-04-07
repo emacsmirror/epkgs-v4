@@ -3757,9 +3757,6 @@
 [submodule "doremi-mac"]
 	path = mirror/doremi-mac
 	url = git@github.com:emacsmirror/doremi-mac.git
-[submodule "dos"]
-	path = mirror/dos
-	url = git@github.com:emacsmirror/dos.git
 [submodule "dos-indent"]
 	path = mirror/dos-indent
 	url = git@github.com:emacsmirror/dos-indent.git
