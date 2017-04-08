@@ -546,6 +546,7 @@
 [submodule "apache-mode"]
 	path = mirror/apache-mode
 	url = git@github.com:emacsmirror/apache-mode.git
+	branch = master
 [submodule "apel"]
 	path = mirror/apel
 	url = git@github.com:emacsmirror/apel.git
