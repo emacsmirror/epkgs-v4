@@ -16642,6 +16642,10 @@
 [submodule "sx"]
 	path = mirror/sx
 	url = git@github.com:emacsmirror/sx.git
+[submodule "symbol-overlay"]
+	path = mirror/symbol-overlay
+	url = git@github.com:emacsmirror/symbol-overlay.git
+	branch = master
 [submodule "symbols-mode"]
 	path = mirror/symbols-mode
 	url = git@github.com:emacsmirror/symbols-mode.git
@@ -18201,6 +18205,10 @@
 [submodule "wacspace"]
 	path = mirror/wacspace
 	url = git@github.com:emacsmirror/wacspace.git
+[submodule "waf-mode"]
+	path = mirror/waf-mode
+	url = git@github.com:emacsmirror/waf-mode.git
+	branch = master
 [submodule "waher-theme"]
 	path = mirror/waher-theme
 	url = git@github.com:emacsmirror/waher-theme.git
