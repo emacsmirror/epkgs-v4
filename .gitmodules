@@ -3079,7 +3079,6 @@
 [submodule "darcsum"]
 	path = mirror/darcsum
 	url = git@github.com:emacsmirror/darcsum.git
-	branch = master
 [submodule "darcula-theme"]
 	path = mirror/darcula-theme
 	url = git@github.com:emacsmirror/darcula-theme.git
