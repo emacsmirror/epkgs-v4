@@ -2267,10 +2267,6 @@
 [submodule "cn-outline"]
 	path = mirror/cn-outline
 	url = git@github.com:emacsmirror/cn-outline.git
-[submodule "coati"]
-	path = mirror/coati
-	url = git@github.com:emacsmirror/coati.git
-	branch = master
 [submodule "cobol-mode"]
 	path = mirror/cobol-mode
 	url = git@github.com:emacsmirror/cobol-mode.git
@@ -16091,6 +16087,10 @@
 [submodule "sourcetalk"]
 	path = mirror/sourcetalk
 	url = git@github.com:emacsmirror/sourcetalk.git
+[submodule "sourcetrail"]
+	path = mirror/sourcetrail
+	url = git@github.com:emacsmirror/sourcetrail.git
+	branch = master
 [submodule "space-chord"]
 	path = mirror/space-chord
 	url = git@github.com:emacsmirror/space-chord.git
