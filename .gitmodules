@@ -10671,8 +10671,8 @@
 	url = git@github.com:emacsmirror/matlab-mode.git
 	branch = master
 [submodule "matrix-client"]
-	path = mirror/matrix-client
-	url = http://fort.kickass.systems/git/rrix/matrix-client.git
+	path = attic/matrix-client
+	url = git@github.com:emacsattic/matrix-client.git
 [submodule "maude-mode"]
 	path = mirror/maude-mode
 	url = git@github.com:emacsmirror/maude-mode.git
