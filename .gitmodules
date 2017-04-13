@@ -8482,6 +8482,10 @@
 	path = mirror/hyperbole
 	url = git@github.com:emacsmirror/hyperbole.git
 	branch = master
+[submodule "hyperspec"]
+	path = mirror/hyperspec
+	url = git@github.com:emacsmirror/hyperspec.git
+	branch = master
 [submodule "hyphenate"]
 	path = attic/hyphenate
 	url = git@github.com:emacsattic/hyphenate.git
@@ -12253,8 +12257,8 @@
 	path = mirror/org-attach-screenshot
 	url = git@github.com:emacsmirror/org-attach-screenshot.git
 [submodule "org-auto-shorten-url"]
-	path = mirror/org-auto-shorten-url
-	url = git@github.com:emacsmirror/org-auto-shorten-url.git
+	path = attic/org-auto-shorten-url
+	url = git@github.com:emacsattic/org-auto-shorten-url.git
 [submodule "org-autolist"]
 	path = mirror/org-autolist
 	url = git@github.com:emacsmirror/org-autolist.git
