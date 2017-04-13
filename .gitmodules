@@ -4053,8 +4053,9 @@
 	path = mirror/ecukes
 	url = git@github.com:emacsmirror/ecukes.git
 [submodule "edb"]
-	path = attic/edb
-	url = git@github.com:emacsattic/edb.git
+	path = mirror/edb
+	url = git@github.com:emacsmirror/edb.git
+	branch = master
 [submodule "edbc"]
 	path = mirror/edbc
 	url = git@github.com:emacsmirror/edbc.git
