@@ -236,6 +236,10 @@
 [submodule "adaptive-wrap"]
 	path = mirror/adaptive-wrap
 	url = git@github.com:emacsmirror/adaptive-wrap.git
+[submodule "add-hooks"]
+	path = mirror/add-hooks
+	url = git@github.com:emacsmirror/add-hooks.git
+	branch = master
 [submodule "add-lispdir"]
 	path = attic/add-lispdir
 	url = git@github.com:emacsattic/add-lispdir.git
@@ -1331,6 +1335,10 @@
 [submodule "bitbake"]
 	path = mirror/bitbake
 	url = git@github.com:emacsmirror/bitbake.git
+[submodule "bitbucket"]
+	path = mirror/bitbucket
+	url = git@github.com:emacsmirror/bitbucket.git
+	branch = master
 [submodule "bitlbee"]
 	path = mirror/bitlbee
 	url = git@github.com:emacsmirror/bitlbee.git
@@ -8401,6 +8409,10 @@
 [submodule "html-toc"]
 	path = mirror/html-toc
 	url = git@github.com:emacsmirror/html-toc.git
+[submodule "html2org"]
+	path = mirror/html2org
+	url = git@github.com:emacsmirror/html2org.git
+	branch = master
 [submodule "html5"]
 	path = mirror/html5
 	url = git@github.com:emacsmirror/html5.git
@@ -15864,6 +15876,10 @@
 [submodule "smart-forward"]
 	path = mirror/smart-forward
 	url = git@github.com:emacsmirror/smart-forward.git
+[submodule "smart-hungry-delete"]
+	path = mirror/smart-hungry-delete
+	url = git@github.com:emacsmirror/smart-hungry-delete.git
+	branch = master
 [submodule "smart-indent-rigidly"]
 	path = mirror/smart-indent-rigidly
 	url = git@github.com:emacsmirror/smart-indent-rigidly.git
@@ -18323,6 +18339,10 @@
 	path = mirror/web-mode-edit-element
 	url = git@github.com:emacsmirror/web-mode-edit-element.git
 	branch = master
+[submodule "web-narrow-mode"]
+	path = mirror/web-narrow-mode
+	url = git@github.com:emacsmirror/web-narrow-mode.git
+	branch = master
 [submodule "web-server"]
 	path = mirror/web-server
 	url = git@github.com:emacsmirror/web-server.git
@@ -19119,6 +19139,10 @@
 [submodule "zerodark-theme"]
 	path = mirror/zerodark-theme
 	url = git@github.com:emacsmirror/zerodark-theme.git
+	branch = master
+[submodule "zig-mode"]
+	path = mirror/zig-mode
+	url = git@github.com:emacsmirror/zig-mode.git
 	branch = master
 [submodule "zlc"]
 	path = mirror/zlc
