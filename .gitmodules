@@ -8407,9 +8407,6 @@
 [submodule "html-to-markdown"]
 	path = mirror/html-to-markdown
 	url = git@github.com:emacsmirror/html-to-markdown.git
-[submodule "html-toc"]
-	path = mirror/html-toc
-	url = git@github.com:emacsmirror/html-toc.git
 [submodule "html2org"]
 	path = mirror/html2org
 	url = git@github.com:emacsmirror/html2org.git
