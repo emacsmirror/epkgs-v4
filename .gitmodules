@@ -4516,8 +4516,8 @@
 	path = mirror/eltex
 	url = git@github.com:emacsmirror/eltex.git
 [submodule "elunit"]
-	path = mirror/elunit
-	url = git@github.com:emacsmirror/elunit.git
+	path = attic/elunit
+	url = git@github.com:emacsattic/elunit.git
 	branch = master
 [submodule "elwiki"]
 	path = attic/elwiki
