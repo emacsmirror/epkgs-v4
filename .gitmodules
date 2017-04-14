@@ -605,6 +605,10 @@
 [submodule "arc-lzh-exe"]
 	path = attic/arc-lzh-exe
 	url = git@github.com:emacsattic/arc-lzh-exe.git
+[submodule "arch-packer"]
+	path = mirror/arch-packer
+	url = git@github.com:emacsmirror/arch-packer.git
+	branch = master
 [submodule "archie"]
 	path = attic/archie
 	url = git@github.com:emacsattic/archie.git
@@ -8124,6 +8128,10 @@
 [submodule "hier-imenu"]
 	path = mirror/hier-imenu
 	url = git@github.com:emacsmirror/hier-imenu.git
+[submodule "hierarchy"]
+	path = mirror/hierarchy
+	url = git@github.com:emacsmirror/hierarchy.git
+	branch = master
 [submodule "highlight"]
 	path = mirror/highlight
 	url = git@github.com:emacsmirror/highlight.git
@@ -13532,6 +13540,10 @@
 	path = mirror/play-routes-mode
 	url = git@github.com:emacsmirror/play-routes-mode.git
 	branch = master
+[submodule "playerctl"]
+	path = mirror/playerctl
+	url = git@github.com:emacsmirror/playerctl.git
+	branch = master
 [submodule "playlist"]
 	path = attic/playlist
 	url = git@github.com:emacsattic/playlist.git
@@ -16119,6 +16131,10 @@
 [submodule "spaceline"]
 	path = mirror/spaceline
 	url = git@github.com:emacsmirror/spaceline.git
+[submodule "spaceline-all-the-icons"]
+	path = mirror/spaceline-all-the-icons
+	url = git@github.com:emacsmirror/spaceline-all-the-icons.git
+	branch = master
 [submodule "spacemacs-theme"]
 	path = mirror/spacemacs-theme
 	url = git@github.com:emacsmirror/spacemacs-theme.git
