@@ -8822,6 +8822,10 @@
 [submodule "indirect-region"]
 	path = mirror/indirect-region
 	url = git@github.com:emacsmirror/indirect-region.git
+[submodule "indium"]
+	path = mirror/indium
+	url = git@github.com:emacsmirror/indium.git
+	branch = master
 [submodule "indy"]
 	path = mirror/indy
 	url = git@github.com:emacsmirror/indy.git
@@ -9189,10 +9193,6 @@
 [submodule "jack-connect"]
 	path = mirror/jack-connect
 	url = git@github.com:emacsmirror/jack-connect.git
-[submodule "jade"]
-	path = mirror/jade
-	url = git@github.com:emacsmirror/jade.git
-	branch = master
 [submodule "jade-mode"]
 	path = mirror/jade-mode
 	url = git@github.com:emacsmirror/jade-mode.git
