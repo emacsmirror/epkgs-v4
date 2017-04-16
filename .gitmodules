@@ -2308,8 +2308,8 @@
 	path = mirror/codethumb
 	url = git@github.com:emacsmirror/codethumb.git
 [submodule "codex"]
-	path = mirror/codex
-	url = git@github.com:emacsmirror/codex.git
+	path = attic/codex
+	url = git@github.com:emacsattic/codex.git
 [submodule "codic"]
 	path = mirror/codic
 	url = git@github.com:emacsmirror/codic.git
