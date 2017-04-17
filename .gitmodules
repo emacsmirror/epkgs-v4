@@ -6028,6 +6028,10 @@
 [submodule "flycheck-irony"]
 	path = mirror/flycheck-irony
 	url = git@github.com:emacsmirror/flycheck-irony.git
+[submodule "flycheck-joker"]
+	path = mirror/flycheck-joker
+	url = git@github.com:emacsmirror/flycheck-joker.git
+	branch = master
 [submodule "flycheck-kotlin"]
 	path = mirror/flycheck-kotlin
 	url = git@github.com:emacsmirror/flycheck-kotlin.git
@@ -12549,6 +12553,10 @@
 [submodule "org-readme"]
 	path = mirror/org-readme
 	url = git@github.com:emacsmirror/org-readme.git
+[submodule "org-recent-headings"]
+	path = mirror/org-recent-headings
+	url = git@github.com:emacsmirror/org-recent-headings.git
+	branch = master
 [submodule "org-redmine"]
 	path = mirror/org-redmine
 	url = git@github.com:emacsmirror/org-redmine.git
@@ -12587,6 +12595,10 @@
 [submodule "org-status"]
 	path = mirror/org-status
 	url = git@github.com:emacsmirror/org-status.git
+[submodule "org-sticky-header"]
+	path = mirror/org-sticky-header
+	url = git@github.com:emacsmirror/org-sticky-header.git
+	branch = master
 [submodule "org-sync"]
 	path = mirror/org-sync
 	url = git@github.com:emacsmirror/org-sync.git
