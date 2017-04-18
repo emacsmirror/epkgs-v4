@@ -5440,9 +5440,6 @@
 [submodule "eyebrowse"]
 	path = mirror/eyebrowse
 	url = git@github.com:emacsmirror/eyebrowse.git
-[submodule "eyedropper"]
-	path = mirror/eyedropper
-	url = git@github.com:emacsmirror/eyedropper.git
 [submodule "eyuml"]
 	path = mirror/eyuml
 	url = git@github.com:emacsmirror/eyuml.git
