@@ -5411,6 +5411,10 @@
 [submodule "express"]
 	path = mirror/express
 	url = git@github.com:emacsmirror/express.git
+[submodule "exsqlaim-mode"]
+	path = mirror/exsqlaim-mode
+	url = git@github.com:emacsmirror/exsqlaim-mode.git
+	branch = master
 [submodule "extempore-mode"]
 	path = mirror/extempore-mode
 	url = git@github.com:emacsmirror/extempore-mode.git
