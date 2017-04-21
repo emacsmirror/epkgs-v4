@@ -6417,6 +6417,10 @@
 [submodule "frame-fns"]
 	path = mirror/frame-fns
 	url = git@github.com:emacsmirror/frame-fns.git
+[submodule "frame-mode"]
+	path = mirror/frame-mode
+	url = git@github.com:emacsmirror/frame-mode.git
+	branch = master
 [submodule "frame-restore"]
 	path = attic/frame-restore
 	url = git@github.com:emacsattic/frame-restore.git
@@ -10304,9 +10308,29 @@
 [submodule "lsl-mode"]
 	path = attic/lsl-mode
 	url = git@github.com:emacsattic/lsl-mode.git
+[submodule "lsp-go"]
+	path = mirror/lsp-go
+	url = git@github.com:emacsmirror/lsp-go.git
+	branch = master
+[submodule "lsp-haskell"]
+	path = mirror/lsp-haskell
+	url = git@github.com:emacsmirror/lsp-haskell.git
+	branch = master
+[submodule "lsp-java"]
+	path = mirror/lsp-java
+	url = git@github.com:emacsmirror/lsp-java.git
+	branch = master
 [submodule "lsp-mode"]
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
+	branch = master
+[submodule "lsp-python"]
+	path = mirror/lsp-python
+	url = git@github.com:emacsmirror/lsp-python.git
+	branch = master
+[submodule "lsp-rust"]
+	path = mirror/lsp-rust
+	url = git@github.com:emacsmirror/lsp-rust.git
 	branch = master
 [submodule "ltsv"]
 	path = mirror/ltsv
