@@ -5868,6 +5868,10 @@
 [submodule "flatten-saved-pages"]
 	path = attic/flatten-saved-pages
 	url = git@github.com:emacsattic/flatten-saved-pages.git
+[submodule "flatui-dark-theme"]
+	path = mirror/flatui-dark-theme
+	url = git@github.com:emacsmirror/flatui-dark-theme.git
+	branch = master
 [submodule "flatui-theme"]
 	path = mirror/flatui-theme
 	url = git@github.com:emacsmirror/flatui-theme.git
