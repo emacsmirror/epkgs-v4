@@ -8908,6 +8908,10 @@
 	path = mirror/inherit-local
 	url = git@github.com:emacsmirror/inherit-local.git
 	branch = master
+[submodule "ini-mode"]
+	path = mirror/ini-mode
+	url = git@github.com:emacsmirror/ini-mode.git
+	branch = master
 [submodule "init-loader"]
 	path = mirror/init-loader
 	url = git@github.com:emacsmirror/init-loader.git
