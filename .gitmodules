@@ -8044,6 +8044,10 @@
 [submodule "helm-xcdoc"]
 	path = mirror/helm-xcdoc
 	url = git@github.com:emacsmirror/helm-xcdoc.git
+[submodule "helm-xref"]
+	path = mirror/helm-xref
+	url = git@github.com:emacsmirror/helm-xref.git
+	branch = master
 [submodule "helm-youtube"]
 	path = mirror/helm-youtube
 	url = git@github.com:emacsmirror/helm-youtube.git
@@ -10705,6 +10709,10 @@
 [submodule "masquerade-mode"]
 	path = mirror/masquerade-mode
 	url = git@github.com:emacsmirror/masquerade-mode.git
+[submodule "mastodon"]
+	path = mirror/mastodon
+	url = git@github.com:emacsmirror/mastodon.git
+	branch = master
 [submodule "material-theme"]
 	path = mirror/material-theme
 	url = git@github.com:emacsmirror/material-theme.git
