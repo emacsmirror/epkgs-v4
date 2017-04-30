@@ -5233,6 +5233,10 @@
 [submodule "evil-god-state"]
 	path = mirror/evil-god-state
 	url = git@github.com:emacsmirror/evil-god-state.git
+[submodule "evil-goggles"]
+	path = mirror/evil-goggles
+	url = git@github.com:emacsmirror/evil-goggles.git
+	branch = master
 [submodule "evil-iedit-state"]
 	path = mirror/evil-iedit-state
 	url = git@github.com:emacsmirror/evil-iedit-state.git
