@@ -1902,7 +1902,6 @@
 [submodule "cg"]
 	path = mirror/cg
 	url = git@github.com:emacsmirror/cg.git
-	branch = master
 [submodule "cg-mode"]
 	path = mirror/cg-mode
 	url = git@github.com:emacsmirror/cg-mode.git
@@ -2125,7 +2124,6 @@
 [submodule "clang-format"]
 	path = mirror/clang-format
 	url = git@github.com:emacsmirror/clang-format.git
-	branch = master
 [submodule "clang-lookup"]
 	path = mirror/clang-lookup
 	url = git@github.com:emacsmirror/clang-lookup.git
@@ -7857,7 +7855,6 @@
 [submodule "helm-ls-svn"]
 	path = mirror/helm-ls-svn
 	url = git@github.com:emacsmirror/helm-ls-svn.git
-	branch = master
 [submodule "helm-make"]
 	path = mirror/helm-make
 	url = git@github.com:emacsmirror/helm-make.git
