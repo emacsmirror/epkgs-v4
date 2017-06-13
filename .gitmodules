@@ -881,6 +881,10 @@
 [submodule "auto-mark"]
 	path = mirror/auto-mark
 	url = git@github.com:emacsmirror/auto-mark.git
+[submodule "auto-minor-mode"]
+	path = mirror/auto-minor-mode
+	url = git@github.com:emacsmirror/auto-minor-mode.git
+	branch = master
 [submodule "auto-mounter"]
 	path = mirror/auto-mounter
 	url = git@github.com:emacsmirror/auto-mounter.git
@@ -1890,6 +1894,10 @@
 [submodule "cexp"]
 	path = mirror/cexp
 	url = git@github.com:emacsmirror/cexp.git
+[submodule "ceylon-mode"]
+	path = mirror/ceylon-mode
+	url = git@github.com:emacsmirror/ceylon-mode.git
+	branch = master
 [submodule "cfengine-code-style"]
 	path = mirror/cfengine-code-style
 	url = git@github.com:emacsmirror/cfengine-code-style.git
@@ -1942,6 +1950,10 @@
 [submodule "cheat-fu"]
 	path = mirror/cheat-fu
 	url = git@github.com:emacsmirror/cheat-fu.git
+[submodule "cheat-sh"]
+	path = mirror/cheat-sh
+	url = git@github.com:emacsmirror/cheat-sh.git
+	branch = master
 [submodule "cheatsheet"]
 	path = mirror/cheatsheet
 	url = git@github.com:emacsmirror/cheatsheet.git
@@ -2320,6 +2332,10 @@
 [submodule "coffee-mode"]
 	path = mirror/coffee-mode
 	url = git@github.com:emacsmirror/coffee-mode.git
+[submodule "coin-ticker"]
+	path = mirror/coin-ticker
+	url = git@github.com:emacsmirror/coin-ticker.git
+	branch = master
 [submodule "col-highlight"]
 	path = mirror/col-highlight
 	url = git@github.com:emacsmirror/col-highlight.git
@@ -2745,6 +2761,10 @@
 	path = mirror/counsel-projectile
 	url = git@github.com:emacsmirror/counsel-projectile.git
 	branch = master
+[submodule "counsel-spotify"]
+	path = mirror/counsel-spotify
+	url = git@github.com:emacsmirror/counsel-spotify.git
+	branch = master
 [submodule "counter"]
 	path = mirror/counter
 	url = git@github.com:emacsmirror/counter.git
@@ -3067,6 +3087,10 @@
 [submodule "dae"]
 	path = mirror/dae
 	url = git@github.com:emacsmirror/dae.git
+[submodule "dakrone-light-theme"]
+	path = mirror/dakrone-light-theme
+	url = git@github.com:emacsmirror/dakrone-light-theme.git
+	branch = master
 [submodule "dakrone-theme"]
 	path = mirror/dakrone-theme
 	url = git@github.com:emacsmirror/dakrone-theme.git
@@ -4140,6 +4164,10 @@
 [submodule "editorconfig"]
 	path = mirror/editorconfig
 	url = git@github.com:emacsmirror/editorconfig.git
+[submodule "editorconfig-charset-extras"]
+	path = mirror/editorconfig-charset-extras
+	url = git@github.com:emacsmirror/editorconfig-charset-extras.git
+	branch = master
 [submodule "editorconfig-custom-majormode"]
 	path = mirror/editorconfig-custom-majormode
 	url = git@github.com:emacsmirror/editorconfig-custom-majormode.git
@@ -5965,6 +5993,10 @@
 [submodule "flycheck-color-mode-line"]
 	path = mirror/flycheck-color-mode-line
 	url = git@github.com:emacsmirror/flycheck-color-mode-line.git
+[submodule "flycheck-coverity"]
+	path = mirror/flycheck-coverity
+	url = git@github.com:emacsmirror/flycheck-coverity.git
+	branch = master
 [submodule "flycheck-credo"]
 	path = mirror/flycheck-credo
 	url = git@github.com:emacsmirror/flycheck-credo.git
@@ -6137,6 +6169,10 @@
 [submodule "flycheck-typescript-tslint"]
 	path = mirror/flycheck-typescript-tslint
 	url = git@github.com:emacsmirror/flycheck-typescript-tslint.git
+[submodule "flycheck-vale"]
+	path = mirror/flycheck-vale
+	url = git@github.com:emacsmirror/flycheck-vale.git
+	branch = master
 [submodule "flycheck-yamllint"]
 	path = mirror/flycheck-yamllint
 	url = git@github.com:emacsmirror/flycheck-yamllint.git
@@ -6736,6 +6772,14 @@
 [submodule "ghub"]
 	path = mirror/ghub
 	url = git@github.com:emacsmirror/ghub.git
+	branch = master
+[submodule "ghub+"]
+	path = mirror/ghub+
+	url = git@github.com:emacsmirror/ghub-plus.git
+	branch = master
+[submodule "gift-mode"]
+	path = mirror/gift-mode
+	url = git@github.com:emacsmirror/gift-mode.git
 	branch = master
 [submodule "gildas-mode"]
 	path = mirror/gildas-mode
@@ -7650,6 +7694,10 @@
 [submodule "helm-c-yasnippet"]
 	path = mirror/helm-c-yasnippet
 	url = git@github.com:emacsmirror/helm-c-yasnippet.git
+[submodule "helm-charinfo"]
+	path = mirror/helm-charinfo
+	url = git@github.com:emacsmirror/helm-charinfo.git
+	branch = master
 [submodule "helm-chrome"]
 	path = mirror/helm-chrome
 	url = git@github.com:emacsmirror/helm-chrome.git
@@ -8080,6 +8128,10 @@
 [submodule "helpex"]
 	path = attic/helpex
 	url = git@github.com:emacsattic/helpex.git
+[submodule "helpful"]
+	path = mirror/helpful
+	url = git@github.com:emacsmirror/helpful.git
+	branch = master
 [submodule "hemisu-theme"]
 	path = mirror/hemisu-theme
 	url = git@github.com:emacsmirror/hemisu-theme.git
@@ -9364,6 +9416,10 @@
 [submodule "jem-pkg"]
 	path = attic/jem-pkg
 	url = git@github.com:emacsattic/jem-pkg.git
+[submodule "jemdoc-mode"]
+	path = mirror/jemdoc-mode
+	url = git@github.com:emacsmirror/jemdoc-mode.git
+	branch = master
 [submodule "jenkins"]
 	path = mirror/jenkins
 	url = git@github.com:emacsmirror/jenkins.git
@@ -9500,6 +9556,10 @@
 [submodule "json-mode"]
 	path = mirror/json-mode
 	url = git@github.com:emacsmirror/json-mode.git
+[submodule "json-navigator"]
+	path = mirror/json-navigator
+	url = git@github.com:emacsmirror/json-navigator.git
+	branch = master
 [submodule "json-reformat"]
 	path = mirror/json-reformat
 	url = git@github.com:emacsmirror/json-reformat.git
@@ -10623,6 +10683,10 @@
 [submodule "mandoku-meta-kr"]
 	path = mirror/mandoku-meta-kr
 	url = git@github.com:emacsmirror/mandoku-meta-kr.git
+[submodule "mandoku-tls"]
+	path = mirror/mandoku-tls
+	url = git@github.com:emacsmirror/mandoku-tls.git
+	branch = master
 [submodule "manued"]
 	path = mirror/manued
 	url = git@github.com:emacsmirror/manued.git
@@ -11762,6 +11826,10 @@
 [submodule "nlinum"]
 	path = mirror/nlinum
 	url = git@github.com:emacsmirror/nlinum.git
+[submodule "nlinum-hl"]
+	path = mirror/nlinum-hl
+	url = git@github.com:emacsmirror/nlinum-hl.git
+	branch = master
 [submodule "nlinum-relative"]
 	path = mirror/nlinum-relative
 	url = git@github.com:emacsmirror/nlinum-relative.git
@@ -11912,6 +11980,10 @@
 [submodule "nu-mode"]
 	path = mirror/nu-mode
 	url = git@github.com:emacsmirror/nu-mode.git
+[submodule "nubox"]
+	path = mirror/nubox
+	url = git@github.com:emacsmirror/nubox.git
+	branch = master
 [submodule "nukneval"]
 	path = mirror/nukneval
 	url = git@github.com:emacsmirror/nukneval.git
@@ -11974,6 +12046,10 @@
 [submodule "ob-async"]
 	path = mirror/ob-async
 	url = git@github.com:emacsmirror/ob-async.git
+	branch = master
+[submodule "ob-blockdiag"]
+	path = mirror/ob-blockdiag
+	url = git@github.com:emacsmirror/ob-blockdiag.git
 	branch = master
 [submodule "ob-browser"]
 	path = mirror/ob-browser
@@ -12071,6 +12147,10 @@
 [submodule "ob-typescript"]
 	path = mirror/ob-typescript
 	url = git@github.com:emacsmirror/ob-typescript.git
+[submodule "ob-uart"]
+	path = mirror/ob-uart
+	url = git@github.com:emacsmirror/ob-uart.git
+	branch = master
 [submodule "obarray-fns"]
 	path = mirror/obarray-fns
 	url = git@github.com:emacsmirror/obarray-fns.git
@@ -12731,6 +12811,10 @@
 [submodule "orglue"]
 	path = mirror/orglue
 	url = git@github.com:emacsmirror/orglue.git
+[submodule "orgnav"]
+	path = mirror/orgnav
+	url = git@github.com:emacsmirror/orgnav.git
+	branch = master
 [submodule "orgrade"]
 	path = mirror/orgrade
 	url = git@github.com:emacsmirror/orgrade.git
@@ -13351,6 +13435,10 @@
 	path = mirror/perspeen
 	url = git@github.com:emacsmirror/perspeen.git
 	branch = master
+[submodule "pfuture"]
+	path = mirror/pfuture
+	url = git@github.com:emacsmirror/pfuture.git
+	branch = master
 [submodule "pg"]
 	path = mirror/pg
 	url = git@github.com:emacsmirror/pg.git
@@ -13443,6 +13531,10 @@
 [submodule "php-completion-opt"]
 	path = attic/php-completion-opt
 	url = git@github.com:emacsattic/php-completion-opt.git
+[submodule "php-cs-fixer"]
+	path = mirror/php-cs-fixer
+	url = git@github.com:emacsmirror/php-cs-fixer.git
+	branch = master
 [submodule "php-doc"]
 	path = mirror/php-doc
 	url = git@github.com:emacsmirror/php-doc.git
@@ -13662,6 +13754,10 @@
 	path = mirror/podcaster
 	url = git@github.com:emacsmirror/podcaster.git
 	branch = master
+[submodule "point-pos"]
+	path = mirror/point-pos
+	url = git@github.com:emacsmirror/point-pos.git
+	branch = master
 [submodule "point-ring"]
 	path = mirror/point-ring
 	url = git@github.com:emacsmirror/point-ring.git
@@ -13779,6 +13875,10 @@
 [submodule "post"]
 	path = attic/post
 	url = git@github.com:emacsattic/post.git
+[submodule "postcss-sorting"]
+	path = mirror/postcss-sorting
+	url = git@github.com:emacsmirror/postcss-sorting.git
+	branch = master
 [submodule "posterous"]
 	path = mirror/posterous
 	url = git@github.com:emacsmirror/posterous.git
@@ -13828,6 +13928,10 @@
 [submodule "preseed-generic-mode"]
 	path = mirror/preseed-generic-mode
 	url = git@github.com:emacsmirror/preseed-generic-mode.git
+[submodule "prettier-js"]
+	path = mirror/prettier-js
+	url = git@github.com:emacsmirror/prettier-js.git
+	branch = master
 [submodule "prettify-greek"]
 	path = mirror/prettify-greek
 	url = git@github.com:emacsmirror/prettify-greek.git
@@ -14268,6 +14372,10 @@
 [submodule "qsearch"]
 	path = attic/qsearch
 	url = git@github.com:emacsattic/qsearch.git
+[submodule "qt-pro-mode"]
+	path = mirror/qt-pro-mode
+	url = git@github.com:emacsmirror/qt-pro-mode.git
+	branch = master
 [submodule "qtdoc"]
 	path = attic/qtdoc
 	url = git@github.com:emacsattic/qtdoc.git
@@ -15689,12 +15797,20 @@
 [submodule "shpec-mode"]
 	path = mirror/shpec-mode
 	url = git@github.com:emacsmirror/shpec-mode.git
+[submodule "shr-tag-pre-highlight"]
+	path = mirror/shr-tag-pre-highlight
+	url = git@github.com:emacsmirror/shr-tag-pre-highlight.git
+	branch = master
 [submodule "shrink-whitespace"]
 	path = mirror/shrink-whitespace
 	url = git@github.com:emacsmirror/shrink-whitespace.git
 [submodule "shut-up"]
 	path = mirror/shut-up
 	url = git@github.com:emacsmirror/shut-up.git
+[submodule "shx"]
+	path = mirror/shx
+	url = git@github.com:emacsmirror/shx.git
+	branch = master
 [submodule "siamese"]
 	path = attic/siamese
 	url = git@github.com:emacsattic/siamese.git
@@ -15884,6 +16000,10 @@
 [submodule "slovak-holidays"]
 	path = mirror/slovak-holidays
 	url = git@github.com:emacsmirror/slovak-holidays.git
+[submodule "slstats"]
+	path = mirror/slstats
+	url = git@github.com:emacsmirror/slstats.git
+	branch = master
 [submodule "slurm"]
 	path = mirror/slurm
 	url = git@github.com:emacsmirror/slurm.git
@@ -16104,6 +16224,10 @@
 [submodule "sokoban"]
 	path = mirror/sokoban
 	url = git@github.com:emacsmirror/sokoban.git
+[submodule "solaire-mode"]
+	path = mirror/solaire-mode
+	url = git@github.com:emacsmirror/solaire-mode.git
+	branch = master
 [submodule "solarized-theme"]
 	path = mirror/solarized-theme
 	url = git@github.com:emacsmirror/solarized-theme.git
@@ -17555,6 +17679,10 @@
 	path = mirror/tree-mode
 	url = git@github.com:emacsmirror/tree-mode.git
 	branch = master
+[submodule "treemacs"]
+	path = mirror/treemacs
+	url = git@github.com:emacsmirror/treemacs.git
+	branch = master
 [submodule "trelloel"]
 	path = mirror/trelloel
 	url = git@github.com:emacsmirror/trelloel.git
@@ -17640,6 +17768,10 @@
 [submodule "tup-mode"]
 	path = mirror/tup-mode
 	url = git@github.com:emacsmirror/tup-mode.git
+[submodule "turing-machine"]
+	path = mirror/turing-machine
+	url = git@github.com:emacsmirror/turing-machine.git
+	branch = master
 [submodule "turkish"]
 	path = mirror/turkish
 	url = git@github.com:emacsmirror/turkish.git
@@ -18044,6 +18176,10 @@
 [submodule "vdiff"]
 	path = mirror/vdiff
 	url = git@github.com:emacsmirror/vdiff.git
+	branch = master
+[submodule "vdiff-magit"]
+	path = mirror/vdiff-magit
+	url = git@github.com:emacsmirror/vdiff-magit.git
 	branch = master
 [submodule "vdirel"]
 	path = mirror/vdirel
@@ -19061,6 +19197,10 @@
 [submodule "yahoo-weather"]
 	path = mirror/yahoo-weather
 	url = git@github.com:emacsmirror/yahoo-weather.git
+[submodule "yahtzee"]
+	path = mirror/yahtzee
+	url = git@github.com:emacsmirror/yahtzee.git
+	branch = master
 [submodule "yalinum"]
 	path = mirror/yalinum
 	url = git@github.com:emacsmirror/yalinum.git
