@@ -5319,6 +5319,7 @@
 [submodule "evil-org"]
 	path = mirror/evil-org
 	url = git@github.com:emacsmirror/evil-org.git
+	branch = master
 [submodule "evil-paredit"]
 	path = mirror/evil-paredit
 	url = git@github.com:emacsmirror/evil-paredit.git
@@ -5344,6 +5345,7 @@
 [submodule "evil-search-highlight-persist"]
 	path = mirror/evil-search-highlight-persist
 	url = git@github.com:emacsmirror/evil-search-highlight-persist.git
+	branch = master
 [submodule "evil-smartparens"]
 	path = mirror/evil-smartparens
 	url = git@github.com:emacsmirror/evil-smartparens.git
@@ -5356,6 +5358,7 @@
 [submodule "evil-surround"]
 	path = mirror/evil-surround
 	url = git@github.com:emacsmirror/evil-surround.git
+	branch = master
 [submodule "evil-swap-keys"]
 	path = mirror/evil-swap-keys
 	url = git@github.com:emacsmirror/evil-swap-keys.git
@@ -7729,6 +7732,7 @@
 [submodule "helm-company"]
 	path = mirror/helm-company
 	url = git@github.com:emacsmirror/helm-company.git
+	branch = master
 [submodule "helm-cscope"]
 	path = mirror/helm-cscope
 	url = git@github.com:emacsmirror/helm-cscope.git
