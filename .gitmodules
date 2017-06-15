@@ -16161,6 +16161,10 @@
 [submodule "sml-mode"]
 	path = mirror/sml-mode
 	url = git@github.com:emacsmirror/sml-mode.git
+[submodule "sml-modeline"]
+	path = mirror/sml-modeline
+	url = git@github.com:emacsmirror/sml-modeline.git
+	branch = master
 [submodule "smmry"]
 	path = mirror/smmry
 	url = git@github.com:emacsmirror/smmry.git
