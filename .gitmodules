@@ -7802,6 +7802,10 @@
 [submodule "helm-flyspell"]
 	path = mirror/helm-flyspell
 	url = git@github.com:emacsmirror/helm-flyspell.git
+[submodule "helm-frame"]
+	path = mirror/helm-frame
+	url = git@github.com:emacsmirror/helm-frame.git
+	branch = master
 [submodule "helm-fuzzier"]
 	path = mirror/helm-fuzzier
 	url = git@github.com:emacsmirror/helm-fuzzier.git
@@ -9221,6 +9225,10 @@
 [submodule "ivy"]
 	path = mirror/ivy
 	url = git@github.com:emacsmirror/ivy.git
+	branch = master
+[submodule "ivy-dired-history"]
+	path = mirror/ivy-dired-history
+	url = git@github.com:emacsmirror/ivy-dired-history.git
 	branch = master
 [submodule "ivy-erlang-complete"]
 	path = mirror/ivy-erlang-complete
