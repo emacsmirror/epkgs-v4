@@ -17539,7 +17539,7 @@
 	path = attic/todo-list-mode
 	url = git@github.com:emacsattic/todo-list-mode.git
 [submodule "todochiku"]
-	path = mirror/todochiku
+	path = attic/todochiku
 	url = git@github.com:emacsmirror/todochiku.git
 [submodule "todoo"]
 	path = mirror/todoo
