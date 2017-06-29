@@ -356,6 +356,10 @@
 	path = mirror/all-the-icons-dired
 	url = git@github.com:emacsmirror/all-the-icons-dired.git
 	branch = master
+[submodule "all-the-icons-ivy"]
+	path = mirror/all-the-icons-ivy
+	url = git@github.com:emacsmirror/all-the-icons-ivy.git
+	branch = master
 [submodule "alore-mode"]
 	path = mirror/alore-mode
 	url = git@github.com:emacsmirror/alore-mode.git
@@ -3084,6 +3088,9 @@
 [submodule "dactyl-mode"]
 	path = mirror/dactyl-mode
 	url = git@github.com:emacsmirror/dactyl-mode.git
+[submodule "dad-joke"]
+	path = mirror/dad-joke
+	url = git@github.com:davep/dad-joke.el.git
 [submodule "dae"]
 	path = mirror/dae
 	url = git@github.com:emacsmirror/dae.git
@@ -5983,6 +5990,9 @@
 	path = mirror/flycheck-checkpatch
 	url = git@github.com:emacsmirror/flycheck-checkpatch.git
 	branch = master
+[submodule "flycheck-clang-analyzer"]
+	path = mirror/flycheck-clang-analyzer
+	url = git@github.com:alexmurray/flycheck-clang-analyzer.git
 [submodule "flycheck-clang-tidy"]
 	path = mirror/flycheck-clang-tidy
 	url = git@github.com:emacsmirror/flycheck-clang-tidy.git
@@ -6074,6 +6084,9 @@
 	path = mirror/flycheck-joker
 	url = git@github.com:emacsmirror/flycheck-joker.git
 	branch = master
+[submodule "flycheck-julia"]
+	path = mirror/flycheck-julia
+	url = git@github.com:gdkrmr/flycheck-julia.git
 [submodule "flycheck-kotlin"]
 	path = mirror/flycheck-kotlin
 	url = git@github.com:emacsmirror/flycheck-kotlin.git
@@ -6897,6 +6910,9 @@
 [submodule "github-issues"]
 	path = mirror/github-issues
 	url = git@github.com:emacsmirror/github-issues.git
+[submodule "github-modern-theme"]
+	path = mirror/github-modern-theme
+	url = git@github.com:philiparvidsson/GitHub-Modern-Theme-For-Emacs.git
 [submodule "github-notifier"]
 	path = mirror/github-notifier
 	url = git@github.com:emacsmirror/github-notifier.git
@@ -8532,6 +8548,9 @@
 [submodule "hugs-mode"]
 	path = attic/hugs-mode
 	url = git@github.com:emacsattic/hugs-mode.git
+[submodule "hugsql-ghosts"]
+	path = mirror/hugsql-ghosts
+	url = git@github.com:rkaercher/hugsql-ghosts.git
 [submodule "hungarian-holidays"]
 	path = mirror/hungarian-holidays
 	url = git@github.com:emacsmirror/hungarian-holidays.git
@@ -10312,6 +10331,9 @@
 [submodule "locdict"]
 	path = attic/locdict
 	url = git@github.com:emacsattic/locdict.git
+[submodule "lockfile-mode"]
+	path = mirror/lockfile-mode
+	url = git@github.com:preetpalS/emacs-lockfile-mode.git
 [submodule "lodgeit"]
 	path = mirror/lodgeit
 	url = git@github.com:emacsmirror/lodgeit.git
@@ -10547,6 +10569,9 @@
 [submodule "magit-svn"]
 	path = mirror/magit-svn
 	url = git@github.com:emacsmirror/magit-svn.git
+[submodule "magit-tbdiff"]
+	path = mirror/magit-tbdiff
+	url = git@github.com:magit/magit-tbdiff.git
 [submodule "magit-topgit"]
 	path = mirror/magit-topgit
 	url = git@github.com:emacsmirror/magit-topgit.git
@@ -12087,6 +12112,9 @@
 [submodule "ob-elixir"]
 	path = mirror/ob-elixir
 	url = git@github.com:emacsmirror/ob-elixir.git
+[submodule "ob-fsharp"]
+	path = mirror/ob-fsharp
+	url = git@github.com:juergenhoetzel/ob-fsharp.git
 [submodule "ob-go"]
 	path = mirror/ob-go
 	url = git@github.com:emacsmirror/ob-go.git
@@ -12130,6 +12158,9 @@
 [submodule "ob-restclient"]
 	path = mirror/ob-restclient
 	url = git@github.com:emacsmirror/ob-restclient.git
+[submodule "ob-rust"]
+	path = mirror/ob-rust
+	url = git@github.com:micanzhang/ob-rust.git
 [submodule "ob-sagemath"]
 	path = mirror/ob-sagemath
 	url = git@github.com:emacsmirror/ob-sagemath.git
@@ -12726,6 +12757,9 @@
 [submodule "org-site"]
 	path = attic/org-site
 	url = git@github.com:emacsattic/org-site.git
+[submodule "org-static-blog"]
+	path = mirror/org-static-blog
+	url = git@github.com:bastibe/org-static-blog.git
 [submodule "org-status"]
 	path = mirror/org-status
 	url = git@github.com:emacsmirror/org-status.git
@@ -13195,6 +13229,9 @@
 [submodule "pases"]
 	path = attic/pases
 	url = git@github.com:emacsattic/pases.git
+[submodule "pasp-mode"]
+	path = mirror/pasp-mode
+	url = git@github.com:santifa/pasp-mode.git
 [submodule "pass"]
 	path = mirror/pass
 	url = git@github.com:emacsmirror/pass.git
@@ -19451,7 +19488,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "all-the-icons-ivy"]
-	path = mirror/all-the-icons-ivy
-	url = git@github.com:emacsmirror/all-the-icons-ivy.git
-	branch = master
