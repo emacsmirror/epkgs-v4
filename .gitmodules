@@ -19451,3 +19451,7 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "all-the-icons-ivy"]
+	path = mirror/all-the-icons-ivy
+	url = git@github.com:emacsmirror/all-the-icons-ivy.git
+	branch = master
