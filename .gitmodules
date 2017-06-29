@@ -19488,3 +19488,18 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "dired-du"]
+	path = mirror/dired-du
+	url = git@github.com:emacsmirror/dired-du.git
+[submodule "gited"]
+	path = mirror/gited
+	url = git@github.com:emacsmirror/gited.git
+[submodule "hook-helpers"]
+	path = mirror/hook-helpers
+	url = git@github.com:emacsmirror/hook-helpers.git
+[submodule "kmb"]
+	path = mirror/kmb
+	url = git@github.com:emacsmirror/kmb.git
+[submodule "org-edna"]
+	path = mirror/org-edna
+	url = git@github.com:emacsmirror/org-edna.git
