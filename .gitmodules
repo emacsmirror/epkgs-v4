@@ -5665,8 +5665,8 @@
 	path = mirror/figlet
 	url = git@github.com:emacsmirror/figlet.git
 [submodule "file-confirm"]
-	path = mirror/file-confirm
-	url = git@github.com:emacsmirror/file-confirm.git
+	path = attic/file-confirm
+	url = git@github.com:emacsattic/file-confirm.git
 [submodule "file-ext"]
 	path = mirror/file-ext
 	url = git@github.com:emacsmirror/file-ext.git
@@ -8967,8 +8967,8 @@
 	path = mirror/info+
 	url = git@github.com:emacsmirror/info-plus.git
 [submodule "info-apropos"]
-	path = mirror/info-apropos
-	url = git@github.com:emacsmirror/info-apropos.git
+	path = attic/info-apropos
+	url = git@github.com:emacsattic/info-apropos.git
 [submodule "info-buffer"]
 	path = mirror/info-buffer
 	url = git@github.com:emacsmirror/info-buffer.git
@@ -9762,8 +9762,8 @@
 	url = git@github.com:emacsmirror/keyswap.git
 	branch = master
 [submodule "keywiz"]
-	path = mirror/keywiz
-	url = git@github.com:emacsmirror/keywiz.git
+	path = attic/keywiz
+	url = git@github.com:emacsattic/keywiz.git
 [submodule "keyword-arg-macros"]
 	path = mirror/keyword-arg-macros
 	url = git@github.com:emacsmirror/keyword-arg-macros.git
@@ -10286,8 +10286,8 @@
 	path = mirror/livid-mode
 	url = git@github.com:emacsmirror/livid-mode.git
 [submodule "llvm-mode"]
-	path = mirror/llvm-mode
-	url = git@github.com:emacsmirror/llvm-mode.git
+	path = attic/llvm-mode
+	url = git@github.com:emacsattic/llvm-mode.git
 [submodule "lmc"]
 	path = mirror/lmc
 	url = git@github.com:emacsmirror/lmc.git
@@ -15390,8 +15390,8 @@
 	path = attic/savebuffer
 	url = git@github.com:emacsattic/savebuffer.git
 [submodule "saveframes"]
-	path = mirror/saveframes
-	url = git@github.com:emacsmirror/saveframes.git
+	path = attic/saveframes
+	url = git@github.com:emacsattic/saveframes.git
 [submodule "savekill"]
 	path = mirror/savekill
 	url = git@github.com:emacsmirror/savekill.git
@@ -17018,8 +17018,8 @@
 	path = mirror/tabbar-ruler
 	url = git@github.com:emacsmirror/tabbar-ruler.git
 [submodule "tablegen-mode"]
-	path = mirror/tablegen-mode
-	url = git@github.com:emacsmirror/tablegen-mode.git
+	path = attic/tablegen-mode
+	url = git@github.com:emacsattic/tablegen-mode.git
 [submodule "tablist"]
 	path = mirror/tablist
 	url = git@github.com:emacsmirror/tablist.git
@@ -18404,8 +18404,8 @@
 	path = mirror/volume
 	url = git@github.com:emacsmirror/volume.git
 [submodule "vorbiscomment"]
-	path = mirror/vorbiscomment
-	url = git@github.com:emacsmirror/vorbiscomment.git
+	path = attic/vorbiscomment
+	url = git@github.com:emacsattic/vorbiscomment.git
 [submodule "vr"]
 	path = attic/vr
 	url = git@github.com:emacsattic/vr.git
@@ -18696,8 +18696,8 @@
 	path = attic/whizzytex
 	url = git@github.com:emacsattic/whizzytex.git
 [submodule "who-calls"]
-	path = mirror/who-calls
-	url = git@github.com:emacsmirror/who-calls.git
+	path = attic/who-calls
+	url = git@github.com:emacsattic/who-calls.git
 [submodule "whole-line-funcs"]
 	path = mirror/whole-line-funcs
 	url = git@github.com:emacsmirror/whole-line-funcs.git
@@ -19173,8 +19173,8 @@
 	path = mirror/xrc
 	url = git@github.com:emacsmirror/xrc.git
 [submodule "xrdb-mode"]
-	path = mirror/xrdb-mode
-	url = git@github.com:emacsmirror/xrdb-mode.git
+	path = attic/xrdb-mode
+	url = git@github.com:emacsattic/xrdb-mode.git
 [submodule "xref-js2"]
 	path = mirror/xref-js2
 	url = git@github.com:emacsmirror/xref-js2.git
