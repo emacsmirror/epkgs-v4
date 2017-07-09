@@ -3500,6 +3500,9 @@
 [submodule "dired-details+"]
 	path = mirror/dired-details+
 	url = git@github.com:emacsmirror/dired-details-plus.git
+[submodule "dired-du"]
+	path = mirror/dired-du
+	url = git@github.com:emacsmirror/dired-du.git
 [submodule "dired-dups"]
 	path = mirror/dired-dups
 	url = git@github.com:emacsmirror/dired-dups.git
@@ -5516,6 +5519,9 @@
 [submodule "fabric"]
 	path = mirror/fabric
 	url = git@github.com:emacsmirror/fabric.git
+[submodule "face-explorer"]
+	path = mirror/face-explorer
+	url = git@github.com:emacsmirror/face-explorer.git
 [submodule "face-fns"]
 	path = mirror/face-fns
 	url = git@github.com:emacsmirror/face-fns.git
@@ -6888,6 +6894,9 @@
 [submodule "gitconfig"]
 	path = mirror/gitconfig
 	url = git@github.com:emacsmirror/gitconfig.git
+[submodule "gited"]
+	path = mirror/gited
+	url = git@github.com:emacsmirror/gited.git
 [submodule "githorg"]
 	path = mirror/githorg
 	url = git@github.com:emacsmirror/githorg.git
@@ -6944,6 +6953,9 @@
 [submodule "gitty"]
 	path = attic/gitty
 	url = git@github.com:emacsattic/gitty.git
+[submodule "gl-conf-mode"]
+	path = mirror/gl-conf-mode
+	url = git@github.com:emacsmirror/gl-conf-mode.git
 [submodule "glab"]
 	path = mirror/glab
 	url = git@github.com:emacsmirror/glab.git
@@ -7773,6 +7785,9 @@
 [submodule "helm-dictionary"]
 	path = mirror/helm-dictionary
 	url = git@github.com:emacsmirror/helm-dictionary.git
+[submodule "helm-directory"]
+	path = mirror/helm-directory
+	url = git@github.com:emacsmirror/helm-directory.git
 [submodule "helm-dired-history"]
 	path = mirror/helm-dired-history
 	url = git@github.com:emacsmirror/helm-dired-history.git
@@ -8417,6 +8432,9 @@
 [submodule "homebrew-mode"]
 	path = mirror/homebrew-mode
 	url = git@github.com:emacsmirror/homebrew-mode.git
+[submodule "hook-helpers"]
+	path = mirror/hook-helpers
+	url = git@github.com:emacsmirror/hook-helpers.git
 [submodule "hookify"]
 	path = mirror/hookify
 	url = git@github.com:emacsmirror/hookify.git
@@ -9628,6 +9646,9 @@
 	path = mirror/julia-mode
 	url = git@github.com:emacsmirror/julia-mode.git
 	branch = master
+[submodule "julia-repl"]
+	path = mirror/julia-repl
+	url = git@github.com:emacsmirror/julia-repl.git
 [submodule "julia-shell"]
 	path = mirror/julia-shell
 	url = git@github.com:emacsmirror/julia-shell.git
@@ -9832,6 +9853,9 @@
 [submodule "kmacro-ring-list"]
 	path = attic/kmacro-ring-list
 	url = git@github.com:emacsattic/kmacro-ring-list.git
+[submodule "kmb"]
+	path = mirror/kmb
+	url = git@github.com:emacsmirror/kmb.git
 [submodule "know-your-http-well"]
 	path = mirror/know-your-http-well
 	url = git@github.com:emacsmirror/know-your-http-well.git
@@ -10279,6 +10303,9 @@
 [submodule "lively"]
 	path = mirror/lively
 	url = git@github.com:emacsmirror/lively.git
+[submodule "livereload"]
+	path = mirror/livereload
+	url = git@github.com:emacsmirror/livereload.git
 [submodule "livescript-mode"]
 	path = mirror/livescript-mode
 	url = git@github.com:emacsmirror/livescript-mode.git
@@ -10666,6 +10693,9 @@
 [submodule "make-mode-fillindent"]
 	path = attic/make-mode-fillindent
 	url = git@github.com:emacsattic/make-mode-fillindent.git
+[submodule "makefile-executor"]
+	path = mirror/makefile-executor
+	url = git@github.com:emacsmirror/makefile-executor.git
 [submodule "makefile-runner"]
 	path = mirror/makefile-runner
 	url = git@github.com:emacsmirror/makefile-runner.git
@@ -12038,6 +12068,9 @@
 [submodule "numbered-outline"]
 	path = attic/numbered-outline
 	url = git@github.com:emacsattic/numbered-outline.git
+[submodule "numbers"]
+	path = mirror/numbers
+	url = git@github.com:emacsmirror/numbers.git
 [submodule "nummm-mode"]
 	path = mirror/nummm-mode
 	url = git@github.com:emacsmirror/nummm-mode.git
@@ -12550,6 +12583,9 @@
 	path = mirror/org-edit-latex
 	url = git@github.com:emacsmirror/org-edit-latex.git
 	branch = master
+[submodule "org-edna"]
+	path = mirror/org-edna
+	url = git@github.com:emacsmirror/org-edna.git
 [submodule "org-ehtml"]
 	path = mirror/org-ehtml
 	url = git@github.com:emacsmirror/org-ehtml.git
@@ -14671,6 +14707,9 @@
 [submodule "rdp"]
 	path = mirror/rdp
 	url = git@github.com:emacsmirror/rdp.git
+[submodule "rdxmk"]
+	path = mirror/rdxmk
+	url = git@github.com:emacsmirror/rdxmk.git
 [submodule "re-builder+"]
 	path = mirror/re-builder+
 	url = git@github.com:emacsmirror/re-builder-plus.git
@@ -15260,6 +15299,9 @@
 [submodule "rudel"]
 	path = mirror/rudel
 	url = git@github.com:emacsmirror/rudel.git
+[submodule "rufo"]
+	path = mirror/rufo
+	url = git@github.com:emacsmirror/rufo.git
 [submodule "run-assoc"]
 	path = mirror/run-assoc
 	url = git@github.com:emacsmirror/run-assoc.git
@@ -19488,18 +19530,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "dired-du"]
-	path = mirror/dired-du
-	url = git@github.com:emacsmirror/dired-du.git
-[submodule "gited"]
-	path = mirror/gited
-	url = git@github.com:emacsmirror/gited.git
-[submodule "hook-helpers"]
-	path = mirror/hook-helpers
-	url = git@github.com:emacsmirror/hook-helpers.git
-[submodule "kmb"]
-	path = mirror/kmb
-	url = git@github.com:emacsmirror/kmb.git
-[submodule "org-edna"]
-	path = mirror/org-edna
-	url = git@github.com:emacsmirror/org-edna.git
