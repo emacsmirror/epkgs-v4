@@ -4613,8 +4613,8 @@
 	path = attic/emacs-wiki-journal
 	url = git@github.com:emacsattic/emacs-wiki-journal.git
 [submodule "emacs-xcode"]
-	path = mirror/emacs-xcode
-	url = git@github.com:emacsmirror/emacs-xcode.git
+	path = attic/emacs-xcode
+	url = git@github.com:emacsattic/emacs-xcode.git
 [submodule "emacsagist"]
 	path = mirror/emacsagist
 	url = git@github.com:emacsmirror/emacsagist.git
@@ -11624,8 +11624,8 @@
 	path = mirror/mvn
 	url = git@github.com:emacsmirror/mvn.git
 [submodule "mwe-cambridge-permute"]
-	path = mirror/mwe-cambridge-permute
-	url = git@github.com:emacsmirror/mwe-cambridge-permute.git
+	path = attic/mwe-cambridge-permute
+	url = git@github.com:emacsattic/mwe-cambridge-permute.git
 [submodule "mwe-color-box"]
 	path = mirror/mwe-color-box
 	url = git@github.com:emacsmirror/mwe-color-box.git
@@ -18609,8 +18609,8 @@
 	path = mirror/wcy-desktop
 	url = git@github.com:emacsmirror/wcy-desktop.git
 [submodule "wcy-display-line-number"]
-	path = mirror/wcy-display-line-number
-	url = git@github.com:emacsmirror/wcy-display-line-number.git
+	path = attic/wcy-display-line-number
+	url = git@github.com:emacsattic/wcy-display-line-number.git
 [submodule "wcy-swbuff"]
 	path = mirror/wcy-swbuff
 	url = git@github.com:emacsmirror/wcy-swbuff.git
