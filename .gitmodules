@@ -356,6 +356,9 @@
 	path = mirror/all-the-icons-dired
 	url = git@github.com:emacsmirror/all-the-icons-dired.git
 	branch = master
+[submodule "all-the-icons-gnus"]
+	path = mirror/all-the-icons-gnus
+	url = git@github.com:emacsmirror/all-the-icons-gnus.git
 [submodule "all-the-icons-ivy"]
 	path = mirror/all-the-icons-ivy
 	url = git@github.com:emacsmirror/all-the-icons-ivy.git
@@ -2888,6 +2891,9 @@
 [submodule "csmart-mode"]
 	path = mirror/csmart-mode
 	url = git@github.com:emacsmirror/csmart-mode.git
+[submodule "csound-mode"]
+	path = mirror/csound-mode
+	url = git@github.com:emacsmirror/csound-mode.git
 [submodule "csound-x"]
 	path = attic/csound-x
 	url = git@github.com:emacsattic/csound-x.git
@@ -7798,6 +7804,9 @@
 [submodule "helm-dirset"]
 	path = mirror/helm-dirset
 	url = git@github.com:emacsmirror/helm-dirset.git
+[submodule "helm-elscreen"]
+	path = mirror/helm-elscreen
+	url = git@github.com:emacsmirror/helm-elscreen.git
 [submodule "helm-emmet"]
 	path = mirror/helm-emmet
 	url = git@github.com:emacsmirror/helm-emmet.git
@@ -7849,6 +7858,9 @@
 [submodule "helm-ghq"]
 	path = mirror/helm-ghq
 	url = git@github.com:emacsmirror/helm-ghq.git
+[submodule "helm-ghs"]
+	path = mirror/helm-ghs
+	url = git@github.com:emacsmirror/helm-ghs.git
 [submodule "helm-git"]
 	path = mirror/helm-git
 	url = git@github.com:emacsmirror/helm-git.git
@@ -7930,6 +7942,9 @@
 [submodule "helm-jstack"]
 	path = mirror/helm-jstack
 	url = git@github.com:emacsmirror/helm-jstack.git
+[submodule "helm-kythe"]
+	path = mirror/helm-kythe
+	url = git@github.com:emacsmirror/helm-kythe.git
 [submodule "helm-lobsters"]
 	path = mirror/helm-lobsters
 	url = git@github.com:emacsmirror/helm-lobsters.git
@@ -12131,6 +12146,9 @@
 	path = mirror/ob-coffee
 	url = git@github.com:emacsmirror/ob-coffee.git
 	branch = master
+[submodule "ob-coffeescript"]
+	path = mirror/ob-coffeescript
+	url = git@github.com:emacsmirror/ob-coffeescript.git
 [submodule "ob-cypher"]
 	path = mirror/ob-cypher
 	url = git@github.com:emacsmirror/ob-cypher.git
@@ -13293,6 +13311,9 @@
 [submodule "paste"]
 	path = mirror/paste
 	url = git@github.com:emacsmirror/paste.git
+[submodule "paste-of-code"]
+	path = mirror/paste-of-code
+	url = git@github.com:emacsmirror/paste-of-code.git
 [submodule "paste2"]
 	path = mirror/paste2
 	url = git@github.com:emacsmirror/paste2.git
@@ -13865,6 +13886,9 @@
 	path = mirror/pollen-mode
 	url = git@github.com:emacsmirror/pollen-mode.git
 	branch = master
+[submodule "poly-ruby"]
+	path = mirror/poly-ruby
+	url = git@github.com:emacsmirror/poly-ruby.git
 [submodule "polymode"]
 	path = mirror/polymode
 	url = git@github.com:emacsmirror/polymode.git
@@ -18021,6 +18045,9 @@
 [submodule "undercover"]
 	path = mirror/undercover
 	url = git@github.com:emacsmirror/undercover.git
+[submodule "underline-with-char"]
+	path = mirror/underline-with-char
+	url = git@github.com:emacsmirror/underline-with-char.git
 [submodule "underwater-theme"]
 	path = mirror/underwater-theme
 	url = git@github.com:emacsmirror/underwater-theme.git
@@ -19348,6 +19375,9 @@
 [submodule "yari"]
 	path = mirror/yari
 	url = git@github.com:emacsmirror/yari.git
+[submodule "yarn-mode"]
+	path = mirror/yarn-mode
+	url = git@github.com:emacsmirror/yarn-mode.git
 [submodule "yascroll"]
 	path = mirror/yascroll
 	url = git@github.com:emacsmirror/yascroll.git
