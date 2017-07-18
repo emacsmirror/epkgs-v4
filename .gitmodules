@@ -1318,6 +1318,9 @@
 [submodule "biff"]
 	path = attic/biff
 	url = git@github.com:emacsattic/biff.git
+[submodule "bifocal"]
+	path = mirror/bifocal
+	url = git@github.com:emacsmirror/bifocal.git
 [submodule "bike"]
 	path = attic/bike
 	url = git@github.com:emacsattic/bike.git
