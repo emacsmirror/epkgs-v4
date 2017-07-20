@@ -2645,6 +2645,9 @@
 	path = mirror/conda
 	url = git@github.com:emacsmirror/conda.git
 	branch = master
+[submodule "config-general-mode"]
+	path = mirror/config-general-mode
+	url = git@github.com:emacsmirror/config-general-mode.git
 [submodule "config-parser"]
 	path = mirror/config-parser
 	url = git@github.com:emacsmirror/config-parser.git
@@ -9130,6 +9133,9 @@
 [submodule "interval-tree"]
 	path = mirror/interval-tree
 	url = git@github.com:emacsmirror/interval-tree.git
+[submodule "inverse-acme-theme"]
+	path = mirror/inverse-acme-theme
+	url = git@github.com:emacsmirror/inverse-acme-theme.git
 [submodule "invoice"]
 	path = mirror/invoice
 	url = git@github.com:emacsmirror/invoice.git
@@ -14192,6 +14198,9 @@
 [submodule "propfont-mixed"]
 	path = mirror/propfont-mixed
 	url = git@github.com:emacsmirror/propfont-mixed.git
+[submodule "proportional"]
+	path = mirror/proportional
+	url = git@github.com:emacsmirror/proportional.git
 [submodule "prosjekt"]
 	path = mirror/prosjekt
 	url = git@github.com:emacsmirror/prosjekt.git
