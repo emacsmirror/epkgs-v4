@@ -1784,7 +1784,6 @@
 [submodule "caml"]
 	path = mirror/caml
 	url = git@github.com:emacsmirror/caml.git
-	branch = master
 [submodule "campfire"]
 	path = mirror/campfire
 	url = git@github.com:emacsmirror/campfire.git
@@ -2654,7 +2653,6 @@
 [submodule "confluence"]
 	path = mirror/confluence
 	url = git@github.com:emacsmirror/confluence.git
-	branch = master
 [submodule "conjecture-mode"]
 	path = attic/conjecture-mode
 	url = git@github.com:emacsattic/conjecture-mode.git
@@ -3417,7 +3415,6 @@
 [submodule "dic-lookup-w3m"]
 	path = mirror/dic-lookup-w3m
 	url = git@github.com:emacsmirror/dic-lookup-w3m.git
-	branch = master
 [submodule "dict-tree"]
 	path = mirror/dict-tree
 	url = git@github.com:emacsmirror/dict-tree.git
