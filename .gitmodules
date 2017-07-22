@@ -2995,8 +2995,8 @@
 	path = mirror/cursor-chg
 	url = git@github.com:emacsmirror/cursor-chg.git
 [submodule "cursor-in-brackets"]
-	path = mirror/cursor-in-brackets
-	url = git@github.com:emacsmirror/cursor-in-brackets.git
+	path = attic/cursor-in-brackets
+	url = git@github.com:emacsattic/cursor-in-brackets.git
 [submodule "cursor-test"]
 	path = mirror/cursor-test
 	url = git@github.com:emacsmirror/cursor-test.git
@@ -3910,8 +3910,8 @@
 	path = mirror/dumb-jump
 	url = git@github.com:emacsmirror/dumb-jump.git
 [submodule "dummy-h-mode"]
-	path = mirror/dummy-h-mode
-	url = git@github.com:emacsmirror/dummy-h-mode.git
+	path = attic/dummy-h-mode
+	url = git@github.com:emacsattic/dummy-h-mode.git
 [submodule "dummyparens"]
 	path = mirror/dummyparens
 	url = git@github.com:emacsmirror/dummyparens.git
@@ -6172,8 +6172,8 @@
 	path = mirror/flycheck-rust
 	url = git@github.com:emacsmirror/flycheck-rust.git
 [submodule "flycheck-scala-sbt"]
-	path = mirror/flycheck-scala-sbt
-	url = git@github.com:emacsmirror/flycheck-scala-sbt.git
+	path = attic/flycheck-scala-sbt
+	url = git@github.com:emacsattic/flycheck-scala-sbt.git
 	branch = master
 [submodule "flycheck-stack"]
 	path = mirror/flycheck-stack
@@ -7370,8 +7370,8 @@
 	url = git@github.com:emacsmirror/green-screen-theme.git
 	branch = master
 [submodule "gregorio-mode"]
-	path = mirror/gregorio-mode
-	url = git@github.com:emacsmirror/gregorio-mode.git
+	path = attic/gregorio-mode
+	url = git@github.com:emacsattic/gregorio-mode.git
 [submodule "grep+"]
 	path = mirror/grep+
 	url = git@github.com:emacsmirror/grep-plus.git
@@ -9658,8 +9658,8 @@
 	path = attic/jtemplate
 	url = git@github.com:emacsattic/jtemplate.git
 [submodule "judge-indent"]
-	path = mirror/judge-indent
-	url = git@github.com:emacsmirror/judge-indent.git
+	path = attic/judge-indent
+	url = git@github.com:emacsattic/judge-indent.git
 [submodule "juick"]
 	path = mirror/juick
 	url = git@github.com:emacsmirror/juick.git
@@ -11033,8 +11033,8 @@
 	path = mirror/meta-presenter
 	url = git@github.com:emacsmirror/meta-presenter.git
 [submodule "metafmt"]
-	path = mirror/metafmt
-	url = git@github.com:emacsmirror/metafmt.git
+	path = attic/metafmt
+	url = git@github.com:emacsattic/metafmt.git
 [submodule "metalheart-theme"]
 	path = mirror/metalheart-theme
 	url = git@github.com:emacsmirror/metalheart-theme.git
@@ -12738,8 +12738,8 @@
 	url = git@github.com:emacsmirror/org-parser.git
 	branch = master
 [submodule "org-password-manager"]
-	path = mirror/org-password-manager
-	url = git@github.com:emacsmirror/org-password-manager.git
+	path = attic/org-password-manager
+	url = git@github.com:emacsattic/org-password-manager.git
 	branch = master
 [submodule "org-pdfview"]
 	path = mirror/org-pdfview
