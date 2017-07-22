@@ -14,6 +14,9 @@
 [submodule "@"]
 	path = mirror/@
 	url = git@github.com:emacsmirror/at.git
+[submodule "a"]
+	path = mirror/a
+	url = git@github.com:emacsmirror/a.git
 [submodule "a-menu"]
 	path = mirror/a-menu
 	url = git@github.com:emacsmirror/a-menu.git
@@ -3927,6 +3930,9 @@
 [submodule "durendal"]
 	path = mirror/durendal
 	url = git@github.com:emacsmirror/durendal.git
+[submodule "dut-mode"]
+	path = mirror/dut-mode
+	url = git@github.com:emacsmirror/dut-mode.git
 [submodule "dvc"]
 	path = attic/dvc
 	url = git@github.com:emacsattic/dvc.git
@@ -5211,6 +5217,9 @@
 [submodule "evalator-clojure"]
 	path = mirror/evalator-clojure
 	url = git@github.com:emacsmirror/evalator-clojure.git
+[submodule "eve-mode"]
+	path = mirror/eve-mode
+	url = git@github.com:emacsmirror/eve-mode.git
 [submodule "evelnote"]
 	path = mirror/evelnote
 	url = git@github.com:emacsmirror/evelnote.git
@@ -6952,6 +6961,9 @@
 [submodule "gitolite-clone"]
 	path = mirror/gitolite-clone
 	url = git@github.com:emacsmirror/gitolite-clone.git
+[submodule "gitpatch"]
+	path = mirror/gitpatch
+	url = git@github.com:emacsmirror/gitpatch.git
 [submodule "gitsum"]
 	path = mirror/gitsum
 	url = git@github.com:emacsmirror/gitsum.git
@@ -7074,6 +7086,9 @@
 [submodule "gnus-propfont"]
 	path = mirror/gnus-propfont
 	url = git@github.com:emacsmirror/gnus-propfont.git
+[submodule "gnus-select-account"]
+	path = mirror/gnus-select-account
+	url = git@github.com:emacsmirror/gnus-select-account.git
 [submodule "gnus-spotlight"]
 	path = mirror/gnus-spotlight
 	url = git@github.com:emacsmirror/gnus-spotlight.git
@@ -9170,6 +9185,9 @@
 [submodule "ipretty"]
 	path = mirror/ipretty
 	url = git@github.com:emacsmirror/ipretty.git
+[submodule "iqa"]
+	path = mirror/iqa
+	url = git@github.com:emacsmirror/iqa.git
 [submodule "ir-black-theme"]
 	path = mirror/ir-black-theme
 	url = git@github.com:emacsmirror/ir-black-theme.git
@@ -10121,6 +10139,9 @@
 [submodule "letcheck"]
 	path = mirror/letcheck
 	url = git@github.com:emacsmirror/letcheck.git
+[submodule "letterbox-mode"]
+	path = mirror/letterbox-mode
+	url = git@github.com:emacsmirror/letterbox-mode.git
 [submodule "leuven-theme"]
 	path = mirror/leuven-theme
 	url = git@github.com:emacsmirror/leuven-theme.git
@@ -11172,6 +11193,9 @@
 [submodule "misc-fns"]
 	path = mirror/misc-fns
 	url = git@github.com:emacsmirror/misc-fns.git
+[submodule "mixed-pitch"]
+	path = mirror/mixed-pitch
+	url = git@github.com:emacsmirror/mixed-pitch.git
 [submodule "mk-project"]
 	path = mirror/mk-project
 	url = git@github.com:emacsmirror/mk-project.git
@@ -11953,6 +11977,9 @@
 [submodule "no-word"]
 	path = mirror/no-word
 	url = git@github.com:emacsmirror/no-word.git
+[submodule "noaa"]
+	path = mirror/noaa
+	url = git@github.com:emacsmirror/noaa.git
 [submodule "nobreak-fade"]
 	path = mirror/nobreak-fade
 	url = git@github.com:emacsmirror/nobreak-fade.git
@@ -12429,6 +12456,9 @@
 [submodule "open-related-file"]
 	path = mirror/open-related-file
 	url = git@github.com:emacsmirror/open-related-file.git
+[submodule "opencc"]
+	path = mirror/opencc
+	url = git@github.com:emacsmirror/opencc.git
 [submodule "opencl-mode"]
 	path = mirror/opencl-mode
 	url = git@github.com:emacsmirror/opencl-mode.git
@@ -17814,6 +17844,9 @@
 	path = mirror/treemacs
 	url = git@github.com:emacsmirror/treemacs.git
 	branch = master
+[submodule "treepy"]
+	path = mirror/treepy
+	url = git@github.com:emacsmirror/treepy.git
 [submodule "trelloel"]
 	path = mirror/trelloel
 	url = git@github.com:emacsmirror/trelloel.git
@@ -18946,6 +18979,9 @@
 [submodule "with-saved-messages"]
 	path = attic/with-saved-messages
 	url = git@github.com:emacsattic/with-saved-messages.git
+[submodule "with-simulated-input"]
+	path = mirror/with-simulated-input
+	url = git@github.com:emacsmirror/with-simulated-input.git
 [submodule "wl-list"]
 	path = mirror/wl-list
 	url = git@github.com:emacsmirror/wl-list.git
