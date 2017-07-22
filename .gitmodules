@@ -14958,7 +14958,7 @@
 	url = git@github.com:emacsmirror/relative-buffers.git
 [submodule "relative-line-numbers"]
 	path = attic/relative-line-numbers
-	url = git@github.com:emacsmirror/relative-line-numbers.git
+	url = git@github.com:emacsattic/relative-line-numbers.git
 [submodule "relax"]
 	path = mirror/relax
 	url = git@github.com:emacsmirror/relax.git
@@ -17652,7 +17652,7 @@
 	url = git@github.com:emacsattic/todo-list-mode.git
 [submodule "todochiku"]
 	path = attic/todochiku
-	url = git@github.com:emacsmirror/todochiku.git
+	url = git@github.com:emacsattic/todochiku.git
 [submodule "todoo"]
 	path = mirror/todoo
 	url = git@github.com:emacsmirror/todoo.git
