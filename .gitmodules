@@ -10565,6 +10565,9 @@
 [submodule "mac-key-mode"]
 	path = attic/mac-key-mode
 	url = git@github.com:emacsattic/mac-key-mode.git
+[submodule "mac-pseudo-daemon"]
+	path = mirror/mac-pseudo-daemon
+	url = git@github.com:emacsmirror/mac-pseudo-daemon.git
 [submodule "macro-generate"]
 	path = attic/macro-generate
 	url = git@github.com:emacsattic/macro-generate.git
@@ -13018,9 +13021,6 @@
 [submodule "osx-plist"]
 	path = mirror/osx-plist
 	url = git@github.com:emacsmirror/osx-plist.git
-[submodule "osx-pseudo-daemon"]
-	path = mirror/osx-pseudo-daemon
-	url = git@github.com:emacsmirror/osx-pseudo-daemon.git
 [submodule "osx-trash"]
 	path = mirror/osx-trash
 	url = git@github.com:emacsmirror/osx-trash.git
