@@ -3750,6 +3750,9 @@
 	path = mirror/docker-api
 	url = git@github.com:emacsmirror/docker-api.git
 	branch = master
+[submodule "docker-compose-mode"]
+	path = mirror/docker-compose-mode
+	url = git@github.com:emacsmirror/docker-compose-mode.git
 [submodule "docker-tramp"]
 	path = mirror/docker-tramp
 	url = git@github.com:emacsmirror/docker-tramp.git
@@ -13242,6 +13245,9 @@
 [submodule "pallet"]
 	path = mirror/pallet
 	url = git@github.com:emacsmirror/pallet.git
+[submodule "pamparam"]
+	path = mirror/pamparam
+	url = git@github.com:emacsmirror/pamparam.git
 [submodule "pandoc"]
 	path = mirror/pandoc
 	url = git@github.com:emacsmirror/pandoc.git
@@ -15174,6 +15180,9 @@
 [submodule "ri"]
 	path = mirror/ri
 	url = git@github.com:emacsmirror/ri.git
+[submodule "rib-mode"]
+	path = mirror/rib-mode
+	url = git@github.com:emacsmirror/rib-mode.git
 [submodule "ricette-mode"]
 	path = mirror/ricette-mode
 	url = git@github.com:emacsmirror/ricette-mode.git
