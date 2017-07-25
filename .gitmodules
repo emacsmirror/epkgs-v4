@@ -10620,6 +10620,9 @@
 [submodule "magit-identities"]
 	path = mirror/magit-identities
 	url = git@github.com:emacsmirror/magit-identities.git
+[submodule "magit-imerge"]
+	path = mirror/magit-imerge
+	url = git@github.com:emacsmirror/magit-imerge.git
 [submodule "magit-lfs"]
 	path = mirror/magit-lfs
 	url = git@github.com:emacsmirror/magit-lfs.git
