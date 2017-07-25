@@ -6815,7 +6815,6 @@
 [submodule "ghub"]
 	path = mirror/ghub
 	url = git@github.com:emacsmirror/ghub.git
-	branch = master
 [submodule "ghub+"]
 	path = mirror/ghub+
 	url = git@github.com:emacsmirror/ghub-plus.git
