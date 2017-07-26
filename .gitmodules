@@ -11668,11 +11668,11 @@
 	path = attic/mwe-cambridge-permute
 	url = git@github.com:emacsattic/mwe-cambridge-permute.git
 [submodule "mwe-color-box"]
-	path = mirror/mwe-color-box
-	url = git@github.com:emacsmirror/mwe-color-box.git
+	path = attic/mwe-color-box
+	url = git@github.com:emacsattic/mwe-color-box.git
 [submodule "mwe-log-commands"]
-	path = mirror/mwe-log-commands
-	url = git@github.com:emacsmirror/mwe-log-commands.git
+	path = attic/mwe-log-commands
+	url = git@github.com:emacsattic/mwe-log-commands.git
 [submodule "mwim"]
 	path = mirror/mwim
 	url = git@github.com:emacsmirror/mwim.git
@@ -12285,8 +12285,8 @@
 	url = git@github.com:emacsmirror/obfusurl.git
 	branch = master
 [submodule "objc-c-mode"]
-	path = mirror/objc-c-mode
-	url = git@github.com:emacsmirror/objc-c-mode.git
+	path = attic/objc-c-mode
+	url = git@github.com:emacsattic/objc-c-mode.git
 [submodule "objc-font-lock"]
 	path = mirror/objc-font-lock
 	url = git@github.com:emacsmirror/objc-font-lock.git
@@ -14925,8 +14925,8 @@
 	url = git@github.com:emacsmirror/redprl.git
 	branch = master
 [submodule "redshank"]
-	path = mirror/redshank
-	url = git@github.com:emacsmirror/redshank.git
+	path = attic/redshank
+	url = git@github.com:emacsattic/redshank.git
 [submodule "redspace"]
 	path = attic/redspace
 	url = git@github.com:emacsattic/redspace.git
