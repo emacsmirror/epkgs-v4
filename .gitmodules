@@ -2013,16 +2013,10 @@
 [submodule "chinese-conv"]
 	path = mirror/chinese-conv
 	url = git@github.com:emacsmirror/chinese-conv.git
-[submodule "chinese-fonts-setup"]
-	path = mirror/chinese-fonts-setup
-	url = git@github.com:emacsmirror/chinese-fonts-setup.git
 [submodule "chinese-number"]
 	path = mirror/chinese-number
 	url = git@github.com:emacsmirror/chinese-number.git
 	branch = master
-[submodule "chinese-pyim"]
-	path = mirror/chinese-pyim
-	url = git@github.com:emacsmirror/chinese-pyim.git
 [submodule "chinese-remote-input"]
 	path = attic/chinese-remote-input
 	url = git@github.com:emacsattic/chinese-remote-input.git
@@ -2289,6 +2283,9 @@
 [submodule "cn-outline"]
 	path = mirror/cn-outline
 	url = git@github.com:emacsmirror/cn-outline.git
+[submodule "cnfonts"]
+	path = mirror/cnfonts
+	url = git@github.com:emacsmirror/cnfonts.git
 [submodule "cobol-mode"]
 	path = mirror/cobol-mode
 	url = git@github.com:emacsmirror/cobol-mode.git
@@ -14413,6 +14410,9 @@
 	path = mirror/pygen
 	url = git@github.com:emacsmirror/pygen.git
 	branch = master
+[submodule "pyim"]
+	path = mirror/pyim
+	url = git@github.com:emacsmirror/pyim.git
 [submodule "pyim-basedict"]
 	path = mirror/pyim-basedict
 	url = git@github.com:emacsmirror/pyim-basedict.git
