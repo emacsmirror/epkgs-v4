@@ -2023,18 +2023,6 @@
 [submodule "chinese-pyim"]
 	path = mirror/chinese-pyim
 	url = git@github.com:emacsmirror/chinese-pyim.git
-[submodule "chinese-pyim-basedict"]
-	path = mirror/chinese-pyim-basedict
-	url = git@github.com:emacsmirror/chinese-pyim-basedict.git
-	branch = master
-[submodule "chinese-pyim-greatdict"]
-	path = mirror/chinese-pyim-greatdict
-	url = git@github.com:emacsmirror/chinese-pyim-greatdict.git
-	branch = master
-[submodule "chinese-pyim-wbdict"]
-	path = mirror/chinese-pyim-wbdict
-	url = git@github.com:emacsmirror/chinese-pyim-wbdict.git
-	branch = master
 [submodule "chinese-remote-input"]
 	path = mirror/chinese-remote-input
 	url = git@github.com:emacsmirror/chinese-remote-input.git
@@ -14425,6 +14413,15 @@
 	path = mirror/pygen
 	url = git@github.com:emacsmirror/pygen.git
 	branch = master
+[submodule "pyim-basedict"]
+	path = mirror/pyim-basedict
+	url = git@github.com:emacsmirror/pyim-basedict.git
+[submodule "pyim-greatdict"]
+	path = mirror/pyim-greatdict
+	url = git@github.com:emacsmirror/pyim-greatdict.git
+[submodule "pyim-wbdict"]
+	path = mirror/pyim-wbdict
+	url = git@github.com:emacsmirror/pyim-wbdict.git
 [submodule "pyimport"]
 	path = mirror/pyimport
 	url = git@github.com:emacsmirror/pyimport.git
