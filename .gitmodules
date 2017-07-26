@@ -1163,11 +1163,11 @@
 	path = mirror/bbdb-
 	url = git@github.com:emacsmirror/bbdb-.git
 [submodule "bbdb-android"]
-	path = mirror/bbdb-android
-	url = git@github.com:emacsmirror/bbdb-android.git
+	path = attic/bbdb-android
+	url = git@github.com:emacsattic/bbdb-android.git
 [submodule "bbdb-china"]
-	path = mirror/bbdb-china
-	url = git@github.com:emacsmirror/bbdb-china.git
+	path = attic/bbdb-china
+	url = git@github.com:emacsattic/bbdb-china.git
 [submodule "bbdb-csv-import"]
 	path = mirror/bbdb-csv-import
 	url = git@github.com:emacsmirror/bbdb-csv-import.git
@@ -1181,8 +1181,8 @@
 	path = attic/bbdb-gnokii
 	url = git@github.com:emacsattic/bbdb-gnokii.git
 [submodule "bbdb-handy"]
-	path = mirror/bbdb-handy
-	url = git@github.com:emacsmirror/bbdb-handy.git
+	path = attic/bbdb-handy
+	url = git@github.com:emacsattic/bbdb-handy.git
 [submodule "bbdb-hidden-update"]
 	path = attic/bbdb-hidden-update
 	url = git@github.com:emacsattic/bbdb-hidden-update.git
@@ -2024,8 +2024,8 @@
 	path = mirror/chinese-pyim
 	url = git@github.com:emacsmirror/chinese-pyim.git
 [submodule "chinese-remote-input"]
-	path = mirror/chinese-remote-input
-	url = git@github.com:emacsmirror/chinese-remote-input.git
+	path = attic/chinese-remote-input
+	url = git@github.com:emacsattic/chinese-remote-input.git
 [submodule "chinese-wbim"]
 	path = mirror/chinese-wbim
 	url = git@github.com:emacsmirror/chinese-wbim.git
@@ -4010,8 +4010,8 @@
 	path = mirror/easy-kill-extras
 	url = git@github.com:emacsmirror/easy-kill-extras.git
 [submodule "easy-lentic"]
-	path = mirror/easy-lentic
-	url = git@github.com:emacsmirror/easy-lentic.git
+	path = attic/easy-lentic
+	url = git@github.com:emacsattic/easy-lentic.git
 [submodule "easy-repeat"]
 	path = mirror/easy-repeat
 	url = git@github.com:emacsmirror/easy-repeat.git
@@ -4031,8 +4031,8 @@
 	path = mirror/ebib
 	url = git@github.com:emacsmirror/ebib.git
 [submodule "ebib-handy"]
-	path = mirror/ebib-handy
-	url = git@github.com:emacsmirror/ebib-handy.git
+	path = attic/ebib-handy
+	url = git@github.com:emacsattic/ebib-handy.git
 	branch = master
 [submodule "ebm"]
 	path = mirror/ebm
@@ -16634,8 +16634,8 @@
 	path = mirror/sql-indent
 	url = git@github.com:emacsmirror/sql-indent.git
 [submodule "sql-mssql"]
-	path = mirror/sql-mssql
-	url = git@github.com:emacsmirror/sql-mssql.git
+	path = attic/sql-mssql
+	url = git@github.com:emacsattic/sql-mssql.git
 	branch = master
 [submodule "sql-transform"]
 	path = mirror/sql-transform
