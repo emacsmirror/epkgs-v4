@@ -4558,6 +4558,9 @@
 	path = attic/elunit
 	url = git@github.com:emacsattic/elunit.git
 	branch = master
+[submodule "elvish-mode"]
+	path = mirror/elvish-mode
+	url = git@github.com:emacsmirror/elvish-mode.git
 [submodule "elwiki"]
 	path = attic/elwiki
 	url = git@github.com:emacsattic/elwiki.git
@@ -6089,6 +6092,9 @@
 [submodule "flycheck-hdevtools"]
 	path = mirror/flycheck-hdevtools
 	url = git@github.com:emacsmirror/flycheck-hdevtools.git
+[submodule "flycheck-inline"]
+	path = mirror/flycheck-inline
+	url = git@github.com:emacsmirror/flycheck-inline.git
 [submodule "flycheck-irony"]
 	path = mirror/flycheck-irony
 	url = git@github.com:emacsmirror/flycheck-irony.git
@@ -6158,6 +6164,9 @@
 [submodule "flycheck-purescript"]
 	path = mirror/flycheck-purescript
 	url = git@github.com:emacsmirror/flycheck-purescript.git
+[submodule "flycheck-pycheckers"]
+	path = mirror/flycheck-pycheckers
+	url = git@github.com:emacsmirror/flycheck-pycheckers.git
 [submodule "flycheck-pyflakes"]
 	path = mirror/flycheck-pyflakes
 	url = git@github.com:emacsmirror/flycheck-pyflakes.git
@@ -9236,6 +9245,9 @@
 [submodule "iso-sgml"]
 	path = attic/iso-sgml
 	url = git@github.com:emacsattic/iso-sgml.git
+[submodule "isortify"]
+	path = mirror/isortify
+	url = git@github.com:emacsmirror/isortify.git
 [submodule "ispell-highlight"]
 	path = attic/ispell-highlight
 	url = git@github.com:emacsattic/ispell-highlight.git
@@ -9301,6 +9313,9 @@
 	path = mirror/ivy-pages
 	url = git@github.com:emacsmirror/ivy-pages.git
 	branch = master
+[submodule "ivy-pass"]
+	path = mirror/ivy-pass
+	url = git@github.com:emacsmirror/ivy-pass.git
 [submodule "ivy-purpose"]
 	path = mirror/ivy-purpose
 	url = git@github.com:emacsmirror/ivy-purpose.git
@@ -12850,6 +12865,9 @@
 	path = mirror/org-sticky-header
 	url = git@github.com:emacsmirror/org-sticky-header.git
 	branch = master
+[submodule "org-super-agenda"]
+	path = mirror/org-super-agenda
+	url = git@github.com:emacsmirror/org-super-agenda.git
 [submodule "org-sync"]
 	path = mirror/org-sync
 	url = git@github.com:emacsmirror/org-sync.git
@@ -14416,6 +14434,9 @@
 [submodule "pyim-basedict"]
 	path = mirror/pyim-basedict
 	url = git@github.com:emacsmirror/pyim-basedict.git
+[submodule "pyim-cangjie5dict"]
+	path = mirror/pyim-cangjie5dict
+	url = git@github.com:emacsmirror/pyim-cangjie5dict.git
 [submodule "pyim-greatdict"]
 	path = mirror/pyim-greatdict
 	url = git@github.com:emacsmirror/pyim-greatdict.git
