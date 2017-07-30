@@ -14138,6 +14138,9 @@
 	path = mirror/professional-theme
 	url = git@github.com:emacsmirror/professional-theme.git
 	branch = master
+[submodule "profile-dotemacs"]
+	path = mirror/profile-dotemacs
+	url = git@github.com:emacsmirror/profile-dotemacs.git
 [submodule "profiles"]
 	path = mirror/profiles
 	url = git@github.com:emacsmirror/profiles.git
