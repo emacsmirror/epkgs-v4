@@ -535,8 +535,8 @@
 	path = mirror/anything-milkode
 	url = git@github.com:emacsmirror/anything-milkode.git
 [submodule "anything-project"]
-	path = mirror/anything-project
-	url = git@github.com:emacsmirror/anything-project.git
+	path = attic/anything-project
+	url = git@github.com:emacsattic/anything-project.git
 	branch = master
 [submodule "anything-replace-string"]
 	path = mirror/anything-replace-string
