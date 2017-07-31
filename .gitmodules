@@ -11465,9 +11465,6 @@
 [submodule "mpcel"]
 	path = mirror/mpcel
 	url = git@github.com:emacsmirror/mpcel.git
-[submodule "mpg123"]
-	path = mirror/mpg123
-	url = git@github.com:emacsmirror/mpg123.git
 [submodule "mplayer-mode"]
 	path = mirror/mplayer-mode
 	url = git@github.com:emacsmirror/mplayer-mode.git
@@ -15153,12 +15150,6 @@
 [submodule "review-mode"]
 	path = mirror/review-mode
 	url = git@github.com:emacsmirror/review-mode.git
-[submodule "revive"]
-	path = mirror/revive
-	url = git@github.com:emacsmirror/revive.git
-[submodule "revive+"]
-	path = mirror/revive+
-	url = git@github.com:emacsmirror/revive-plus.git
 [submodule "rewrite"]
 	path = mirror/rewrite
 	url = git@github.com:emacsmirror/rewrite.git
@@ -18956,9 +18947,6 @@
 [submodule "window-purpose"]
 	path = mirror/window-purpose
 	url = git@github.com:emacsmirror/window-purpose.git
-[submodule "windows"]
-	path = mirror/windows
-	url = git@github.com:emacsmirror/windows.git
 [submodule "windows-path"]
 	path = mirror/windows-path
 	url = git@github.com:emacsmirror/windows-path.git
