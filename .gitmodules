@@ -4223,6 +4223,9 @@
 [submodule "efs"]
 	path = attic/efs
 	url = git@github.com:emacsattic/efs.git
+[submodule "eg"]
+	path = mirror/eg
+	url = git@github.com:emacsmirror/eg.git
 [submodule "egg"]
 	path = mirror/egg
 	url = git@github.com:emacsmirror/egg.git
@@ -10362,6 +10365,9 @@
 [submodule "lmc"]
 	path = mirror/lmc
 	url = git@github.com:emacsmirror/lmc.git
+[submodule "lms"]
+	path = mirror/lms
+	url = git@github.com:emacsmirror/lms.git
 [submodule "lmselect"]
 	path = mirror/lmselect
 	url = git@github.com:emacsmirror/lmselect.git
@@ -11822,6 +11828,9 @@
 [submodule "ne2wm"]
 	path = mirror/ne2wm
 	url = git@github.com:emacsmirror/ne2wm.git
+[submodule "neato-graph-bar"]
+	path = mirror/neato-graph-bar
+	url = git@github.com:emacsmirror/neato-graph-bar.git
 [submodule "nemerle"]
 	path = mirror/nemerle
 	url = git@github.com:emacsmirror/nemerle.git
@@ -16380,6 +16389,9 @@
 [submodule "snipplr"]
 	path = mirror/snipplr
 	url = git@github.com:emacsmirror/snipplr.git
+[submodule "snoopy"]
+	path = mirror/snoopy
+	url = git@github.com:emacsmirror/snoopy.git
 [submodule "snort-mode"]
 	path = mirror/snort-mode
 	url = git@github.com:emacsmirror/snort-mode.git
