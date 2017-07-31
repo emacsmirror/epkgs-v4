@@ -535,9 +535,8 @@
 	path = mirror/anything-milkode
 	url = git@github.com:emacsmirror/anything-milkode.git
 [submodule "anything-project"]
-	path = attic/anything-project
-	url = git@github.com:emacsattic/anything-project.git
-	branch = master
+	path = mirror/anything-project
+	url = git@github.com:emacsmirror/anything-project.git
 [submodule "anything-replace-string"]
 	path = mirror/anything-replace-string
 	url = git@github.com:emacsmirror/anything-replace-string.git
@@ -4539,9 +4538,6 @@
 [submodule "elscreen-multi-term"]
 	path = mirror/elscreen-multi-term
 	url = git@github.com:emacsmirror/elscreen-multi-term.git
-[submodule "elscreen-persist"]
-	path = mirror/elscreen-persist
-	url = git@github.com:emacsmirror/elscreen-persist.git
 [submodule "elscreen-separate-buffer-list"]
 	path = mirror/elscreen-separate-buffer-list
 	url = git@github.com:emacsmirror/elscreen-separate-buffer-list.git
@@ -11108,8 +11104,8 @@
 	path = mirror/mhc
 	url = git@github.com:emacsmirror/mhc.git
 [submodule "mic-paren"]
-	path = mirror/mic-paren
-	url = git@github.com:emacsmirror/mic-paren.git
+	path = attic/mic-paren
+	url = git@github.com:emacsattic/mic-paren.git
 [submodule "micgoline"]
 	path = mirror/micgoline
 	url = git@github.com:emacsmirror/micgoline.git
@@ -11222,9 +11218,6 @@
 [submodule "mkdown"]
 	path = mirror/mkdown
 	url = git@github.com:emacsmirror/mkdown.git
-[submodule "mkhtml"]
-	path = mirror/mkhtml
-	url = git@github.com:emacsmirror/mkhtml.git
 [submodule "mks"]
 	path = mirror/mks
 	url = git@github.com:emacsmirror/mks.git
@@ -17475,9 +17468,6 @@
 [submodule "texdrive"]
 	path = attic/texdrive
 	url = git@github.com:emacsattic/texdrive.git
-[submodule "texi-docstring-magic"]
-	path = attic/texi-docstring-magic
-	url = git@github.com:emacsattic/texi-docstring-magic.git
 [submodule "texinfo-nobreak"]
 	path = attic/texinfo-nobreak
 	url = git@github.com:emacsattic/texinfo-nobreak.git
