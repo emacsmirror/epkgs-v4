@@ -14,6 +14,9 @@
 [submodule "@"]
 	path = mirror/@
 	url = git@github.com:emacsmirror/at.git
+[submodule "GEOS-vote"]
+	path = attic/GEOS-vote
+	url = git@github.com:emacsattic/GEOS-vote.git
 [submodule "a"]
 	path = mirror/a
 	url = git@github.com:emacsmirror/a.git
@@ -265,9 +268,6 @@
 [submodule "adv-random-sig"]
 	path = mirror/adv-random-sig
 	url = git@github.com:emacsmirror/adv-random-sig.git
-[submodule "advmarks"]
-	path = attic/advmarks
-	url = git@github.com:emacsattic/advmarks.git
 [submodule "advogato"]
 	path = attic/advogato
 	url = git@github.com:emacsattic/advogato.git
@@ -726,6 +726,9 @@
 [submodule "atom"]
 	path = mirror/atom
 	url = git@github.com:emacsmirror/atom.git
+[submodule "atom-api"]
+	path = attic/atom-api
+	url = git@github.com:emacsattic/atom-api.git
 [submodule "atom-blogger"]
 	path = mirror/atom-blogger
 	url = git@github.com:emacsmirror/atom-blogger.git
@@ -744,9 +747,6 @@
 	path = mirror/atomic-chrome
 	url = git@github.com:emacsmirror/atomic-chrome.git
 	branch = master
-[submodule "atompub"]
-	path = attic/atompub
-	url = git@github.com:emacsattic/atompub.git
 [submodule "auctex"]
 	path = mirror/auctex
 	url = git@github.com:emacsmirror/auctex.git
@@ -979,9 +979,6 @@
 [submodule "autoload+"]
 	path = mirror/autoload+
 	url = git@github.com:emacsmirror/autoload-plus.git
-[submodule "autoload-make"]
-	path = attic/autoload-make
-	url = git@github.com:emacsattic/autoload-make.git
 [submodule "automargin"]
 	path = mirror/automargin
 	url = git@github.com:emacsmirror/automargin.git
@@ -1317,9 +1314,6 @@
 [submodule "bidi"]
 	path = mirror/bidi
 	url = git@github.com:emacsmirror/bidi.git
-[submodule "biff"]
-	path = attic/biff
-	url = git@github.com:emacsattic/biff.git
 [submodule "bifocal"]
 	path = mirror/bifocal
 	url = git@github.com:emacsmirror/bifocal.git
@@ -2668,9 +2662,6 @@
 [submodule "context-coloring"]
 	path = mirror/context-coloring
 	url = git@github.com:emacsmirror/context-coloring.git
-[submodule "contexts"]
-	path = attic/contexts
-	url = git@github.com:emacsattic/contexts.git
 [submodule "contextual"]
 	path = mirror/contextual
 	url = git@github.com:emacsmirror/contextual.git
@@ -3297,9 +3288,6 @@
 [submodule "deldo"]
 	path = attic/deldo
 	url = git@github.com:emacsattic/deldo.git
-[submodule "delete-duplicates"]
-	path = attic/delete-duplicates
-	url = git@github.com:emacsattic/delete-duplicates.git
 [submodule "delicious"]
 	path = attic/delicious
 	url = git@github.com:emacsattic/delicious.git
@@ -4587,18 +4575,12 @@
 [submodule "emacs-name"]
 	path = mirror/emacs-name
 	url = git@github.com:emacsmirror/emacs-name.git
-[submodule "emacs-rails"]
-	path = attic/emacs-rails
-	url = git@github.com:emacsattic/emacs-rails.git
 [submodule "emacs-ringing"]
 	path = attic/emacs-ringing
 	url = git@github.com:emacsattic/emacs-ringing.git
 [submodule "emacs-setup"]
 	path = mirror/emacs-setup
 	url = git@github.com:emacsmirror/emacs-setup.git
-[submodule "emacs-size-watch"]
-	path = attic/emacs-size-watch
-	url = git@github.com:emacsattic/emacs-size-watch.git
 [submodule "emacs-speaks-nonmem"]
 	path = mirror/emacs-speaks-nonmem
 	url = git@github.com:emacsmirror/emacs-speaks-nonmem.git
@@ -5804,9 +5786,6 @@
 [submodule "find-library"]
 	path = attic/find-library
 	url = git@github.com:emacsattic/find-library.git
-[submodule "find-page-file"]
-	path = attic/find-page-file
-	url = git@github.com:emacsattic/find-page-file.git
 [submodule "find-temp-file"]
 	path = mirror/find-temp-file
 	url = git@github.com:emacsmirror/find-temp-file.git
@@ -6666,9 +6645,9 @@
 [submodule "gather"]
 	path = mirror/gather
 	url = git@github.com:emacsmirror/gather.git
-[submodule "gauche-ext"]
-	path = attic/gauche-ext
-	url = git@github.com:emacsattic/gauche-ext.git
+[submodule "gauche-mode"]
+	path = attic/gauche-mode
+	url = git@github.com:emacsattic/gauche-mode.git
 [submodule "gb4e"]
 	path = attic/gb4e
 	url = git@github.com:emacsattic/gb4e.git
@@ -6735,9 +6714,6 @@
 [submodule "gentext-html"]
 	path = attic/gentext-html
 	url = git@github.com:emacsattic/gentext-html.git
-[submodule "gentext-models"]
-	path = attic/gentext-models
-	url = git@github.com:emacsattic/gentext-models.git
 [submodule "gentext-plaintext"]
 	path = attic/gentext-plaintext
 	url = git@github.com:emacsattic/gentext-plaintext.git
@@ -6753,9 +6729,6 @@
 [submodule "geocode"]
 	path = mirror/geocode
 	url = git@github.com:emacsmirror/geocode.git
-[submodule "geos-vote"]
-	path = attic/geos-vote
-	url = git@github.com:emacsattic/geos-vote.git
 [submodule "german-holidays"]
 	path = mirror/german-holidays
 	url = git@github.com:emacsmirror/german-holidays.git
@@ -7209,9 +7182,6 @@
 [submodule "gom-mode"]
 	path = mirror/gom-mode
 	url = git@github.com:emacsmirror/gom-mode.git
-[submodule "gonzui-emacs"]
-	path = attic/gonzui-emacs
-	url = git@github.com:emacsattic/gonzui-emacs.git
 [submodule "goofey"]
 	path = attic/goofey
 	url = git@github.com:emacsattic/goofey.git
@@ -7443,27 +7413,6 @@
 [submodule "gscholar-bibtex"]
 	path = mirror/gscholar-bibtex
 	url = git@github.com:emacsmirror/gscholar-bibtex.git
-[submodule "gse-create-dated-file"]
-	path = attic/gse-create-dated-file
-	url = git@github.com:emacsattic/gse-create-dated-file.git
-[submodule "gse-iter"]
-	path = attic/gse-iter
-	url = git@github.com:emacsattic/gse-iter.git
-[submodule "gse-locate"]
-	path = attic/gse-locate
-	url = git@github.com:emacsattic/gse-locate.git
-[submodule "gse-number-rect"]
-	path = attic/gse-number-rect
-	url = git@github.com:emacsattic/gse-number-rect.git
-[submodule "gse-rename"]
-	path = attic/gse-rename
-	url = git@github.com:emacsattic/gse-rename.git
-[submodule "gse-start-bash-here"]
-	path = attic/gse-start-bash-here
-	url = git@github.com:emacsattic/gse-start-bash-here.git
-[submodule "gse-underline-previous-line"]
-	path = attic/gse-underline-previous-line
-	url = git@github.com:emacsattic/gse-underline-previous-line.git
 [submodule "gst-inspect"]
 	path = mirror/gst-inspect
 	url = git@github.com:emacsmirror/gst-inspect.git
@@ -7640,9 +7589,9 @@
 [submodule "haste"]
 	path = mirror/haste
 	url = git@github.com:emacsmirror/haste.git
-[submodule "hatena-tools"]
-	path = attic/hatena-tools
-	url = git@github.com:emacsattic/hatena-tools.git
+[submodule "hatena-group-keyword-mode"]
+	path = attic/hatena-group-keyword-mode
+	url = git@github.com:emacsattic/hatena-group-keyword-mode.git
 [submodule "haxe-imports"]
 	path = mirror/haxe-imports
 	url = git@github.com:emacsmirror/haxe-imports.git
@@ -8362,9 +8311,6 @@
 [submodule "highwin"]
 	path = attic/highwin
 	url = git@github.com:emacsattic/highwin.git
-[submodule "hilit-swiftex"]
-	path = attic/hilit-swiftex
-	url = git@github.com:emacsattic/hilit-swiftex.git
 [submodule "himark"]
 	path = attic/himark
 	url = git@github.com:emacsattic/himark.git
@@ -9072,9 +9018,6 @@
 	path = mirror/inline-docs
 	url = git@github.com:emacsmirror/inline-docs.git
 	branch = master
-[submodule "inline-html"]
-	path = attic/inline-html
-	url = git@github.com:emacsattic/inline-html.git
 [submodule "inlineR"]
 	path = mirror/inlineR
 	url = git@github.com:emacsmirror/inlineR.git
@@ -9977,9 +9920,6 @@
 [submodule "langdoc"]
 	path = mirror/langdoc
 	url = git@github.com:emacsmirror/langdoc.git
-[submodule "langhelp"]
-	path = attic/langhelp
-	url = git@github.com:emacsattic/langhelp.git
 [submodule "langtool"]
 	path = mirror/langtool
 	url = git@github.com:emacsmirror/langtool.git
@@ -11609,9 +11549,9 @@
 [submodule "multr"]
 	path = mirror/multr
 	url = git@github.com:emacsmirror/multr.git
-[submodule "mupacs"]
-	path = attic/mupacs
-	url = git@github.com:emacsattic/mupacs.git
+[submodule "mupad"]
+	path = attic/mupad
+	url = git@github.com:emacsattic/mupad.git
 [submodule "muse"]
 	path = mirror/muse
 	url = git@github.com:emacsmirror/muse.git
@@ -11815,9 +11755,9 @@
 [submodule "nclip"]
 	path = mirror/nclip
 	url = git@github.com:emacsmirror/nclip.git
-[submodule "nclosemacs"]
-	path = attic/nclosemacs
-	url = git@github.com:emacsattic/nclosemacs.git
+[submodule "nclose"]
+	path = attic/nclose
+	url = git@github.com:emacsattic/nclose.git
 [submodule "ne2wm"]
 	path = mirror/ne2wm
 	url = git@github.com:emacsmirror/ne2wm.git
@@ -12026,9 +11966,6 @@
 	path = mirror/nord-theme
 	url = git@github.com:emacsmirror/nord-theme.git
 	branch = master
-[submodule "normalize-page"]
-	path = attic/normalize-page
-	url = git@github.com:emacsattic/normalize-page.git
 [submodule "nose"]
 	path = mirror/nose
 	url = git@github.com:emacsmirror/nose.git
@@ -12129,12 +12066,12 @@
 [submodule "nummm-mode"]
 	path = mirror/nummm-mode
 	url = git@github.com:emacsmirror/nummm-mode.git
+[submodule "nummove"]
+	path = attic/nummove
+	url = git@github.com:emacsattic/nummove.git
 [submodule "numwin"]
 	path = mirror/numwin
 	url = git@github.com:emacsmirror/numwin.git
-[submodule "nunmove"]
-	path = attic/nunmove
-	url = git@github.com:emacsattic/nunmove.git
 [submodule "nv-delete-back"]
 	path = mirror/nv-delete-back
 	url = git@github.com:emacsmirror/nv-delete-back.git
@@ -12242,6 +12179,9 @@
 [submodule "ob-prolog"]
 	path = mirror/ob-prolog
 	url = git@github.com:emacsmirror/ob-prolog.git
+[submodule "ob-pygment"]
+	path = attic/ob-pygment
+	url = git@github.com:emacsattic/ob-pygment.git
 [submodule "ob-redis"]
 	path = mirror/ob-redis
 	url = git@github.com:emacsmirror/ob-redis.git
@@ -12534,9 +12474,6 @@
 	path = mirror/org-babel-eval-in-repl
 	url = git@github.com:emacsmirror/org-babel-eval-in-repl.git
 	branch = master
-[submodule "org-babel-plugins"]
-	path = attic/org-babel-plugins
-	url = git@github.com:emacsattic/org-babel-plugins.git
 [submodule "org-beautify-theme"]
 	path = mirror/org-beautify-theme
 	url = git@github.com:emacsmirror/org-beautify-theme.git
@@ -13213,21 +13150,12 @@
 	path = mirror/paganini-theme
 	url = git@github.com:emacsmirror/paganini-theme.git
 	branch = master
-[submodule "page-attributes"]
-	path = attic/page-attributes
-	url = git@github.com:emacsattic/page-attributes.git
 [submodule "page-break-lines"]
 	path = mirror/page-break-lines
 	url = git@github.com:emacsmirror/page-break-lines.git
 [submodule "page-mode"]
 	path = mirror/page-mode
 	url = git@github.com:emacsmirror/page-mode.git
-[submodule "page-status"]
-	path = attic/page-status
-	url = git@github.com:emacsattic/page-status.git
-[submodule "page-structure"]
-	path = attic/page-structure
-	url = git@github.com:emacsattic/page-structure.git
 [submodule "pager"]
 	path = mirror/pager
 	url = git@github.com:emacsmirror/pager.git
@@ -13750,9 +13678,6 @@
 [submodule "pig-mode"]
 	path = mirror/pig-mode
 	url = git@github.com:emacsmirror/pig-mode.git
-[submodule "pigletfill"]
-	path = attic/pigletfill
-	url = git@github.com:emacsattic/pigletfill.git
 [submodule "pillar"]
 	path = mirror/pillar
 	url = git@github.com:emacsmirror/pillar.git
@@ -13834,6 +13759,9 @@
 [submodule "platformio-mode"]
 	path = mirror/platformio-mode
 	url = git@github.com:emacsmirror/platformio-mode.git
+[submodule "play-mode"]
+	path = attic/play-mode
+	url = git@github.com:emacsattic/play-mode.git
 [submodule "play-routes-mode"]
 	path = mirror/play-routes-mode
 	url = git@github.com:emacsmirror/play-routes-mode.git
@@ -13879,9 +13807,6 @@
 [submodule "plural"]
 	path = mirror/plural
 	url = git@github.com:emacsmirror/plural.git
-[submodule "plywood"]
-	path = attic/plywood
-	url = git@github.com:emacsattic/plywood.git
 [submodule "pmd"]
 	path = mirror/pmd
 	url = git@github.com:emacsmirror/pmd.git
@@ -14218,9 +14143,6 @@
 [submodule "projutils"]
 	path = mirror/projutils
 	url = git@github.com:emacsmirror/projutils.git
-[submodule "promela-mode"]
-	path = attic/promela-mode
-	url = git@github.com:emacsattic/promela-mode.git
 [submodule "promise"]
 	path = mirror/promise
 	url = git@github.com:emacsmirror/promise.git
@@ -14318,9 +14240,6 @@
 [submodule "pt"]
 	path = mirror/pt
 	url = git@github.com:emacsmirror/pt.git
-[submodule "publish-init"]
-	path = attic/publish-init
-	url = git@github.com:emacsattic/publish-init.git
 [submodule "pug-mode"]
 	path = mirror/pug-mode
 	url = git@github.com:emacsmirror/pug-mode.git
@@ -14638,6 +14557,9 @@
 [submodule "railgun"]
 	path = mirror/railgun
 	url = git@github.com:emacsmirror/railgun.git
+[submodule "rails"]
+	path = attic/rails
+	url = git@github.com:emacsattic/rails.git
 [submodule "rails-log-mode"]
 	path = mirror/rails-log-mode
 	url = git@github.com:emacsmirror/rails-log-mode.git
@@ -14874,9 +14796,6 @@
 [submodule "recent-addresses"]
 	path = mirror/recent-addresses
 	url = git@github.com:emacsmirror/recent-addresses.git
-[submodule "recent-changes"]
-	path = attic/recent-changes
-	url = git@github.com:emacsattic/recent-changes.git
 [submodule "recent-files"]
 	path = attic/recent-files
 	url = git@github.com:emacsattic/recent-files.git
@@ -15020,12 +14939,6 @@
 [submodule "relax"]
 	path = mirror/relax
 	url = git@github.com:emacsmirror/relax.git
-[submodule "relocate-page"]
-	path = attic/relocate-page
-	url = git@github.com:emacsattic/relocate-page.git
-[submodule "remap-del-key"]
-	path = attic/remap-del-key
-	url = git@github.com:emacsattic/remap-del-key.git
 [submodule "remap-parens"]
 	path = attic/remap-parens
 	url = git@github.com:emacsattic/remap-parens.git
@@ -15123,9 +15036,6 @@
 	path = mirror/restclient-test
 	url = git@github.com:emacsmirror/restclient-test.git
 	branch = master
-[submodule "restorebuffer"]
-	path = attic/restorebuffer
-	url = git@github.com:emacsattic/restorebuffer.git
 [submodule "revbufs"]
 	path = attic/revbufs
 	url = git@github.com:emacsattic/revbufs.git
@@ -15162,9 +15072,6 @@
 	path = mirror/reykjavik-theme
 	url = git@github.com:emacsmirror/reykjavik-theme.git
 	branch = master
-[submodule "rf-vm"]
-	path = attic/rf-vm
-	url = git@github.com:emacsattic/rf-vm.git
 [submodule "rfc"]
 	path = mirror/rfc
 	url = git@github.com:emacsmirror/rfc.git
@@ -15491,9 +15398,6 @@
 [submodule "save-and-dwim"]
 	path = mirror/save-and-dwim
 	url = git@github.com:emacsmirror/save-and-dwim.git
-[submodule "save-emacs-state"]
-	path = attic/save-emacs-state
-	url = git@github.com:emacsattic/save-emacs-state.git
 [submodule "save-history"]
 	path = attic/save-history
 	url = git@github.com:emacsattic/save-history.git
@@ -15516,9 +15420,6 @@
 [submodule "save-visited-files"]
 	path = mirror/save-visited-files
 	url = git@github.com:emacsmirror/save-visited-files.git
-[submodule "savebuffer"]
-	path = attic/savebuffer
-	url = git@github.com:emacsattic/savebuffer.git
 [submodule "saveframes"]
 	path = attic/saveframes
 	url = git@github.com:emacsattic/saveframes.git
@@ -16586,9 +16487,6 @@
 [submodule "split-root"]
 	path = mirror/split-root
 	url = git@github.com:emacsmirror/split-root.git
-[submodule "split-screen"]
-	path = attic/split-screen
-	url = git@github.com:emacsattic/split-screen.git
 [submodule "split-window-multi"]
 	path = attic/split-window-multi
 	url = git@github.com:emacsattic/split-window-multi.git
@@ -16762,9 +16660,6 @@
 [submodule "status"]
 	path = mirror/status
 	url = git@github.com:emacsmirror/status.git
-[submodule "status-table"]
-	path = attic/status-table
-	url = git@github.com:emacsattic/status-table.git
 [submodule "steam"]
 	path = mirror/steam
 	url = git@github.com:emacsmirror/steam.git
@@ -17097,18 +16992,12 @@
 [submodule "sys"]
 	path = mirror/sys
 	url = git@github.com:emacsmirror/sys.git
-[submodule "sysadmin"]
-	path = attic/sysadmin
-	url = git@github.com:emacsattic/sysadmin.git
 [submodule "syslog"]
 	path = attic/syslog
 	url = git@github.com:emacsattic/syslog.git
 [submodule "syslog-mode"]
 	path = mirror/syslog-mode
 	url = git@github.com:emacsmirror/syslog-mode.git
-[submodule "system-names"]
-	path = attic/system-names
-	url = git@github.com:emacsattic/system-names.git
 [submodule "system-packages"]
 	path = mirror/system-packages
 	url = git@github.com:emacsmirror/system-packages.git
@@ -17349,9 +17238,6 @@
 [submodule "template-simple"]
 	path = mirror/template-simple
 	url = git@github.com:emacsmirror/template-simple.git
-[submodule "templated-page"]
-	path = attic/templated-page
-	url = git@github.com:emacsattic/templated-page.git
 [submodule "tempo-c-cpp"]
 	path = mirror/tempo-c-cpp
 	url = git@github.com:emacsmirror/tempo-c-cpp.git
@@ -18284,9 +18170,6 @@
 [submodule "uuidgen"]
 	path = mirror/uuidgen
 	url = git@github.com:emacsmirror/uuidgen.git
-[submodule "uuinsert"]
-	path = attic/uuinsert
-	url = git@github.com:emacsattic/uuinsert.git
 [submodule "uzumaki"]
 	path = mirror/uzumaki
 	url = git@github.com:emacsmirror/uzumaki.git
@@ -18509,9 +18392,6 @@
 [submodule "vlog-mode"]
 	path = attic/vlog-mode
 	url = git@github.com:emacsattic/vlog-mode.git
-[submodule "vls"]
-	path = attic/vls
-	url = git@github.com:emacsattic/vls.git
 [submodule "vm"]
 	path = mirror/vm
 	url = git@github.com:emacsmirror/vm.git
@@ -18760,9 +18640,6 @@
 	path = mirror/weblogger
 	url = git@github.com:emacsmirror/weblogger.git
 	branch = master
-[submodule "webmaster-macros"]
-	path = attic/webmaster-macros
-	url = git@github.com:emacsattic/webmaster-macros.git
 [submodule "webpaste"]
 	path = mirror/webpaste
 	url = git@github.com:emacsmirror/webpaste.git
@@ -19484,9 +19361,9 @@
 [submodule "yesql-ghosts"]
 	path = mirror/yesql-ghosts
 	url = git@github.com:emacsmirror/yesql-ghosts.git
-[submodule "yodel"]
-	path = attic/yodel
-	url = git@github.com:emacsattic/yodel.git
+[submodule "yod"]
+	path = attic/yod
+	url = git@github.com:emacsattic/yod.git
 [submodule "yoshi-theme"]
 	path = mirror/yoshi-theme
 	url = git@github.com:emacsmirror/yoshi-theme.git
