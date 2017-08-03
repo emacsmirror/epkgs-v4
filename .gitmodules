@@ -8691,6 +8691,9 @@
 [submodule "ido-complete-space-or-hyphen"]
 	path = mirror/ido-complete-space-or-hyphen
 	url = git@github.com:emacsmirror/ido-complete-space-or-hyphen.git
+[submodule "ido-completing-read+"]
+	path = mirror/ido-completing-read+
+	url = git@github.com:emacsmirror/ido-completing-read-plus.git
 [submodule "ido-describe-bindings"]
 	path = mirror/ido-describe-bindings
 	url = git@github.com:emacsmirror/ido-describe-bindings.git
@@ -8735,9 +8738,6 @@
 [submodule "ido-sort-mtime"]
 	path = mirror/ido-sort-mtime
 	url = git@github.com:emacsmirror/ido-sort-mtime.git
-[submodule "ido-ubiquitous"]
-	path = mirror/ido-ubiquitous
-	url = git@github.com:emacsmirror/ido-ubiquitous.git
 [submodule "ido-vertical-mode"]
 	path = mirror/ido-vertical-mode
 	url = git@github.com:emacsmirror/ido-vertical-mode.git
