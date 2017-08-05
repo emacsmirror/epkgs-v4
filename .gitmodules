@@ -11920,7 +11920,6 @@
 [submodule "no-littering"]
 	path = mirror/no-littering
 	url = git@github.com:emacsmirror/no-littering.git
-	branch = master
 [submodule "no-word"]
 	path = mirror/no-word
 	url = git@github.com:emacsmirror/no-word.git
