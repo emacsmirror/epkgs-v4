@@ -5536,9 +5536,6 @@
 [submodule "factlog"]
 	path = mirror/factlog
 	url = git@github.com:emacsmirror/factlog.git
-[submodule "factor-mode"]
-	path = mirror/factor-mode
-	url = git@github.com:emacsmirror/factor-mode.git
 [submodule "faff-theme"]
 	path = mirror/faff-theme
 	url = git@github.com:emacsmirror/faff-theme.git
