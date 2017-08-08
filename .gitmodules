@@ -1909,6 +1909,9 @@
 [submodule "cff"]
 	path = mirror/cff
 	url = git@github.com:emacsmirror/cff.git
+[submodule "cfml-mode"]
+	path = mirror/cfml-mode
+	url = git@github.com:emacsmirror/cfml-mode.git
 [submodule "cfs"]
 	path = attic/cfs
 	url = git@github.com:emacsattic/cfs.git
@@ -6133,6 +6136,9 @@
 	path = mirror/flycheck-pony
 	url = git@github.com:emacsmirror/flycheck-pony.git
 	branch = master
+[submodule "flycheck-popup-tip"]
+	path = mirror/flycheck-popup-tip
+	url = git@github.com:emacsmirror/flycheck-popup-tip.git
 [submodule "flycheck-pos-tip"]
 	path = mirror/flycheck-pos-tip
 	url = git@github.com:emacsmirror/flycheck-pos-tip.git
@@ -6553,6 +6559,9 @@
 [submodule "ftnchek"]
 	path = attic/ftnchek
 	url = git@github.com:emacsattic/ftnchek.git
+[submodule "fuel"]
+	path = mirror/fuel
+	url = git@github.com:emacsmirror/fuel.git
 [submodule "fuff"]
 	path = mirror/fuff
 	url = git@github.com:emacsmirror/fuff.git
@@ -7907,6 +7916,9 @@
 [submodule "helm-kythe"]
 	path = mirror/helm-kythe
 	url = git@github.com:emacsmirror/helm-kythe.git
+[submodule "helm-lastpass"]
+	path = mirror/helm-lastpass
+	url = git@github.com:emacsmirror/helm-lastpass.git
 [submodule "helm-lobsters"]
 	path = mirror/helm-lobsters
 	url = git@github.com:emacsmirror/helm-lobsters.git
@@ -9647,6 +9659,9 @@
 [submodule "jump-to-line"]
 	path = mirror/jump-to-line
 	url = git@github.com:emacsmirror/jump-to-line.git
+[submodule "jump-tree"]
+	path = mirror/jump-tree
+	url = git@github.com:emacsmirror/jump-tree.git
 [submodule "jumpc"]
 	path = mirror/jumpc
 	url = git@github.com:emacsmirror/jumpc.git
@@ -9668,6 +9683,9 @@
 [submodule "kakapo-mode"]
 	path = mirror/kakapo-mode
 	url = git@github.com:emacsmirror/kakapo-mode.git
+[submodule "kaleidoscope"]
+	path = mirror/kaleidoscope
+	url = git@github.com:emacsmirror/kaleidoscope.git
 [submodule "kanban"]
 	path = mirror/kanban
 	url = git@github.com:emacsmirror/kanban.git
@@ -12989,6 +13007,9 @@
 [submodule "outline-magic"]
 	path = mirror/outline-magic
 	url = git@github.com:emacsmirror/outline-magic.git
+[submodule "outline-toc"]
+	path = mirror/outline-toc
+	url = git@github.com:emacsmirror/outline-toc.git
 [submodule "outline-wiki"]
 	path = mirror/outline-wiki
 	url = git@github.com:emacsmirror/outline-wiki.git
@@ -18235,6 +18256,9 @@
 [submodule "vc-mks"]
 	path = mirror/vc-mks
 	url = git@github.com:emacsmirror/vc-mks.git
+[submodule "vc-msg"]
+	path = mirror/vc-msg
+	url = git@github.com:emacsmirror/vc-msg.git
 [submodule "vc-osc"]
 	path = mirror/vc-osc
 	url = git@github.com:emacsmirror/vc-osc.git
@@ -18837,6 +18861,9 @@
 [submodule "windsize"]
 	path = mirror/windsize
 	url = git@github.com:emacsmirror/windsize.git
+[submodule "windwow"]
+	path = mirror/windwow
+	url = git@github.com:emacsmirror/windwow.git
 [submodule "winhist"]
 	path = attic/winhist
 	url = git@github.com:emacsattic/winhist.git
@@ -19419,6 +19446,9 @@
 	path = mirror/zenity-color-picker
 	url = git@github.com:emacsmirror/zenity-color-picker.git
 	branch = master
+[submodule "zephir-mode"]
+	path = mirror/zephir-mode
+	url = git@github.com:emacsmirror/zephir-mode.git
 [submodule "zerodark-theme"]
 	path = mirror/zerodark-theme
 	url = git@github.com:emacsmirror/zerodark-theme.git
