@@ -12866,9 +12866,6 @@
 [submodule "org-wc"]
 	path = mirror/org-wc
 	url = git@github.com:emacsmirror/org-wc.git
-[submodule "org-webpage"]
-	path = mirror/org-webpage
-	url = git@github.com:emacsmirror/org-webpage.git
 [submodule "org-website"]
 	path = attic/org-website
 	url = git@github.com:emacsattic/org-website.git
@@ -12892,6 +12889,9 @@
 [submodule "org2jekyll"]
 	path = mirror/org2jekyll
 	url = git@github.com:emacsmirror/org2jekyll.git
+[submodule "org2web"]
+	path = mirror/org2web
+	url = git@github.com:emacsmirror/org2web.git
 [submodule "organic-green-theme"]
 	path = mirror/organic-green-theme
 	url = git@github.com:emacsmirror/organic-green-theme.git
