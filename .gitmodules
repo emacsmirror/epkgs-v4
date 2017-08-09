@@ -3797,6 +3797,9 @@
 	path = mirror/dot-mode
 	url = git@github.com:emacsmirror/dot-mode.git
 	branch = master
+[submodule "dotnet"]
+	path = mirror/dotnet
+	url = git@github.com:emacsmirror/dotnet.git
 [submodule "download-region"]
 	path = mirror/download-region
 	url = git@github.com:emacsmirror/download-region.git
@@ -5435,6 +5438,9 @@
 [submodule "exim"]
 	path = mirror/exim
 	url = git@github.com:emacsmirror/exim.git
+[submodule "exotica-theme"]
+	path = mirror/exotica-theme
+	url = git@github.com:emacsmirror/exotica-theme.git
 [submodule "expand-line"]
 	path = mirror/expand-line
 	url = git@github.com:emacsmirror/expand-line.git
@@ -8326,6 +8332,9 @@
 [submodule "himarks-mode"]
 	path = mirror/himarks-mode
 	url = git@github.com:emacsmirror/himarks-mode.git
+[submodule "himp"]
+	path = mirror/himp
+	url = git@github.com:emacsmirror/himp.git
 [submodule "hindent"]
 	path = mirror/hindent
 	url = git@github.com:emacsmirror/hindent.git
