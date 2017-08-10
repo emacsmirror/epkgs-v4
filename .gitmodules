@@ -17587,8 +17587,8 @@
 	path = mirror/tldr
 	url = git@github.com:emacsmirror/tldr.git
 [submodule "tlh-util"]
-	path = mirror/tlh-util
-	url = git@github.com:emacsmirror/tlh-util.git
+	path = attic/tlh-util
+	url = git@github.com:emacsattic/tlh-util.git
 [submodule "tm-vcard"]
 	path = attic/tm-vcard
 	url = git@github.com:emacsattic/tm-vcard.git
