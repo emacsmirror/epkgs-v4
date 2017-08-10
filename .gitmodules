@@ -9961,10 +9961,6 @@
 [submodule "latch"]
 	path = mirror/latch
 	url = git@github.com:emacsmirror/latch.git
-[submodule "latest-clojure-libraries"]
-	path = attic/latest-clojure-libraries
-	url = git@github.com:emacsattic/latest-clojure-libraries.git
-	branch = master
 [submodule "latex-doc"]
 	path = attic/latex-doc
 	url = git@github.com:emacsattic/latex-doc.git
