@@ -18248,7 +18248,6 @@
 [submodule "vc-fossil"]
 	path = mirror/vc-fossil
 	url = git@github.com:emacsmirror/vc-fossil.git
-	branch = master
 [submodule "vc-hooks+"]
 	path = mirror/vc-hooks+
 	url = git@github.com:emacsmirror/vc-hooks-plus.git
