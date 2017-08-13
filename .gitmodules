@@ -417,6 +417,9 @@
 	path = mirror/ample-zen-theme
 	url = git@github.com:emacsmirror/ample-zen-theme.git
 	branch = master
+[submodule "amx"]
+	path = mirror/amx
+	url = git@github.com:emacsmirror/amx.git
 [submodule "anaconda-mode"]
 	path = mirror/anaconda-mode
 	url = git@github.com:emacsmirror/anaconda-mode.git
@@ -2574,6 +2577,9 @@
 [submodule "company-tern"]
 	path = mirror/company-tern
 	url = git@github.com:emacsmirror/company-tern.git
+[submodule "company-terraform"]
+	path = mirror/company-terraform
+	url = git@github.com:emacsmirror/company-terraform.git
 [submodule "company-try-hard"]
 	path = mirror/company-try-hard
 	url = git@github.com:emacsmirror/company-try-hard.git
@@ -7598,6 +7604,9 @@
 	path = mirror/hasky-extensions
 	url = git@github.com:emacsmirror/hasky-extensions.git
 	branch = master
+[submodule "hasky-stack"]
+	path = mirror/hasky-stack
+	url = git@github.com:emacsmirror/hasky-stack.git
 [submodule "haste"]
 	path = mirror/haste
 	url = git@github.com:emacsmirror/haste.git
@@ -8267,6 +8276,9 @@
 [submodule "highlight-escape-sequences"]
 	path = mirror/highlight-escape-sequences
 	url = git@github.com:emacsmirror/highlight-escape-sequences.git
+[submodule "highlight-function-calls"]
+	path = mirror/highlight-function-calls
+	url = git@github.com:emacsmirror/highlight-function-calls.git
 [submodule "highlight-indent-guides"]
 	path = mirror/highlight-indent-guides
 	url = git@github.com:emacsmirror/highlight-indent-guides.git
@@ -12145,6 +12157,9 @@
 [submodule "ob-coffeescript"]
 	path = mirror/ob-coffeescript
 	url = git@github.com:emacsmirror/ob-coffeescript.git
+[submodule "ob-crystal"]
+	path = mirror/ob-crystal
+	url = git@github.com:emacsmirror/ob-crystal.git
 [submodule "ob-cypher"]
 	path = mirror/ob-cypher
 	url = git@github.com:emacsmirror/ob-cypher.git
@@ -15146,6 +15161,9 @@
 [submodule "rijndael"]
 	path = mirror/rijndael
 	url = git@github.com:emacsmirror/rijndael.git
+[submodule "rimero-theme"]
+	path = mirror/rimero-theme
+	url = git@github.com:emacsmirror/rimero-theme.git
 [submodule "rinari"]
 	path = mirror/rinari
 	url = git@github.com:emacsmirror/rinari.git
@@ -15906,6 +15924,9 @@
 	path = mirror/shr-tag-pre-highlight
 	url = git@github.com:emacsmirror/shr-tag-pre-highlight.git
 	branch = master
+[submodule "shrink-path"]
+	path = mirror/shrink-path
+	url = git@github.com:emacsmirror/shrink-path.git
 [submodule "shrink-whitespace"]
 	path = mirror/shrink-whitespace
 	url = git@github.com:emacsmirror/shrink-whitespace.git
@@ -19356,6 +19377,9 @@
 	path = mirror/yasnippet
 	url = git@github.com:emacsmirror/yasnippet.git
 	branch = master
+[submodule "yasnippet-snippets"]
+	path = mirror/yasnippet-snippets
+	url = git@github.com:emacsmirror/yasnippet-snippets.git
 [submodule "yatemplate"]
 	path = mirror/yatemplate
 	url = git@github.com:emacsmirror/yatemplate.git
