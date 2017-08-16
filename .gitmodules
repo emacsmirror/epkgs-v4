@@ -16161,10 +16161,6 @@
 [submodule "sm-c-mode"]
 	path = mirror/sm-c-mode
 	url = git@github.com:emacsmirror/sm-c-mode.git
-[submodule "smali-mode"]
-	path = mirror/smali-mode
-	url = git@github.com:emacsmirror/smali-mode.git
-	branch = master
 [submodule "smallurl"]
 	path = mirror/smallurl
 	url = git@github.com:emacsmirror/smallurl.git
