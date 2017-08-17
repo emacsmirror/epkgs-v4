@@ -10423,8 +10423,8 @@
 	path = mirror/lookout
 	url = git@github.com:emacsmirror/lookout.git
 [submodule "lookup"]
-	path = attic/lookup
-	url = git@github.com:emacsattic/lookup.git
+	path = mirror/lookup
+	url = git@github.com:emacsmirror/lookup.git
 [submodule "loop"]
 	path = mirror/loop
 	url = git@github.com:emacsmirror/loop.git
