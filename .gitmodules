@@ -2700,6 +2700,9 @@
 [submodule "copy-directory"]
 	path = attic/copy-directory
 	url = git@github.com:emacsattic/copy-directory.git
+[submodule "copy-file-on-save"]
+	path = mirror/copy-file-on-save
+	url = git@github.com:emacsmirror/copy-file-on-save.git
 [submodule "copy-from-surrounding-lines"]
 	path = attic/copy-from-surrounding-lines
 	url = git@github.com:emacsattic/copy-from-surrounding-lines.git
@@ -12356,6 +12359,9 @@
 [submodule "old-fashioned-undo"]
 	path = mirror/old-fashioned-undo
 	url = git@github.com:emacsmirror/old-fashioned-undo.git
+[submodule "old-norse-input"]
+	path = mirror/old-norse-input
+	url = git@github.com:emacsmirror/old-norse-input.git
 [submodule "oldlace-theme"]
 	path = mirror/oldlace-theme
 	url = git@github.com:emacsmirror/oldlace-theme.git
@@ -12708,6 +12714,9 @@
 	path = mirror/org-mime
 	url = git@github.com:emacsmirror/org-mime.git
 	branch = master
+[submodule "org-mind-map"]
+	path = mirror/org-mind-map
+	url = git@github.com:emacsmirror/org-mind-map.git
 [submodule "org-mobile-sync"]
 	path = mirror/org-mobile-sync
 	url = git@github.com:emacsmirror/org-mobile-sync.git
