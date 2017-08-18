@@ -566,7 +566,6 @@
 [submodule "apel"]
 	path = mirror/apel
 	url = git@github.com:emacsmirror/apel.git
-	branch = master
 [submodule "apib-mode"]
 	path = mirror/apib-mode
 	url = git@github.com:emacsmirror/apib-mode.git
@@ -5933,7 +5932,6 @@
 [submodule "flim"]
 	path = mirror/flim
 	url = git@github.com:emacsmirror/flim.git
-	branch = master
 [submodule "flimenu"]
 	path = mirror/flimenu
 	url = git@github.com:emacsmirror/flimenu.git
@@ -15684,7 +15682,6 @@
 [submodule "semi"]
 	path = mirror/semi
 	url = git@github.com:emacsmirror/semi.git
-	branch = master
 [submodule "semibalanced"]
 	path = attic/semibalanced
 	url = git@github.com:emacsattic/semibalanced.git
@@ -18566,7 +18563,6 @@
 [submodule "wanderlust"]
 	path = mirror/wanderlust
 	url = git@github.com:emacsmirror/wanderlust.git
-	branch = master
 [submodule "warlord"]
 	path = attic/warlord
 	url = git@github.com:emacsattic/warlord.git
