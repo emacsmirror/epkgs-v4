@@ -10458,7 +10458,6 @@
 [submodule "lsdb"]
 	path = mirror/lsdb
 	url = git@github.com:emacsmirror/lsdb.git
-	branch = master
 [submodule "lsl-mode"]
 	path = attic/lsl-mode
 	url = git@github.com:emacsattic/lsl-mode.git
