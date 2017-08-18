@@ -11885,10 +11885,6 @@
 	path = mirror/niconama
 	url = git@github.com:emacsmirror/niconama.git
 	branch = master
-[submodule "niflheim-theme"]
-	path = mirror/niflheim-theme
-	url = git@github.com:emacsmirror/niflheim-theme.git
-	branch = master
 [submodule "nikola"]
 	path = mirror/nikola
 	url = git@github.com:emacsmirror/nikola.git
