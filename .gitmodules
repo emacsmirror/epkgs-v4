@@ -16924,7 +16924,6 @@
 [submodule "swbuff"]
 	path = mirror/swbuff
 	url = git@github.com:emacsmirror/swbuff.git
-	branch = master
 [submodule "swbuff-advice"]
 	path = attic/swbuff-advice
 	url = git@github.com:emacsattic/swbuff-advice.git
