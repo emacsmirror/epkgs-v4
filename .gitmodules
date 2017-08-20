@@ -10317,8 +10317,8 @@
 	path = mirror/live-py-mode
 	url = git@github.com:emacsmirror/live-py-mode.git
 [submodule "lively"]
-	path = mirror/lively
-	url = git@github.com:emacsmirror/lively.git
+	path = attic/lively
+	url = git@github.com:emacsattic/lively.git
 [submodule "livereload"]
 	path = mirror/livereload
 	url = git@github.com:emacsmirror/livereload.git
