@@ -10302,8 +10302,8 @@
 	path = mirror/live-py-mode
 	url = git@github.com:emacsmirror/live-py-mode.git
 [submodule "lively"]
-	path = attic/lively
-	url = git@github.com:emacsattic/lively.git
+	path = mirror/lively
+	url = git@github.com:emacsmirror/lively.git
 [submodule "livereload"]
 	path = mirror/livereload
 	url = git@github.com:emacsmirror/livereload.git
@@ -13330,9 +13330,6 @@
 	path = mirror/pastelmac-theme
 	url = git@github.com:emacsmirror/pastelmac-theme.git
 	branch = master
-[submodule "pastels-on-dark-theme"]
-	path = mirror/pastels-on-dark-theme
-	url = git@github.com:emacsmirror/pastels-on-dark-theme.git
 [submodule "pastery"]
 	path = mirror/pastery
 	url = git@github.com:emacsmirror/pastery.git
