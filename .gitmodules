@@ -1014,10 +1014,6 @@
 [submodule "avenue-mode"]
 	path = mirror/avenue-mode
 	url = git@github.com:emacsmirror/avenue-mode.git
-[submodule "avk-emacs-themes"]
-	path = mirror/avk-emacs-themes
-	url = git@github.com:emacsmirror/avk-emacs-themes.git
-	branch = master
 [submodule "avmmf"]
 	path = mirror/avmmf
 	url = git@github.com:emacsmirror/avmmf.git
@@ -3130,10 +3126,6 @@
 [submodule "dark-souls"]
 	path = mirror/dark-souls
 	url = git@github.com:emacsmirror/dark-souls.git
-[submodule "darkane-theme"]
-	path = mirror/darkane-theme
-	url = git@github.com:emacsmirror/darkane-theme.git
-	branch = master
 [submodule "darkburn-theme"]
 	path = mirror/darkburn-theme
 	url = git@github.com:emacsmirror/darkburn-theme.git
@@ -5832,10 +5824,6 @@
 [submodule "fiplr"]
 	path = mirror/fiplr
 	url = git@github.com:emacsmirror/fiplr.git
-[submodule "firebelly-theme"]
-	path = mirror/firebelly-theme
-	url = git@github.com:emacsmirror/firebelly-theme.git
-	branch = master
 [submodule "firecode-theme"]
 	path = mirror/firecode-theme
 	url = git@github.com:emacsmirror/firecode-theme.git
@@ -13339,10 +13327,6 @@
 	path = mirror/pastelmac-theme
 	url = git@github.com:emacsmirror/pastelmac-theme.git
 	branch = master
-[submodule "pastels-on-dark-theme"]
-	path = mirror/pastels-on-dark-theme
-	url = git@github.com:emacsmirror/pastels-on-dark-theme.git
-	branch = master
 [submodule "pastery"]
 	path = mirror/pastery
 	url = git@github.com:emacsmirror/pastery.git
@@ -17804,10 +17788,6 @@
 [submodule "trindle"]
 	path = mirror/trindle
 	url = git@github.com:emacsmirror/trindle.git
-[submodule "tronesque-theme"]
-	path = mirror/tronesque-theme
-	url = git@github.com:emacsmirror/tronesque-theme.git
-	branch = master
 [submodule "trr"]
 	path = mirror/trr
 	url = git@github.com:emacsmirror/trr.git
