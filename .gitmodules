@@ -13023,6 +13023,9 @@
 	path = mirror/outorg
 	url = git@github.com:emacsmirror/outorg.git
 	branch = master
+[submodule "outrespace"]
+	path = mirror/outrespace
+	url = git@github.com:emacsmirror/outrespace.git
 [submodule "outshine"]
 	path = mirror/outshine
 	url = git@github.com:emacsmirror/outshine.git
@@ -13327,6 +13330,9 @@
 	path = mirror/pastelmac-theme
 	url = git@github.com:emacsmirror/pastelmac-theme.git
 	branch = master
+[submodule "pastels-on-dark-theme"]
+	path = mirror/pastels-on-dark-theme
+	url = git@github.com:emacsmirror/pastels-on-dark-theme.git
 [submodule "pastery"]
 	path = mirror/pastery
 	url = git@github.com:emacsmirror/pastery.git
@@ -14557,6 +14563,9 @@
 	path = mirror/quiet
 	url = git@github.com:emacsmirror/quiet.git
 	branch = master
+[submodule "quiz"]
+	path = mirror/quiz
+	url = git@github.com:emacsmirror/quiz.git
 [submodule "quotes"]
 	path = attic/quotes
 	url = git@github.com:emacsattic/quotes.git
