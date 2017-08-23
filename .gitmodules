@@ -1864,9 +1864,6 @@
 [submodule "cdt"]
 	path = attic/cdt
 	url = git@github.com:emacsattic/cdt.git
-[submodule "ce"]
-	path = mirror/ce
-	url = git@github.com:emacsmirror/ce.git
 [submodule "cedit"]
 	path = mirror/cedit
 	url = git@github.com:emacsmirror/cedit.git
