@@ -1822,6 +1822,9 @@
 [submodule "catdoc"]
 	path = attic/catdoc
 	url = git@github.com:emacsattic/catdoc.git
+[submodule "catmacs"]
+	path = mirror/catmacs
+	url = git@github.com:emacsmirror/catmacs.git
 [submodule "cbm"]
 	path = mirror/cbm
 	url = git@github.com:emacsmirror/cbm.git
@@ -13646,6 +13649,9 @@
 [submodule "php-refactor-mode"]
 	path = mirror/php-refactor-mode
 	url = git@github.com:emacsmirror/php-refactor-mode.git
+[submodule "php-runtime"]
+	path = mirror/php-runtime
+	url = git@github.com:emacsmirror/php-runtime.git
 [submodule "php-scratch"]
 	path = mirror/php-scratch
 	url = git@github.com:emacsmirror/php-scratch.git
@@ -19060,6 +19066,9 @@
 [submodule "x-symbol"]
 	path = attic/x-symbol
 	url = git@github.com:emacsattic/x-symbol.git
+[submodule "x509-mode"]
+	path = mirror/x509-mode
+	url = git@github.com:emacsmirror/x509-mode.git
 [submodule "x86-lookup"]
 	path = mirror/x86-lookup
 	url = git@github.com:emacsmirror/x86-lookup.git
