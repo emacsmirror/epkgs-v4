@@ -562,7 +562,6 @@
 [submodule "apache-mode"]
 	path = mirror/apache-mode
 	url = git@github.com:emacsmirror/apache-mode.git
-	branch = master
 [submodule "apel"]
 	path = mirror/apel
 	url = git@github.com:emacsmirror/apel.git
@@ -2624,7 +2623,6 @@
 [submodule "composer"]
 	path = mirror/composer
 	url = git@github.com:emacsmirror/composer.git
-	branch = master
 [submodule "conda"]
 	path = mirror/conda
 	url = git@github.com:emacsmirror/conda.git
@@ -3179,10 +3177,6 @@
 [submodule "datetime"]
 	path = mirror/datetime
 	url = git@github.com:emacsmirror/datetime.git
-	branch = master
-[submodule "datetime-format"]
-	path = mirror/datetime-format
-	url = git@github.com:emacsmirror/datetime-format.git
 	branch = master
 [submodule "datomic-snippets"]
 	path = mirror/datomic-snippets
@@ -13575,7 +13569,6 @@
 [submodule "phan"]
 	path = mirror/phan
 	url = git@github.com:emacsmirror/phan.git
-	branch = master
 [submodule "phantomjs"]
 	path = mirror/phantomjs
 	url = git@github.com:emacsmirror/phantomjs.git
@@ -14151,7 +14144,6 @@
 [submodule "projectile-variable"]
 	path = mirror/projectile-variable
 	url = git@github.com:emacsmirror/projectile-variable.git
-	branch = master
 [submodule "projector"]
 	path = mirror/projector
 	url = git@github.com:emacsmirror/projector.git
@@ -15211,7 +15203,6 @@
 [submodule "robots-txt-mode"]
 	path = mirror/robots-txt-mode
 	url = git@github.com:emacsmirror/robots-txt-mode.git
-	branch = master
 [submodule "roguel-ike"]
 	path = mirror/roguel-ike
 	url = git@github.com:emacsmirror/roguel-ike.git
