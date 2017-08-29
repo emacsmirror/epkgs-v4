@@ -7345,6 +7345,9 @@
 [submodule "grc"]
 	path = mirror/grc
 	url = git@github.com:emacsmirror/grc.git
+[submodule "green-is-the-new-black-theme"]
+	path = mirror/green-is-the-new-black-theme
+	url = git@github.com:emacsmirror/green-is-the-new-black-theme.git
 [submodule "green-phosphor-theme"]
 	path = mirror/green-phosphor-theme
 	url = git@github.com:emacsmirror/green-phosphor-theme.git
@@ -16305,6 +16308,9 @@
 	path = mirror/snapshot-timemachine-rsnapshot
 	url = git@github.com:emacsmirror/snapshot-timemachine-rsnapshot.git
 	branch = master
+[submodule "snazzy-theme"]
+	path = mirror/snazzy-theme
+	url = git@github.com:emacsmirror/snazzy-theme.git
 [submodule "snippet"]
 	path = mirror/snippet
 	url = git@github.com:emacsmirror/snippet.git
