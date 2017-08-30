@@ -3178,6 +3178,9 @@
 	path = mirror/datetime
 	url = git@github.com:emacsmirror/datetime.git
 	branch = master
+[submodule "datetime-format"]
+	path = mirror/datetime-format
+	url = git@github.com:emacsmirror/datetime-format.git
 [submodule "datomic-snippets"]
 	path = mirror/datomic-snippets
 	url = git@github.com:emacsmirror/datomic-snippets.git
