@@ -618,7 +618,6 @@
 [submodule "arch-packer"]
 	path = mirror/arch-packer
 	url = git@github.com:emacsmirror/arch-packer.git
-	branch = master
 [submodule "archie"]
 	path = attic/archie
 	url = git@github.com:emacsattic/archie.git
@@ -8122,7 +8121,6 @@
 [submodule "helm-xref"]
 	path = mirror/helm-xref
 	url = git@github.com:emacsmirror/helm-xref.git
-	branch = master
 [submodule "helm-youtube"]
 	path = mirror/helm-youtube
 	url = git@github.com:emacsmirror/helm-youtube.git
@@ -13739,7 +13737,6 @@
 [submodule "pippel"]
 	path = mirror/pippel
 	url = git@github.com:emacsmirror/pippel.git
-	branch = master
 [submodule "pivotal-tracker"]
 	path = mirror/pivotal-tracker
 	url = git@github.com:emacsmirror/pivotal-tracker.git
