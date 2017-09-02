@@ -5577,6 +5577,9 @@
 [submodule "faust-mode"]
 	path = mirror/faust-mode
 	url = git@github.com:emacsmirror/faust-mode.git
+[submodule "faustine"]
+	path = mirror/faustine
+	url = git@github.com:emacsmirror/faustine.git
 [submodule "fc"]
 	path = attic/fc
 	url = git@github.com:emacsattic/fc.git
@@ -12141,6 +12144,9 @@
 [submodule "ob-cypher"]
 	path = mirror/ob-cypher
 	url = git@github.com:emacsmirror/ob-cypher.git
+[submodule "ob-dao"]
+	path = mirror/ob-dao
+	url = git@github.com:emacsmirror/ob-dao.git
 [submodule "ob-dart"]
 	path = mirror/ob-dart
 	url = git@github.com:emacsmirror/ob-dart.git
@@ -18644,6 +18650,9 @@
 	path = mirror/web-narrow-mode
 	url = git@github.com:emacsmirror/web-narrow-mode.git
 	branch = master
+[submodule "web-search"]
+	path = mirror/web-search
+	url = git@github.com:emacsmirror/web-search.git
 [submodule "web-server"]
 	path = mirror/web-server
 	url = git@github.com:emacsmirror/web-server.git
