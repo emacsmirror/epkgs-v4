@@ -1908,6 +1908,9 @@
 [submodule "cfml-mode"]
 	path = mirror/cfml-mode
 	url = git@github.com:emacsmirror/cfml-mode.git
+[submodule "cframe"]
+	path = mirror/cframe
+	url = git@github.com:emacsmirror/cframe.git
 [submodule "cfs"]
 	path = attic/cfs
 	url = git@github.com:emacsattic/cfs.git
@@ -3536,6 +3539,9 @@
 [submodule "dired-sequence"]
 	path = mirror/dired-sequence
 	url = git@github.com:emacsmirror/dired-sequence.git
+[submodule "dired-sidebar"]
+	path = mirror/dired-sidebar
+	url = git@github.com:emacsmirror/dired-sidebar.git
 [submodule "dired-single"]
 	path = mirror/dired-single
 	url = git@github.com:emacsmirror/dired-single.git
@@ -7654,6 +7660,9 @@
 [submodule "helm-ad"]
 	path = mirror/helm-ad
 	url = git@github.com:emacsmirror/helm-ad.git
+[submodule "helm-addressbook"]
+	path = mirror/helm-addressbook
+	url = git@github.com:emacsmirror/helm-addressbook.git
 [submodule "helm-ag"]
 	path = mirror/helm-ag
 	url = git@github.com:emacsmirror/helm-ag.git
@@ -9268,6 +9277,9 @@
 	path = mirror/ivy-erlang-complete
 	url = git@github.com:emacsmirror/ivy-erlang-complete.git
 	branch = master
+[submodule "ivy-lobsters"]
+	path = mirror/ivy-lobsters
+	url = git@github.com:emacsmirror/ivy-lobsters.git
 [submodule "ivy-pages"]
 	path = mirror/ivy-pages
 	url = git@github.com:emacsmirror/ivy-pages.git
