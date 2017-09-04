@@ -13024,8 +13024,8 @@
 	path = attic/outline-m
 	url = git@github.com:emacsattic/outline-m.git
 [submodule "outline-magic"]
-	path = mirror/outline-magic
-	url = git@github.com:emacsmirror/outline-magic.git
+	path = attic/outline-magic
+	url = git@github.com:emacsattic/outline-magic.git
 [submodule "outline-toc"]
 	path = mirror/outline-toc
 	url = git@github.com:emacsmirror/outline-toc.git
