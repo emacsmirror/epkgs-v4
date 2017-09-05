@@ -5953,8 +5953,8 @@
 	path = mirror/flowtimer
 	url = git@github.com:emacsmirror/flowtimer.git
 [submodule "fluiddb"]
-	path = mirror/fluiddb
-	url = git@github.com:emacsmirror/fluiddb.git
+	path = attic/fluiddb
+	url = git@github.com:emacsattic/fluiddb.git
 [submodule "fluxus-mode"]
 	path = mirror/fluxus-mode
 	url = git@github.com:emacsmirror/fluxus-mode.git
@@ -6648,8 +6648,8 @@
 	path = mirror/gaplay
 	url = git@github.com:emacsmirror/gaplay.git
 [submodule "garble"]
-	path = mirror/garble
-	url = git@github.com:emacsmirror/garble.git
+	path = attic/garble
+	url = git@github.com:emacsattic/garble.git
 	branch = master
 [submodule "gas-mode"]
 	path = attic/gas-mode
@@ -10038,8 +10038,8 @@
 	path = mirror/lazy-set-key
 	url = git@github.com:emacsmirror/lazy-set-key.git
 [submodule "lbdb"]
-	path = mirror/lbdb
-	url = git@github.com:emacsmirror/lbdb.git
+	path = attic/lbdb
+	url = git@github.com:emacsattic/lbdb.git
 	branch = master
 [submodule "lcb-mode"]
 	path = mirror/lcb-mode
@@ -11632,8 +11632,8 @@
 	path = mirror/mutant
 	url = git@github.com:emacsmirror/mutant.git
 [submodule "mutt-alias"]
-	path = mirror/mutt-alias
-	url = git@github.com:emacsmirror/mutt-alias.git
+	path = attic/mutt-alias
+	url = git@github.com:emacsattic/mutt-alias.git
 	branch = master
 [submodule "muttrc-mode"]
 	path = mirror/muttrc-mode
@@ -17602,8 +17602,8 @@
 	path = attic/tla-mode
 	url = git@github.com:emacsattic/tla-mode.git
 [submodule "tld"]
-	path = mirror/tld
-	url = git@github.com:emacsmirror/tld.git
+	path = attic/tld
+	url = git@github.com:emacsattic/tld.git
 	branch = master
 [submodule "tldr"]
 	path = mirror/tldr
@@ -17926,8 +17926,8 @@
 	url = git@github.com:emacsmirror/twilight-theme.git
 	branch = master
 [submodule "twit"]
-	path = mirror/twit
-	url = git@github.com:emacsmirror/twit.git
+	path = attic/twit
+	url = git@github.com:emacsattic/twit.git
 [submodule "twitel"]
 	path = attic/twitel
 	url = git@github.com:emacsattic/twitel.git
@@ -18678,8 +18678,8 @@
 	path = mirror/webgen-mode
 	url = git@github.com:emacsmirror/webgen-mode.git
 [submodule "webinfo"]
-	path = mirror/webinfo
-	url = git@github.com:emacsmirror/webinfo.git
+	path = attic/webinfo
+	url = git@github.com:emacsattic/webinfo.git
 	branch = master
 [submodule "webjump-plus"]
 	path = attic/webjump-plus
@@ -19052,8 +19052,8 @@
 	path = mirror/wsd-mode
 	url = git@github.com:emacsmirror/wsd-mode.git
 [submodule "wsh-repl"]
-	path = mirror/wsh-repl
-	url = git@github.com:emacsmirror/wsh-repl.git
+	path = attic/wsh-repl
+	url = git@github.com:emacsattic/wsh-repl.git
 [submodule "wtf"]
 	path = mirror/wtf
 	url = git@github.com:emacsmirror/wtf.git
