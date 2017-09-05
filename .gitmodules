@@ -1463,6 +1463,9 @@
 	path = mirror/borg
 	url = git@github.com:emacsmirror/borg.git
 	branch = master
+[submodule "borg-queen"]
+	path = mirror/borg-queen
+	url = git@github.com:emacsmirror/borg-queen.git
 [submodule "borland-blue-theme"]
 	path = mirror/borland-blue-theme
 	url = git@github.com:emacsmirror/borland-blue-theme.git
@@ -10538,6 +10541,9 @@
 [submodule "mac-pseudo-daemon"]
 	path = mirror/mac-pseudo-daemon
 	url = git@github.com:emacsmirror/mac-pseudo-daemon.git
+[submodule "maces-game"]
+	path = mirror/maces-game
+	url = git@github.com:emacsmirror/maces-game.git
 [submodule "macro-generate"]
 	path = attic/macro-generate
 	url = git@github.com:emacsattic/macro-generate.git
