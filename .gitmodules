@@ -1613,6 +1613,9 @@
 [submodule "buffer-utils"]
 	path = mirror/buffer-utils
 	url = git@github.com:emacsmirror/buffer-utils.git
+[submodule "buffer-watcher"]
+	path = mirror/buffer-watcher
+	url = git@github.com:emacsmirror/buffer-watcher.git
 [submodule "buffermenu"]
 	path = attic/buffermenu
 	url = git@github.com:emacsattic/buffermenu.git
@@ -2672,6 +2675,9 @@
 [submodule "contextual"]
 	path = mirror/contextual
 	url = git@github.com:emacsmirror/contextual.git
+[submodule "contextual-menubar"]
+	path = mirror/contextual-menubar
+	url = git@github.com:emacsmirror/contextual-menubar.git
 [submodule "contrast-color"]
 	path = mirror/contrast-color
 	url = git@github.com:emacsmirror/contrast-color.git
@@ -5283,6 +5289,9 @@
 [submodule "evil-leader"]
 	path = mirror/evil-leader
 	url = git@github.com:emacsmirror/evil-leader.git
+[submodule "evil-ledger"]
+	path = mirror/evil-ledger
+	url = git@github.com:emacsmirror/evil-ledger.git
 [submodule "evil-lion"]
 	path = mirror/evil-lion
 	url = git@github.com:emacsmirror/evil-lion.git
@@ -6509,6 +6518,9 @@
 [submodule "frb"]
 	path = attic/frb
 	url = git@github.com:emacsattic/frb.git
+[submodule "frecency"]
+	path = mirror/frecency
+	url = git@github.com:emacsmirror/frecency.git
 [submodule "free-keys"]
 	path = mirror/free-keys
 	url = git@github.com:emacsmirror/free-keys.git
@@ -12020,6 +12032,9 @@
 [submodule "notmuch-unread"]
 	path = attic/notmuch-unread
 	url = git@github.com:emacsattic/notmuch-unread.git
+[submodule "nov"]
+	path = mirror/nov
+	url = git@github.com:emacsmirror/nov.git
 [submodule "novice+"]
 	path = mirror/novice+
 	url = git@github.com:emacsmirror/novice-plus.git
@@ -12894,6 +12909,9 @@
 [submodule "org-wc"]
 	path = mirror/org-wc
 	url = git@github.com:emacsmirror/org-wc.git
+[submodule "org-web-tools"]
+	path = mirror/org-web-tools
+	url = git@github.com:emacsmirror/org-web-tools.git
 [submodule "org-website"]
 	path = attic/org-website
 	url = git@github.com:emacsattic/org-website.git
@@ -13327,6 +13345,9 @@
 [submodule "password-store"]
 	path = mirror/password-store
 	url = git@github.com:emacsmirror/password-store.git
+[submodule "password-store-otp"]
+	path = mirror/password-store-otp
+	url = git@github.com:emacsmirror/password-store-otp.git
 [submodule "password-vault"]
 	path = mirror/password-vault
 	url = git@github.com:emacsmirror/password-vault.git
@@ -18892,6 +18913,9 @@
 [submodule "winhist"]
 	path = attic/winhist
 	url = git@github.com:emacsattic/winhist.git
+[submodule "winnow"]
+	path = mirror/winnow
+	url = git@github.com:emacsmirror/winnow.git
 [submodule "winpath"]
 	path = attic/winpath
 	url = git@github.com:emacsattic/winpath.git
