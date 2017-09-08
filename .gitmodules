@@ -14726,9 +14726,6 @@
 [submodule "rcirc-alertify"]
 	path = mirror/rcirc-alertify
 	url = git@github.com:emacsmirror/rcirc-alertify.git
-[submodule "rcirc-color"]
-	path = mirror/rcirc-color
-	url = git@github.com:emacsmirror/rcirc-color.git
 [submodule "rcirc-dbus"]
 	path = mirror/rcirc-dbus
 	url = git@github.com:emacsmirror/rcirc-dbus.git
@@ -19588,3 +19585,36 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "auto-correct"]
+	path = mirror/auto-correct
+	url = git@github.com:emacsmirror/auto-correct.git
+[submodule "captain"]
+	path = mirror/captain
+	url = git@github.com:emacsmirror/captain.git
+[submodule "company-ebdb"]
+	path = mirror/company-ebdb
+	url = git@github.com:emacsmirror/company-ebdb.git
+[submodule "counsel-ebdb"]
+	path = mirror/counsel-ebdb
+	url = git@github.com:emacsmirror/counsel-ebdb.git
+[submodule "ebdb"]
+	path = mirror/ebdb
+	url = git@github.com:emacsmirror/ebdb.git
+[submodule "ebdb-gnorb"]
+	path = mirror/ebdb-gnorb
+	url = git@github.com:emacsmirror/ebdb-gnorb.git
+[submodule "ebdb-i18n-chn"]
+	path = mirror/ebdb-i18n-chn
+	url = git@github.com:emacsmirror/ebdb-i18n-chn.git
+[submodule "helm-ebdb"]
+	path = mirror/helm-ebdb
+	url = git@github.com:emacsmirror/helm-ebdb.git
+[submodule "rcirc-color"]
+	path = mirror/rcirc-color
+	url = git@github.com:emacsmirror/rcirc-color.git
+[submodule "rcirc-menu"]
+	path = mirror/rcirc-menu
+	url = git@github.com:emacsmirror/rcirc-menu.git
+[submodule "vigenere"]
+	path = mirror/vigenere
+	url = git@github.com:emacsmirror/vigenere.git
