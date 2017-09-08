@@ -15703,8 +15703,8 @@
 	path = mirror/selectric-mode
 	url = git@github.com:emacsmirror/selectric-mode.git
 [submodule "selftest"]
-	path = mirror/selftest
-	url = git@github.com:emacsmirror/selftest.git
+	path = attic/selftest
+	url = git@github.com:emacsattic/selftest.git
 [submodule "semi"]
 	path = mirror/semi
 	url = git@github.com:emacsmirror/semi.git
