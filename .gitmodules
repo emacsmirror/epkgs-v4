@@ -3236,11 +3236,11 @@
 	path = mirror/debbugs
 	url = git@github.com:emacsmirror/debbugs.git
 [submodule "debian-bug"]
-	path = mirror/debian-bug
-	url = git@github.com:emacsmirror/debian-bug.git
+	path = attic/debian-bug
+	url = git@github.com:emacsattic/debian-bug.git
 [submodule "debian-changelog-mode"]
-	path = mirror/debian-changelog-mode
-	url = git@github.com:emacsmirror/debian-changelog-mode.git
+	path = attic/debian-changelog-mode
+	url = git@github.com:emacsattic/debian-changelog-mode.git
 [submodule "debpaste"]
 	path = mirror/debpaste
 	url = git@github.com:emacsmirror/debpaste.git
