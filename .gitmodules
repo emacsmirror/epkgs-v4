@@ -15095,6 +15095,9 @@
 [submodule "replace-symbol"]
 	path = mirror/replace-symbol
 	url = git@github.com:emacsmirror/replace-symbol.git
+[submodule "replace-with-inflections"]
+	path = mirror/replace-with-inflections
+	url = git@github.com:emacsmirror/replace-with-inflections.git
 [submodule "repo"]
 	path = mirror/repo
 	url = git@github.com:emacsmirror/repo.git
