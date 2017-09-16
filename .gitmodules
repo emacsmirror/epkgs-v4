@@ -2096,6 +2096,9 @@
 [submodule "cinspect"]
 	path = mirror/cinspect
 	url = git@github.com:emacsmirror/cinspect.git
+[submodule "circadian"]
+	path = mirror/circadian
+	url = git@github.com:emacsmirror/circadian.git
 [submodule "circe"]
 	path = mirror/circe
 	url = git@github.com:emacsmirror/circe.git
@@ -2454,6 +2457,9 @@
 [submodule "comment-dwim-2"]
 	path = mirror/comment-dwim-2
 	url = git@github.com:emacsmirror/comment-dwim-2.git
+[submodule "comment-tags"]
+	path = mirror/comment-tags
+	url = git@github.com:emacsmirror/comment-tags.git
 [submodule "commented-info"]
 	path = attic/commented-info
 	url = git@github.com:emacsattic/commented-info.git
@@ -2746,6 +2752,9 @@
 [submodule "corral"]
 	path = mirror/corral
 	url = git@github.com:emacsmirror/corral.git
+[submodule "cosmo"]
+	path = mirror/cosmo
+	url = git@github.com:emacsmirror/cosmo.git
 [submodule "couchdb"]
 	path = mirror/couchdb
 	url = git@github.com:emacsmirror/couchdb.git
@@ -5949,6 +5958,9 @@
 [submodule "flex-autopair"]
 	path = mirror/flex-autopair
 	url = git@github.com:emacsmirror/flex-autopair.git
+[submodule "flex-compile"]
+	path = mirror/flex-compile
+	url = git@github.com:emacsmirror/flex-compile.git
 [submodule "flex-isearch"]
 	path = mirror/flex-isearch
 	url = git@github.com:emacsmirror/flex-isearch.git
@@ -8207,6 +8219,9 @@
 	path = mirror/helpful
 	url = git@github.com:emacsmirror/helpful.git
 	branch = master
+[submodule "hemera-theme"]
+	path = mirror/hemera-theme
+	url = git@github.com:emacsmirror/hemera-theme.git
 [submodule "hemisu-theme"]
 	path = mirror/hemisu-theme
 	url = git@github.com:emacsmirror/hemisu-theme.git
@@ -11540,6 +11555,9 @@
 [submodule "mu4e-maildirs-extension"]
 	path = mirror/mu4e-maildirs-extension
 	url = git@github.com:emacsmirror/mu4e-maildirs-extension.git
+[submodule "mu4e-query-fragments"]
+	path = mirror/mu4e-query-fragments
+	url = git@github.com:emacsmirror/mu4e-query-fragments.git
 [submodule "mudel"]
 	path = mirror/mudel
 	url = git@github.com:emacsmirror/mudel.git
@@ -12158,6 +12176,9 @@
 [submodule "nyan-prompt"]
 	path = mirror/nyan-prompt
 	url = git@github.com:emacsmirror/nyan-prompt.git
+[submodule "nyx-theme"]
+	path = mirror/nyx-theme
+	url = git@github.com:emacsmirror/nyx-theme.git
 [submodule "o-blog"]
 	path = mirror/o-blog
 	url = git@github.com:emacsmirror/o-blog.git
@@ -19210,6 +19231,9 @@
 	path = mirror/xcode-mode
 	url = git@github.com:emacsmirror/xcode-mode.git
 	branch = master
+[submodule "xcode-project"]
+	path = mirror/xcode-project
+	url = git@github.com:emacsmirror/xcode-project.git
 [submodule "xcscope"]
 	path = mirror/xcscope
 	url = git@github.com:emacsmirror/xcscope.git
