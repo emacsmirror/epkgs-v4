@@ -10780,9 +10780,6 @@
 [submodule "makeinfo-info"]
 	path = attic/makeinfo-info
 	url = git@github.com:emacsattic/makeinfo-info.git
-[submodule "maker-mode"]
-	path = mirror/maker-mode
-	url = git@github.com:emacsmirror/maker-mode.git
 [submodule "makey"]
 	path = mirror/makey
 	url = git@github.com:emacsmirror/makey.git
