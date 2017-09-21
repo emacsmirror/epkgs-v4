@@ -15001,8 +15001,8 @@
 	path = attic/refdb-mode
 	url = git@github.com:emacsattic/refdb-mode.git
 [submodule "refheap"]
-	path = mirror/refheap
-	url = git@github.com:emacsmirror/refheap.git
+	path = attic/refheap
+	url = git@github.com:emacsattic/refheap.git
 [submodule "refine"]
 	path = mirror/refine
 	url = git@github.com:emacsmirror/refine.git
