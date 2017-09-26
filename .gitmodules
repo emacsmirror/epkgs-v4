@@ -3922,6 +3922,9 @@
 [submodule "ducpel"]
 	path = mirror/ducpel
 	url = git@github.com:emacsmirror/ducpel.git
+[submodule "dumb-diff"]
+	path = mirror/dumb-diff
+	url = git@github.com:emacsmirror/dumb-diff.git
 [submodule "dumb-jump"]
 	path = mirror/dumb-jump
 	url = git@github.com:emacsmirror/dumb-jump.git
@@ -6243,6 +6246,9 @@
 	path = mirror/flycheck-yamllint
 	url = git@github.com:emacsmirror/flycheck-yamllint.git
 	branch = master
+[submodule "flycheck-yang"]
+	path = mirror/flycheck-yang
+	url = git@github.com:emacsmirror/flycheck-yang.git
 [submodule "flydoc"]
 	path = mirror/flydoc
 	url = git@github.com:emacsmirror/flydoc.git
