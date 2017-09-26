@@ -5653,8 +5653,8 @@
 	path = mirror/fenc
 	url = git@github.com:emacsmirror/fenc.git
 [submodule "festival"]
-	path = mirror/festival
-	url = git@github.com:emacsmirror/festival.git
+	path = attic/festival
+	url = git@github.com:emacsattic/festival.git
 [submodule "fetch"]
 	path = mirror/fetch
 	url = git@github.com:emacsmirror/fetch.git
@@ -8292,8 +8292,8 @@
 	path = mirror/hideshowvis
 	url = git@github.com:emacsmirror/hideshowvis.git
 [submodule "hier-imenu"]
-	path = mirror/hier-imenu
-	url = git@github.com:emacsmirror/hier-imenu.git
+	path = attic/hier-imenu
+	url = git@github.com:emacsattic/hier-imenu.git
 [submodule "hierarchy"]
 	path = mirror/hierarchy
 	url = git@github.com:emacsmirror/hierarchy.git
@@ -14912,8 +14912,8 @@
 	path = mirror/recaptcha
 	url = git@github.com:emacsmirror/recaptcha.git
 [submodule "recent"]
-	path = mirror/recent
-	url = git@github.com:emacsmirror/recent.git
+	path = attic/recent
+	url = git@github.com:emacsattic/recent.git
 [submodule "recent-addresses"]
 	path = mirror/recent-addresses
 	url = git@github.com:emacsmirror/recent-addresses.git
@@ -16165,8 +16165,8 @@
 	path = attic/slamhound
 	url = git@github.com:emacsattic/slamhound.git
 [submodule "slashdot"]
-	path = mirror/slashdot
-	url = git@github.com:emacsmirror/slashdot.git
+	path = attic/slashdot
+	url = git@github.com:emacsattic/slashdot.git
 [submodule "slate-config-mode"]
 	path = mirror/slate-config-mode
 	url = git@github.com:emacsmirror/slate-config-mode.git
@@ -16538,8 +16538,8 @@
 	path = mirror/spamfilter
 	url = git@github.com:emacsmirror/spamfilter.git
 [submodule "spamprobe"]
-	path = mirror/spamprobe
-	url = git@github.com:emacsmirror/spamprobe.git
+	path = attic/spamprobe
+	url = git@github.com:emacsattic/spamprobe.git
 [submodule "spamprod"]
 	path = attic/spamprod
 	url = git@github.com:emacsattic/spamprod.git
