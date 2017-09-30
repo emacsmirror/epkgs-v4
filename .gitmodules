@@ -1015,6 +1015,9 @@
 [submodule "avenue-mode"]
 	path = mirror/avenue-mode
 	url = git@github.com:emacsmirror/avenue-mode.git
+[submodule "avk-emacs-themes"]
+	path = mirror/avk-emacs-themes
+	url = git@github.com:emacsmirror/avk-emacs-themes.git
 [submodule "avmmf"]
 	path = mirror/avmmf
 	url = git@github.com:emacsmirror/avmmf.git
