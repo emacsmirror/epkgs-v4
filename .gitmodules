@@ -13322,7 +13322,6 @@
 [submodule "paper-theme"]
 	path = mirror/paper-theme
 	url = git@github.com:emacsmirror/paper-theme.git
-	branch = master
 [submodule "paperless"]
 	path = mirror/paperless
 	url = git@github.com:emacsmirror/paperless.git
