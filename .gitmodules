@@ -3389,6 +3389,9 @@
 [submodule "dgpg"]
 	path = mirror/dgpg
 	url = git@github.com:emacsmirror/dgpg.git
+[submodule "dhall-mode"]
+	path = mirror/dhall-mode
+	url = git@github.com:emacsmirror/dhall-mode.git
 [submodule "di"]
 	path = mirror/di
 	url = git@github.com:emacsmirror/di.git
@@ -3599,6 +3602,9 @@
 [submodule "dired-xattr"]
 	path = mirror/dired-xattr
 	url = git@github.com:emacsmirror/dired-xattr.git
+[submodule "diredfl"]
+	path = mirror/diredfl
+	url = git@github.com:emacsmirror/diredfl.git
 [submodule "diredful"]
 	path = mirror/diredful
 	url = git@github.com:emacsmirror/diredful.git
@@ -5092,6 +5098,9 @@
 [submodule "eshell-autojump"]
 	path = mirror/eshell-autojump
 	url = git@github.com:emacsmirror/eshell-autojump.git
+[submodule "eshell-bookmark"]
+	path = mirror/eshell-bookmark
+	url = git@github.com:emacsmirror/eshell-bookmark.git
 [submodule "eshell-did-you-mean"]
 	path = mirror/eshell-did-you-mean
 	url = git@github.com:emacsmirror/eshell-did-you-mean.git
