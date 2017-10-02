@@ -1132,6 +1132,9 @@
 	path = mirror/basic-c-compile
 	url = git@github.com:emacsmirror/basic-c-compile.git
 	branch = master
+[submodule "basic-mode"]
+	path = mirror/basic-mode
+	url = git@github.com:emacsmirror/basic-mode.git
 [submodule "basic-theme"]
 	path = mirror/basic-theme
 	url = git@github.com:emacsmirror/basic-theme.git
@@ -2576,6 +2579,9 @@
 	path = mirror/company-ngram
 	url = git@github.com:emacsmirror/company-ngram.git
 	branch = master
+[submodule "company-plsense"]
+	path = mirror/company-plsense
+	url = git@github.com:emacsmirror/company-plsense.git
 [submodule "company-qml"]
 	path = mirror/company-qml
 	url = git@github.com:emacsmirror/company-qml.git
@@ -10132,6 +10138,9 @@
 [submodule "ldraw-mode"]
 	path = attic/ldraw-mode
 	url = git@github.com:emacsattic/ldraw-mode.git
+[submodule "lean-mode"]
+	path = mirror/lean-mode
+	url = git@github.com:emacsmirror/lean-mode.git
 [submodule "leanote"]
 	path = mirror/leanote
 	url = git@github.com:emacsmirror/leanote.git
@@ -12064,7 +12073,6 @@
 [submodule "nord-theme"]
 	path = mirror/nord-theme
 	url = git@github.com:emacsmirror/nord-theme.git
-	branch = master
 [submodule "nose"]
 	path = mirror/nose
 	url = git@github.com:emacsmirror/nose.git
