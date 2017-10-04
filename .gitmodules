@@ -9711,6 +9711,9 @@
 [submodule "json-snatcher"]
 	path = mirror/json-snatcher
 	url = git@github.com:emacsmirror/json-snatcher.git
+[submodule "jsonnet-mode"]
+	path = mirror/jsonnet-mode
+	url = git@github.com:emacsmirror/jsonnet-mode.git
 [submodule "jss"]
 	path = mirror/jss
 	url = git@github.com:emacsmirror/jss.git
