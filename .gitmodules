@@ -7419,6 +7419,9 @@
 [submodule "grass-mode"]
 	path = mirror/grass-mode
 	url = git@github.com:emacsmirror/grass-mode.git
+[submodule "grayscale-theme"]
+	path = mirror/grayscale-theme
+	url = git@github.com:emacsmirror/grayscale-theme.git
 [submodule "grc"]
 	path = mirror/grc
 	url = git@github.com:emacsmirror/grc.git
@@ -12232,6 +12235,9 @@
 [submodule "ob-browser"]
 	path = mirror/ob-browser
 	url = git@github.com:emacsmirror/ob-browser.git
+[submodule "ob-cfengine3"]
+	path = mirror/ob-cfengine3
+	url = git@github.com:emacsmirror/ob-cfengine3.git
 [submodule "ob-clojurescript"]
 	path = mirror/ob-clojurescript
 	url = git@github.com:emacsmirror/ob-clojurescript.git
@@ -14384,6 +14390,9 @@
 [submodule "pulseaudio"]
 	path = mirror/pulseaudio
 	url = git@github.com:emacsmirror/pulseaudio.git
+[submodule "pulseaudio-control"]
+	path = mirror/pulseaudio-control
+	url = git@github.com:emacsmirror/pulseaudio-control.git
 [submodule "punctuality-logger"]
 	path = mirror/punctuality-logger
 	url = git@github.com:emacsmirror/punctuality-logger.git
@@ -15451,6 +15460,9 @@
 [submodule "run-command"]
 	path = attic/run-command
 	url = git@github.com:emacsattic/run-command.git
+[submodule "run-stuff"]
+	path = mirror/run-stuff
+	url = git@github.com:emacsmirror/run-stuff.git
 [submodule "runner"]
 	path = mirror/runner
 	url = git@github.com:emacsmirror/runner.git
@@ -15499,6 +15511,9 @@
 [submodule "s-buffer"]
 	path = mirror/s-buffer
 	url = git@github.com:emacsmirror/s-buffer.git
+[submodule "s12cpuv2-mode"]
+	path = mirror/s12cpuv2-mode
+	url = git@github.com:emacsmirror/s12cpuv2-mode.git
 [submodule "s3"]
 	path = mirror/s3
 	url = git@github.com:emacsmirror/s3.git
