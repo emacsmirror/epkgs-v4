@@ -628,6 +628,9 @@
 	path = mirror/archive-region
 	url = git@github.com:emacsmirror/archive-region.git
 	branch = master
+[submodule "archive-rpm"]
+	path = mirror/archive-rpm
+	url = git@github.com:emacsmirror/archive-rpm.git
 [submodule "arduino-mode"]
 	path = mirror/arduino-mode
 	url = git@github.com:emacsmirror/arduino-mode.git
@@ -10556,6 +10559,9 @@
 	path = mirror/lsp-java
 	url = git@github.com:emacsmirror/lsp-java.git
 	branch = master
+[submodule "lsp-javacomp"]
+	path = mirror/lsp-javacomp
+	url = git@github.com:emacsmirror/lsp-javacomp.git
 [submodule "lsp-mode"]
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
