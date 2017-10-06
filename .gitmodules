@@ -8926,6 +8926,9 @@
 [submodule "imakado"]
 	path = mirror/imakado
 	url = git@github.com:emacsmirror/imakado.git
+[submodule "imake"]
+	path = mirror/imake
+	url = git@github.com:emacsmirror/imake.git
 [submodule "iman"]
 	path = attic/iman
 	url = git@github.com:emacsattic/iman.git
