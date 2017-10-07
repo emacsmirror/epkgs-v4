@@ -8348,8 +8348,8 @@
 	url = git@github.com:emacsmirror/highlight-context-line.git
 	branch = master
 [submodule "highlight-current-line"]
-	path = mirror/highlight-current-line
-	url = git@github.com:emacsmirror/highlight-current-line.git
+	path = attic/highlight-current-line
+	url = git@github.com:emacsattic/highlight-current-line.git
 [submodule "highlight-defined"]
 	path = mirror/highlight-defined
 	url = git@github.com:emacsmirror/highlight-defined.git
