@@ -9802,7 +9802,6 @@
 [submodule "kaolin-theme"]
 	path = mirror/kaolin-theme
 	url = git@github.com:emacsmirror/kaolin-theme.git
-	branch = master
 [submodule "kaomoji"]
 	path = mirror/kaomoji
 	url = git@github.com:emacsmirror/kaomoji.git
