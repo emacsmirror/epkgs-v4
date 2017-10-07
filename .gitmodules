@@ -2404,6 +2404,9 @@
 	path = mirror/color-theme-x
 	url = git@github.com:emacsmirror/color-theme-x.git
 	branch = master
+[submodule "colormaps"]
+	path = mirror/colormaps
+	url = git@github.com:emacsmirror/colormaps.git
 [submodule "colour-region"]
 	path = mirror/colour-region
 	url = git@github.com:emacsmirror/colour-region.git
