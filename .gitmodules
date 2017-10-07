@@ -1097,8 +1097,8 @@
 	url = git@github.com:emacsmirror/badwolf-theme.git
 	branch = master
 [submodule "baidu-life"]
-	path = mirror/baidu-life
-	url = git@github.com:emacsmirror/baidu-life.git
+	path = attic/baidu-life
+	url = git@github.com:emacsattic/baidu-life.git
 [submodule "balance"]
 	path = attic/balance
 	url = git@github.com:emacsattic/balance.git
