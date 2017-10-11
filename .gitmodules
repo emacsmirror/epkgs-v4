@@ -3000,6 +3000,9 @@
 	path = mirror/cubicaltt
 	url = git@github.com:emacsmirror/cubicaltt.git
 	branch = master
+[submodule "cubicle-mode"]
+	path = mirror/cubicle-mode
+	url = git@github.com:emacsmirror/cubicle-mode.git
 [submodule "cucumber-goto-step"]
 	path = mirror/cucumber-goto-step
 	url = git@github.com:emacsmirror/cucumber-goto-step.git
@@ -13976,10 +13979,16 @@
 	path = mirror/pocket-api
 	url = git@github.com:emacsmirror/pocket-api.git
 	branch = master
+[submodule "pocket-lib"]
+	path = mirror/pocket-lib
+	url = git@github.com:emacsmirror/pocket-lib.git
 [submodule "pocket-mode"]
 	path = mirror/pocket-mode
 	url = git@github.com:emacsmirror/pocket-mode.git
 	branch = master
+[submodule "pocket-reader"]
+	path = mirror/pocket-reader
+	url = git@github.com:emacsmirror/pocket-reader.git
 [submodule "pocketcompletion"]
 	path = mirror/pocketcompletion
 	url = git@github.com:emacsmirror/pocketcompletion.git
@@ -19657,6 +19666,9 @@
 	path = mirror/zonokai-theme
 	url = git@github.com:emacsmirror/zonokai-theme.git
 	branch = master
+[submodule "zoom"]
+	path = mirror/zoom
+	url = git@github.com:emacsmirror/zoom.git
 [submodule "zoom-frm"]
 	path = mirror/zoom-frm
 	url = git@github.com:emacsmirror/zoom-frm.git
