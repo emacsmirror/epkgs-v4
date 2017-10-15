@@ -605,6 +605,9 @@
 [submodule "apt-mode"]
 	path = attic/apt-mode
 	url = git@github.com:emacsattic/apt-mode.git
+[submodule "apt-sources-list"]
+	path = mirror/apt-sources-list
+	url = git@github.com:emacsmirror/apt-sources-list.git
 [submodule "apu"]
 	path = mirror/apu
 	url = git@github.com:emacsmirror/apu.git
@@ -1253,6 +1256,9 @@
 [submodule "benchmark-init"]
 	path = mirror/benchmark-init
 	url = git@github.com:emacsmirror/benchmark-init.git
+[submodule "benchstat"]
+	path = mirror/benchstat
+	url = git@github.com:emacsmirror/benchstat.git
 [submodule "bencode"]
 	path = mirror/bencode
 	url = git@github.com:emacsmirror/bencode.git
@@ -2559,6 +2565,9 @@
 [submodule "company-ghci"]
 	path = mirror/company-ghci
 	url = git@github.com:emacsmirror/company-ghci.git
+[submodule "company-glsl"]
+	path = mirror/company-glsl
+	url = git@github.com:emacsmirror/company-glsl.git
 [submodule "company-go"]
 	path = mirror/company-go
 	url = git@github.com:emacsmirror/company-go.git
@@ -9663,6 +9672,9 @@
 	path = mirror/js-auto-beautify
 	url = git@github.com:emacsmirror/js-auto-beautify.git
 	branch = master
+[submodule "js-auto-format-mode"]
+	path = mirror/js-auto-format-mode
+	url = git@github.com:emacsmirror/js-auto-format-mode.git
 [submodule "js-comint"]
 	path = mirror/js-comint
 	url = git@github.com:emacsmirror/js-comint.git
@@ -10570,6 +10582,9 @@
 [submodule "lsp-javacomp"]
 	path = mirror/lsp-javacomp
 	url = git@github.com:emacsmirror/lsp-javacomp.git
+[submodule "lsp-javascript-typescript"]
+	path = mirror/lsp-javascript-typescript
+	url = git@github.com:emacsmirror/lsp-javascript-typescript.git
 [submodule "lsp-mode"]
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
@@ -12846,6 +12861,9 @@
 [submodule "org-oddmuse"]
 	path = mirror/org-oddmuse
 	url = git@github.com:emacsmirror/org-oddmuse.git
+[submodule "org-onenote"]
+	path = mirror/org-onenote
+	url = git@github.com:emacsmirror/org-onenote.git
 [submodule "org-osm-link"]
 	path = mirror/org-osm-link
 	url = git@github.com:emacsmirror/org-osm-link.git
@@ -13015,6 +13033,9 @@
 [submodule "org2blog"]
 	path = mirror/org2blog
 	url = git@github.com:emacsmirror/org2blog.git
+[submodule "org2ctex"]
+	path = mirror/org2ctex
+	url = git@github.com:emacsmirror/org2ctex.git
 [submodule "org2elcomment"]
 	path = mirror/org2elcomment
 	url = git@github.com:emacsmirror/org2elcomment.git
@@ -14285,6 +14306,9 @@
 [submodule "projectile-speedbar"]
 	path = mirror/projectile-speedbar
 	url = git@github.com:emacsmirror/projectile-speedbar.git
+[submodule "projectile-trailblazer"]
+	path = mirror/projectile-trailblazer
+	url = git@github.com:emacsmirror/projectile-trailblazer.git
 [submodule "projectile-variable"]
 	path = mirror/projectile-variable
 	url = git@github.com:emacsmirror/projectile-variable.git
@@ -16306,6 +16330,9 @@
 [submodule "smallurl"]
 	path = mirror/smallurl
 	url = git@github.com:emacsmirror/smallurl.git
+[submodule "smart-backspace"]
+	path = mirror/smart-backspace
+	url = git@github.com:emacsmirror/smart-backspace.git
 [submodule "smart-comment"]
 	path = mirror/smart-comment
 	url = git@github.com:emacsmirror/smart-comment.git
@@ -16353,6 +16380,9 @@
 [submodule "smart-region"]
 	path = mirror/smart-region
 	url = git@github.com:emacsmirror/smart-region.git
+[submodule "smart-semicolon"]
+	path = mirror/smart-semicolon
+	url = git@github.com:emacsmirror/smart-semicolon.git
 [submodule "smart-shift"]
 	path = mirror/smart-shift
 	url = git@github.com:emacsmirror/smart-shift.git
@@ -17006,6 +17036,9 @@
 [submodule "summarye"]
 	path = mirror/summarye
 	url = git@github.com:emacsmirror/summarye.git
+[submodule "sunburn-theme"]
+	path = mirror/sunburn-theme
+	url = git@github.com:emacsmirror/sunburn-theme.git
 [submodule "sunny-day-theme"]
 	path = mirror/sunny-day-theme
 	url = git@github.com:emacsmirror/sunny-day-theme.git
@@ -17650,6 +17683,9 @@
 [submodule "thumb-through"]
 	path = mirror/thumb-through
 	url = git@github.com:emacsmirror/thumb-through.git
+[submodule "tickscript-mode"]
+	path = mirror/tickscript-mode
+	url = git@github.com:emacsmirror/tickscript-mode.git
 [submodule "tide"]
 	path = mirror/tide
 	url = git@github.com:emacsmirror/tide.git
@@ -19597,6 +19633,9 @@
 	path = mirror/zeitgeist
 	url = git@github.com:emacsmirror/zeitgeist.git
 	branch = master
+[submodule "zel"]
+	path = mirror/zel
+	url = git@github.com:emacsmirror/zel.git
 [submodule "zen-and-art-theme"]
 	path = mirror/zen-and-art-theme
 	url = git@github.com:emacsmirror/zen-and-art-theme.git
