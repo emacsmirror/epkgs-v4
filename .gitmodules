@@ -12671,8 +12671,8 @@
 	url = git@github.com:emacsmirror/org-capture-pop-frame.git
 	branch = master
 [submodule "org-chinese-utils"]
-	path = mirror/org-chinese-utils
-	url = git@github.com:emacsmirror/org-chinese-utils.git
+	path = attic/org-chinese-utils
+	url = git@github.com:emacsattic/org-chinese-utils.git
 	branch = master
 [submodule "org-cliplink"]
 	path = mirror/org-cliplink
