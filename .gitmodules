@@ -2583,6 +2583,9 @@
 [submodule "company-jedi"]
 	path = mirror/company-jedi
 	url = git@github.com:emacsmirror/company-jedi.git
+[submodule "company-lsp"]
+	path = mirror/company-lsp
+	url = git@github.com:emacsmirror/company-lsp.git
 [submodule "company-lua"]
 	path = mirror/company-lua
 	url = git@github.com:emacsmirror/company-lua.git
