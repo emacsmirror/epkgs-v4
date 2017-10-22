@@ -2802,6 +2802,9 @@
 [submodule "counsel-ebdb"]
 	path = mirror/counsel-ebdb
 	url = git@github.com:emacsmirror/counsel-ebdb.git
+[submodule "counsel-etags"]
+	path = mirror/counsel-etags
+	url = git@github.com:emacsmirror/counsel-etags.git
 [submodule "counsel-gtags"]
 	path = mirror/counsel-gtags
 	url = git@github.com:emacsmirror/counsel-gtags.git
@@ -2814,6 +2817,9 @@
 	path = mirror/counsel-projectile
 	url = git@github.com:emacsmirror/counsel-projectile.git
 	branch = master
+[submodule "counsel-pydoc"]
+	path = mirror/counsel-pydoc
+	url = git@github.com:emacsmirror/counsel-pydoc.git
 [submodule "counsel-spotify"]
 	path = mirror/counsel-spotify
 	url = git@github.com:emacsmirror/counsel-spotify.git
@@ -9595,6 +9601,9 @@
 [submodule "jess-mode"]
 	path = attic/jess-mode
 	url = git@github.com:emacsattic/jess-mode.git
+[submodule "jetbrains"]
+	path = mirror/jetbrains
+	url = git@github.com:emacsmirror/jetbrains.git
 [submodule "jfolding"]
 	path = mirror/jfolding
 	url = git@github.com:emacsmirror/jfolding.git
@@ -9678,6 +9687,9 @@
 [submodule "js-auto-format-mode"]
 	path = mirror/js-auto-format-mode
 	url = git@github.com:emacsmirror/js-auto-format-mode.git
+[submodule "js-codemod"]
+	path = mirror/js-codemod
+	url = git@github.com:emacsmirror/js-codemod.git
 [submodule "js-comint"]
 	path = mirror/js-comint
 	url = git@github.com:emacsmirror/js-comint.git
@@ -10592,6 +10604,9 @@
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
 	branch = master
+[submodule "lsp-ocaml"]
+	path = mirror/lsp-ocaml
+	url = git@github.com:emacsmirror/lsp-ocaml.git
 [submodule "lsp-python"]
 	path = mirror/lsp-python
 	url = git@github.com:emacsmirror/lsp-python.git
@@ -14979,6 +14994,9 @@
 [submodule "realplay"]
 	path = attic/realplay
 	url = git@github.com:emacsattic/realplay.git
+[submodule "reason-mode"]
+	path = mirror/reason-mode
+	url = git@github.com:emacsmirror/reason-mode.git
 [submodule "rebecca-theme"]
 	path = mirror/rebecca-theme
 	url = git@github.com:emacsmirror/rebecca-theme.git
