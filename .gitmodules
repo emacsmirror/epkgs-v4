@@ -1520,8 +1520,8 @@
 	path = attic/bravegnuworld-mode
 	url = git@github.com:emacsattic/bravegnuworld-mode.git
 [submodule "breadcrumb"]
-	path = mirror/breadcrumb
-	url = git@github.com:emacsmirror/breadcrumb.git
+	path = attic/breadcrumb
+	url = git@github.com:emacsattic/breadcrumb.git
 [submodule "breathe"]
 	path = attic/breathe
 	url = git@github.com:emacsattic/breathe.git
@@ -5176,8 +5176,8 @@
 	path = attic/esmtpmail
 	url = git@github.com:emacsattic/esmtpmail.git
 [submodule "espect"]
-	path = mirror/espect
-	url = git@github.com:emacsmirror/espect.git
+	path = attic/espect
+	url = git@github.com:emacsattic/espect.git
 [submodule "espresso-theme"]
 	path = mirror/espresso-theme
 	url = git@github.com:emacsmirror/espresso-theme.git
@@ -11417,8 +11417,8 @@
 	path = mirror/moikrug
 	url = git@github.com:emacsmirror/moikrug.git
 [submodule "mojo"]
-	path = mirror/mojo
-	url = git@github.com:emacsmirror/mojo.git
+	path = attic/mojo
+	url = git@github.com:emacsattic/mojo.git
 [submodule "molokai-theme"]
 	path = mirror/molokai-theme
 	url = git@github.com:emacsmirror/molokai-theme.git
@@ -18065,11 +18065,11 @@
 	path = mirror/tumblesocks
 	url = git@github.com:emacsmirror/tumblesocks.git
 [submodule "tumblr"]
-	path = mirror/tumblr
-	url = git@github.com:emacsmirror/tumblr.git
+	path = attic/tumblr
+	url = git@github.com:emacsattic/tumblr.git
 [submodule "tumblr-gist"]
-	path = mirror/tumblr-gist
-	url = git@github.com:emacsmirror/tumblr-gist.git
+	path = attic/tumblr-gist
+	url = git@github.com:emacsattic/tumblr-gist.git
 [submodule "tumblr-mode"]
 	path = mirror/tumblr-mode
 	url = git@github.com:emacsmirror/tumblr-mode.git
@@ -19672,8 +19672,8 @@
 	path = mirror/zencoding-mode
 	url = git@github.com:emacsmirror/zencoding-mode.git
 [submodule "zendmd-comint"]
-	path = mirror/zendmd-comint
-	url = git@github.com:emacsmirror/zendmd-comint.git
+	path = attic/zendmd-comint
+	url = git@github.com:emacsattic/zendmd-comint.git
 [submodule "zenirc"]
 	path = attic/zenirc
 	url = git@github.com:emacsattic/zenirc.git
