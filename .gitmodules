@@ -9841,9 +9841,9 @@
 [submodule "kanji-mode"]
 	path = mirror/kanji-mode
 	url = git@github.com:emacsmirror/kanji-mode.git
-[submodule "kaolin-theme"]
-	path = mirror/kaolin-theme
-	url = git@github.com:emacsmirror/kaolin-theme.git
+[submodule "kaolin-themes"]
+	path = mirror/kaolin-themes
+	url = git@github.com:emacsmirror/kaolin-themes.git
 [submodule "kaomoji"]
 	path = mirror/kaomoji
 	url = git@github.com:emacsmirror/kaomoji.git
