@@ -2924,6 +2924,9 @@
 [submodule "cryptsy-public-api"]
 	path = mirror/cryptsy-public-api
 	url = git@github.com:emacsmirror/cryptsy-public-api.git
+[submodule "crystal-mode"]
+	path = mirror/crystal-mode
+	url = git@github.com:emacsmirror/crystal-mode.git
 [submodule "cscope"]
 	path = attic/cscope
 	url = git@github.com:emacsattic/cscope.git
@@ -3072,6 +3075,9 @@
 [submodule "cvs-scramble"]
 	path = mirror/cvs-scramble
 	url = git@github.com:emacsmirror/cvs-scramble.git
+[submodule "cwl-mode"]
+	path = mirror/cwl-mode
+	url = git@github.com:emacsmirror/cwl-mode.git
 [submodule "cwm-mode"]
 	path = attic/cwm-mode
 	url = git@github.com:emacsattic/cwm-mode.git
@@ -7214,6 +7220,9 @@
 [submodule "go-errcheck"]
 	path = mirror/go-errcheck
 	url = git@github.com:emacsmirror/go-errcheck.git
+[submodule "go-gen-test"]
+	path = mirror/go-gen-test
+	url = git@github.com:emacsmirror/go-gen-test.git
 [submodule "go-gopath"]
 	path = mirror/go-gopath
 	url = git@github.com:emacsmirror/go-gopath.git
@@ -10042,6 +10051,9 @@
 	path = mirror/kubernetes
 	url = git@github.com:emacsmirror/kubernetes.git
 	branch = master
+[submodule "kubernetes-tramp"]
+	path = mirror/kubernetes-tramp
+	url = git@github.com:emacsmirror/kubernetes-tramp.git
 [submodule "kurecolor"]
 	path = mirror/kurecolor
 	url = git@github.com:emacsmirror/kurecolor.git
@@ -14728,6 +14740,9 @@
 [submodule "quick-preview"]
 	path = mirror/quick-preview
 	url = git@github.com:emacsmirror/quick-preview.git
+[submodule "quick-shell-keybind"]
+	path = mirror/quick-shell-keybind
+	url = git@github.com:emacsmirror/quick-shell-keybind.git
 [submodule "quick-task"]
 	path = mirror/quick-task
 	url = git@github.com:emacsmirror/quick-task.git
