@@ -2146,9 +2146,6 @@
 [submodule "cl-merge"]
 	path = mirror/cl-merge
 	url = git@github.com:emacsmirror/cl-merge.git
-[submodule "cl-print"]
-	path = mirror/cl-print
-	url = git@github.com:emacsmirror/cl-print.git
 [submodule "claire-mode"]
 	path = attic/claire-mode
 	url = git@github.com:emacsattic/claire-mode.git
@@ -10233,9 +10230,6 @@
 [submodule "less"]
 	path = mirror/less
 	url = git@github.com:emacsmirror/less.git
-[submodule "less-css-mode"]
-	path = mirror/less-css-mode
-	url = git@github.com:emacsmirror/less-css-mode.git
 [submodule "less-mode"]
 	path = mirror/less-mode
 	url = git@github.com:emacsmirror/less-mode.git
@@ -15915,10 +15909,6 @@
 	path = mirror/seoul256-theme
 	url = git@github.com:emacsmirror/seoul256-theme.git
 	branch = master
-[submodule "seq"]
-	path = mirror/seq
-	url = git@github.com:emacsmirror/seq.git
-	branch = master
 [submodule "seq-numbering"]
 	path = attic/seq-numbering
 	url = git@github.com:emacsattic/seq-numbering.git
@@ -17107,9 +17097,6 @@
 	path = mirror/suscolors-theme
 	url = git@github.com:emacsmirror/suscolors-theme.git
 	branch = master
-[submodule "svg"]
-	path = mirror/svg
-	url = git@github.com:emacsmirror/svg.git
 [submodule "svg-clock"]
 	path = mirror/svg-clock
 	url = git@github.com:emacsmirror/svg-clock.git
