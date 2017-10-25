@@ -2865,8 +2865,8 @@
 	url = git@github.com:emacsmirror/cql-mode.git
 	branch = master
 [submodule "crab"]
-	path = mirror/crab
-	url = git@github.com:emacsmirror/crab.git
+	path = attic/crab
+	url = git@github.com:emacsattic/crab.git
 [submodule "crappy-jsp-mode"]
 	path = mirror/crappy-jsp-mode
 	url = git@github.com:emacsmirror/crappy-jsp-mode.git
