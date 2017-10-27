@@ -6206,6 +6206,9 @@
 [submodule "flycheck-nim"]
 	path = mirror/flycheck-nim
 	url = git@github.com:emacsmirror/flycheck-nim.git
+[submodule "flycheck-nimsuggest"]
+	path = mirror/flycheck-nimsuggest
+	url = git@github.com:emacsmirror/flycheck-nimsuggest.git
 [submodule "flycheck-objc-clang"]
 	path = mirror/flycheck-objc-clang
 	url = git@github.com:emacsmirror/flycheck-objc-clang.git
