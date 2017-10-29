@@ -4021,6 +4021,9 @@
 [submodule "dynamic-ruler"]
 	path = mirror/dynamic-ruler
 	url = git@github.com:emacsmirror/dynamic-ruler.git
+[submodule "dynamic-spaces"]
+	path = mirror/dynamic-spaces
+	url = git@github.com:emacsmirror/dynamic-spaces.git
 [submodule "e-blog"]
 	path = attic/e-blog
 	url = git@github.com:emacsattic/e-blog.git
@@ -4054,6 +4057,9 @@
 [submodule "e2wm-term"]
 	path = mirror/e2wm-term
 	url = git@github.com:emacsmirror/e2wm-term.git
+[submodule "eacl"]
+	path = mirror/eacl
+	url = git@github.com:emacsmirror/eacl.git
 [submodule "eap"]
 	path = attic/eap
 	url = git@github.com:emacsattic/eap.git
@@ -9364,6 +9370,9 @@
 [submodule "ite"]
 	path = attic/ite
 	url = git@github.com:emacsattic/ite.git
+[submodule "iter2"]
+	path = mirror/iter2
+	url = git@github.com:emacsmirror/iter2.git
 [submodule "iterator"]
 	path = mirror/iterator
 	url = git@github.com:emacsmirror/iterator.git
@@ -12333,6 +12342,9 @@
 [submodule "ob-http"]
 	path = mirror/ob-http
 	url = git@github.com:emacsmirror/ob-http.git
+[submodule "ob-hy"]
+	path = mirror/ob-hy
+	url = git@github.com:emacsmirror/ob-hy.git
 [submodule "ob-ipython"]
 	path = mirror/ob-ipython
 	url = git@github.com:emacsmirror/ob-ipython.git
@@ -12626,6 +12638,9 @@
 [submodule "opscode-sign"]
 	path = mirror/opscode-sign
 	url = git@github.com:emacsmirror/opscode-sign.git
+[submodule "orca"]
+	path = mirror/orca
+	url = git@github.com:emacsmirror/orca.git
 [submodule "order-head"]
 	path = mirror/order-head
 	url = git@github.com:emacsmirror/order-head.git
