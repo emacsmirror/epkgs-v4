@@ -5005,6 +5005,9 @@
 [submodule "erc-robot"]
 	path = mirror/erc-robot
 	url = git@github.com:emacsmirror/erc-robot.git
+[submodule "erc-scrolltoplace"]
+	path = mirror/erc-scrolltoplace
+	url = git@github.com:emacsmirror/erc-scrolltoplace.git
 [submodule "erc-social-graph"]
 	path = mirror/erc-social-graph
 	url = git@github.com:emacsmirror/erc-social-graph.git
@@ -5944,6 +5947,9 @@
 [submodule "firestarter"]
 	path = mirror/firestarter
 	url = git@github.com:emacsmirror/firestarter.git
+[submodule "fish-completion"]
+	path = mirror/fish-completion
+	url = git@github.com:emacsmirror/fish-completion.git
 [submodule "fish-mode"]
 	path = mirror/fish-mode
 	url = git@github.com:emacsmirror/fish-mode.git
@@ -8039,6 +8045,9 @@
 [submodule "helm-j-cheatsheet"]
 	path = mirror/helm-j-cheatsheet
 	url = git@github.com:emacsmirror/helm-j-cheatsheet.git
+[submodule "helm-js-codemod"]
+	path = mirror/helm-js-codemod
+	url = git@github.com:emacsmirror/helm-js-codemod.git
 [submodule "helm-jstack"]
 	path = mirror/helm-jstack
 	url = git@github.com:emacsmirror/helm-jstack.git
@@ -9047,6 +9056,9 @@
 [submodule "indent-hints-mode"]
 	path = mirror/indent-hints-mode
 	url = git@github.com:emacsmirror/indent-hints-mode.git
+[submodule "indent-info"]
+	path = mirror/indent-info
+	url = git@github.com:emacsmirror/indent-info.git
 [submodule "indent-tabs-maybe"]
 	path = mirror/indent-tabs-maybe
 	url = git@github.com:emacsmirror/indent-tabs-maybe.git
@@ -10604,6 +10616,9 @@
 	path = mirror/lsp-go
 	url = git@github.com:emacsmirror/lsp-go.git
 	branch = master
+[submodule "lsp-hack"]
+	path = mirror/lsp-hack
+	url = git@github.com:emacsmirror/lsp-hack.git
 [submodule "lsp-haskell"]
 	path = mirror/lsp-haskell
 	url = git@github.com:emacsmirror/lsp-haskell.git
@@ -11647,6 +11662,9 @@
 [submodule "mu4e-alert"]
 	path = mirror/mu4e-alert
 	url = git@github.com:emacsmirror/mu4e-alert.git
+[submodule "mu4e-jump-to-list"]
+	path = mirror/mu4e-jump-to-list
+	url = git@github.com:emacsmirror/mu4e-jump-to-list.git
 [submodule "mu4e-maildirs-extension"]
 	path = mirror/mu4e-maildirs-extension
 	url = git@github.com:emacsmirror/mu4e-maildirs-extension.git
