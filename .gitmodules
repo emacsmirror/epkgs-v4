@@ -19809,3 +19809,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "mines"]
+	path = mirror/mines
+	url = git@github.com:emacsmirror/mines.git
