@@ -17096,8 +17096,8 @@
 	url = git@github.com:emacsmirror/suggestion-box.git
 	branch = master
 [submodule "summarye"]
-	path = mirror/summarye
-	url = git@github.com:emacsmirror/summarye.git
+	path = attic/summarye
+	url = git@github.com:emacsattic/summarye.git
 [submodule "sunburn-theme"]
 	path = mirror/sunburn-theme
 	url = git@github.com:emacsmirror/sunburn-theme.git
