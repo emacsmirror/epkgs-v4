@@ -3766,8 +3766,8 @@
 	path = mirror/dmenu
 	url = git@github.com:emacsmirror/dmenu.git
 [submodule "dms-sig"]
-	path = mirror/dms-sig
-	url = git@github.com:emacsmirror/dms-sig.git
+	path = attic/dms-sig
+	url = git@github.com:emacsattic/dms-sig.git
 [submodule "dna-debug"]
 	path = mirror/dna-debug
 	url = git@github.com:emacsmirror/dna-debug.git
@@ -6801,8 +6801,8 @@
 	path = attic/gedit-mode
 	url = git@github.com:emacsattic/gedit-mode.git
 [submodule "geek"]
-	path = mirror/geek
-	url = git@github.com:emacsmirror/geek.git
+	path = attic/geek
+	url = git@github.com:emacsattic/geek.git
 [submodule "geeknote"]
 	path = mirror/geeknote
 	url = git@github.com:emacsmirror/geeknote.git
@@ -10491,8 +10491,8 @@
 	path = mirror/lms
 	url = git@github.com:emacsmirror/lms.git
 [submodule "lmselect"]
-	path = mirror/lmselect
-	url = git@github.com:emacsmirror/lmselect.git
+	path = attic/lmselect
+	url = git@github.com:emacsattic/lmselect.git
 [submodule "lnk"]
 	path = mirror/lnk
 	url = git@github.com:emacsmirror/lnk.git
@@ -17755,8 +17755,8 @@
 	path = attic/tie-mode
 	url = git@github.com:emacsattic/tie-mode.git
 [submodule "tiger"]
-	path = mirror/tiger
-	url = git@github.com:emacsmirror/tiger.git
+	path = attic/tiger
+	url = git@github.com:emacsattic/tiger.git
 [submodule "tile"]
 	path = mirror/tile
 	url = git@github.com:emacsmirror/tile.git
@@ -19668,8 +19668,8 @@
 	path = mirror/youdao-dictionary
 	url = git@github.com:emacsmirror/youdao-dictionary.git
 [submodule "youwill"]
-	path = mirror/youwill
-	url = git@github.com:emacsmirror/youwill.git
+	path = attic/youwill
+	url = git@github.com:emacsattic/youwill.git
 [submodule "yow-fns"]
 	path = mirror/yow-fns
 	url = git@github.com:emacsmirror/yow-fns.git
