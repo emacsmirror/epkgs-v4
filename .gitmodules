@@ -13309,10 +13309,6 @@
 	path = mirror/ox-jira
 	url = git@github.com:emacsmirror/ox-jira.git
 	branch = master
-[submodule "ox-latex-chinese"]
-	path = mirror/ox-latex-chinese
-	url = git@github.com:emacsmirror/ox-latex-chinese.git
-	branch = master
 [submodule "ox-mediawiki"]
 	path = mirror/ox-mediawiki
 	url = git@github.com:emacsmirror/ox-mediawiki.git
