@@ -239,6 +239,9 @@
 	path = mirror/ada-ref-man
 	url = git@github.com:emacsmirror/ada-ref-man.git
 	branch = master
+[submodule "adafruit-wisdom"]
+	path = mirror/adafruit-wisdom
+	url = git@github.com:emacsmirror/adafruit-wisdom.git
 [submodule "adaptive-wrap"]
 	path = mirror/adaptive-wrap
 	url = git@github.com:emacsmirror/adaptive-wrap.git
@@ -4494,6 +4497,9 @@
 [submodule "elfeed-org"]
 	path = mirror/elfeed-org
 	url = git@github.com:emacsmirror/elfeed-org.git
+[submodule "elfeed-protocol"]
+	path = mirror/elfeed-protocol
+	url = git@github.com:emacsmirror/elfeed-protocol.git
 [submodule "elgyach"]
 	path = attic/elgyach
 	url = git@github.com:emacsattic/elgyach.git
@@ -4839,6 +4845,9 @@
 [submodule "emojify"]
 	path = mirror/emojify
 	url = git@github.com:emacsmirror/emojify.git
+[submodule "emojify-logos"]
+	path = mirror/emojify-logos
+	url = git@github.com:emacsmirror/emojify-logos.git
 [submodule "emoticons"]
 	path = mirror/emoticons
 	url = git@github.com:emacsmirror/emoticons.git
@@ -5352,6 +5361,9 @@
 [submodule "evil-exchange"]
 	path = mirror/evil-exchange
 	url = git@github.com:emacsmirror/evil-exchange.git
+[submodule "evil-expat"]
+	path = mirror/evil-expat
+	url = git@github.com:emacsmirror/evil-expat.git
 [submodule "evil-extra-operator"]
 	path = mirror/evil-extra-operator
 	url = git@github.com:emacsmirror/evil-extra-operator.git
@@ -7927,6 +7939,9 @@
 	path = mirror/helm-ext
 	url = git@github.com:emacsmirror/helm-ext.git
 	branch = master
+[submodule "helm-exwm"]
+	path = mirror/helm-exwm
+	url = git@github.com:emacsmirror/helm-exwm.git
 [submodule "helm-filesets"]
 	path = mirror/helm-filesets
 	url = git@github.com:emacsmirror/helm-filesets.git
@@ -9418,6 +9433,9 @@
 	path = mirror/ivy-erlang-complete
 	url = git@github.com:emacsmirror/ivy-erlang-complete.git
 	branch = master
+[submodule "ivy-feedwrangler"]
+	path = mirror/ivy-feedwrangler
+	url = git@github.com:emacsmirror/ivy-feedwrangler.git
 [submodule "ivy-lobsters"]
 	path = mirror/ivy-lobsters
 	url = git@github.com:emacsmirror/ivy-lobsters.git
@@ -11261,6 +11279,9 @@
 [submodule "mine-sweeper-auto"]
 	path = attic/mine-sweeper-auto
 	url = git@github.com:emacsattic/mine-sweeper-auto.git
+[submodule "mines"]
+	path = mirror/mines
+	url = git@github.com:emacsmirror/mines.git
 [submodule "minesweeper"]
 	path = mirror/minesweeper
 	url = git@github.com:emacsmirror/minesweeper.git
@@ -15534,6 +15555,9 @@
 [submodule "ruby-end"]
 	path = mirror/ruby-end
 	url = git@github.com:emacsmirror/ruby-end.git
+[submodule "ruby-extra-highlight"]
+	path = mirror/ruby-extra-highlight
+	url = git@github.com:emacsmirror/ruby-extra-highlight.git
 [submodule "ruby-factory"]
 	path = mirror/ruby-factory
 	url = git@github.com:emacsmirror/ruby-factory.git
@@ -16225,6 +16249,9 @@
 [submodule "simple-mpc"]
 	path = mirror/simple-mpc
 	url = git@github.com:emacsmirror/simple-mpc.git
+[submodule "simple-paren"]
+	path = mirror/simple-paren
+	url = git@github.com:emacsmirror/simple-paren.git
 [submodule "simple-rtm"]
 	path = mirror/simple-rtm
 	url = git@github.com:emacsmirror/simple-rtm.git
@@ -18426,6 +18453,9 @@
 [submodule "use-package-chords"]
 	path = mirror/use-package-chords
 	url = git@github.com:emacsmirror/use-package-chords.git
+[submodule "use-package-ensure-system-package"]
+	path = mirror/use-package-ensure-system-package
+	url = git@github.com:emacsmirror/use-package-ensure-system-package.git
 [submodule "ushell"]
 	path = attic/ushell
 	url = git@github.com:emacsattic/ushell.git
@@ -19809,6 +19839,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "mines"]
-	path = mirror/mines
-	url = git@github.com:emacsmirror/mines.git
