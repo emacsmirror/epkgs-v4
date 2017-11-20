@@ -45,6 +45,9 @@
 [submodule "abel"]
 	path = mirror/abel
 	url = git@github.com:emacsmirror/abel.git
+[submodule "abgaben"]
+	path = mirror/abgaben
+	url = git@github.com:emacsmirror/abgaben.git
 [submodule "abl-mode"]
 	path = mirror/abl-mode
 	url = git@github.com:emacsmirror/abl-mode.git
@@ -2549,6 +2552,9 @@
 	path = mirror/company-erlang
 	url = git@github.com:emacsmirror/company-erlang.git
 	branch = master
+[submodule "company-eshell-autosuggest"]
+	path = mirror/company-eshell-autosuggest
+	url = git@github.com:emacsmirror/company-eshell-autosuggest.git
 [submodule "company-ess"]
 	path = mirror/company-ess
 	url = git@github.com:emacsmirror/company-ess.git
@@ -3877,6 +3883,9 @@
 	path = mirror/dot-mode
 	url = git@github.com:emacsmirror/dot-mode.git
 	branch = master
+[submodule "dotenv-mode"]
+	path = mirror/dotenv-mode
+	url = git@github.com:emacsmirror/dotenv-mode.git
 [submodule "dotnet"]
 	path = mirror/dotnet
 	url = git@github.com:emacsmirror/dotnet.git
@@ -5534,6 +5543,9 @@
 [submodule "eww-lnum"]
 	path = mirror/eww-lnum
 	url = git@github.com:emacsmirror/eww-lnum.git
+[submodule "exato"]
+	path = mirror/exato
+	url = git@github.com:emacsmirror/exato.git
 [submodule "excorporate"]
 	path = mirror/excorporate
 	url = git@github.com:emacsmirror/excorporate.git
@@ -12019,6 +12031,9 @@
 	path = mirror/netrunner
 	url = git@github.com:emacsmirror/netrunner.git
 	branch = master
+[submodule "network-watch"]
+	path = mirror/network-watch
+	url = git@github.com:emacsmirror/network-watch.git
 [submodule "networkmanager"]
 	path = mirror/networkmanager
 	url = git@github.com:emacsmirror/networkmanager.git
@@ -12993,6 +13008,9 @@
 [submodule "org-random-todo"]
 	path = mirror/org-random-todo
 	url = git@github.com:emacsmirror/org-random-todo.git
+[submodule "org-randomnote"]
+	path = mirror/org-randomnote
+	url = git@github.com:emacsmirror/org-randomnote.git
 [submodule "org-reading"]
 	path = mirror/org-reading
 	url = git@github.com:emacsmirror/org-reading.git
