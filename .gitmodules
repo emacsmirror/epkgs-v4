@@ -12608,8 +12608,8 @@
 	path = mirror/omni-tags
 	url = git@github.com:emacsmirror/omni-tags.git
 [submodule "omniref"]
-	path = mirror/omniref
-	url = git@github.com:emacsmirror/omniref.git
+	path = attic/omniref
+	url = git@github.com:emacsattic/omniref.git
 [submodule "omnisharp"]
 	path = mirror/omnisharp
 	url = git@github.com:emacsmirror/omnisharp.git
