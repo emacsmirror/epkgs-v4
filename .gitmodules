@@ -10805,6 +10805,9 @@
 	path = mirror/magit-p4
 	url = git@github.com:emacsmirror/magit-p4.git
 	branch = master
+[submodule "magit-popup"]
+	path = mirror/magit-popup
+	url = git@github.com:emacsmirror/magit-popup.git
 [submodule "magit-push-remote"]
 	path = attic/magit-push-remote
 	url = git@github.com:emacsattic/magit-push-remote.git
