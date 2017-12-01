@@ -19856,3 +19856,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "gle-mode"]
+	path = mirror/gle-mode
+	url = git@github.com:emacsmirror/gle-mode.git
