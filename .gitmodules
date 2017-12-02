@@ -2830,6 +2830,9 @@
 	path = mirror/counsel-spotify
 	url = git@github.com:emacsmirror/counsel-spotify.git
 	branch = master
+[submodule "counsel-world-clock"]
+	path = mirror/counsel-world-clock
+	url = git@github.com:emacsmirror/counsel-world-clock.git
 [submodule "counter"]
 	path = mirror/counter
 	url = git@github.com:emacsmirror/counter.git
@@ -3506,6 +3509,9 @@
 [submodule "diff-save-buffer"]
 	path = attic/diff-save-buffer
 	url = git@github.com:emacsattic/diff-save-buffer.git
+[submodule "difflib"]
+	path = mirror/difflib
+	url = git@github.com:emacsmirror/difflib.git
 [submodule "diffscuss-mode"]
 	path = mirror/diffscuss-mode
 	url = git@github.com:emacsmirror/diffscuss-mode.git
@@ -4091,6 +4097,9 @@
 [submodule "easy-imenu-index-generator"]
 	path = mirror/easy-imenu-index-generator
 	url = git@github.com:emacsmirror/easy-imenu-index-generator.git
+[submodule "easy-jekyll"]
+	path = mirror/easy-jekyll
+	url = git@github.com:emacsmirror/easy-jekyll.git
 [submodule "easy-kill"]
 	path = mirror/easy-kill
 	url = git@github.com:emacsmirror/easy-kill.git
@@ -6225,6 +6234,9 @@
 [submodule "flycheck-ledger"]
 	path = mirror/flycheck-ledger
 	url = git@github.com:emacsmirror/flycheck-ledger.git
+[submodule "flycheck-lilypond"]
+	path = mirror/flycheck-lilypond
+	url = git@github.com:emacsmirror/flycheck-lilypond.git
 [submodule "flycheck-liquidhs"]
 	path = mirror/flycheck-liquidhs
 	url = git@github.com:emacsmirror/flycheck-liquidhs.git
@@ -7102,6 +7114,9 @@
 [submodule "glade-mode"]
 	path = mirror/glade-mode
 	url = git@github.com:emacsmirror/glade-mode.git
+[submodule "gle-mode"]
+	path = mirror/gle-mode
+	url = git@github.com:emacsmirror/gle-mode.git
 [submodule "glimpse"]
 	path = mirror/glimpse
 	url = git@github.com:emacsmirror/glimpse.git
@@ -9474,6 +9489,9 @@
 	path = mirror/ivy-xcdoc
 	url = git@github.com:emacsmirror/ivy-xcdoc.git
 	branch = master
+[submodule "ivy-xref"]
+	path = mirror/ivy-xref
+	url = git@github.com:emacsmirror/ivy-xref.git
 [submodule "ivy-youtube"]
 	path = mirror/ivy-youtube
 	url = git@github.com:emacsmirror/ivy-youtube.git
@@ -10190,6 +10208,9 @@
 [submodule "latex-wrap"]
 	path = mirror/latex-wrap
 	url = git@github.com:emacsmirror/latex-wrap.git
+[submodule "latexdiff"]
+	path = mirror/latexdiff
+	url = git@github.com:emacsmirror/latexdiff.git
 [submodule "launch"]
 	path = mirror/launch
 	url = git@github.com:emacsmirror/launch.git
@@ -17989,6 +18010,9 @@
 [submodule "tornado-template-mode"]
 	path = mirror/tornado-template-mode
 	url = git@github.com:emacsmirror/tornado-template-mode.git
+[submodule "total-lines"]
+	path = mirror/total-lines
+	url = git@github.com:emacsmirror/total-lines.git
 [submodule "total-numbers"]
 	path = attic/total-numbers
 	url = git@github.com:emacsattic/total-numbers.git
@@ -19856,6 +19880,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "gle-mode"]
-	path = mirror/gle-mode
-	url = git@github.com:emacsmirror/gle-mode.git
