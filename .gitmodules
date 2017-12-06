@@ -1904,6 +1904,9 @@
 [submodule "celery"]
 	path = mirror/celery
 	url = git@github.com:emacsmirror/celery.git
+[submodule "celestial-mode-line"]
+	path = mirror/celestial-mode-line
+	url = git@github.com:emacsmirror/celestial-mode-line.git
 [submodule "cell"]
 	path = attic/cell
 	url = git@github.com:emacsattic/cell.git
@@ -5275,6 +5278,9 @@
 [submodule "etags-update"]
 	path = mirror/etags-update
 	url = git@github.com:emacsmirror/etags-update.git
+[submodule "eterm-256color"]
+	path = mirror/eterm-256color
+	url = git@github.com:emacsmirror/eterm-256color.git
 [submodule "etest"]
 	path = mirror/etest
 	url = git@github.com:emacsmirror/etest.git
@@ -7306,6 +7312,9 @@
 [submodule "go-svg"]
 	path = mirror/go-svg
 	url = git@github.com:emacsmirror/go-svg.git
+[submodule "go-tag"]
+	path = mirror/go-tag
+	url = git@github.com:emacsmirror/go-tag.git
 [submodule "go-to-char"]
 	path = mirror/go-to-char
 	url = git@github.com:emacsmirror/go-to-char.git
@@ -8308,6 +8317,9 @@
 	path = mirror/helm-youtube
 	url = git@github.com:emacsmirror/helm-youtube.git
 	branch = master
+[submodule "helm-z"]
+	path = mirror/helm-z
+	url = git@github.com:emacsmirror/helm-z.git
 [submodule "helm-zhihu-daily"]
 	path = mirror/helm-zhihu-daily
 	url = git@github.com:emacsmirror/helm-zhihu-daily.git
@@ -10699,6 +10711,9 @@
 	path = mirror/lsp-rust
 	url = git@github.com:emacsmirror/lsp-rust.git
 	branch = master
+[submodule "lsp-vue"]
+	path = mirror/lsp-vue
+	url = git@github.com:emacsmirror/lsp-vue.git
 [submodule "ltsv"]
 	path = mirror/ltsv
 	url = git@github.com:emacsmirror/ltsv.git
@@ -15708,6 +15723,9 @@
 	path = mirror/sage-shell-mode
 	url = git@github.com:emacsmirror/sage-shell-mode.git
 	branch = master
+[submodule "sailfish-scratchbox"]
+	path = mirror/sailfish-scratchbox
+	url = git@github.com:emacsmirror/sailfish-scratchbox.git
 [submodule "salesforce-utils"]
 	path = mirror/salesforce-utils
 	url = git@github.com:emacsmirror/salesforce-utils.git
@@ -15829,6 +15847,9 @@
 [submodule "sclang-snippets"]
 	path = mirror/sclang-snippets
 	url = git@github.com:emacsmirror/sclang-snippets.git
+[submodule "scp"]
+	path = mirror/scp
+	url = git@github.com:emacsmirror/scp.git
 [submodule "scpaste"]
 	path = mirror/scpaste
 	url = git@github.com:emacsmirror/scpaste.git
@@ -16489,6 +16510,9 @@
 [submodule "smart-indent-rigidly"]
 	path = mirror/smart-indent-rigidly
 	url = git@github.com:emacsmirror/smart-indent-rigidly.git
+[submodule "smart-jump"]
+	path = mirror/smart-jump
+	url = git@github.com:emacsmirror/smart-jump.git
 [submodule "smart-log"]
 	path = mirror/smart-log
 	url = git@github.com:emacsmirror/smart-log.git
@@ -19731,6 +19755,9 @@
 [submodule "yod"]
 	path = attic/yod
 	url = git@github.com:emacsattic/yod.git
+[submodule "yoficator"]
+	path = mirror/yoficator
+	url = git@github.com:emacsmirror/yoficator.git
 [submodule "yoshi-theme"]
 	path = mirror/yoshi-theme
 	url = git@github.com:emacsmirror/yoshi-theme.git
