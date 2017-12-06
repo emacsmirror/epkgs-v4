@@ -11051,8 +11051,8 @@
 	path = mirror/markchars
 	url = git@github.com:emacsmirror/markchars.git
 [submodule "markdown-edit-indirect"]
-	path = mirror/markdown-edit-indirect
-	url = git@github.com:emacsmirror/markdown-edit-indirect.git
+	path = attic/markdown-edit-indirect
+	url = git@github.com:emacsattic/markdown-edit-indirect.git
 	branch = master
 [submodule "markdown-mode"]
 	path = mirror/markdown-mode
