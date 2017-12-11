@@ -7499,6 +7499,9 @@
 	path = mirror/graphene-meta-theme
 	url = git@github.com:emacsmirror/graphene-meta-theme.git
 	branch = master
+[submodule "graphql"]
+	path = mirror/graphql
+	url = git@github.com:emacsmirror/graphql.git
 [submodule "graphql-mode"]
 	path = mirror/graphql-mode
 	url = git@github.com:emacsmirror/graphql-mode.git
