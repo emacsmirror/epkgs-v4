@@ -3150,8 +3150,8 @@
 	path = mirror/d-insert-assert
 	url = git@github.com:emacsmirror/d-insert-assert.git
 [submodule "d-insert-import"]
-	path = mirror/d-insert-import
-	url = git@github.com:emacsmirror/d-insert-import.git
+	path = attic/d-insert-import
+	url = git@github.com:emacsattic/d-insert-import.git
 [submodule "d-mode"]
 	path = mirror/d-mode
 	url = git@github.com:emacsmirror/d-mode.git
