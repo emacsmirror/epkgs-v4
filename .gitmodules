@@ -19910,3 +19910,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "git-undo"]
+	path = mirror/git-undo
+	url = git@github.com:emacsmirror/git-undo.git
