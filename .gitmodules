@@ -18518,12 +18518,6 @@
 [submodule "use-package"]
 	path = mirror/use-package
 	url = git@github.com:emacsmirror/use-package.git
-[submodule "use-package-chords"]
-	path = mirror/use-package-chords
-	url = git@github.com:emacsmirror/use-package-chords.git
-[submodule "use-package-ensure-system-package"]
-	path = mirror/use-package-ensure-system-package
-	url = git@github.com:emacsmirror/use-package-ensure-system-package.git
 [submodule "ushell"]
 	path = attic/ushell
 	url = git@github.com:emacsattic/ushell.git
