@@ -5748,9 +5748,6 @@
 [submodule "fenc"]
 	path = mirror/fenc
 	url = git@github.com:emacsmirror/fenc.git
-[submodule "festival"]
-	path = attic/festival
-	url = git@github.com:emacsattic/festival.git
 [submodule "fetch"]
 	path = mirror/fetch
 	url = git@github.com:emacsmirror/fetch.git
@@ -19913,3 +19910,6 @@
 [submodule "git-undo"]
 	path = mirror/git-undo
 	url = git@github.com:emacsmirror/git-undo.git
+[submodule "festival"]
+	path = mirror/festival
+	url = git@github.com:emacsmirror/festival.git
