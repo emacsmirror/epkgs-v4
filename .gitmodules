@@ -13420,6 +13420,9 @@
 [submodule "pabbrev"]
 	path = mirror/pabbrev
 	url = git@github.com:emacsmirror/pabbrev.git
+[submodule "paced"]
+	path = mirror/paced
+	url = git@github.com:emacsmirror/paced.git
 [submodule "pack-windows"]
 	path = mirror/pack-windows
 	url = git@github.com:emacsmirror/pack-windows.git
@@ -19907,6 +19910,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "paced"]
-	path = mirror/paced
-	url = git@github.com:emacsmirror/paced.git
