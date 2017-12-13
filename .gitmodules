@@ -5483,8 +5483,8 @@
 	path = mirror/evil-rsi
 	url = git@github.com:emacsmirror/evil-rsi.git
 [submodule "evil-scout"]
-	path = mirror/evil-scout
-	url = git@github.com:emacsmirror/evil-scout.git
+	path = attic/evil-scout
+	url = git@github.com:emacsattic/evil-scout.git
 [submodule "evil-search-highlight-persist"]
 	path = mirror/evil-search-highlight-persist
 	url = git@github.com:emacsmirror/evil-search-highlight-persist.git
@@ -6689,8 +6689,8 @@
 	url = git@github.com:emacsmirror/fscroll.git
 	branch = master
 [submodule "fsdired"]
-	path = mirror/fsdired
-	url = git@github.com:emacsmirror/fsdired.git
+	path = attic/fsdired
+	url = git@github.com:emacsattic/fsdired.git
 [submodule "fsharp-mode"]
 	path = mirror/fsharp-mode
 	url = git@github.com:emacsmirror/fsharp-mode.git
