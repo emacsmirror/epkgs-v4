@@ -6865,8 +6865,8 @@
 	path = mirror/generic-edit-special
 	url = git@github.com:emacsmirror/generic-edit-special.git
 [submodule "generic-range-opt"]
-	path = mirror/generic-range-opt
-	url = git@github.com:emacsmirror/generic-range-opt.git
+	path = attic/generic-range-opt
+	url = git@github.com:emacsattic/generic-range-opt.git
 [submodule "generic-text"]
 	path = attic/generic-text
 	url = git@github.com:emacsattic/generic-text.git
@@ -7130,8 +7130,8 @@
 	path = mirror/globalff
 	url = git@github.com:emacsmirror/globalff.git
 [submodule "globalizer"]
-	path = mirror/globalizer
-	url = git@github.com:emacsmirror/globalizer.git
+	path = attic/globalizer
+	url = git@github.com:emacsattic/globalizer.git
 [submodule "globrep"]
 	path = mirror/globrep
 	url = git@github.com:emacsmirror/globrep.git
@@ -9069,8 +9069,8 @@
 	path = mirror/imenus
 	url = git@github.com:emacsmirror/imenus.git
 [submodule "imgix"]
-	path = mirror/imgix
-	url = git@github.com:emacsmirror/imgix.git
+	path = attic/imgix
+	url = git@github.com:emacsattic/imgix.git
 [submodule "imgur"]
 	path = mirror/imgur
 	url = git@github.com:emacsmirror/imgur.git
@@ -9564,8 +9564,8 @@
 	url = git@github.com:emacsmirror/jastadd-ast-mode.git
 	branch = master
 [submodule "jaunte"]
-	path = mirror/jaunte
-	url = git@github.com:emacsmirror/jaunte.git
+	path = attic/jaunte
+	url = git@github.com:emacsattic/jaunte.git
 [submodule "java-class-doc"]
 	path = mirror/java-class-doc
 	url = git@github.com:emacsmirror/java-class-doc.git
@@ -11213,8 +11213,8 @@
 	path = mirror/member-functions
 	url = git@github.com:emacsmirror/member-functions.git
 [submodule "memento"]
-	path = mirror/memento
-	url = git@github.com:emacsmirror/memento.git
+	path = attic/memento
+	url = git@github.com:emacsattic/memento.git
 [submodule "memo-pop"]
 	path = mirror/memo-pop
 	url = git@github.com:emacsmirror/memo-pop.git
@@ -11934,8 +11934,8 @@
 	path = mirror/mz-comment-fix
 	url = git@github.com:emacsmirror/mz-comment-fix.git
 [submodule "n3-mode"]
-	path = mirror/n3-mode
-	url = git@github.com:emacsmirror/n3-mode.git
+	path = attic/n3-mode
+	url = git@github.com:emacsattic/n3-mode.git
 [submodule "n4js"]
 	path = mirror/n4js
 	url = git@github.com:emacsmirror/n4js.git
@@ -14897,11 +14897,11 @@
 	path = mirror/rails-log-mode
 	url = git@github.com:emacsmirror/rails-log-mode.git
 [submodule "rails-new"]
-	path = mirror/rails-new
-	url = git@github.com:emacsmirror/rails-new.git
+	path = attic/rails-new
+	url = git@github.com:emacsattic/rails-new.git
 [submodule "rails-test-toggler"]
-	path = mirror/rails-test-toggler
-	url = git@github.com:emacsmirror/rails-test-toggler.git
+	path = attic/rails-test-toggler
+	url = git@github.com:emacsattic/rails-test-toggler.git
 [submodule "railscasts-reloaded-theme"]
 	path = mirror/railscasts-reloaded-theme
 	url = git@github.com:emacsmirror/railscasts-reloaded-theme.git
@@ -15618,8 +15618,8 @@
 	path = mirror/ruby-factory
 	url = git@github.com:emacsmirror/ruby-factory.git
 [submodule "ruby-guard"]
-	path = mirror/ruby-guard
-	url = git@github.com:emacsmirror/ruby-guard.git
+	path = attic/ruby-guard
+	url = git@github.com:emacsattic/ruby-guard.git
 [submodule "ruby-hash-syntax"]
 	path = mirror/ruby-hash-syntax
 	url = git@github.com:emacsmirror/ruby-hash-syntax.git
@@ -16751,8 +16751,8 @@
 	url = git@github.com:emacsmirror/sourcerer-theme.git
 	branch = master
 [submodule "sourcetalk"]
-	path = mirror/sourcetalk
-	url = git@github.com:emacsmirror/sourcetalk.git
+	path = attic/sourcetalk
+	url = git@github.com:emacsattic/sourcetalk.git
 [submodule "sourcetrail"]
 	path = mirror/sourcetrail
 	url = git@github.com:emacsmirror/sourcetrail.git
@@ -17159,8 +17159,8 @@
 	path = attic/subtitles
 	url = git@github.com:emacsattic/subtitles.git
 [submodule "sudden-death"]
-	path = mirror/sudden-death
-	url = git@github.com:emacsmirror/sudden-death.git
+	path = attic/sudden-death
+	url = git@github.com:emacsattic/sudden-death.git
 [submodule "sudo-edit"]
 	path = mirror/sudo-edit
 	url = git@github.com:emacsmirror/sudo-edit.git
@@ -17921,8 +17921,8 @@
 	path = mirror/title-time
 	url = git@github.com:emacsmirror/title-time.git
 [submodule "tj-mode"]
-	path = mirror/tj-mode
-	url = git@github.com:emacsmirror/tj-mode.git
+	path = attic/tj-mode
+	url = git@github.com:emacsattic/tj-mode.git
 [submodule "tla-mode"]
 	path = attic/tla-mode
 	url = git@github.com:emacsattic/tla-mode.git
@@ -18540,8 +18540,8 @@
 	path = mirror/uuidgen
 	url = git@github.com:emacsmirror/uuidgen.git
 [submodule "uzumaki"]
-	path = mirror/uzumaki
-	url = git@github.com:emacsmirror/uzumaki.git
+	path = attic/uzumaki
+	url = git@github.com:emacsattic/uzumaki.git
 [submodule "v2ex-mode"]
 	path = mirror/v2ex-mode
 	url = git@github.com:emacsmirror/v2ex-mode.git
