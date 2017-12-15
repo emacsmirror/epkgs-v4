@@ -1686,8 +1686,8 @@
 	path = mirror/bundler
 	url = git@github.com:emacsmirror/bundler.git
 [submodule "buqis"]
-	path = mirror/buqis
-	url = git@github.com:emacsmirror/buqis.git
+	path = attic/buqis
+	url = git@github.com:emacsattic/buqis.git
 [submodule "bury-successful-compilation"]
 	path = mirror/bury-successful-compilation
 	url = git@github.com:emacsmirror/bury-successful-compilation.git
@@ -11177,8 +11177,8 @@
 	path = attic/mcomplete
 	url = git@github.com:emacsattic/mcomplete.git
 [submodule "mcskels"]
-	path = mirror/mcskels
-	url = git@github.com:emacsmirror/mcskels.git
+	path = attic/mcskels
+	url = git@github.com:emacsattic/mcskels.git
 [submodule "md-readme"]
 	path = mirror/md-readme
 	url = git@github.com:emacsmirror/md-readme.git
@@ -19270,8 +19270,8 @@
 	path = mirror/with-simulated-input
 	url = git@github.com:emacsmirror/with-simulated-input.git
 [submodule "wl-list"]
-	path = mirror/wl-list
-	url = git@github.com:emacsmirror/wl-list.git
+	path = attic/wl-list
+	url = git@github.com:emacsattic/wl-list.git
 [submodule "wmctrl"]
 	path = mirror/wmctrl
 	url = git@github.com:emacsmirror/wmctrl.git
