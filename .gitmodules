@@ -5748,6 +5748,9 @@
 [submodule "fenc"]
 	path = mirror/fenc
 	url = git@github.com:emacsmirror/fenc.git
+[submodule "festival"]
+	path = mirror/festival
+	url = git@github.com:emacsmirror/festival.git
 [submodule "fetch"]
 	path = mirror/fetch
 	url = git@github.com:emacsmirror/fetch.git
@@ -7036,6 +7039,9 @@
 [submodule "git-timemachine"]
 	path = mirror/git-timemachine
 	url = git@github.com:emacsmirror/git-timemachine.git
+[submodule "git-undo"]
+	path = mirror/git-undo
+	url = git@github.com:emacsmirror/git-undo.git
 [submodule "git-wip-timemachine"]
 	path = mirror/git-wip-timemachine
 	url = git@github.com:emacsmirror/git-wip-timemachine.git
@@ -19907,9 +19913,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "git-undo"]
-	path = mirror/git-undo
-	url = git@github.com:emacsmirror/git-undo.git
-[submodule "festival"]
-	path = mirror/festival
-	url = git@github.com:emacsmirror/festival.git
