@@ -954,6 +954,9 @@
 [submodule "auto-show-doc"]
 	path = attic/auto-show-doc
 	url = git@github.com:emacsattic/auto-show-doc.git
+[submodule "auto-sudoedit"]
+	path = mirror/auto-sudoedit
+	url = git@github.com:emacsmirror/auto-sudoedit.git
 [submodule "auto-virtualenv"]
 	path = mirror/auto-virtualenv
 	url = git@github.com:emacsmirror/auto-virtualenv.git
@@ -1160,6 +1163,9 @@
 [submodule "bavard"]
 	path = attic/bavard
 	url = git@github.com:emacsattic/bavard.git
+[submodule "bazel-mode"]
+	path = mirror/bazel-mode
+	url = git@github.com:emacsmirror/bazel-mode.git
 [submodule "bbc-news"]
 	path = attic/bbc-news
 	url = git@github.com:emacsattic/bbc-news.git
@@ -1587,6 +1593,9 @@
 [submodule "bubblet"]
 	path = attic/bubblet
 	url = git@github.com:emacsattic/bubblet.git
+[submodule "buckwalter"]
+	path = mirror/buckwalter
+	url = git@github.com:emacsmirror/buckwalter.git
 [submodule "buff-menu+"]
 	path = mirror/buff-menu+
 	url = git@github.com:emacsmirror/buff-menu-plus.git
@@ -2818,6 +2827,9 @@
 	path = mirror/counsel-gtags
 	url = git@github.com:emacsmirror/counsel-gtags.git
 	branch = master
+[submodule "counsel-notmuch"]
+	path = mirror/counsel-notmuch
+	url = git@github.com:emacsmirror/counsel-notmuch.git
 [submodule "counsel-osx-app"]
 	path = mirror/counsel-osx-app
 	url = git@github.com:emacsmirror/counsel-osx-app.git
@@ -2833,6 +2845,9 @@
 	path = mirror/counsel-spotify
 	url = git@github.com:emacsmirror/counsel-spotify.git
 	branch = master
+[submodule "counsel-tramp"]
+	path = mirror/counsel-tramp
+	url = git@github.com:emacsmirror/counsel-tramp.git
 [submodule "counsel-world-clock"]
 	path = mirror/counsel-world-clock
 	url = git@github.com:emacsmirror/counsel-world-clock.git
@@ -3543,6 +3558,9 @@
 [submodule "diminish"]
 	path = mirror/diminish
 	url = git@github.com:emacsmirror/diminish.git
+[submodule "dimmer"]
+	path = mirror/dimmer
+	url = git@github.com:emacsmirror/dimmer.git
 [submodule "dionysos"]
 	path = mirror/dionysos
 	url = git@github.com:emacsmirror/dionysos.git
@@ -4631,6 +4649,9 @@
 [submodule "elpy"]
 	path = mirror/elpy
 	url = git@github.com:emacsmirror/elpy.git
+[submodule "elpygen"]
+	path = mirror/elpygen
+	url = git@github.com:emacsmirror/elpygen.git
 [submodule "elquery"]
 	path = mirror/elquery
 	url = git@github.com:emacsmirror/elquery.git
@@ -5041,6 +5062,9 @@
 [submodule "erc-social-graph"]
 	path = mirror/erc-social-graph
 	url = git@github.com:emacsmirror/erc-social-graph.git
+[submodule "erc-status-sidebar"]
+	path = mirror/erc-status-sidebar
+	url = git@github.com:emacsmirror/erc-status-sidebar.git
 [submodule "erc-terminal-notifier"]
 	path = mirror/erc-terminal-notifier
 	url = git@github.com:emacsmirror/erc-terminal-notifier.git
@@ -5359,6 +5383,9 @@
 	path = mirror/evil-colemak-minimal
 	url = git@github.com:emacsmirror/evil-colemak-minimal.git
 	branch = master
+[submodule "evil-collection"]
+	path = mirror/evil-collection
+	url = git@github.com:emacsmirror/evil-collection.git
 [submodule "evil-commentary"]
 	path = mirror/evil-commentary
 	url = git@github.com:emacsmirror/evil-commentary.git
@@ -5475,6 +5502,9 @@
 [submodule "evil-rebellion"]
 	path = mirror/evil-rebellion
 	url = git@github.com:emacsmirror/evil-rebellion.git
+[submodule "evil-replace-with-char"]
+	path = mirror/evil-replace-with-char
+	url = git@github.com:emacsmirror/evil-replace-with-char.git
 [submodule "evil-replace-with-register"]
 	path = mirror/evil-replace-with-register
 	url = git@github.com:emacsmirror/evil-replace-with-register.git
@@ -5498,6 +5528,9 @@
 [submodule "evil-space"]
 	path = mirror/evil-space
 	url = git@github.com:emacsmirror/evil-space.git
+[submodule "evil-string-inflection"]
+	path = mirror/evil-string-inflection
+	url = git@github.com:emacsmirror/evil-string-inflection.git
 [submodule "evil-surround"]
 	path = mirror/evil-surround
 	url = git@github.com:emacsmirror/evil-surround.git
@@ -5619,6 +5652,9 @@
 [submodule "exwm"]
 	path = mirror/exwm
 	url = git@github.com:emacsmirror/exwm.git
+[submodule "exwm-surf"]
+	path = mirror/exwm-surf
+	url = git@github.com:emacsmirror/exwm-surf.git
 [submodule "exwm-x"]
 	path = mirror/exwm-x
 	url = git@github.com:emacsmirror/exwm-x.git
@@ -7280,6 +7316,9 @@
 [submodule "go-errcheck"]
 	path = mirror/go-errcheck
 	url = git@github.com:emacsmirror/go-errcheck.git
+[submodule "go-fill-struct"]
+	path = mirror/go-fill-struct
+	url = git@github.com:emacsmirror/go-fill-struct.git
 [submodule "go-gen-test"]
 	path = mirror/go-gen-test
 	url = git@github.com:emacsmirror/go-gen-test.git
@@ -7291,6 +7330,9 @@
 	path = mirror/go-impl
 	url = git@github.com:emacsmirror/go-impl.git
 	branch = master
+[submodule "go-imports"]
+	path = mirror/go-imports
+	url = git@github.com:emacsmirror/go-imports.git
 [submodule "go-mode"]
 	path = mirror/go-mode
 	url = git@github.com:emacsmirror/go-mode.git
@@ -8256,6 +8298,9 @@
 [submodule "helm-sage"]
 	path = mirror/helm-sage
 	url = git@github.com:emacsmirror/helm-sage.git
+[submodule "helm-selected"]
+	path = mirror/helm-selected
+	url = git@github.com:emacsmirror/helm-selected.git
 [submodule "helm-sheet"]
 	path = mirror/helm-sheet
 	url = git@github.com:emacsmirror/helm-sheet.git
@@ -8286,6 +8331,9 @@
 [submodule "helm-swoop"]
 	path = mirror/helm-swoop
 	url = git@github.com:emacsmirror/helm-swoop.git
+[submodule "helm-system-packages"]
+	path = mirror/helm-system-packages
+	url = git@github.com:emacsmirror/helm-system-packages.git
 [submodule "helm-systemd"]
 	path = mirror/helm-systemd
 	url = git@github.com:emacsmirror/helm-systemd.git
@@ -8814,6 +8862,9 @@
 	path = mirror/i3wm
 	url = git@github.com:emacsmirror/i3wm.git
 	branch = master
+[submodule "ialign"]
+	path = mirror/ialign
+	url = git@github.com:emacsmirror/ialign.git
 [submodule "iasm-mode"]
 	path = mirror/iasm-mode
 	url = git@github.com:emacsmirror/iasm-mode.git
@@ -9347,6 +9398,9 @@
 [submodule "ipretty"]
 	path = mirror/ipretty
 	url = git@github.com:emacsmirror/ipretty.git
+[submodule "ipython-shell-send"]
+	path = mirror/ipython-shell-send
+	url = git@github.com:emacsmirror/ipython-shell-send.git
 [submodule "iqa"]
 	path = mirror/iqa
 	url = git@github.com:emacsmirror/iqa.git
@@ -10717,6 +10771,9 @@
 	path = mirror/lsp-rust
 	url = git@github.com:emacsmirror/lsp-rust.git
 	branch = master
+[submodule "lsp-ui"]
+	path = mirror/lsp-ui
+	url = git@github.com:emacsmirror/lsp-ui.git
 [submodule "lsp-vue"]
 	path = mirror/lsp-vue
 	url = git@github.com:emacsmirror/lsp-vue.git
@@ -11489,6 +11546,9 @@
 [submodule "mode-icons"]
 	path = mirror/mode-icons
 	url = git@github.com:emacsmirror/mode-icons.git
+[submodule "mode-line-bell"]
+	path = mirror/mode-line-bell
+	url = git@github.com:emacsmirror/mode-line-bell.git
 [submodule "mode-line-debug"]
 	path = mirror/mode-line-debug
 	url = git@github.com:emacsmirror/mode-line-debug.git
@@ -12196,6 +12256,9 @@
 [submodule "nntodo"]
 	path = mirror/nntodo
 	url = git@github.com:emacsmirror/nntodo.git
+[submodule "no-emoji"]
+	path = mirror/no-emoji
+	url = git@github.com:emacsmirror/no-emoji.git
 [submodule "no-littering"]
 	path = mirror/no-littering
 	url = git@github.com:emacsmirror/no-littering.git
@@ -12402,6 +12465,9 @@
 [submodule "ob-cfengine3"]
 	path = mirror/ob-cfengine3
 	url = git@github.com:emacsmirror/ob-cfengine3.git
+[submodule "ob-clojure-literate"]
+	path = mirror/ob-clojure-literate
+	url = git@github.com:emacsmirror/ob-clojure-literate.git
 [submodule "ob-clojurescript"]
 	path = mirror/ob-clojurescript
 	url = git@github.com:emacsmirror/ob-clojurescript.git
@@ -12996,6 +13062,9 @@
 	path = mirror/org-notebook
 	url = git@github.com:emacsmirror/org-notebook.git
 	branch = master
+[submodule "org-noter"]
+	path = mirror/org-noter
+	url = git@github.com:emacsmirror/org-noter.git
 [submodule "org-octopress"]
 	path = mirror/org-octopress
 	url = git@github.com:emacsmirror/org-octopress.git
@@ -13098,6 +13167,9 @@
 [submodule "org-seenthis"]
 	path = mirror/org-seenthis
 	url = git@github.com:emacsmirror/org-seenthis.git
+[submodule "org-send-ebook"]
+	path = mirror/org-send-ebook
+	url = git@github.com:emacsmirror/org-send-ebook.git
 [submodule "org-site"]
 	path = attic/org-site
 	url = git@github.com:emacsattic/org-site.git
@@ -16858,6 +16930,9 @@
 [submodule "spinner"]
 	path = mirror/spinner
 	url = git@github.com:emacsmirror/spinner.git
+[submodule "spiral"]
+	path = mirror/spiral
+	url = git@github.com:emacsmirror/spiral.git
 [submodule "split-root"]
 	path = mirror/split-root
 	url = git@github.com:emacsmirror/split-root.git
@@ -17727,6 +17802,9 @@
 [submodule "texdrive"]
 	path = attic/texdrive
 	url = git@github.com:emacsattic/texdrive.git
+[submodule "texfrag"]
+	path = mirror/texfrag
+	url = git@github.com:emacsmirror/texfrag.git
 [submodule "texinfo-nobreak"]
 	path = attic/texinfo-nobreak
 	url = git@github.com:emacsattic/texinfo-nobreak.git
@@ -18483,6 +18561,9 @@
 [submodule "units"]
 	path = attic/units
 	url = git@github.com:emacsattic/units.git
+[submodule "universal-emotions-emoticons"]
+	path = mirror/universal-emotions-emoticons
+	url = git@github.com:emacsmirror/universal-emotions-emoticons.git
 [submodule "unkillable-scratch"]
 	path = mirror/unkillable-scratch
 	url = git@github.com:emacsmirror/unkillable-scratch.git
