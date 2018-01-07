@@ -13645,6 +13645,9 @@
 	path = mirror/parsec
 	url = git@github.com:emacsmirror/parsec.git
 	branch = master
+[submodule "parseclj"]
+	path = mirror/parseclj
+	url = git@github.com:emacsmirror/parseclj.git
 [submodule "partially"]
 	path = attic/partially
 	url = git@github.com:emacsattic/partially.git
