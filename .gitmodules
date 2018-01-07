@@ -8210,8 +8210,8 @@
 	path = mirror/helm-orgcard
 	url = git@github.com:emacsmirror/helm-orgcard.git
 [submodule "helm-package"]
-	path = mirror/helm-package
-	url = git@github.com:emacsmirror/helm-package.git
+	path = attic/helm-package
+	url = git@github.com:emacsattic/helm-package.git
 [submodule "helm-pages"]
 	path = mirror/helm-pages
 	url = git@github.com:emacsmirror/helm-pages.git
