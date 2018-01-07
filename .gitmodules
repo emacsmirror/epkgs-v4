@@ -2564,9 +2564,6 @@
 	path = mirror/company-erlang
 	url = git@github.com:emacsmirror/company-erlang.git
 	branch = master
-[submodule "company-eshell-autosuggest"]
-	path = mirror/company-eshell-autosuggest
-	url = git@github.com:emacsmirror/company-eshell-autosuggest.git
 [submodule "company-ess"]
 	path = mirror/company-ess
 	url = git@github.com:emacsmirror/company-ess.git
@@ -4501,10 +4498,9 @@
 [submodule "eldoc-extension"]
 	path = mirror/eldoc-extension
 	url = git@github.com:emacsmirror/eldoc-extension.git
-[submodule "eldoc-overlay-mode"]
-	path = mirror/eldoc-overlay-mode
-	url = git@github.com:emacsmirror/eldoc-overlay-mode.git
-	branch = master
+[submodule "eldoc-overlay"]
+	path = mirror/eldoc-overlay
+	url = git@github.com:emacsmirror/eldoc-overlay.git
 [submodule "electric-case"]
 	path = mirror/electric-case
 	url = git@github.com:emacsmirror/electric-case.git
@@ -5188,6 +5184,9 @@
 [submodule "esense"]
 	path = attic/esense
 	url = git@github.com:emacsattic/esense.git
+[submodule "esh-autosuggest"]
+	path = mirror/esh-autosuggest
+	url = git@github.com:emacsmirror/esh-autosuggest.git
 [submodule "esh-buf-stack"]
 	path = mirror/esh-buf-stack
 	url = git@github.com:emacsmirror/esh-buf-stack.git
