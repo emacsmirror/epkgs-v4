@@ -6073,9 +6073,6 @@
 [submodule "flashcard-sm5"]
 	path = attic/flashcard-sm5
 	url = git@github.com:emacsattic/flashcard-sm5.git
-[submodule "flashmaker"]
-	path = mirror/flashmaker
-	url = git@github.com:emacsmirror/flashmaker.git
 [submodule "flatland-black-theme"]
 	path = mirror/flatland-black-theme
 	url = git@github.com:emacsmirror/flatland-black-theme.git
@@ -19220,18 +19217,9 @@
 [submodule "wiki-dot"]
 	path = attic/wiki-dot
 	url = git@github.com:emacsattic/wiki-dot.git
-[submodule "wiki-inter"]
-	path = attic/wiki-inter
-	url = git@github.com:emacsattic/wiki-inter.git
-[submodule "wiki-projects"]
-	path = attic/wiki-projects
-	url = git@github.com:emacsattic/wiki-projects.git
 [submodule "wiki-remote"]
 	path = mirror/wiki-remote
 	url = git@github.com:emacsmirror/wiki-remote.git
-[submodule "wiki-sum"]
-	path = attic/wiki-sum
-	url = git@github.com:emacsattic/wiki-sum.git
 [submodule "wiki-summary"]
 	path = mirror/wiki-summary
 	url = git@github.com:emacsmirror/wiki-summary.git
