@@ -4830,6 +4830,9 @@
 [submodule "emms"]
 	path = mirror/emms
 	url = git@github.com:emacsmirror/emms.git
+[submodule "emms-bilibili"]
+	path = mirror/emms-bilibili
+	url = git@github.com:emacsmirror/emms-bilibili.git
 [submodule "emms-get-lyrics"]
 	path = mirror/emms-get-lyrics
 	url = git@github.com:emacsmirror/emms-get-lyrics.git
@@ -6863,6 +6866,9 @@
 [submodule "gds"]
 	path = attic/gds
 	url = git@github.com:emacsattic/gds.git
+[submodule "gdscript-mode"]
+	path = mirror/gdscript-mode
+	url = git@github.com:emacsmirror/gdscript-mode.git
 [submodule "geben"]
 	path = mirror/geben
 	url = git@github.com:emacsmirror/geben.git
@@ -10676,6 +10682,9 @@
 [submodule "logito"]
 	path = mirror/logito
 	url = git@github.com:emacsmirror/logito.git
+[submodule "lognav-mode"]
+	path = mirror/lognav-mode
+	url = git@github.com:emacsmirror/lognav-mode.git
 [submodule "logstash-conf"]
 	path = mirror/logstash-conf
 	url = git@github.com:emacsmirror/logstash-conf.git
