@@ -14100,6 +14100,9 @@
 [submodule "pinboard-api"]
 	path = mirror/pinboard-api
 	url = git@github.com:emacsmirror/pinboard-api.git
+[submodule "pinentry"]
+	path = mirror/pinentry
+	url = git@github.com:emacsmirror/pinentry.git
 [submodule "pinot"]
 	path = mirror/pinot
 	url = git@github.com:emacsmirror/pinot.git
