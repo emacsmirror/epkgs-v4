@@ -19220,9 +19220,6 @@
 [submodule "wiki-dot"]
 	path = attic/wiki-dot
 	url = git@github.com:emacsattic/wiki-dot.git
-[submodule "wiki-remote"]
-	path = mirror/wiki-remote
-	url = git@github.com:emacsmirror/wiki-remote.git
 [submodule "wiki-summary"]
 	path = mirror/wiki-summary
 	url = git@github.com:emacsmirror/wiki-summary.git
