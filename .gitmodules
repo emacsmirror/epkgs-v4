@@ -11047,8 +11047,8 @@
 	path = mirror/mailx
 	url = git@github.com:emacsmirror/mailx.git
 [submodule "main-line"]
-	path = mirror/main-line
-	url = git@github.com:emacsmirror/main-line.git
+	path = attic/main-line
+	url = git@github.com:emacsattic/main-line.git
 [submodule "majapahit-theme"]
 	path = mirror/majapahit-theme
 	url = git@github.com:emacsmirror/majapahit-theme.git
