@@ -456,6 +456,9 @@
 [submodule "ani-fcsh"]
 	path = attic/ani-fcsh
 	url = git@github.com:emacsattic/ani-fcsh.git
+[submodule "anki-editor"]
+	path = mirror/anki-editor
+	url = git@github.com:emacsmirror/anki-editor.git
 [submodule "annot"]
 	path = attic/annot
 	url = git@github.com:emacsattic/annot.git
@@ -1319,6 +1322,9 @@
 	path = mirror/biblio
 	url = git@github.com:emacsmirror/biblio.git
 	branch = master
+[submodule "bibliothek"]
+	path = mirror/bibliothek
+	url = git@github.com:emacsmirror/bibliothek.git
 [submodule "bibretrieve"]
 	path = mirror/bibretrieve
 	url = git@github.com:emacsmirror/bibretrieve.git
@@ -1774,6 +1780,9 @@
 [submodule "cake2"]
 	path = mirror/cake2
 	url = git@github.com:emacsmirror/cake2.git
+[submodule "cakecrumbs"]
+	path = mirror/cakecrumbs
+	url = git@github.com:emacsmirror/cakecrumbs.git
 [submodule "cal-catholic"]
 	path = attic/cal-catholic
 	url = git@github.com:emacsattic/cal-catholic.git
@@ -2540,6 +2549,9 @@
 [submodule "company-cabal"]
 	path = mirror/company-cabal
 	url = git@github.com:emacsmirror/company-cabal.git
+[submodule "company-childframe"]
+	path = mirror/company-childframe
+	url = git@github.com:emacsmirror/company-childframe.git
 [submodule "company-coq"]
 	path = mirror/company-coq
 	url = git@github.com:emacsmirror/company-coq.git
@@ -2891,6 +2903,9 @@
 	path = mirror/cql-mode
 	url = git@github.com:emacsmirror/cql-mode.git
 	branch = master
+[submodule "cquery"]
+	path = mirror/cquery
+	url = git@github.com:emacsmirror/cquery.git
 [submodule "crab"]
 	path = attic/crab
 	url = git@github.com:emacsattic/crab.git
@@ -2982,6 +2997,9 @@
 [submodule "csr-mode"]
 	path = mirror/csr-mode
 	url = git@github.com:emacsmirror/csr-mode.git
+[submodule "css-autoprefixer"]
+	path = mirror/css-autoprefixer
+	url = git@github.com:emacsmirror/css-autoprefixer.git
 [submodule "css-comb"]
 	path = mirror/css-comb
 	url = git@github.com:emacsmirror/css-comb.git
@@ -4483,6 +4501,12 @@
 [submodule "elang"]
 	path = mirror/elang
 	url = git@github.com:emacsmirror/elang.git
+[submodule "elbank"]
+	path = mirror/elbank
+	url = git@github.com:emacsmirror/elbank.git
+[submodule "elcord"]
+	path = mirror/elcord
+	url = git@github.com:emacsmirror/elcord.git
 [submodule "eldav"]
 	path = attic/eldav
 	url = git@github.com:emacsattic/eldav.git
@@ -6024,6 +6048,9 @@
 [submodule "firestarter"]
 	path = mirror/firestarter
 	url = git@github.com:emacsmirror/firestarter.git
+[submodule "firrtl-mode"]
+	path = mirror/firrtl-mode
+	url = git@github.com:emacsmirror/firrtl-mode.git
 [submodule "fish-completion"]
 	path = mirror/fish-completion
 	url = git@github.com:emacsmirror/fish-completion.git
@@ -6249,6 +6276,9 @@
 [submodule "flycheck-google-cpplint"]
 	path = attic/flycheck-google-cpplint
 	url = git@github.com:emacsattic/flycheck-google-cpplint.git
+[submodule "flycheck-gradle"]
+	path = mirror/flycheck-gradle
+	url = git@github.com:emacsmirror/flycheck-gradle.git
 [submodule "flycheck-haskell"]
 	path = mirror/flycheck-haskell
 	url = git@github.com:emacsmirror/flycheck-haskell.git
@@ -6289,6 +6319,9 @@
 	path = mirror/flycheck-mix
 	url = git@github.com:emacsmirror/flycheck-mix.git
 	branch = master
+[submodule "flycheck-mmark"]
+	path = mirror/flycheck-mmark
+	url = git@github.com:emacsmirror/flycheck-mmark.git
 [submodule "flycheck-mypy"]
 	path = mirror/flycheck-mypy
 	url = git@github.com:emacsmirror/flycheck-mypy.git
@@ -6368,6 +6401,9 @@
 	path = mirror/flycheck-swift3
 	url = git@github.com:emacsmirror/flycheck-swift3.git
 	branch = master
+[submodule "flycheck-swiftlint"]
+	path = mirror/flycheck-swiftlint
+	url = git@github.com:emacsmirror/flycheck-swiftlint.git
 [submodule "flycheck-tip"]
 	path = mirror/flycheck-tip
 	url = git@github.com:emacsmirror/flycheck-tip.git
@@ -6382,6 +6418,9 @@
 	path = mirror/flycheck-vale
 	url = git@github.com:emacsmirror/flycheck-vale.git
 	branch = master
+[submodule "flycheck-xcode"]
+	path = mirror/flycheck-xcode
+	url = git@github.com:emacsmirror/flycheck-xcode.git
 [submodule "flycheck-yamllint"]
 	path = mirror/flycheck-yamllint
 	url = git@github.com:emacsmirror/flycheck-yamllint.git
@@ -7065,6 +7104,9 @@
 [submodule "git-modes"]
 	path = mirror/git-modes
 	url = git@github.com:emacsmirror/git-modes.git
+[submodule "git-msg-prefix"]
+	path = mirror/git-msg-prefix
+	url = git@github.com:emacsmirror/git-msg-prefix.git
 [submodule "git-ps1-mode"]
 	path = mirror/git-ps1-mode
 	url = git@github.com:emacsmirror/git-ps1-mode.git
@@ -7397,6 +7439,9 @@
 [submodule "golden-ratio-scroll-screen"]
 	path = mirror/golden-ratio-scroll-screen
 	url = git@github.com:emacsmirror/golden-ratio-scroll-screen.git
+[submodule "goldendict"]
+	path = mirror/goldendict
+	url = git@github.com:emacsmirror/goldendict.git
 [submodule "golint"]
 	path = mirror/golint
 	url = git@github.com:emacsmirror/golint.git
@@ -9201,6 +9246,9 @@
 [submodule "inf-clojure"]
 	path = mirror/inf-clojure
 	url = git@github.com:emacsmirror/inf-clojure.git
+[submodule "inf-crystal"]
+	path = mirror/inf-crystal
+	url = git@github.com:emacsmirror/inf-crystal.git
 [submodule "inf-js"]
 	path = attic/inf-js
 	url = git@github.com:emacsattic/inf-js.git
@@ -10768,6 +10816,9 @@
 [submodule "lsp-ocaml"]
 	path = mirror/lsp-ocaml
 	url = git@github.com:emacsmirror/lsp-ocaml.git
+[submodule "lsp-php"]
+	path = mirror/lsp-php
+	url = git@github.com:emacsmirror/lsp-php.git
 [submodule "lsp-python"]
 	path = mirror/lsp-python
 	url = git@github.com:emacsmirror/lsp-python.git
@@ -11244,6 +11295,9 @@
 [submodule "md-readme"]
 	path = mirror/md-readme
 	url = git@github.com:emacsmirror/md-readme.git
+[submodule "md4rd"]
+	path = mirror/md4rd
+	url = git@github.com:emacsmirror/md4rd.git
 [submodule "mdabbrev"]
 	path = mirror/mdabbrev
 	url = git@github.com:emacsmirror/mdabbrev.git
@@ -11595,6 +11649,9 @@
 [submodule "mojo"]
 	path = attic/mojo
 	url = git@github.com:emacsattic/mojo.git
+[submodule "molecule"]
+	path = mirror/molecule
+	url = git@github.com:emacsmirror/molecule.git
 [submodule "molokai-theme"]
 	path = mirror/molokai-theme
 	url = git@github.com:emacsmirror/molokai-theme.git
@@ -13245,6 +13302,9 @@
 [submodule "org-website"]
 	path = attic/org-website
 	url = git@github.com:emacsattic/org-website.git
+[submodule "org-wild-notifier"]
+	path = mirror/org-wild-notifier
+	url = git@github.com:emacsmirror/org-wild-notifier.git
 [submodule "org-wunderlist"]
 	path = mirror/org-wunderlist
 	url = git@github.com:emacsmirror/org-wunderlist.git
@@ -14162,9 +14222,15 @@
 	path = mirror/plantuml-mode
 	url = git@github.com:emacsmirror/plantuml-mode.git
 	branch = master
+[submodule "plaster"]
+	path = mirror/plaster
+	url = git@github.com:emacsmirror/plaster.git
 [submodule "platformio-mode"]
 	path = mirror/platformio-mode
 	url = git@github.com:emacsmirror/platformio-mode.git
+[submodule "play-crystal"]
+	path = mirror/play-crystal
+	url = git@github.com:emacsmirror/play-crystal.git
 [submodule "play-mode"]
 	path = attic/play-mode
 	url = git@github.com:emacsattic/play-mode.git
@@ -18619,6 +18685,9 @@
 [submodule "use-package"]
 	path = mirror/use-package
 	url = git@github.com:emacsmirror/use-package.git
+[submodule "use-package-el-get"]
+	path = mirror/use-package-el-get
+	url = git@github.com:emacsmirror/use-package-el-get.git
 [submodule "ushell"]
 	path = attic/ushell
 	url = git@github.com:emacsattic/ushell.git
@@ -18746,6 +18815,9 @@
 [submodule "vertica"]
 	path = mirror/vertica
 	url = git@github.com:emacsmirror/vertica.git
+[submodule "vertica-snippets"]
+	path = mirror/vertica-snippets
+	url = git@github.com:emacsmirror/vertica-snippets.git
 [submodule "vertigo"]
 	path = mirror/vertigo
 	url = git@github.com:emacsmirror/vertigo.git
