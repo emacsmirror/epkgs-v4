@@ -13150,9 +13150,8 @@
 	url = git@github.com:emacsmirror/org-parser.git
 	branch = master
 [submodule "org-password-manager"]
-	path = attic/org-password-manager
-	url = git@github.com:emacsattic/org-password-manager.git
-	branch = master
+	path = mirror/org-password-manager
+	url = git@github.com:emacsmirror/org-password-manager.git
 [submodule "org-pdfview"]
 	path = mirror/org-pdfview
 	url = git@github.com:emacsmirror/org-pdfview.git
