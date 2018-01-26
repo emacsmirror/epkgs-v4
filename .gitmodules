@@ -15131,6 +15131,9 @@
 [submodule "rbenv"]
 	path = mirror/rbenv
 	url = git@github.com:emacsmirror/rbenv.git
+[submodule "rbit"]
+	path = mirror/rbit
+	url = git@github.com:emacsmirror/rbit.git
 [submodule "rbt"]
 	path = mirror/rbt
 	url = git@github.com:emacsmirror/rbt.git
@@ -20065,6 +20068,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "rbit"]
-	path = mirror/rbit
-	url = git@github.com:emacsmirror/rbit.git
