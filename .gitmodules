@@ -4559,9 +4559,6 @@
 [submodule "elfeed-protocol"]
 	path = mirror/elfeed-protocol
 	url = git@github.com:emacsmirror/elfeed-protocol.git
-[submodule "elgyach"]
-	path = attic/elgyach
-	url = git@github.com:emacsattic/elgyach.git
 [submodule "elhome"]
 	path = mirror/elhome
 	url = git@github.com:emacsmirror/elhome.git
@@ -7763,6 +7760,9 @@
 	path = mirror/gxref
 	url = git@github.com:emacsmirror/gxref.git
 	branch = master
+[submodule "gyach"]
+	path = attic/gyach
+	url = git@github.com:emacsattic/gyach.git
 [submodule "h2o"]
 	path = mirror/h2o
 	url = git@github.com:emacsmirror/h2o.git
