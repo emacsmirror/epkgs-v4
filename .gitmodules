@@ -4599,9 +4599,9 @@
 [submodule "elisp-slime-nav"]
 	path = mirror/elisp-slime-nav
 	url = git@github.com:emacsmirror/elisp-slime-nav.git
-[submodule "elite"]
-	path = attic/elite
-	url = git@github.com:emacsattic/elite.git
+[submodule "elite-for-emacs"]
+	path = attic/elite-for-emacs
+	url = git@github.com:emacsattic/elite-for-emacs.git
 [submodule "elixir-mode"]
 	path = mirror/elixir-mode
 	url = git@github.com:emacsmirror/elixir-mode.git
@@ -4657,9 +4657,6 @@
 [submodule "elpad-client"]
 	path = mirror/elpad-client
 	url = git@github.com:emacsmirror/elpad-client.git
-[submodule "elpoint"]
-	path = attic/elpoint
-	url = git@github.com:emacsattic/elpoint.git
 [submodule "elpp"]
 	path = attic/elpp
 	url = git@github.com:emacsattic/elpp.git
@@ -5036,6 +5033,9 @@
 [submodule "eproject-peepopen"]
 	path = mirror/eproject-peepopen
 	url = git@github.com:emacsmirror/eproject-peepopen.git
+[submodule "ept"]
+	path = attic/ept
+	url = git@github.com:emacsattic/ept.git
 [submodule "epydoc"]
 	path = mirror/epydoc
 	url = git@github.com:emacsmirror/epydoc.git
