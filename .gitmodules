@@ -7628,8 +7628,8 @@
 	url = git@github.com:emacsmirror/green-screen-theme.git
 	branch = master
 [submodule "gregorio-mode"]
-	path = attic/gregorio-mode
-	url = git@github.com:emacsattic/gregorio-mode.git
+	path = mirror/gregorio-mode
+	url = git@github.com:emacsmirror/gregorio-mode.git
 [submodule "grep+"]
 	path = mirror/grep+
 	url = git@github.com:emacsmirror/grep-plus.git
