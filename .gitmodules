@@ -16194,8 +16194,8 @@
 	path = mirror/sequences
 	url = git@github.com:emacsmirror/sequences.git
 [submodule "sequential-command"]
-	path = attic/sequential-command
-	url = git@github.com:emacsattic/sequential-command.git
+	path = mirror/sequential-command
+	url = git@github.com:emacsmirror/sequential-command.git
 [submodule "servant"]
 	path = mirror/servant
 	url = git@github.com:emacsmirror/servant.git
