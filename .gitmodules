@@ -4564,9 +4564,6 @@
 [submodule "elim"]
 	path = attic/elim
 	url = git@github.com:emacsattic/elim.git
-[submodule "elinstall"]
-	path = attic/elinstall
-	url = git@github.com:emacsattic/elinstall.git
 [submodule "elisp-depend"]
 	path = mirror/elisp-depend
 	url = git@github.com:emacsmirror/elisp-depend.git
@@ -4824,9 +4821,6 @@
 [submodule "emeteo"]
 	path = attic/emeteo
 	url = git@github.com:emacsattic/emeteo.git
-[submodule "emhacks"]
-	path = attic/emhacks
-	url = git@github.com:emacsattic/emhacks.git
 [submodule "emir"]
 	path = mirror/emir
 	url = git@github.com:emacsmirror/emir.git
@@ -4918,9 +4912,6 @@
 [submodule "emsane"]
 	path = mirror/emsane
 	url = git@github.com:emacsmirror/emsane.git
-[submodule "emtest"]
-	path = attic/emtest
-	url = git@github.com:emacsattic/emtest.git
 [submodule "emuds"]
 	path = attic/emuds
 	url = git@github.com:emacsattic/emuds.git
@@ -8830,9 +8821,6 @@
 [submodule "http"]
 	path = mirror/http
 	url = git@github.com:emacsmirror/http.git
-[submodule "http-emacs"]
-	path = attic/http-emacs
-	url = git@github.com:emacsattic/http-emacs.git
 [submodule "http-post-simple"]
 	path = mirror/http-post-simple
 	url = git@github.com:emacsmirror/http-post-simple.git
@@ -10650,9 +10638,6 @@
 [submodule "livid-mode"]
 	path = mirror/livid-mode
 	url = git@github.com:emacsmirror/livid-mode.git
-[submodule "llvm-mode"]
-	path = attic/llvm-mode
-	url = git@github.com:emacsattic/llvm-mode.git
 [submodule "lmc"]
 	path = mirror/lmc
 	url = git@github.com:emacsmirror/lmc.git
@@ -13599,9 +13584,6 @@
 [submodule "pacmacs"]
 	path = mirror/pacmacs
 	url = git@github.com:emacsmirror/pacmacs.git
-[submodule "padr"]
-	path = attic/padr
-	url = git@github.com:emacsattic/padr.git
 [submodule "paganini-theme"]
 	path = mirror/paganini-theme
 	url = git@github.com:emacsmirror/paganini-theme.git
@@ -17562,9 +17544,6 @@
 [submodule "tabbar-ruler"]
 	path = mirror/tabbar-ruler
 	url = git@github.com:emacsmirror/tabbar-ruler.git
-[submodule "tablegen-mode"]
-	path = attic/tablegen-mode
-	url = git@github.com:emacsattic/tablegen-mode.git
 [submodule "tablist"]
 	path = mirror/tablist
 	url = git@github.com:emacsmirror/tablist.git
