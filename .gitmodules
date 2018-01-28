@@ -17897,8 +17897,8 @@
 	path = mirror/textmate-to-yas
 	url = git@github.com:emacsmirror/textmate-to-yas.git
 [submodule "textmenu"]
-	path = mirror/textmenu
-	url = git@github.com:emacsmirror/textmenu.git
+	path = attic/textmenu
+	url = git@github.com:emacsattic/textmenu.git
 [submodule "textsnip"]
 	path = mirror/textsnip
 	url = git@github.com:emacsmirror/textsnip.git
