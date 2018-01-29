@@ -4558,9 +4558,6 @@
 [submodule "elhome"]
 	path = mirror/elhome
 	url = git@github.com:emacsmirror/elhome.git
-[submodule "elib"]
-	path = attic/elib
-	url = git@github.com:emacsattic/elib.git
 [submodule "elim"]
 	path = attic/elim
 	url = git@github.com:emacsattic/elim.git
@@ -9527,9 +9524,6 @@
 	path = mirror/itasca
 	url = git@github.com:emacsmirror/itasca.git
 	branch = master
-[submodule "ite"]
-	path = attic/ite
-	url = git@github.com:emacsattic/ite.git
 [submodule "iter2"]
 	path = mirror/iter2
 	url = git@github.com:emacsmirror/iter2.git
@@ -12793,9 +12787,6 @@
 [submodule "online-search"]
 	path = mirror/online-search
 	url = git@github.com:emacsmirror/online-search.git
-[submodule "oo-browser"]
-	path = attic/oo-browser
-	url = git@github.com:emacsattic/oo-browser.git
 [submodule "opam"]
 	path = mirror/opam
 	url = git@github.com:emacsmirror/opam.git
@@ -14640,9 +14631,6 @@
 [submodule "protobuf-mode"]
 	path = mirror/protobuf-mode
 	url = git@github.com:emacsmirror/protobuf-mode.git
-[submodule "protocolarium"]
-	path = attic/protocolarium
-	url = git@github.com:emacsattic/protocolarium.git
 [submodule "protocols"]
 	path = mirror/protocols
 	url = git@github.com:emacsmirror/protocols.git
