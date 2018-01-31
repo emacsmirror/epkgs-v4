@@ -2339,8 +2339,8 @@
 	path = mirror/cobra-mode
 	url = git@github.com:emacsmirror/cobra-mode.git
 [submodule "cocol"]
-	path = mirror/cocol
-	url = git@github.com:emacsmirror/cocol.git
+	path = attic/cocol
+	url = git@github.com:emacsattic/cocol.git
 [submodule "code-imports"]
 	path = mirror/code-imports
 	url = git@github.com:emacsmirror/code-imports.git
@@ -8609,8 +8609,8 @@
 	path = attic/himark
 	url = git@github.com:emacsattic/himark.git
 [submodule "himarks-mode"]
-	path = mirror/himarks-mode
-	url = git@github.com:emacsmirror/himarks-mode.git
+	path = attic/himarks-mode
+	url = git@github.com:emacsattic/himarks-mode.git
 [submodule "himp"]
 	path = mirror/himp
 	url = git@github.com:emacsmirror/himp.git
@@ -11927,8 +11927,8 @@
 	path = mirror/multiverse
 	url = git@github.com:emacsmirror/multiverse.git
 [submodule "multr"]
-	path = mirror/multr
-	url = git@github.com:emacsmirror/multr.git
+	path = attic/multr
+	url = git@github.com:emacsattic/multr.git
 [submodule "mupad"]
 	path = attic/mupad
 	url = git@github.com:emacsattic/mupad.git
@@ -14449,8 +14449,8 @@
 	url = git@github.com:emacsmirror/prassee-theme.git
 	branch = master
 [submodule "prefixkey"]
-	path = mirror/prefixkey
-	url = git@github.com:emacsmirror/prefixkey.git
+	path = attic/prefixkey
+	url = git@github.com:emacsattic/prefixkey.git
 [submodule "preproc-font-lock"]
 	path = mirror/preproc-font-lock
 	url = git@github.com:emacsmirror/preproc-font-lock.git
@@ -15177,8 +15177,8 @@
 	path = mirror/rdf-prefix
 	url = git@github.com:emacsmirror/rdf-prefix.git
 [submodule "rdict"]
-	path = mirror/rdict
-	url = git@github.com:emacsmirror/rdict.git
+	path = attic/rdict
+	url = git@github.com:emacsattic/rdict.git
 [submodule "rdictcc"]
 	path = mirror/rdictcc
 	url = git@github.com:emacsmirror/rdictcc.git
@@ -18189,8 +18189,8 @@
 	url = git@github.com:emacsmirror/toxi-theme.git
 	branch = master
 [submodule "tpum"]
-	path = mirror/tpum
-	url = git@github.com:emacsmirror/tpum.git
+	path = attic/tpum
+	url = git@github.com:emacsattic/tpum.git
 [submodule "tql-mode"]
 	path = mirror/tql-mode
 	url = git@github.com:emacsmirror/tql-mode.git
