@@ -10351,6 +10351,9 @@
 [submodule "lcomp"]
 	path = mirror/lcomp
 	url = git@github.com:emacsmirror/lcomp.git
+[submodule "lcr"]
+	path = mirror/lcr
+	url = git@github.com:emacsmirror/lcr.git
 [submodule "ldap-mode"]
 	path = mirror/ldap-mode
 	url = git@github.com:emacsmirror/ldap-mode.git
