@@ -1129,6 +1129,9 @@
 	path = mirror/bar-cursor
 	url = git@github.com:emacsmirror/bar-cursor.git
 	branch = master
+[submodule "bart-mode"]
+	path = mirror/bart-mode
+	url = git@github.com:emacsmirror/bart-mode.git
 [submodule "base16-theme"]
 	path = mirror/base16-theme
 	url = git@github.com:emacsmirror/base16-theme.git
@@ -4500,6 +4503,9 @@
 [submodule "elbank"]
 	path = mirror/elbank
 	url = git@github.com:emacsmirror/elbank.git
+[submodule "elcontext"]
+	path = mirror/elcontext
+	url = git@github.com:emacsmirror/elcontext.git
 [submodule "elcord"]
 	path = mirror/elcord
 	url = git@github.com:emacsmirror/elcord.git
@@ -7033,6 +7039,9 @@
 [submodule "git-annex"]
 	path = mirror/git-annex
 	url = git@github.com:emacsmirror/git-annex.git
+[submodule "git-attr"]
+	path = mirror/git-attr
+	url = git@github.com:emacsmirror/git-attr.git
 [submodule "git-auto-commit"]
 	path = mirror/git-auto-commit
 	url = git@github.com:emacsmirror/git-auto-commit.git
@@ -11888,6 +11897,9 @@
 [submodule "multi-region"]
 	path = attic/multi-region
 	url = git@github.com:emacsattic/multi-region.git
+[submodule "multi-run"]
+	path = mirror/multi-run
+	url = git@github.com:emacsmirror/multi-run.git
 [submodule "multi-scratch"]
 	path = mirror/multi-scratch
 	url = git@github.com:emacsmirror/multi-scratch.git
@@ -12346,6 +12358,9 @@
 [submodule "nord-theme"]
 	path = mirror/nord-theme
 	url = git@github.com:emacsmirror/nord-theme.git
+[submodule "nordless-theme"]
+	path = mirror/nordless-theme
+	url = git@github.com:emacsmirror/nordless-theme.git
 [submodule "nose"]
 	path = mirror/nose
 	url = git@github.com:emacsmirror/nose.git
@@ -13612,6 +13627,9 @@
 [submodule "pamparam"]
 	path = mirror/pamparam
 	url = git@github.com:emacsmirror/pamparam.git
+[submodule "panda-theme"]
+	path = mirror/panda-theme
+	url = git@github.com:emacsmirror/panda-theme.git
 [submodule "pandoc"]
 	path = mirror/pandoc
 	url = git@github.com:emacsmirror/pandoc.git
@@ -14150,6 +14168,9 @@
 [submodule "pip-requirements"]
 	path = mirror/pip-requirements
 	url = git@github.com:emacsmirror/pip-requirements.git
+[submodule "pipenv"]
+	path = mirror/pipenv
+	url = git@github.com:emacsmirror/pipenv.git
 [submodule "pippel"]
 	path = mirror/pippel
 	url = git@github.com:emacsmirror/pippel.git
@@ -14213,6 +14234,9 @@
 	path = mirror/playerctl
 	url = git@github.com:emacsmirror/playerctl.git
 	branch = master
+[submodule "playground"]
+	path = mirror/playground
+	url = git@github.com:emacsmirror/playground.git
 [submodule "playlist"]
 	path = attic/playlist
 	url = git@github.com:emacsattic/playlist.git
@@ -14398,6 +14422,9 @@
 [submodule "pos-tip"]
 	path = mirror/pos-tip
 	url = git@github.com:emacsmirror/pos-tip.git
+[submodule "posframe"]
+	path = mirror/posframe
+	url = git@github.com:emacsmirror/posframe.git
 [submodule "posn-on-screen"]
 	path = mirror/posn-on-screen
 	url = git@github.com:emacsmirror/posn-on-screen.git
@@ -14836,6 +14863,9 @@
 [submodule "pymacs"]
 	path = attic/pymacs
 	url = git@github.com:emacsattic/pymacs.git
+[submodule "pynt"]
+	path = mirror/pynt
+	url = git@github.com:emacsmirror/pynt.git
 [submodule "pytest"]
 	path = mirror/pytest
 	url = git@github.com:emacsmirror/pytest.git
@@ -15773,6 +15803,9 @@
 [submodule "rufo"]
 	path = mirror/rufo
 	url = git@github.com:emacsmirror/rufo.git
+[submodule "rum-mode"]
+	path = mirror/rum-mode
+	url = git@github.com:emacsmirror/rum-mode.git
 [submodule "run-assoc"]
 	path = mirror/run-assoc
 	url = git@github.com:emacsmirror/run-assoc.git
