@@ -1933,9 +1933,9 @@
 [submodule "centered-cursor-mode"]
 	path = mirror/centered-cursor-mode
 	url = git@github.com:emacsmirror/centered-cursor-mode.git
-[submodule "centered-window-mode"]
-	path = mirror/centered-window-mode
-	url = git@github.com:emacsmirror/centered-window-mode.git
+[submodule "centered-window"]
+	path = mirror/centered-window
+	url = git@github.com:emacsmirror/centered-window.git
 [submodule "centering"]
 	path = attic/centering
 	url = git@github.com:emacsattic/centering.git
