@@ -1061,6 +1061,9 @@
 	path = mirror/aws-ec2
 	url = git@github.com:emacsmirror/aws-ec2.git
 	branch = master
+[submodule "aws-snippets"]
+	path = mirror/aws-snippets
+	url = git@github.com:emacsmirror/aws-snippets.git
 [submodule "axcess"]
 	path = attic/axcess
 	url = git@github.com:emacsattic/axcess.git
@@ -2641,6 +2644,9 @@
 [submodule "company-shell"]
 	path = mirror/company-shell
 	url = git@github.com:emacsmirror/company-shell.git
+[submodule "company-solidity"]
+	path = mirror/company-solidity
+	url = git@github.com:emacsmirror/company-solidity.git
 [submodule "company-statistics"]
 	path = mirror/company-statistics
 	url = git@github.com:emacsmirror/company-statistics.git
@@ -5652,6 +5658,9 @@
 [submodule "external-abook"]
 	path = mirror/external-abook
 	url = git@github.com:emacsmirror/external-abook.git
+[submodule "extmap"]
+	path = mirror/extmap
+	url = git@github.com:emacsmirror/extmap.git
 [submodule "extract-ical"]
 	path = attic/extract-ical
 	url = git@github.com:emacsattic/extract-ical.git
@@ -5794,6 +5803,9 @@
 [submodule "feature-mode"]
 	path = mirror/feature-mode
 	url = git@github.com:emacsmirror/feature-mode.git
+[submodule "feebleline"]
+	path = mirror/feebleline
+	url = git@github.com:emacsmirror/feebleline.git
 [submodule "fenc"]
 	path = mirror/fenc
 	url = git@github.com:emacsmirror/fenc.git
@@ -9280,6 +9292,9 @@
 	path = mirror/info-buffer
 	url = git@github.com:emacsmirror/info-buffer.git
 	branch = master
+[submodule "info-colors"]
+	path = mirror/info-colors
+	url = git@github.com:emacsmirror/info-colors.git
 [submodule "info-lookmore"]
 	path = mirror/info-lookmore
 	url = git@github.com:emacsmirror/info-lookmore.git
@@ -11680,6 +11695,9 @@
 	path = mirror/monokai-theme
 	url = git@github.com:emacsmirror/monokai-theme.git
 	branch = master
+[submodule "monotropic-theme"]
+	path = mirror/monotropic-theme
+	url = git@github.com:emacsmirror/monotropic-theme.git
 [submodule "monroe"]
 	path = mirror/monroe
 	url = git@github.com:emacsmirror/monroe.git
@@ -15303,6 +15321,9 @@
 [submodule "recentf-ext"]
 	path = mirror/recentf-ext
 	url = git@github.com:emacsmirror/recentf-ext.git
+[submodule "recentf-remove-sudo-tramp-prefix"]
+	path = mirror/recentf-remove-sudo-tramp-prefix
+	url = git@github.com:emacsmirror/recentf-remove-sudo-tramp-prefix.git
 [submodule "recipe-mode"]
 	path = mirror/recipe-mode
 	url = git@github.com:emacsmirror/recipe-mode.git
@@ -15869,6 +15890,9 @@
 [submodule "s3"]
 	path = mirror/s3
 	url = git@github.com:emacsmirror/s3.git
+[submodule "s3ed"]
+	path = mirror/s3ed
+	url = git@github.com:emacsmirror/s3ed.git
 [submodule "sa-learn-invoke"]
 	path = attic/sa-learn-invoke
 	url = git@github.com:emacsattic/sa-learn-invoke.git
@@ -18695,6 +18719,9 @@
 [submodule "ushell"]
 	path = attic/ushell
 	url = git@github.com:emacsattic/ushell.git
+[submodule "usql"]
+	path = mirror/usql
+	url = git@github.com:emacsmirror/usql.git
 [submodule "utf-8m"]
 	path = attic/utf-8m
 	url = git@github.com:emacsattic/utf-8m.git
