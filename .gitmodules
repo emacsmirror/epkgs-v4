@@ -1861,9 +1861,6 @@
 [submodule "cat-safe"]
 	path = mirror/cat-safe
 	url = git@github.com:emacsmirror/cat-safe.git
-[submodule "catdoc"]
-	path = attic/catdoc
-	url = git@github.com:emacsattic/catdoc.git
 [submodule "catmacs"]
 	path = mirror/catmacs
 	url = git@github.com:emacsmirror/catmacs.git
@@ -8703,9 +8700,6 @@
 [submodule "hookify"]
 	path = mirror/hookify
 	url = git@github.com:emacsmirror/hookify.git
-[submodule "horoscope"]
-	path = attic/horoscope
-	url = git@github.com:emacsattic/horoscope.git
 [submodule "host-fns"]
 	path = mirror/host-fns
 	url = git@github.com:emacsmirror/host-fns.git
@@ -9530,9 +9524,6 @@
 [submodule "itunes"]
 	path = attic/itunes
 	url = git@github.com:emacsattic/itunes.git
-[submodule "iuscheme"]
-	path = attic/iuscheme
-	url = git@github.com:emacsattic/iuscheme.git
 [submodule "ivariants"]
 	path = mirror/ivariants
 	url = git@github.com:emacsmirror/ivariants.git
@@ -10110,12 +10101,6 @@
 [submodule "kibit-mode"]
 	path = mirror/kibit-mode
 	url = git@github.com:emacsmirror/kibit-mode.git
-[submodule "kibologize"]
-	path = attic/kibologize
-	url = git@github.com:emacsattic/kibologize.git
-[submodule "kill-a-lawyer"]
-	path = attic/kill-a-lawyer
-	url = git@github.com:emacsattic/kill-a-lawyer.git
 [submodule "kill-buffers"]
 	path = attic/kill-buffers
 	url = git@github.com:emacsattic/kill-buffers.git
@@ -13745,9 +13730,6 @@
 [submodule "pbcopy"]
 	path = mirror/pbcopy
 	url = git@github.com:emacsmirror/pbcopy.git
-[submodule "pbook"]
-	path = attic/pbook
-	url = git@github.com:emacsattic/pbook.git
 [submodule "pc-bufsw"]
 	path = mirror/pc-bufsw
 	url = git@github.com:emacsmirror/pc-bufsw.git
@@ -16408,9 +16390,6 @@
 	path = mirror/silkworm-theme
 	url = git@github.com:emacsmirror/silkworm-theme.git
 	branch = master
-[submodule "silly-mail"]
-	path = attic/silly-mail
-	url = git@github.com:emacsattic/silly-mail.git
 [submodule "simo"]
 	path = mirror/simo
 	url = git@github.com:emacsmirror/simo.git
@@ -17646,9 +17625,6 @@
 [submodule "teco"]
 	path = mirror/teco
 	url = git@github.com:emacsmirror/teco.git
-[submodule "tee"]
-	path = attic/tee
-	url = git@github.com:emacsattic/tee.git
 [submodule "tehom-1"]
 	path = attic/tehom-1
 	url = git@github.com:emacsattic/tehom-1.git
@@ -18437,9 +18413,6 @@
 [submodule "u8tex"]
 	path = attic/u8tex
 	url = git@github.com:emacsattic/u8tex.git
-[submodule "uboat"]
-	path = attic/uboat
-	url = git@github.com:emacsattic/uboat.git
 [submodule "ubuntu-theme"]
 	path = mirror/ubuntu-theme
 	url = git@github.com:emacsmirror/ubuntu-theme.git
@@ -19031,9 +19004,6 @@
 [submodule "wanderlust"]
 	path = mirror/wanderlust
 	url = git@github.com:emacsmirror/wanderlust.git
-[submodule "warlord"]
-	path = attic/warlord
-	url = git@github.com:emacsattic/warlord.git
 [submodule "warm-night-theme"]
 	path = mirror/warm-night-theme
 	url = git@github.com:emacsmirror/warm-night-theme.git
