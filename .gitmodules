@@ -389,9 +389,6 @@
 [submodule "amarok"]
 	path = mirror/amarok
 	url = git@github.com:emacsmirror/amarok.git
-[submodule "amazon"]
-	path = attic/amazon
-	url = git@github.com:emacsattic/amazon.git
 [submodule "amd-mode"]
 	path = mirror/amd-mode
 	url = git@github.com:emacsmirror/amd-mode.git
@@ -1305,9 +1302,6 @@
 [submodule "bfbuilder"]
 	path = mirror/bfbuilder
 	url = git@github.com:emacsmirror/bfbuilder.git
-[submodule "bg-rlogin-setup"]
-	path = attic/bg-rlogin-setup
-	url = git@github.com:emacsattic/bg-rlogin-setup.git
 [submodule "bhl"]
 	path = attic/bhl
 	url = git@github.com:emacsattic/bhl.git
@@ -1333,9 +1327,6 @@
 [submodule "bibslurp"]
 	path = mirror/bibslurp
 	url = git@github.com:emacsmirror/bibslurp.git
-[submodule "bibsnarf"]
-	path = attic/bibsnarf
-	url = git@github.com:emacsattic/bibsnarf.git
 [submodule "bibtex-mode"]
 	path = attic/bibtex-mode
 	url = git@github.com:emacsattic/bibtex-mode.git
@@ -2314,9 +2305,6 @@
 [submodule "cmake-project"]
 	path = mirror/cmake-project
 	url = git@github.com:emacsmirror/cmake-project.git
-[submodule "cmd-mode"]
-	path = attic/cmd-mode
-	url = git@github.com:emacsattic/cmd-mode.git
 [submodule "cmd-to-echo"]
 	path = mirror/cmd-to-echo
 	url = git@github.com:emacsmirror/cmd-to-echo.git
@@ -2756,9 +2744,6 @@
 	path = mirror/contrast-color
 	url = git@github.com:emacsmirror/contrast-color.git
 	branch = master
-[submodule "control-lock"]
-	path = attic/control-lock
-	url = git@github.com:emacsattic/control-lock.git
 [submodule "control-mode"]
 	path = mirror/control-mode
 	url = git@github.com:emacsmirror/control-mode.git
@@ -3920,9 +3905,6 @@
 [submodule "doremi-mac"]
 	path = mirror/doremi-mac
 	url = git@github.com:emacsmirror/doremi-mac.git
-[submodule "dos-indent"]
-	path = attic/dos-indent
-	url = git@github.com:emacsattic/dos-indent.git
 [submodule "dot-emacs-helper"]
 	path = mirror/dot-emacs-helper
 	url = git@github.com:emacsmirror/dot-emacs-helper.git
@@ -5661,9 +5643,6 @@
 [submodule "extmap"]
 	path = mirror/extmap
 	url = git@github.com:emacsmirror/extmap.git
-[submodule "extract-ical"]
-	path = attic/extract-ical
-	url = git@github.com:emacsattic/extract-ical.git
 [submodule "extract-text"]
 	path = mirror/extract-text
 	url = git@github.com:emacsmirror/extract-text.git
@@ -7416,9 +7395,6 @@
 	path = mirror/gobgen
 	url = git@github.com:emacsmirror/gobgen.git
 	branch = master
-[submodule "gobject-class"]
-	path = attic/gobject-class
-	url = git@github.com:emacsattic/gobject-class.git
 [submodule "goby"]
 	path = mirror/goby
 	url = git@github.com:emacsmirror/goby.git
@@ -7562,9 +7538,6 @@
 [submodule "grade"]
 	path = attic/grade
 	url = git@github.com:emacsattic/grade.git
-[submodule "gradebook"]
-	path = attic/gradebook
-	url = git@github.com:emacsattic/gradebook.git
 [submodule "gradle"]
 	path = mirror/gradle
 	url = git@github.com:emacsmirror/gradle.git
@@ -8517,9 +8490,6 @@
 [submodule "hide-url"]
 	path = mirror/hide-url
 	url = git@github.com:emacsmirror/hide-url.git
-[submodule "hidesearch"]
-	path = attic/hidesearch
-	url = git@github.com:emacsattic/hidesearch.git
 [submodule "hideshow-org"]
 	path = mirror/hideshow-org
 	url = git@github.com:emacsmirror/hideshow-org.git
@@ -8761,9 +8731,6 @@
 [submodule "hsearch"]
 	path = mirror/hsearch
 	url = git@github.com:emacsmirror/hsearch.git
-[submodule "hsv2rgb"]
-	path = attic/hsv2rgb
-	url = git@github.com:emacsattic/hsv2rgb.git
 [submodule "ht"]
 	path = mirror/ht
 	url = git@github.com:emacsmirror/ht.git
@@ -9159,9 +9126,6 @@
 [submodule "imdb-adds-mode"]
 	path = attic/imdb-adds-mode
 	url = git@github.com:emacsattic/imdb-adds-mode.git
-[submodule "imdbs"]
-	path = attic/imdbs
-	url = git@github.com:emacsattic/imdbs.git
 [submodule "imenu+"]
 	path = mirror/imenu+
 	url = git@github.com:emacsmirror/imenu-plus.git
@@ -11200,9 +11164,6 @@
 [submodule "marker-visit"]
 	path = attic/marker-visit
 	url = git@github.com:emacsattic/marker-visit.git
-[submodule "markerpen"]
-	path = attic/markerpen
-	url = git@github.com:emacsattic/markerpen.git
 [submodule "markup"]
 	path = mirror/markup
 	url = git@github.com:emacsmirror/markup.git
@@ -12670,9 +12631,6 @@
 [submodule "occur-context-resize"]
 	path = mirror/occur-context-resize
 	url = git@github.com:emacsmirror/occur-context-resize.git
-[submodule "occur-schroeder"]
-	path = attic/occur-schroeder
-	url = git@github.com:emacsattic/occur-schroeder.git
 [submodule "occur-x"]
 	path = mirror/occur-x
 	url = git@github.com:emacsmirror/occur-x.git
@@ -13854,9 +13812,6 @@
 [submodule "pdfscan"]
 	path = mirror/pdfscan
 	url = git@github.com:emacsmirror/pdfscan.git
-[submodule "pdftools"]
-	path = attic/pdftools
-	url = git@github.com:emacsattic/pdftools.git
 [submodule "peacock-theme"]
 	path = mirror/peacock-theme
 	url = git@github.com:emacsmirror/peacock-theme.git
@@ -14209,9 +14164,6 @@
 [submodule "planner"]
 	path = attic/planner
 	url = git@github.com:emacsattic/planner.git
-[submodule "planner-hierarchy"]
-	path = attic/planner-hierarchy
-	url = git@github.com:emacsattic/planner-hierarchy.git
 [submodule "plantuml-mode"]
 	path = mirror/plantuml-mode
 	url = git@github.com:emacsmirror/plantuml-mode.git
@@ -17273,9 +17225,6 @@
 [submodule "stripes"]
 	path = mirror/stripes
 	url = git@github.com:emacsmirror/stripes.git
-[submodule "strptime"]
-	path = attic/strptime
-	url = git@github.com:emacsattic/strptime.git
 [submodule "structure-edit"]
 	path = attic/structure-edit
 	url = git@github.com:emacsattic/structure-edit.git
@@ -19531,9 +19480,6 @@
 [submodule "wrap-region"]
 	path = mirror/wrap-region
 	url = git@github.com:emacsmirror/wrap-region.git
-[submodule "write-or-die"]
-	path = attic/write-or-die
-	url = git@github.com:emacsattic/write-or-die.git
 [submodule "write-subdirs-el"]
 	path = attic/write-subdirs-el
 	url = git@github.com:emacsattic/write-subdirs-el.git
