@@ -12541,9 +12541,6 @@
 [submodule "ob-cfengine3"]
 	path = mirror/ob-cfengine3
 	url = git@github.com:emacsmirror/ob-cfengine3.git
-[submodule "ob-clojure-literate"]
-	path = mirror/ob-clojure-literate
-	url = git@github.com:emacsmirror/ob-clojure-literate.git
 [submodule "ob-clojurescript"]
 	path = mirror/ob-clojurescript
 	url = git@github.com:emacsmirror/ob-clojurescript.git
@@ -12609,20 +12606,12 @@
 	path = mirror/ob-nim
 	url = git@github.com:emacsmirror/ob-nim.git
 	branch = master
-[submodule "ob-php"]
-	path = mirror/ob-php
-	url = git@github.com:emacsmirror/ob-php.git
-	branch = master
 [submodule "ob-prolog"]
 	path = mirror/ob-prolog
 	url = git@github.com:emacsmirror/ob-prolog.git
 [submodule "ob-pygment"]
 	path = attic/ob-pygment
 	url = git@github.com:emacsattic/ob-pygment.git
-[submodule "ob-redis"]
-	path = mirror/ob-redis
-	url = git@github.com:emacsmirror/ob-redis.git
-	branch = master
 [submodule "ob-restclient"]
 	path = mirror/ob-restclient
 	url = git@github.com:emacsmirror/ob-restclient.git
@@ -12633,17 +12622,9 @@
 	path = mirror/ob-sagemath
 	url = git@github.com:emacsmirror/ob-sagemath.git
 	branch = master
-[submodule "ob-smiles"]
-	path = mirror/ob-smiles
-	url = git@github.com:emacsmirror/ob-smiles.git
-	branch = master
 [submodule "ob-sml"]
 	path = mirror/ob-sml
 	url = git@github.com:emacsmirror/ob-sml.git
-[submodule "ob-spice"]
-	path = mirror/ob-spice
-	url = git@github.com:emacsmirror/ob-spice.git
-	branch = master
 [submodule "ob-sql-mode"]
 	path = mirror/ob-sql-mode
 	url = git@github.com:emacsmirror/ob-sql-mode.git
