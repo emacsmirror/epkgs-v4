@@ -8328,6 +8328,9 @@
 [submodule "helm-recoll"]
 	path = mirror/helm-recoll
 	url = git@github.com:emacsmirror/helm-recoll.git
+[submodule "helm-rg"]
+	path = mirror/helm-rg
+	url = git@github.com:emacsmirror/helm-rg.git
 [submodule "helm-rhythmbox"]
 	path = mirror/helm-rhythmbox
 	url = git@github.com:emacsmirror/helm-rhythmbox.git
