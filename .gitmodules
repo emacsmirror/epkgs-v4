@@ -59,8 +59,8 @@
 	path = mirror/ac-alchemist
 	url = git@github.com:emacsmirror/ac-alchemist.git
 [submodule "ac-anaconda"]
-	path = mirror/ac-anaconda
-	url = git@github.com:emacsmirror/ac-anaconda.git
+	path = attic/ac-anaconda
+	url = git@github.com:emacsattic/ac-anaconda.git
 [submodule "ac-c-headers"]
 	path = mirror/ac-c-headers
 	url = git@github.com:emacsmirror/ac-c-headers.git
