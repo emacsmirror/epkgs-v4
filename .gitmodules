@@ -774,8 +774,8 @@
 	path = mirror/aurel
 	url = git@github.com:emacsmirror/aurel.git
 [submodule "aurora-config-mode"]
-	path = attic/aurora-config-mode
-	url = git@github.com:emacsattic/aurora-config-mode.git
+	path = mirror/aurora-config-mode
+	url = git@github.com:emacsmirror/aurora-config-mode.git
 [submodule "aurquery"]
 	path = mirror/aurquery
 	url = git@github.com:emacsmirror/aurquery.git
@@ -17140,8 +17140,8 @@
 	path = attic/subtitles
 	url = git@github.com:emacsattic/subtitles.git
 [submodule "sudden-death"]
-	path = attic/sudden-death
-	url = git@github.com:emacsattic/sudden-death.git
+	path = mirror/sudden-death
+	url = git@github.com:emacsmirror/sudden-death.git
 [submodule "sudo-edit"]
 	path = mirror/sudo-edit
 	url = git@github.com:emacsmirror/sudo-edit.git
