@@ -1783,6 +1783,9 @@
 [submodule "calfw-gcal"]
 	path = mirror/calfw-gcal
 	url = git@github.com:emacsmirror/calfw-gcal.git
+[submodule "call-graph"]
+	path = mirror/call-graph
+	url = git@github.com:emacsmirror/call-graph.git
 [submodule "calmer-forest-theme"]
 	path = mirror/calmer-forest-theme
 	url = git@github.com:emacsmirror/calmer-forest-theme.git
@@ -6957,6 +6960,9 @@
 	path = mirror/ghub+
 	url = git@github.com:emacsmirror/ghub-plus.git
 	branch = master
+[submodule "gif-screencast"]
+	path = mirror/gif-screencast
+	url = git@github.com:emacsmirror/gif-screencast.git
 [submodule "gift-mode"]
 	path = mirror/gift-mode
 	url = git@github.com:emacsmirror/gift-mode.git
@@ -8845,6 +8851,9 @@
 [submodule "ibuffer-rcirc"]
 	path = mirror/ibuffer-rcirc
 	url = git@github.com:emacsmirror/ibuffer-rcirc.git
+[submodule "ibuffer-sidebar"]
+	path = mirror/ibuffer-sidebar
+	url = git@github.com:emacsmirror/ibuffer-sidebar.git
 [submodule "ibuffer-tramp"]
 	path = mirror/ibuffer-tramp
 	url = git@github.com:emacsmirror/ibuffer-tramp.git
@@ -9492,6 +9501,9 @@
 [submodule "ivy-pass"]
 	path = mirror/ivy-pass
 	url = git@github.com:emacsmirror/ivy-pass.git
+[submodule "ivy-posframe"]
+	path = mirror/ivy-posframe
+	url = git@github.com:emacsmirror/ivy-posframe.git
 [submodule "ivy-purpose"]
 	path = mirror/ivy-purpose
 	url = git@github.com:emacsmirror/ivy-purpose.git
@@ -13054,6 +13066,9 @@
 	path = mirror/org-review
 	url = git@github.com:emacsmirror/org-review.git
 	branch = master
+[submodule "org-rich-yank"]
+	path = mirror/org-rich-yank
+	url = git@github.com:emacsmirror/org-rich-yank.git
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
@@ -14736,6 +14751,9 @@
 [submodule "python-pylint"]
 	path = mirror/python-pylint
 	url = git@github.com:emacsmirror/python-pylint.git
+[submodule "python-pytest"]
+	path = mirror/python-pytest
+	url = git@github.com:emacsmirror/python-pytest.git
 [submodule "python-switch-quotes"]
 	path = mirror/python-switch-quotes
 	url = git@github.com:emacsmirror/python-switch-quotes.git
@@ -15583,6 +15601,9 @@
 [submodule "rtm"]
 	path = mirror/rtm
 	url = git@github.com:emacsmirror/rtm.git
+[submodule "rubik"]
+	path = mirror/rubik
+	url = git@github.com:emacsmirror/rubik.git
 [submodule "rubocop"]
 	path = mirror/rubocop
 	url = git@github.com:emacsmirror/rubocop.git
