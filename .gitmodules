@@ -2088,9 +2088,6 @@
 	path = mirror/cider-hydra
 	url = git@github.com:emacsmirror/cider-hydra.git
 	branch = master
-[submodule "cider-profile"]
-	path = mirror/cider-profile
-	url = git@github.com:emacsmirror/cider-profile.git
 [submodule "cider-spy"]
 	path = mirror/cider-spy
 	url = git@github.com:emacsmirror/cider-spy.git
@@ -7132,10 +7129,6 @@
 [submodule "gl-conf-mode"]
 	path = mirror/gl-conf-mode
 	url = git@github.com:emacsmirror/gl-conf-mode.git
-[submodule "glab"]
-	path = mirror/glab
-	url = git@github.com:emacsmirror/glab.git
-	branch = master
 [submodule "glade-mode"]
 	path = mirror/glade-mode
 	url = git@github.com:emacsmirror/glade-mode.git
