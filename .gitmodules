@@ -749,6 +749,9 @@
 	path = mirror/atomic-chrome
 	url = git@github.com:emacsmirror/atomic-chrome.git
 	branch = master
+[submodule "attrap"]
+	path = mirror/attrap
+	url = git@github.com:emacsmirror/attrap.git
 [submodule "auctex"]
 	path = mirror/auctex
 	url = git@github.com:emacsmirror/auctex.git
@@ -1432,6 +1435,9 @@
 [submodule "bmi"]
 	path = mirror/bmi
 	url = git@github.com:emacsmirror/bmi.git
+[submodule "bmx-mode"]
+	path = mirror/bmx-mode
+	url = git@github.com:emacsmirror/bmx-mode.git
 [submodule "bnfc"]
 	path = mirror/bnfc
 	url = git@github.com:emacsmirror/bnfc.git
@@ -2298,6 +2304,9 @@
 [submodule "cnfonts"]
 	path = mirror/cnfonts
 	url = git@github.com:emacsmirror/cnfonts.git
+[submodule "cobalt"]
+	path = mirror/cobalt
+	url = git@github.com:emacsmirror/cobalt.git
 [submodule "cobol-mode"]
 	path = mirror/cobol-mode
 	url = git@github.com:emacsmirror/cobol-mode.git
@@ -6088,6 +6097,9 @@
 	path = mirror/flow-minor-mode
 	url = git@github.com:emacsmirror/flow-minor-mode.git
 	branch = master
+[submodule "flower"]
+	path = mirror/flower
+	url = git@github.com:emacsmirror/flower.git
 [submodule "flowtimer"]
 	path = mirror/flowtimer
 	url = git@github.com:emacsmirror/flowtimer.git
@@ -10395,6 +10407,9 @@
 [submodule "line-numbers-mode"]
 	path = attic/line-numbers-mode
 	url = git@github.com:emacsattic/line-numbers-mode.git
+[submodule "line-up-words"]
+	path = mirror/line-up-words
+	url = git@github.com:emacsmirror/line-up-words.git
 [submodule "lines"]
 	path = attic/lines
 	url = git@github.com:emacsattic/lines.git
@@ -13965,6 +13980,9 @@
 [submodule "pickel"]
 	path = mirror/pickel
 	url = git@github.com:emacsmirror/pickel.git
+[submodule "pickle"]
+	path = mirror/pickle
+	url = git@github.com:emacsmirror/pickle.git
 [submodule "picolisp"]
 	path = mirror/picolisp
 	url = git@github.com:emacsmirror/picolisp.git
