@@ -14864,8 +14864,8 @@
 	path = attic/quick-yes
 	url = git@github.com:emacsattic/quick-yes.git
 [submodule "quickfix-mode"]
-	path = attic/quickfix-mode
-	url = git@github.com:emacsattic/quickfix-mode.git
+	path = mirror/quickfix-mode
+	url = git@github.com:emacsmirror/quickfix-mode.git
 [submodule "quickref"]
 	path = mirror/quickref
 	url = git@github.com:emacsmirror/quickref.git
