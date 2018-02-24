@@ -15302,7 +15302,6 @@
 [submodule "related"]
 	path = mirror/related
 	url = git@github.com:emacsmirror/related.git
-	branch = master
 [submodule "relative-buffers"]
 	path = mirror/relative-buffers
 	url = git@github.com:emacsmirror/relative-buffers.git
