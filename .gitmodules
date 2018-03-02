@@ -5328,8 +5328,8 @@
 	path = mirror/eval-sexp-fu
 	url = git@github.com:emacsmirror/eval-sexp-fu.git
 [submodule "eval-sexp-in-comments"]
-	path = attic/eval-sexp-in-comments
-	url = git@github.com:emacsattic/eval-sexp-in-comments.git
+	path = mirror/eval-sexp-in-comments
+	url = git@github.com:emacsmirror/eval-sexp-in-comments.git
 [submodule "evalator"]
 	path = mirror/evalator
 	url = git@github.com:emacsmirror/evalator.git
