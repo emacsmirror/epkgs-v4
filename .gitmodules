@@ -10920,8 +10920,8 @@
 	path = attic/magit-push-remote
 	url = git@github.com:emacsattic/magit-push-remote.git
 [submodule "magit-rockstar"]
-	path = mirror/magit-rockstar
-	url = git@github.com:emacsmirror/magit-rockstar.git
+	path = attic/magit-rockstar
+	url = git@github.com:emacsattic/magit-rockstar.git
 [submodule "magit-stgit"]
 	path = mirror/magit-stgit
 	url = git@github.com:emacsmirror/magit-stgit.git
