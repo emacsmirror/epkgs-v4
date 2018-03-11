@@ -19889,7 +19889,6 @@
 [submodule "zig-mode"]
 	path = mirror/zig-mode
 	url = git@github.com:emacsmirror/zig-mode.git
-	branch = master
 [submodule "zlc"]
 	path = mirror/zlc
 	url = git@github.com:emacsmirror/zlc.git
