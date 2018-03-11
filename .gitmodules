@@ -6338,6 +6338,9 @@
 [submodule "flycheck-pos-tip"]
 	path = mirror/flycheck-pos-tip
 	url = git@github.com:emacsmirror/flycheck-pos-tip.git
+[submodule "flycheck-posframe"]
+	path = mirror/flycheck-posframe
+	url = git@github.com:emacsmirror/flycheck-posframe.git
 [submodule "flycheck-protobuf"]
 	path = mirror/flycheck-protobuf
 	url = git@github.com:emacsmirror/flycheck-protobuf.git
@@ -7161,6 +7164,12 @@
 [submodule "gitlab"]
 	path = mirror/gitlab
 	url = git@github.com:emacsmirror/gitlab.git
+[submodule "gitlab-ci-mode"]
+	path = mirror/gitlab-ci-mode
+	url = git@github.com:emacsmirror/gitlab-ci-mode.git
+[submodule "gitlab-ci-mode-flycheck"]
+	path = mirror/gitlab-ci-mode-flycheck
+	url = git@github.com:emacsmirror/gitlab-ci-mode-flycheck.git
 [submodule "gitolite-clone"]
 	path = mirror/gitolite-clone
 	url = git@github.com:emacsmirror/gitolite-clone.git
@@ -12879,6 +12888,9 @@
 	path = mirror/org-capture-pop-frame
 	url = git@github.com:emacsmirror/org-capture-pop-frame.git
 	branch = master
+[submodule "org-chef"]
+	path = mirror/org-chef
+	url = git@github.com:emacsmirror/org-chef.git
 [submodule "org-chinese-utils"]
 	path = attic/org-chinese-utils
 	url = git@github.com:emacsattic/org-chinese-utils.git
@@ -13025,6 +13037,9 @@
 [submodule "org-json"]
 	path = mirror/org-json
 	url = git@github.com:emacsmirror/org-json.git
+[submodule "org-kanban"]
+	path = mirror/org-kanban
+	url = git@github.com:emacsmirror/org-kanban.git
 [submodule "org-link-minor-mode"]
 	path = mirror/org-link-minor-mode
 	url = git@github.com:emacsmirror/org-link-minor-mode.git
