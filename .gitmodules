@@ -7264,9 +7264,6 @@
 [submodule "gnus-alias"]
 	path = mirror/gnus-alias
 	url = git@github.com:emacsmirror/gnus-alias.git
-[submodule "gnus-autocheck"]
-	path = mirror/gnus-autocheck
-	url = git@github.com:emacsmirror/gnus-autocheck.git
 [submodule "gnus-checker"]
 	path = mirror/gnus-checker
 	url = git@github.com:emacsmirror/gnus-checker.git
@@ -16692,9 +16689,6 @@
 	path = mirror/smartsig
 	url = git@github.com:emacsmirror/smartsig.git
 	branch = master
-[submodule "smartwin"]
-	path = mirror/smartwin
-	url = git@github.com:emacsmirror/smartwin.git
 [submodule "smarty-mode"]
 	path = mirror/smarty-mode
 	url = git@github.com:emacsmirror/smarty-mode.git
@@ -17473,9 +17467,6 @@
 [submodule "syslog"]
 	path = attic/syslog
 	url = git@github.com:emacsattic/syslog.git
-[submodule "syslog-mode"]
-	path = mirror/syslog-mode
-	url = git@github.com:emacsmirror/syslog-mode.git
 [submodule "system-packages"]
 	path = mirror/system-packages
 	url = git@github.com:emacsmirror/system-packages.git
