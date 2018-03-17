@@ -1448,6 +1448,9 @@
 [submodule "bog"]
 	path = mirror/bog
 	url = git@github.com:emacsmirror/bog.git
+[submodule "bolt-mode"]
+	path = mirror/bolt-mode
+	url = git@github.com:emacsmirror/bolt-mode.git
 [submodule "bongo"]
 	path = mirror/bongo
 	url = git@github.com:emacsmirror/bongo.git
@@ -7622,6 +7625,9 @@
 [submodule "grep-buffers"]
 	path = mirror/grep-buffers
 	url = git@github.com:emacsmirror/grep-buffers.git
+[submodule "grep-context"]
+	path = mirror/grep-context
+	url = git@github.com:emacsmirror/grep-context.git
 [submodule "grep-ed"]
 	path = mirror/grep-ed
 	url = git@github.com:emacsmirror/grep-ed.git
