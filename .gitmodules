@@ -167,6 +167,9 @@
 [submodule "ac-source-ispell"]
 	path = mirror/ac-source-ispell
 	url = git@github.com:emacsmirror/ac-source-ispell.git
+[submodule "academic-phrases"]
+	path = mirror/academic-phrases
+	url = git@github.com:emacsmirror/academic-phrases.git
 [submodule "accelerate"]
 	path = mirror/accelerate
 	url = git@github.com:emacsmirror/accelerate.git
@@ -10921,6 +10924,9 @@
 [submodule "magit-log-edit"]
 	path = attic/magit-log-edit
 	url = git@github.com:emacsattic/magit-log-edit.git
+[submodule "magit-org-todos"]
+	path = mirror/magit-org-todos
+	url = git@github.com:emacsmirror/magit-org-todos.git
 [submodule "magit-p4"]
 	path = mirror/magit-p4
 	url = git@github.com:emacsmirror/magit-p4.git
@@ -13141,6 +13147,9 @@
 [submodule "org-pua"]
 	path = mirror/org-pua
 	url = git@github.com:emacsmirror/org-pua.git
+[submodule "org-radiobutton"]
+	path = mirror/org-radiobutton
+	url = git@github.com:emacsmirror/org-radiobutton.git
 [submodule "org-random-todo"]
 	path = mirror/org-random-todo
 	url = git@github.com:emacsmirror/org-random-todo.git
