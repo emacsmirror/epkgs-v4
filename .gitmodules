@@ -15032,9 +15032,6 @@
 [submodule "rails-new"]
 	path = attic/rails-new
 	url = git@github.com:emacsattic/rails-new.git
-[submodule "rails-test-toggler"]
-	path = attic/rails-test-toggler
-	url = git@github.com:emacsattic/rails-test-toggler.git
 [submodule "railscasts-reloaded-theme"]
 	path = mirror/railscasts-reloaded-theme
 	url = git@github.com:emacsmirror/railscasts-reloaded-theme.git
