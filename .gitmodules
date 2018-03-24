@@ -12293,8 +12293,8 @@
 	path = mirror/nnir-spotlight
 	url = git@github.com:emacsmirror/nnir-spotlight.git
 [submodule "nntodo"]
-	path = mirror/nntodo
-	url = git@github.com:emacsmirror/nntodo.git
+	path = attic/nntodo
+	url = git@github.com:emacsattic/nntodo.git
 [submodule "no-emoji"]
 	path = mirror/no-emoji
 	url = git@github.com:emacsmirror/no-emoji.git
