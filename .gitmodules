@@ -8714,6 +8714,9 @@
 [submodule "homebrew-mode"]
 	path = mirror/homebrew-mode
 	url = git@github.com:emacsmirror/homebrew-mode.git
+[submodule "honcho"]
+	path = mirror/honcho
+	url = git@github.com:emacsmirror/honcho.git
 [submodule "hook-helpers"]
 	path = mirror/hook-helpers
 	url = git@github.com:emacsmirror/hook-helpers.git
