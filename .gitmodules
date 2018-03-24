@@ -788,9 +788,6 @@
 [submodule "aurquery"]
 	path = mirror/aurquery
 	url = git@github.com:emacsmirror/aurquery.git
-[submodule "auth-password-store"]
-	path = mirror/auth-password-store
-	url = git@github.com:emacsmirror/auth-password-store.git
 [submodule "auto-arg-mode"]
 	path = attic/auto-arg-mode
 	url = git@github.com:emacsattic/auto-arg-mode.git
