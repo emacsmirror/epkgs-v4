@@ -68,11 +68,11 @@
 	path = mirror/ac-c-headers
 	url = git@github.com:emacsmirror/ac-c-headers.git
 [submodule "ac-cake"]
-	path = mirror/ac-cake
-	url = git@github.com:emacsmirror/ac-cake.git
+	path = attic/ac-cake
+	url = git@github.com:emacsattic/ac-cake.git
 [submodule "ac-cake2"]
-	path = mirror/ac-cake2
-	url = git@github.com:emacsmirror/ac-cake2.git
+	path = attic/ac-cake2
+	url = git@github.com:emacsattic/ac-cake2.git
 [submodule "ac-capf"]
 	path = mirror/ac-capf
 	url = git@github.com:emacsmirror/ac-capf.git
@@ -516,44 +516,44 @@
 	path = mirror/anyins
 	url = git@github.com:emacsmirror/anyins.git
 [submodule "anything"]
-	path = mirror/anything
-	url = git@github.com:emacsmirror/anything.git
+	path = attic/anything
+	url = git@github.com:emacsattic/anything.git
 [submodule "anything-auto-install"]
-	path = mirror/anything-auto-install
-	url = git@github.com:emacsmirror/anything-auto-install.git
+	path = attic/anything-auto-install
+	url = git@github.com:emacsattic/anything-auto-install.git
 [submodule "anything-exuberant-ctags"]
-	path = mirror/anything-exuberant-ctags
-	url = git@github.com:emacsmirror/anything-exuberant-ctags.git
+	path = attic/anything-exuberant-ctags
+	url = git@github.com:emacsattic/anything-exuberant-ctags.git
 [submodule "anything-git-files"]
-	path = mirror/anything-git-files
-	url = git@github.com:emacsmirror/anything-git-files.git
+	path = attic/anything-git-files
+	url = git@github.com:emacsattic/anything-git-files.git
 [submodule "anything-git-grep"]
-	path = mirror/anything-git-grep
-	url = git@github.com:emacsmirror/anything-git-grep.git
+	path = attic/anything-git-grep
+	url = git@github.com:emacsattic/anything-git-grep.git
 [submodule "anything-hatena-bookmark"]
-	path = mirror/anything-hatena-bookmark
-	url = git@github.com:emacsmirror/anything-hatena-bookmark.git
+	path = attic/anything-hatena-bookmark
+	url = git@github.com:emacsattic/anything-hatena-bookmark.git
 [submodule "anything-kyr"]
-	path = mirror/anything-kyr
-	url = git@github.com:emacsmirror/anything-kyr.git
+	path = attic/anything-kyr
+	url = git@github.com:emacsattic/anything-kyr.git
 [submodule "anything-kyr-config"]
-	path = mirror/anything-kyr-config
-	url = git@github.com:emacsmirror/anything-kyr-config.git
+	path = attic/anything-kyr-config
+	url = git@github.com:emacsattic/anything-kyr-config.git
 [submodule "anything-milkode"]
-	path = mirror/anything-milkode
-	url = git@github.com:emacsmirror/anything-milkode.git
+	path = attic/anything-milkode
+	url = git@github.com:emacsattic/anything-milkode.git
 [submodule "anything-project"]
-	path = mirror/anything-project
-	url = git@github.com:emacsmirror/anything-project.git
+	path = attic/anything-project
+	url = git@github.com:emacsattic/anything-project.git
 [submodule "anything-replace-string"]
-	path = mirror/anything-replace-string
-	url = git@github.com:emacsmirror/anything-replace-string.git
+	path = attic/anything-replace-string
+	url = git@github.com:emacsattic/anything-replace-string.git
 [submodule "anything-sage"]
-	path = mirror/anything-sage
-	url = git@github.com:emacsmirror/anything-sage.git
+	path = attic/anything-sage
+	url = git@github.com:emacsattic/anything-sage.git
 [submodule "anything-tramp"]
-	path = mirror/anything-tramp
-	url = git@github.com:emacsmirror/anything-tramp.git
+	path = attic/anything-tramp
+	url = git@github.com:emacsattic/anything-tramp.git
 	branch = master
 [submodule "anzu"]
 	path = mirror/anzu
@@ -893,8 +893,8 @@
 	path = mirror/auto-indent-mode
 	url = git@github.com:emacsmirror/auto-indent-mode.git
 [submodule "auto-install"]
-	path = mirror/auto-install
-	url = git@github.com:emacsmirror/auto-install.git
+	path = attic/auto-install
+	url = git@github.com:emacsattic/auto-install.git
 [submodule "auto-lang"]
 	path = mirror/auto-lang
 	url = git@github.com:emacsmirror/auto-lang.git
@@ -1756,14 +1756,14 @@
 	path = mirror/cacoo
 	url = git@github.com:emacsmirror/cacoo.git
 [submodule "cake"]
-	path = mirror/cake
-	url = git@github.com:emacsmirror/cake.git
+	path = attic/cake
+	url = git@github.com:emacsattic/cake.git
 [submodule "cake-inflector"]
 	path = mirror/cake-inflector
 	url = git@github.com:emacsmirror/cake-inflector.git
 [submodule "cake2"]
-	path = mirror/cake2
-	url = git@github.com:emacsmirror/cake2.git
+	path = attic/cake2
+	url = git@github.com:emacsattic/cake2.git
 [submodule "cakecrumbs"]
 	path = mirror/cakecrumbs
 	url = git@github.com:emacsmirror/cakecrumbs.git
@@ -3060,8 +3060,8 @@
 	path = mirror/cuda-mode
 	url = git@github.com:emacsmirror/cuda-mode.git
 [submodule "cui-about-me"]
-	path = mirror/cui-about-me
-	url = git@github.com:emacsmirror/cui-about-me.git
+	path = attic/cui-about-me
+	url = git@github.com:emacsattic/cui-about-me.git
 [submodule "cups"]
 	path = attic/cups
 	url = git@github.com:emacsattic/cups.git
@@ -4378,8 +4378,8 @@
 	path = mirror/eight-puzzle
 	url = git@github.com:emacsmirror/eight-puzzle.git
 [submodule "eijiro"]
-	path = mirror/eijiro
-	url = git@github.com:emacsmirror/eijiro.git
+	path = attic/eijiro
+	url = git@github.com:emacsattic/eijiro.git
 [submodule "eim"]
 	path = mirror/eim
 	url = git@github.com:emacsmirror/eim.git
@@ -7925,8 +7925,8 @@
 	path = mirror/helm-ag-r
 	url = git@github.com:emacsmirror/helm-ag-r.git
 [submodule "helm-anything"]
-	path = mirror/helm-anything
-	url = git@github.com:emacsmirror/helm-anything.git
+	path = attic/helm-anything
+	url = git@github.com:emacsattic/helm-anything.git
 	branch = master
 [submodule "helm-aws"]
 	path = mirror/helm-aws
@@ -9162,8 +9162,8 @@
 	path = attic/imgix
 	url = git@github.com:emacsattic/imgix.git
 [submodule "imgur"]
-	path = mirror/imgur
-	url = git@github.com:emacsmirror/imgur.git
+	path = attic/imgur
+	url = git@github.com:emacsattic/imgur.git
 [submodule "immigrant"]
 	path = attic/immigrant
 	url = git@github.com:emacsattic/immigrant.git
@@ -13873,8 +13873,8 @@
 	path = attic/perkymbf
 	url = git@github.com:emacsattic/perkymbf.git
 [submodule "perl-completion"]
-	path = mirror/perl-completion
-	url = git@github.com:emacsmirror/perl-completion.git
+	path = attic/perl-completion
+	url = git@github.com:emacsattic/perl-completion.git
 	branch = master
 [submodule "perl-find-library"]
 	path = mirror/perl-find-library
@@ -14039,8 +14039,8 @@
 	path = mirror/php-boris-minor-mode
 	url = git@github.com:emacsmirror/php-boris-minor-mode.git
 [submodule "php-completion"]
-	path = mirror/php-completion
-	url = git@github.com:emacsmirror/php-completion.git
+	path = attic/php-completion
+	url = git@github.com:emacsattic/php-completion.git
 [submodule "php-completion-opt"]
 	path = attic/php-completion-opt
 	url = git@github.com:emacsattic/php-completion-opt.git
@@ -15335,8 +15335,8 @@
 	path = mirror/redis
 	url = git@github.com:emacsmirror/redis.git
 [submodule "redmine"]
-	path = mirror/redmine
-	url = git@github.com:emacsmirror/redmine.git
+	path = attic/redmine
+	url = git@github.com:emacsattic/redmine.git
 [submodule "redo"]
 	path = mirror/redo
 	url = git@github.com:emacsmirror/redo.git
