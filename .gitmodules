@@ -2623,6 +2623,9 @@
 [submodule "company-statistics"]
 	path = mirror/company-statistics
 	url = git@github.com:emacsmirror/company-statistics.git
+[submodule "company-suggest"]
+	path = mirror/company-suggest
+	url = git@github.com:emacsmirror/company-suggest.git
 [submodule "company-tern"]
 	path = mirror/company-tern
 	url = git@github.com:emacsmirror/company-tern.git
@@ -13424,6 +13427,9 @@
 [submodule "outlined-elisp-mode"]
 	path = mirror/outlined-elisp-mode
 	url = git@github.com:emacsmirror/outlined-elisp-mode.git
+[submodule "outlook"]
+	path = mirror/outlook
+	url = git@github.com:emacsmirror/outlook.git
 [submodule "outorg"]
 	path = mirror/outorg
 	url = git@github.com:emacsmirror/outorg.git
@@ -14278,6 +14284,9 @@
 	path = mirror/podcaster
 	url = git@github.com:emacsmirror/podcaster.git
 	branch = master
+[submodule "poet-theme"]
+	path = mirror/poet-theme
+	url = git@github.com:emacsmirror/poet-theme.git
 [submodule "point-pos"]
 	path = mirror/point-pos
 	url = git@github.com:emacsmirror/point-pos.git
@@ -16936,6 +16945,9 @@
 [submodule "speedbar-extension"]
 	path = mirror/speedbar-extension
 	url = git@github.com:emacsmirror/speedbar-extension.git
+[submodule "speeddating"]
+	path = mirror/speeddating
+	url = git@github.com:emacsmirror/speeddating.git
 [submodule "speedread"]
 	path = attic/speedread
 	url = git@github.com:emacsattic/speedread.git
@@ -19108,6 +19120,9 @@
 [submodule "webjump-plus"]
 	path = attic/webjump-plus
 	url = git@github.com:emacsattic/webjump-plus.git
+[submodule "webkit-color-picker"]
+	path = mirror/webkit-color-picker
+	url = git@github.com:emacsmirror/webkit-color-picker.git
 [submodule "weblogger"]
 	path = mirror/weblogger
 	url = git@github.com:emacsmirror/weblogger.git
