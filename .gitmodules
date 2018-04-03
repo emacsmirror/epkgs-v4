@@ -13360,8 +13360,8 @@
 	path = mirror/orwell
 	url = git@github.com:emacsmirror/orwell.git
 [submodule "os"]
-	path = mirror/os
-	url = git@github.com:emacsmirror/os.git
+	path = attic/os
+	url = git@github.com:emacsattic/os.git
 [submodule "osc"]
 	path = mirror/osc
 	url = git@github.com:emacsmirror/osc.git
@@ -14549,8 +14549,8 @@
 	path = mirror/programmer-dvorak
 	url = git@github.com:emacsmirror/programmer-dvorak.git
 [submodule "project-buffer-mode"]
-	path = mirror/project-buffer-mode
-	url = git@github.com:emacsmirror/project-buffer-mode.git
+	path = attic/project-buffer-mode
+	url = git@github.com:emacsattic/project-buffer-mode.git
 [submodule "project-explorer"]
 	path = mirror/project-explorer
 	url = git@github.com:emacsmirror/project-explorer.git
