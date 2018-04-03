@@ -1116,6 +1116,9 @@
 [submodule "banner"]
 	path = attic/banner
 	url = git@github.com:emacsattic/banner.git
+[submodule "banner-comment"]
+	path = mirror/banner-comment
+	url = git@github.com:emacsmirror/banner-comment.git
 [submodule "bar-cursor"]
 	path = mirror/bar-cursor
 	url = git@github.com:emacsmirror/bar-cursor.git
@@ -3778,6 +3781,9 @@
 	path = mirror/django-theme
 	url = git@github.com:emacsmirror/django-theme.git
 	branch = master
+[submodule "djangonaut"]
+	path = mirror/djangonaut
+	url = git@github.com:emacsmirror/djangonaut.git
 [submodule "djvu"]
 	path = mirror/djvu
 	url = git@github.com:emacsmirror/djvu.git
@@ -5903,6 +5909,9 @@
 [submodule "fill-column-rule"]
 	path = attic/fill-column-rule
 	url = git@github.com:emacsattic/fill-column-rule.git
+[submodule "fill-function-arguments"]
+	path = mirror/fill-function-arguments
+	url = git@github.com:emacsmirror/fill-function-arguments.git
 [submodule "filladapt"]
 	path = mirror/filladapt
 	url = git@github.com:emacsmirror/filladapt.git
@@ -17434,6 +17443,9 @@
 [submodule "symbols-mode"]
 	path = mirror/symbols-mode
 	url = git@github.com:emacsmirror/symbols-mode.git
+[submodule "symbolword-mode"]
+	path = mirror/symbolword-mode
+	url = git@github.com:emacsmirror/symbolword-mode.git
 [submodule "symfony"]
 	path = attic/symfony
 	url = git@github.com:emacsattic/symfony.git
