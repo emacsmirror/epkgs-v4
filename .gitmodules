@@ -6543,8 +6543,8 @@
 	path = mirror/flyparens
 	url = git@github.com:emacsmirror/flyparens.git
 [submodule "flyspell-babel"]
-	path = mirror/flyspell-babel
-	url = git@github.com:emacsmirror/flyspell-babel.git
+	path = attic/flyspell-babel
+	url = git@github.com:emacsattic/flyspell-babel.git
 [submodule "flyspell-correct"]
 	path = mirror/flyspell-correct
 	url = git@github.com:emacsmirror/flyspell-correct.git
@@ -6556,14 +6556,14 @@
 	path = mirror/flyspell-popup
 	url = git@github.com:emacsmirror/flyspell-popup.git
 [submodule "flyspell-textcat"]
-	path = mirror/flyspell-textcat
-	url = git@github.com:emacsmirror/flyspell-textcat.git
+	path = attic/flyspell-textcat
+	url = git@github.com:emacsattic/flyspell-textcat.git
 [submodule "flyspell-timer"]
 	path = attic/flyspell-timer
 	url = git@github.com:emacsattic/flyspell-timer.git
 [submodule "flyspell-xml-lang"]
-	path = mirror/flyspell-xml-lang
-	url = git@github.com:emacsmirror/flyspell-xml-lang.git
+	path = attic/flyspell-xml-lang
+	url = git@github.com:emacsattic/flyspell-xml-lang.git
 [submodule "fm"]
 	path = attic/fm
 	url = git@github.com:emacsattic/fm.git
@@ -6591,11 +6591,11 @@
 	path = mirror/fold
 	url = git@github.com:emacsmirror/fold.git
 [submodule "fold-dwim"]
-	path = mirror/fold-dwim
-	url = git@github.com:emacsmirror/fold-dwim.git
+	path = attic/fold-dwim
+	url = git@github.com:emacsattic/fold-dwim.git
 [submodule "fold-dwim-org"]
-	path = mirror/fold-dwim-org
-	url = git@github.com:emacsmirror/fold-dwim-org.git
+	path = attic/fold-dwim-org
+	url = git@github.com:emacsattic/fold-dwim-org.git
 [submodule "fold-this"]
 	path = mirror/fold-this
 	url = git@github.com:emacsmirror/fold-this.git
@@ -8767,8 +8767,8 @@
 	path = mirror/html-check-frag
 	url = git@github.com:emacsmirror/html-check-frag.git
 [submodule "html-chooser-mode"]
-	path = mirror/html-chooser-mode
-	url = git@github.com:emacsmirror/html-chooser-mode.git
+	path = attic/html-chooser-mode
+	url = git@github.com:emacsattic/html-chooser-mode.git
 [submodule "html-fold"]
 	path = mirror/html-fold
 	url = git@github.com:emacsmirror/html-fold.git
@@ -8800,8 +8800,8 @@
 	path = attic/html-phrase-list
 	url = git@github.com:emacsattic/html-phrase-list.git
 [submodule "html-script"]
-	path = mirror/html-script
-	url = git@github.com:emacsmirror/html-script.git
+	path = attic/html-script
+	url = git@github.com:emacsattic/html-script.git
 [submodule "html-script-src"]
 	path = mirror/html-script-src
 	url = git@github.com:emacsmirror/html-script-src.git
@@ -9511,8 +9511,8 @@
 	path = mirror/isortify
 	url = git@github.com:emacsmirror/isortify.git
 [submodule "ispell-multi"]
-	path = mirror/ispell-multi
-	url = git@github.com:emacsmirror/ispell-multi.git
+	path = attic/ispell-multi
+	url = git@github.com:emacsattic/ispell-multi.git
 [submodule "iss-mode"]
 	path = mirror/iss-mode
 	url = git@github.com:emacsmirror/iss-mode.git
@@ -17696,11 +17696,11 @@
 	path = attic/tehom-search
 	url = git@github.com:emacsattic/tehom-search.git
 [submodule "tei-html-docs-p4"]
-	path = mirror/tei-html-docs-p4
-	url = git@github.com:emacsmirror/tei-html-docs-p4.git
+	path = attic/tei-html-docs-p4
+	url = git@github.com:emacsattic/tei-html-docs-p4.git
 [submodule "tei-html-docs-p5"]
-	path = mirror/tei-html-docs-p5
-	url = git@github.com:emacsmirror/tei-html-docs-p5.git
+	path = attic/tei-html-docs-p5
+	url = git@github.com:emacsattic/tei-html-docs-p5.git
 [submodule "telepathy"]
 	path = mirror/telepathy
 	url = git@github.com:emacsmirror/telepathy.git
@@ -19699,8 +19699,8 @@
 	path = mirror/xterm-color
 	url = git@github.com:emacsmirror/xterm-color.git
 [submodule "xterm-extras"]
-	path = mirror/xterm-extras
-	url = git@github.com:emacsmirror/xterm-extras.git
+	path = attic/xterm-extras
+	url = git@github.com:emacsattic/xterm-extras.git
 [submodule "xterm-frobs"]
 	path = attic/xterm-frobs
 	url = git@github.com:emacsattic/xterm-frobs.git
