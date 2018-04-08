@@ -1389,6 +1389,9 @@
 [submodule "blackbook"]
 	path = attic/blackbook
 	url = git@github.com:emacsattic/blackbook.git
+[submodule "blacken"]
+	path = mirror/blacken
+	url = git@github.com:emacsmirror/blacken.git
 [submodule "blank-mode"]
 	path = mirror/blank-mode
 	url = git@github.com:emacsmirror/blank-mode.git
@@ -2141,6 +2144,9 @@
 [submodule "cite"]
 	path = attic/cite
 	url = git@github.com:emacsattic/cite.git
+[submodule "citeproc"]
+	path = mirror/citeproc
+	url = git@github.com:emacsmirror/citeproc.git
 [submodule "cl-array"]
 	path = attic/cl-array
 	url = git@github.com:emacsattic/cl-array.git
@@ -2521,6 +2527,9 @@
 	path = mirror/company-bibtex
 	url = git@github.com:emacsmirror/company-bibtex.git
 	branch = master
+[submodule "company-box"]
+	path = mirror/company-box
+	url = git@github.com:emacsmirror/company-box.git
 [submodule "company-c-headers"]
 	path = mirror/company-c-headers
 	url = git@github.com:emacsmirror/company-c-headers.git
@@ -6397,6 +6406,9 @@
 [submodule "flycheck-swiftlint"]
 	path = mirror/flycheck-swiftlint
 	url = git@github.com:emacsmirror/flycheck-swiftlint.git
+[submodule "flycheck-tcl"]
+	path = mirror/flycheck-tcl
+	url = git@github.com:emacsmirror/flycheck-tcl.git
 [submodule "flycheck-tip"]
 	path = mirror/flycheck-tip
 	url = git@github.com:emacsmirror/flycheck-tip.git
@@ -7172,10 +7184,16 @@
 	path = mirror/github-search
 	url = git@github.com:emacsmirror/github-search.git
 	branch = master
+[submodule "github-stars"]
+	path = mirror/github-stars
+	url = git@github.com:emacsmirror/github-stars.git
 [submodule "github-theme"]
 	path = mirror/github-theme
 	url = git@github.com:emacsmirror/github-theme.git
 	branch = master
+[submodule "gitignore-templates"]
+	path = mirror/gitignore-templates
+	url = git@github.com:emacsmirror/gitignore-templates.git
 [submodule "gitlab"]
 	path = mirror/gitlab
 	url = git@github.com:emacsmirror/gitlab.git
@@ -8732,6 +8750,9 @@
 [submodule "hookify"]
 	path = mirror/hookify
 	url = git@github.com:emacsmirror/hookify.git
+[submodule "horoscope"]
+	path = mirror/horoscope
+	url = git@github.com:emacsmirror/horoscope.git
 [submodule "host-fns"]
 	path = attic/host-fns
 	url = git@github.com:emacsattic/host-fns.git
@@ -13042,6 +13063,9 @@
 [submodule "org-if"]
 	path = mirror/org-if
 	url = git@github.com:emacsmirror/org-if.git
+[submodule "org-index"]
+	path = mirror/org-index
+	url = git@github.com:emacsmirror/org-index.git
 [submodule "org-iv"]
 	path = mirror/org-iv
 	url = git@github.com:emacsmirror/org-iv.git
@@ -13412,6 +13436,9 @@
 	path = mirror/otama
 	url = git@github.com:emacsmirror/otama.git
 	branch = master
+[submodule "other-emacs-eval"]
+	path = mirror/other-emacs-eval
+	url = git@github.com:emacsmirror/other-emacs-eval.git
 [submodule "other-frame-window"]
 	path = mirror/other-frame-window
 	url = git@github.com:emacsmirror/other-frame-window.git
@@ -17615,6 +17642,9 @@
 [submodule "taskpaper"]
 	path = mirror/taskpaper
 	url = git@github.com:emacsmirror/taskpaper.git
+[submodule "taskpaper-mode"]
+	path = mirror/taskpaper-mode
+	url = git@github.com:emacsmirror/taskpaper-mode.git
 [submodule "tawny-mode"]
 	path = mirror/tawny-mode
 	url = git@github.com:emacsmirror/tawny-mode.git
