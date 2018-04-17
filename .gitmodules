@@ -14950,6 +14950,9 @@
 [submodule "qiita"]
 	path = mirror/qiita
 	url = git@github.com:emacsmirror/qiita.git
+[submodule "ql"]
+	path = mirror/ql
+	url = git@github.com:emacsmirror/ql.git
 [submodule "qmake"]
 	path = attic/qmake
 	url = git@github.com:emacsattic/qmake.git
@@ -17122,6 +17125,9 @@
 	path = mirror/sr-speedbar
 	url = git@github.com:emacsmirror/sr-speedbar.git
 	branch = master
+[submodule "srcery-theme"]
+	path = mirror/srcery-theme
+	url = git@github.com:emacsmirror/srcery-theme.git
 [submodule "srefactor"]
 	path = mirror/srefactor
 	url = git@github.com:emacsmirror/srefactor.git
