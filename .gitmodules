@@ -2629,9 +2629,6 @@
 [submodule "company-shell"]
 	path = mirror/company-shell
 	url = git@github.com:emacsmirror/company-shell.git
-[submodule "company-solidity"]
-	path = mirror/company-solidity
-	url = git@github.com:emacsmirror/company-solidity.git
 [submodule "company-statistics"]
 	path = mirror/company-statistics
 	url = git@github.com:emacsmirror/company-statistics.git
@@ -4853,9 +4850,6 @@
 [submodule "emms-mode-line-cycle"]
 	path = mirror/emms-mode-line-cycle
 	url = git@github.com:emacsmirror/emms-mode-line-cycle.git
-[submodule "emms-player-mpv"]
-	path = mirror/emms-player-mpv
-	url = git@github.com:emacsmirror/emms-player-mpv.git
 [submodule "emms-player-mpv-jp-radios"]
 	path = mirror/emms-player-mpv-jp-radios
 	url = git@github.com:emacsmirror/emms-player-mpv-jp-radios.git
