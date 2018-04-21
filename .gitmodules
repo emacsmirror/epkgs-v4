@@ -1832,6 +1832,9 @@
 [submodule "capture"]
 	path = mirror/capture
 	url = git@github.com:emacsmirror/capture.git
+[submodule "carbon-now-sh"]
+	path = mirror/carbon-now-sh
+	url = git@github.com:emacsmirror/carbon-now-sh.git
 [submodule "cargo"]
 	path = mirror/cargo
 	url = git@github.com:emacsmirror/cargo.git
@@ -2623,6 +2626,9 @@
 [submodule "company-racer"]
 	path = mirror/company-racer
 	url = git@github.com:emacsmirror/company-racer.git
+[submodule "company-reftex"]
+	path = mirror/company-reftex
+	url = git@github.com:emacsmirror/company-reftex.git
 [submodule "company-restclient"]
 	path = mirror/company-restclient
 	url = git@github.com:emacsmirror/company-restclient.git
@@ -3649,6 +3655,9 @@
 	path = mirror/dired-quick-sort
 	url = git@github.com:emacsmirror/dired-quick-sort.git
 	branch = master
+[submodule "dired-rsync"]
+	path = mirror/dired-rsync
+	url = git@github.com:emacsmirror/dired-rsync.git
 [submodule "dired-sequence"]
 	path = mirror/dired-sequence
 	url = git@github.com:emacsmirror/dired-sequence.git
@@ -4429,6 +4438,9 @@
 [submodule "el-expectations"]
 	path = mirror/el-expectations
 	url = git@github.com:emacsmirror/el-expectations.git
+[submodule "el-fly-indent-mode"]
+	path = mirror/el-fly-indent-mode
+	url = git@github.com:emacsmirror/el-fly-indent-mode.git
 [submodule "el-get"]
 	path = mirror/el-get
 	url = git@github.com:emacsmirror/el-get.git
@@ -6643,6 +6655,9 @@
 [submodule "fontawesome"]
 	path = mirror/fontawesome
 	url = git@github.com:emacsmirror/fontawesome.git
+[submodule "fontify-face"]
+	path = mirror/fontify-face
+	url = git@github.com:emacsmirror/fontify-face.git
 [submodule "forecast"]
 	path = mirror/forecast
 	url = git@github.com:emacsmirror/forecast.git
@@ -6659,6 +6674,9 @@
 [submodule "form-feed"]
 	path = mirror/form-feed
 	url = git@github.com:emacsmirror/form-feed.git
+[submodule "format-all"]
+	path = mirror/format-all
+	url = git@github.com:emacsmirror/format-all.git
 [submodule "format-sql"]
 	path = mirror/format-sql
 	url = git@github.com:emacsmirror/format-sql.git
@@ -6706,6 +6724,9 @@
 [submodule "frame-fns"]
 	path = mirror/frame-fns
 	url = git@github.com:emacsmirror/frame-fns.git
+[submodule "frame-local"]
+	path = mirror/frame-local
+	url = git@github.com:emacsmirror/frame-local.git
 [submodule "frame-mode"]
 	path = mirror/frame-mode
 	url = git@github.com:emacsmirror/frame-mode.git
@@ -7544,6 +7565,9 @@
 [submodule "govet"]
 	path = mirror/govet
 	url = git@github.com:emacsmirror/govet.git
+[submodule "gpastel"]
+	path = mirror/gpastel
+	url = git@github.com:emacsmirror/gpastel.git
 [submodule "gpicker"]
 	path = mirror/gpicker
 	url = git@github.com:emacsmirror/gpicker.git
@@ -8076,6 +8100,9 @@
 	path = mirror/helm-etags-plus
 	url = git@github.com:emacsmirror/helm-etags-plus.git
 	branch = master
+[submodule "helm-eww"]
+	path = mirror/helm-eww
+	url = git@github.com:emacsmirror/helm-eww.git
 [submodule "helm-ext"]
 	path = mirror/helm-ext
 	url = git@github.com:emacsmirror/helm-ext.git
@@ -10191,6 +10218,9 @@
 [submodule "kixtart-mode"]
 	path = mirror/kixtart-mode
 	url = git@github.com:emacsmirror/kixtart-mode.git
+[submodule "klere-theme"]
+	path = mirror/klere-theme
+	url = git@github.com:emacsmirror/klere-theme.git
 [submodule "kmacro-ring-list"]
 	path = attic/kmacro-ring-list
 	url = git@github.com:emacsattic/kmacro-ring-list.git
@@ -10512,6 +10542,9 @@
 [submodule "lines"]
 	path = attic/lines
 	url = git@github.com:emacsattic/lines.git
+[submodule "lines-at-once"]
+	path = mirror/lines-at-once
+	url = git@github.com:emacsmirror/lines-at-once.git
 [submodule "lingr"]
 	path = mirror/lingr
 	url = git@github.com:emacsmirror/lingr.git
@@ -11872,6 +11905,9 @@
 [submodule "mu4e-query-fragments"]
 	path = mirror/mu4e-query-fragments
 	url = git@github.com:emacsmirror/mu4e-query-fragments.git
+[submodule "muban"]
+	path = mirror/muban
+	url = git@github.com:emacsmirror/muban.git
 [submodule "mudel"]
 	path = mirror/mudel
 	url = git@github.com:emacsmirror/mudel.git
@@ -12378,6 +12414,9 @@
 [submodule "nordless-theme"]
 	path = mirror/nordless-theme
 	url = git@github.com:emacsmirror/nordless-theme.git
+[submodule "northcode-theme"]
+	path = mirror/northcode-theme
+	url = git@github.com:emacsmirror/northcode-theme.git
 [submodule "nose"]
 	path = mirror/nose
 	url = git@github.com:emacsmirror/nose.git
@@ -15492,6 +15531,9 @@
 [submodule "repeatable-motion"]
 	path = mirror/repeatable-motion
 	url = git@github.com:emacsmirror/repeatable-motion.git
+[submodule "repeater"]
+	path = mirror/repeater
+	url = git@github.com:emacsmirror/repeater.git
 [submodule "repl-toggle"]
 	path = mirror/repl-toggle
 	url = git@github.com:emacsmirror/repl-toggle.git
@@ -17390,6 +17432,9 @@
 [submodule "svg-mode-line-themes"]
 	path = mirror/svg-mode-line-themes
 	url = git@github.com:emacsmirror/svg-mode-line-themes.git
+[submodule "svnwrapper"]
+	path = mirror/svnwrapper
+	url = git@github.com:emacsmirror/svnwrapper.git
 [submodule "swadesh-numbers"]
 	path = attic/swadesh-numbers
 	url = git@github.com:emacsattic/swadesh-numbers.git
@@ -18637,6 +18682,9 @@
 	path = mirror/untitled-new-buffer
 	url = git@github.com:emacsmirror/untitled-new-buffer.git
 	branch = master
+[submodule "upbo"]
+	path = mirror/upbo
+	url = git@github.com:emacsmirror/upbo.git
 [submodule "update-autoloads"]
 	path = attic/update-autoloads
 	url = git@github.com:emacsattic/update-autoloads.git
