@@ -2838,6 +2838,9 @@
 [submodule "counsel-notmuch"]
 	path = mirror/counsel-notmuch
 	url = git@github.com:emacsmirror/counsel-notmuch.git
+[submodule "counsel-org-clock"]
+	path = mirror/counsel-org-clock
+	url = git@github.com:emacsmirror/counsel-org-clock.git
 [submodule "counsel-osx-app"]
 	path = mirror/counsel-osx-app
 	url = git@github.com:emacsmirror/counsel-osx-app.git
@@ -3434,6 +3437,9 @@
 [submodule "desktop-entry"]
 	path = attic/desktop-entry
 	url = git@github.com:emacsattic/desktop-entry.git
+[submodule "desktop-environment"]
+	path = mirror/desktop-environment
+	url = git@github.com:emacsmirror/desktop-environment.git
 [submodule "desktop-menu"]
 	path = attic/desktop-menu
 	url = git@github.com:emacsattic/desktop-menu.git
@@ -3892,6 +3898,9 @@
 [submodule "dom5"]
 	path = attic/dom5
 	url = git@github.com:emacsattic/dom5.git
+[submodule "doneburn-theme"]
+	path = mirror/doneburn-theme
+	url = git@github.com:emacsmirror/doneburn-theme.git
 [submodule "doom"]
 	path = mirror/doom
 	url = git@github.com:emacsmirror/doom.git
@@ -6886,6 +6895,9 @@
 [submodule "gallery"]
 	path = attic/gallery
 	url = git@github.com:emacsattic/gallery.git
+[submodule "gams-ac"]
+	path = mirror/gams-ac
+	url = git@github.com:emacsmirror/gams-ac.git
 [submodule "gams-mode"]
 	path = mirror/gams-mode
 	url = git@github.com:emacsmirror/gams-mode.git
@@ -7945,6 +7957,9 @@
 [submodule "heap"]
 	path = mirror/heap
 	url = git@github.com:emacsmirror/heap.git
+[submodule "heaven-and-hell"]
+	path = mirror/heaven-and-hell
+	url = git@github.com:emacsmirror/heaven-and-hell.git
 [submodule "hebeng"]
 	path = attic/hebeng
 	url = git@github.com:emacsattic/hebeng.git
@@ -11727,6 +11742,9 @@
 [submodule "moody"]
 	path = mirror/moody
 	url = git@github.com:emacsmirror/moody.git
+[submodule "moom"]
+	path = mirror/moom
+	url = git@github.com:emacsmirror/moom.git
 [submodule "moonscript"]
 	path = mirror/moonscript
 	url = git@github.com:emacsmirror/moonscript.git
@@ -12606,6 +12624,9 @@
 [submodule "ob-elixir"]
 	path = mirror/ob-elixir
 	url = git@github.com:emacsmirror/ob-elixir.git
+[submodule "ob-elvish"]
+	path = mirror/ob-elvish
+	url = git@github.com:emacsmirror/ob-elvish.git
 [submodule "ob-fsharp"]
 	path = mirror/ob-fsharp
 	url = git@github.com:emacsmirror/ob-fsharp.git
@@ -12807,6 +12828,9 @@
 [submodule "omni-tags"]
 	path = mirror/omni-tags
 	url = git@github.com:emacsmirror/omni-tags.git
+[submodule "omnibox"]
+	path = mirror/omnibox
+	url = git@github.com:emacsmirror/omnibox.git
 [submodule "omniref"]
 	path = attic/omniref
 	url = git@github.com:emacsattic/omniref.git
@@ -14536,6 +14560,9 @@
 [submodule "preseed-generic-mode"]
 	path = mirror/preseed-generic-mode
 	url = git@github.com:emacsmirror/preseed-generic-mode.git
+[submodule "presentation"]
+	path = mirror/presentation
+	url = git@github.com:emacsmirror/presentation.git
 [submodule "prettier-js"]
 	path = mirror/prettier-js
 	url = git@github.com:emacsmirror/prettier-js.git
@@ -20076,3 +20103,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "org-variable-pitch"]
+	path = mirror/org-variable-pitch
+	url = git@github.com:emacsmirror/org-variable-pitch.git
