@@ -12084,6 +12084,9 @@
 [submodule "mwim"]
 	path = mirror/mwim
 	url = git@github.com:emacsmirror/mwim.git
+[submodule "mxf-view"]
+	path = mirror/mxf-view
+	url = git@github.com:emacsmirror/mxf-view.git
 [submodule "myanmar-input-methods"]
 	path = mirror/myanmar-input-methods
 	url = git@github.com:emacsmirror/myanmar-input-methods.git
@@ -12243,6 +12246,9 @@
 [submodule "nesc"]
 	path = attic/nesc
 	url = git@github.com:emacsattic/nesc.git
+[submodule "netease-music"]
+	path = mirror/netease-music
+	url = git@github.com:emacsmirror/netease-music.git
 [submodule "nethack"]
 	path = attic/nethack
 	url = git@github.com:emacsattic/nethack.git
@@ -12338,6 +12344,9 @@
 [submodule "nix-mode"]
 	path = mirror/nix-mode
 	url = git@github.com:emacsmirror/nix-mode.git
+[submodule "nix-update"]
+	path = mirror/nix-update
+	url = git@github.com:emacsmirror/nix-update.git
 [submodule "nixos-options"]
 	path = mirror/nixos-options
 	url = git@github.com:emacsmirror/nixos-options.git
@@ -12411,6 +12420,9 @@
 [submodule "nodejs-repl"]
 	path = mirror/nodejs-repl
 	url = git@github.com:emacsmirror/nodejs-repl.git
+[submodule "nodemcu-mode"]
+	path = mirror/nodemcu-mode
+	url = git@github.com:emacsmirror/nodemcu-mode.git
 [submodule "noflet"]
 	path = mirror/noflet
 	url = git@github.com:emacsmirror/noflet.git
@@ -12462,6 +12474,9 @@
 [submodule "nov"]
 	path = mirror/nov
 	url = git@github.com:emacsmirror/nov.git
+[submodule "nova-theme"]
+	path = mirror/nova-theme
+	url = git@github.com:emacsmirror/nova-theme.git
 [submodule "novice+"]
 	path = mirror/novice+
 	url = git@github.com:emacsmirror/novice-plus.git
@@ -13351,6 +13366,9 @@
 [submodule "org-trello"]
 	path = mirror/org-trello
 	url = git@github.com:emacsmirror/org-trello.git
+[submodule "org-variable-pitch"]
+	path = mirror/org-variable-pitch
+	url = git@github.com:emacsmirror/org-variable-pitch.git
 [submodule "org-vcard"]
 	path = mirror/org-vcard
 	url = git@github.com:emacsmirror/org-vcard.git
@@ -14163,6 +14181,9 @@
 [submodule "phpcbf"]
 	path = mirror/phpcbf
 	url = git@github.com:emacsmirror/phpcbf.git
+[submodule "phpstan"]
+	path = mirror/phpstan
+	url = git@github.com:emacsmirror/phpstan.git
 [submodule "phpunit"]
 	path = mirror/phpunit
 	url = git@github.com:emacsmirror/phpunit.git
@@ -14747,6 +14768,9 @@
 [submodule "prove"]
 	path = attic/prove
 	url = git@github.com:emacsattic/prove.git
+[submodule "proxy-mode"]
+	path = mirror/proxy-mode
+	url = git@github.com:emacsmirror/proxy-mode.git
 [submodule "pry"]
 	path = mirror/pry
 	url = git@github.com:emacsmirror/pry.git
@@ -20103,6 +20127,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "org-variable-pitch"]
-	path = mirror/org-variable-pitch
-	url = git@github.com:emacsmirror/org-variable-pitch.git
