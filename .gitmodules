@@ -7818,6 +7818,9 @@
 [submodule "h4x0r"]
 	path = attic/h4x0r
 	url = git@github.com:emacsattic/h4x0r.git
+[submodule "habamax-theme"]
+	path = mirror/habamax-theme
+	url = git@github.com:emacsmirror/habamax-theme.git
 [submodule "habitica"]
 	path = mirror/habitica
 	url = git@github.com:emacsmirror/habitica.git
@@ -8761,6 +8764,9 @@
 [submodule "hll"]
 	path = attic/hll
 	url = git@github.com:emacsattic/hll.git
+[submodule "hmac"]
+	path = mirror/hmac
+	url = git@github.com:emacsmirror/hmac.git
 [submodule "hoa-mode"]
 	path = mirror/hoa-mode
 	url = git@github.com:emacsmirror/hoa-mode.git
@@ -10848,6 +10854,9 @@
 	path = mirror/lsp-haskell
 	url = git@github.com:emacsmirror/lsp-haskell.git
 	branch = master
+[submodule "lsp-intellij"]
+	path = mirror/lsp-intellij
+	url = git@github.com:emacsmirror/lsp-intellij.git
 [submodule "lsp-java"]
 	path = mirror/lsp-java
 	url = git@github.com:emacsmirror/lsp-java.git
@@ -10914,6 +10923,9 @@
 [submodule "lxc"]
 	path = mirror/lxc
 	url = git@github.com:emacsmirror/lxc.git
+[submodule "lxc-tramp"]
+	path = mirror/lxc-tramp
+	url = git@github.com:emacsmirror/lxc-tramp.git
 [submodule "lyric-mode"]
 	path = mirror/lyric-mode
 	url = git@github.com:emacsmirror/lyric-mode.git
@@ -13414,6 +13426,9 @@
 [submodule "org2web"]
 	path = mirror/org2web
 	url = git@github.com:emacsmirror/org2web.git
+[submodule "orgalist"]
+	path = mirror/orgalist
+	url = git@github.com:emacsmirror/orgalist.git
 [submodule "organic-green-theme"]
 	path = mirror/organic-green-theme
 	url = git@github.com:emacsmirror/organic-green-theme.git
@@ -14246,6 +14261,9 @@
 [submodule "pinboard-api"]
 	path = mirror/pinboard-api
 	url = git@github.com:emacsmirror/pinboard-api.git
+[submodule "pinboard-popular"]
+	path = mirror/pinboard-popular
+	url = git@github.com:emacsmirror/pinboard-popular.git
 [submodule "pinentry"]
 	path = mirror/pinentry
 	url = git@github.com:emacsmirror/pinentry.git
@@ -14969,6 +14987,9 @@
 [submodule "pynt"]
 	path = mirror/pynt
 	url = git@github.com:emacsmirror/pynt.git
+[submodule "pyramid"]
+	path = mirror/pyramid
+	url = git@github.com:emacsmirror/pyramid.git
 [submodule "pytest"]
 	path = mirror/pytest
 	url = git@github.com:emacsmirror/pytest.git
@@ -20127,6 +20148,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "orgalist"]
-	path = mirror/orgalist
-	url = git@github.com:emacsmirror/orgalist.git
