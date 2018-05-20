@@ -1879,6 +1879,9 @@
 [submodule "cc-tempo-electric-support"]
 	path = attic/cc-tempo-electric-support
 	url = git@github.com:emacsattic/cc-tempo-electric-support.git
+[submodule "ccls"]
+	path = mirror/ccls
+	url = git@github.com:emacsmirror/ccls.git
 [submodule "ccm"]
 	path = attic/ccm
 	url = git@github.com:emacsattic/ccm.git
@@ -9669,6 +9672,9 @@
 [submodule "ivy-xref"]
 	path = mirror/ivy-xref
 	url = git@github.com:emacsmirror/ivy-xref.git
+[submodule "ivy-yasnippet"]
+	path = mirror/ivy-yasnippet
+	url = git@github.com:emacsmirror/ivy-yasnippet.git
 [submodule "ivy-youtube"]
 	path = mirror/ivy-youtube
 	url = git@github.com:emacsmirror/ivy-youtube.git
@@ -10730,6 +10736,9 @@
 [submodule "load-directory"]
 	path = attic/load-directory
 	url = git@github.com:emacsattic/load-directory.git
+[submodule "load-env-vars"]
+	path = mirror/load-env-vars
+	url = git@github.com:emacsmirror/load-env-vars.git
 [submodule "load-fns"]
 	path = attic/load-fns
 	url = git@github.com:emacsattic/load-fns.git
