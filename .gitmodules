@@ -18991,8 +18991,8 @@
 	path = mirror/vim-region
 	url = git@github.com:emacsmirror/vim-region.git
 [submodule "vimgolf"]
-	path = mirror/vimgolf
-	url = git@github.com:emacsmirror/vimgolf.git
+	path = attic/vimgolf
+	url = git@github.com:emacsattic/vimgolf.git
 	branch = master
 [submodule "vimish-fold"]
 	path = mirror/vimish-fold
