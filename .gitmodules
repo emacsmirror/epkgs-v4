@@ -7673,7 +7673,6 @@
 [submodule "grandshell-theme"]
 	path = mirror/grandshell-theme
 	url = git@github.com:emacsmirror/grandshell-theme.git
-	branch = master
 [submodule "graphene"]
 	path = mirror/graphene
 	url = git@github.com:emacsmirror/graphene.git
@@ -14397,7 +14396,6 @@
 [submodule "plain-theme"]
 	path = mirror/plain-theme
 	url = git@github.com:emacsmirror/plain-theme.git
-	branch = master
 [submodule "plan9-theme"]
 	path = mirror/plan9-theme
 	url = git@github.com:emacsmirror/plan9-theme.git
