@@ -2626,9 +2626,6 @@
 [submodule "company-plsense"]
 	path = mirror/company-plsense
 	url = git@github.com:emacsmirror/company-plsense.git
-[submodule "company-prescient"]
-	path = mirror/company-prescient
-	url = git@github.com:emacsmirror/company-prescient.git
 [submodule "company-qml"]
 	path = mirror/company-qml
 	url = git@github.com:emacsmirror/company-qml.git
@@ -14684,6 +14681,9 @@
 [submodule "preproc-font-lock"]
 	path = mirror/preproc-font-lock
 	url = git@github.com:emacsmirror/preproc-font-lock.git
+[submodule "prescient"]
+	path = mirror/prescient
+	url = git@github.com:emacsmirror/prescient.git
 [submodule "preseed-generic-mode"]
 	path = mirror/preseed-generic-mode
 	url = git@github.com:emacsmirror/preseed-generic-mode.git
