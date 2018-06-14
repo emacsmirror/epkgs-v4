@@ -6903,7 +6903,6 @@
 [submodule "futhark-mode"]
 	path = mirror/futhark-mode
 	url = git@github.com:emacsmirror/futhark-mode.git
-	branch = master
 [submodule "fuzz"]
 	path = mirror/fuzz
 	url = git@github.com:emacsmirror/fuzz.git
@@ -8380,7 +8379,6 @@
 [submodule "helm-pass"]
 	path = mirror/helm-pass
 	url = git@github.com:emacsmirror/helm-pass.git
-	branch = master
 [submodule "helm-perldoc"]
 	path = mirror/helm-perldoc
 	url = git@github.com:emacsmirror/helm-perldoc.git
@@ -17771,7 +17769,6 @@
 [submodule "system-packages"]
 	path = mirror/system-packages
 	url = git@github.com:emacsmirror/system-packages.git
-	branch = master
 [submodule "system-specific-settings"]
 	path = mirror/system-specific-settings
 	url = git@github.com:emacsmirror/system-specific-settings.git
