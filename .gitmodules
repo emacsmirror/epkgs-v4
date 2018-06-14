@@ -1261,6 +1261,9 @@
 [submodule "beginner"]
 	path = mirror/beginner
 	url = git@github.com:emacsmirror/beginner.git
+[submodule "belarus-holidays"]
+	path = mirror/belarus-holidays
+	url = git@github.com:emacsmirror/belarus-holidays.git
 [submodule "benchmark-init"]
 	path = mirror/benchmark-init
 	url = git@github.com:emacsmirror/benchmark-init.git
@@ -3584,6 +3587,9 @@
 [submodule "digitalocean"]
 	path = mirror/digitalocean
 	url = git@github.com:emacsmirror/digitalocean.git
+[submodule "digitalocean-helm"]
+	path = mirror/digitalocean-helm
+	url = git@github.com:emacsmirror/digitalocean-helm.git
 [submodule "dim"]
 	path = mirror/dim
 	url = git@github.com:emacsmirror/dim.git
@@ -7069,6 +7075,9 @@
 [submodule "get-url-content"]
 	path = attic/get-url-content
 	url = git@github.com:emacsattic/get-url-content.git
+[submodule "gf"]
+	path = mirror/gf
+	url = git@github.com:emacsmirror/gf.git
 [submodule "ggo-mode"]
 	path = mirror/ggo-mode
 	url = git@github.com:emacsmirror/ggo-mode.git
@@ -9277,6 +9286,9 @@
 [submodule "imenus"]
 	path = mirror/imenus
 	url = git@github.com:emacsmirror/imenus.git
+[submodule "imgbb"]
+	path = mirror/imgbb
+	url = git@github.com:emacsmirror/imgbb.git
 [submodule "imgix"]
 	path = attic/imgix
 	url = git@github.com:emacsattic/imgix.git
@@ -10844,6 +10856,9 @@
 [submodule "lognav-mode"]
 	path = mirror/lognav-mode
 	url = git@github.com:emacsmirror/lognav-mode.git
+[submodule "logpad"]
+	path = mirror/logpad
+	url = git@github.com:emacsmirror/logpad.git
 [submodule "logstash-conf"]
 	path = mirror/logstash-conf
 	url = git@github.com:emacsmirror/logstash-conf.git
@@ -11941,6 +11956,9 @@
 [submodule "mqr"]
 	path = mirror/mqr
 	url = git@github.com:emacsmirror/mqr.git
+[submodule "mqtt-mode"]
+	path = mirror/mqtt-mode
+	url = git@github.com:emacsmirror/mqtt-mode.git
 [submodule "mru-yank"]
 	path = mirror/mru-yank
 	url = git@github.com:emacsmirror/mru-yank.git
@@ -11991,6 +12009,9 @@
 [submodule "mu4e-alert"]
 	path = mirror/mu4e-alert
 	url = git@github.com:emacsmirror/mu4e-alert.git
+[submodule "mu4e-conversation"]
+	path = mirror/mu4e-conversation
+	url = git@github.com:emacsmirror/mu4e-conversation.git
 [submodule "mu4e-jump-to-list"]
 	path = mirror/mu4e-jump-to-list
 	url = git@github.com:emacsmirror/mu4e-jump-to-list.git
@@ -12149,6 +12170,9 @@
 [submodule "mvn"]
 	path = mirror/mvn
 	url = git@github.com:emacsmirror/mvn.git
+[submodule "mw-thesaurus"]
+	path = mirror/mw-thesaurus
+	url = git@github.com:emacsmirror/mw-thesaurus.git
 [submodule "mwe-cambridge-permute"]
 	path = attic/mwe-cambridge-permute
 	url = git@github.com:emacsattic/mwe-cambridge-permute.git
@@ -13252,6 +13276,9 @@
 [submodule "org-linkany"]
 	path = mirror/org-linkany
 	url = git@github.com:emacsmirror/org-linkany.git
+[submodule "org-listcruncher"]
+	path = mirror/org-listcruncher
+	url = git@github.com:emacsmirror/org-listcruncher.git
 [submodule "org-mac-protocol"]
 	path = mirror/org-mac-protocol
 	url = git@github.com:emacsmirror/org-mac-protocol.git
@@ -18142,6 +18169,9 @@
 [submodule "tfs"]
 	path = mirror/tfs
 	url = git@github.com:emacsmirror/tfs.git
+[submodule "tfsmacs"]
+	path = mirror/tfsmacs
+	url = git@github.com:emacsmirror/tfsmacs.git
 [submodule "theme-changer"]
 	path = mirror/theme-changer
 	url = git@github.com:emacsmirror/theme-changer.git
