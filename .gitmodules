@@ -16855,8 +16855,8 @@
 	path = mirror/sly
 	url = git@github.com:emacsmirror/sly.git
 [submodule "sly-company"]
-	path = mirror/sly-company
-	url = git@github.com:emacsmirror/sly-company.git
+	path = attic/sly-company
+	url = git@github.com:emacsattic/sly-company.git
 [submodule "sly-hello-world"]
 	path = mirror/sly-hello-world
 	url = git@github.com:emacsmirror/sly-hello-world.git
