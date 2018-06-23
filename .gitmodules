@@ -1333,6 +1333,9 @@
 [submodule "bibus"]
 	path = mirror/bibus
 	url = git@github.com:emacsmirror/bibus.git
+[submodule "bicycle"]
+	path = mirror/bicycle
+	url = git@github.com:emacsmirror/bicycle.git
 [submodule "bidi"]
 	path = mirror/bidi
 	url = git@github.com:emacsmirror/bidi.git
