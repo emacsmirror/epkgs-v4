@@ -15231,11 +15231,9 @@
 [submodule "quelpa"]
 	path = mirror/quelpa
 	url = git@github.com:emacsmirror/quelpa.git
-	branch = master
 [submodule "quelpa-use-package"]
 	path = mirror/quelpa-use-package
 	url = git@github.com:emacsmirror/quelpa-use-package.git
-	branch = master
 [submodule "querer"]
 	path = attic/querer
 	url = git@github.com:emacsattic/querer.git
