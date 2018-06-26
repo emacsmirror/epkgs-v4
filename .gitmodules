@@ -1080,6 +1080,9 @@
 	path = mirror/background
 	url = git@github.com:emacsmirror/background.git
 	branch = master
+[submodule "backlight"]
+	path = mirror/backlight
+	url = git@github.com:emacsmirror/backlight.git
 [submodule "backup"]
 	path = attic/backup
 	url = git@github.com:emacsattic/backup.git
@@ -6794,6 +6797,9 @@
 	path = mirror/frame-mode
 	url = git@github.com:emacsmirror/frame-mode.git
 	branch = master
+[submodule "frame-purpose"]
+	path = mirror/frame-purpose
+	url = git@github.com:emacsmirror/frame-purpose.git
 [submodule "frame-restore"]
 	path = attic/frame-restore
 	url = git@github.com:emacsattic/frame-restore.git
@@ -8393,6 +8399,9 @@
 	path = mirror/helm-phpunit
 	url = git@github.com:emacsmirror/helm-phpunit.git
 	branch = master
+[submodule "helm-posframe"]
+	path = mirror/helm-posframe
+	url = git@github.com:emacsmirror/helm-posframe.git
 [submodule "helm-proc"]
 	path = mirror/helm-proc
 	url = git@github.com:emacsmirror/helm-proc.git
@@ -12425,6 +12434,9 @@
 	path = mirror/niconama
 	url = git@github.com:emacsmirror/niconama.git
 	branch = master
+[submodule "night-owl-theme"]
+	path = mirror/night-owl-theme
+	url = git@github.com:emacsmirror/night-owl-theme.git
 [submodule "nikola"]
 	path = mirror/nikola
 	url = git@github.com:emacsmirror/nikola.git
@@ -16466,6 +16478,9 @@
 [submodule "sese"]
 	path = attic/sese
 	url = git@github.com:emacsattic/sese.git
+[submodule "sesman"]
+	path = mirror/sesman
+	url = git@github.com:emacsmirror/sesman.git
 [submodule "session"]
 	path = mirror/session
 	url = git@github.com:emacsmirror/session.git
@@ -18921,6 +18936,9 @@
 [submodule "use-package-el-get"]
 	path = mirror/use-package-el-get
 	url = git@github.com:emacsmirror/use-package-el-get.git
+[submodule "use-ttf"]
+	path = mirror/use-ttf
+	url = git@github.com:emacsmirror/use-ttf.git
 [submodule "ushell"]
 	path = attic/ushell
 	url = git@github.com:emacsattic/ushell.git
