@@ -12679,7 +12679,6 @@
 [submodule "nv-delete-back"]
 	path = mirror/nv-delete-back
 	url = git@github.com:emacsmirror/nv-delete-back.git
-	branch = master
 [submodule "nvm"]
 	path = mirror/nvm
 	url = git@github.com:emacsmirror/nvm.git
