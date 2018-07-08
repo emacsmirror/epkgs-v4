@@ -6005,9 +6005,6 @@
 [submodule "fill-function-arguments"]
 	path = mirror/fill-function-arguments
 	url = git@github.com:emacsmirror/fill-function-arguments.git
-[submodule "filladapt"]
-	path = mirror/filladapt
-	url = git@github.com:emacsmirror/filladapt.git
 [submodule "filladapt-pat"]
 	path = mirror/filladapt-pat
 	url = git@github.com:emacsmirror/filladapt-pat.git
@@ -20353,3 +20350,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "filladapt"]
+	path = mirror/filladapt
+	url = git@github.com:emacsmirror/filladapt.git
