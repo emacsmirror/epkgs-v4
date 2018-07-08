@@ -6005,6 +6005,9 @@
 [submodule "fill-function-arguments"]
 	path = mirror/fill-function-arguments
 	url = git@github.com:emacsmirror/fill-function-arguments.git
+[submodule "filladapt"]
+	path = mirror/filladapt
+	url = git@github.com:emacsmirror/filladapt.git
 [submodule "filladapt-pat"]
 	path = mirror/filladapt-pat
 	url = git@github.com:emacsmirror/filladapt-pat.git
@@ -17297,10 +17300,6 @@
 	path = mirror/spice-mode
 	url = git@github.com:emacsmirror/spice-mode.git
 	branch = master
-[submodule "spike-theme"]
-	path = mirror/spike-theme
-	url = git@github.com:emacsmirror/spike-theme.git
-	branch = master
 [submodule "spinasm-mode"]
 	path = mirror/spinasm-mode
 	url = git@github.com:emacsmirror/spinasm-mode.git
@@ -20350,6 +20349,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "filladapt"]
-	path = mirror/filladapt
-	url = git@github.com:emacsmirror/filladapt.git
