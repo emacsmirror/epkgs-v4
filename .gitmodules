@@ -321,6 +321,9 @@
 [submodule "ajc-java-complete"]
 	path = mirror/ajc-java-complete
 	url = git@github.com:emacsmirror/ajc-java-complete.git
+[submodule "alan-mode"]
+	path = mirror/alan-mode
+	url = git@github.com:emacsmirror/alan-mode.git
 [submodule "alarm"]
 	path = mirror/alarm
 	url = git@github.com:emacsmirror/alarm.git
@@ -2350,6 +2353,9 @@
 [submodule "cocol"]
 	path = attic/cocol
 	url = git@github.com:emacsattic/cocol.git
+[submodule "code-archive"]
+	path = mirror/code-archive
+	url = git@github.com:emacsmirror/code-archive.git
 [submodule "code-imports"]
 	path = mirror/code-imports
 	url = git@github.com:emacsmirror/code-imports.git
@@ -2635,6 +2641,9 @@
 [submodule "company-plsense"]
 	path = mirror/company-plsense
 	url = git@github.com:emacsmirror/company-plsense.git
+[submodule "company-posframe"]
+	path = mirror/company-posframe
+	url = git@github.com:emacsmirror/company-posframe.git
 [submodule "company-qml"]
 	path = mirror/company-qml
 	url = git@github.com:emacsmirror/company-qml.git
@@ -2859,6 +2868,9 @@
 [submodule "counsel-notmuch"]
 	path = mirror/counsel-notmuch
 	url = git@github.com:emacsmirror/counsel-notmuch.git
+[submodule "counsel-org-capture-string"]
+	path = mirror/counsel-org-capture-string
+	url = git@github.com:emacsmirror/counsel-org-capture-string.git
 [submodule "counsel-org-clock"]
 	path = mirror/counsel-org-clock
 	url = git@github.com:emacsmirror/counsel-org-clock.git
@@ -3363,6 +3375,9 @@
 	path = mirror/ddskk
 	url = git@github.com:emacsmirror/ddskk.git
 	branch = master
+[submodule "deadgrep"]
+	path = mirror/deadgrep
+	url = git@github.com:emacsmirror/deadgrep.git
 [submodule "debbugs"]
 	path = mirror/debbugs
 	url = git@github.com:emacsmirror/debbugs.git
@@ -3937,6 +3952,9 @@
 [submodule "doom"]
 	path = mirror/doom
 	url = git@github.com:emacsmirror/doom.git
+[submodule "doom-modeline"]
+	path = mirror/doom-modeline
+	url = git@github.com:emacsmirror/doom-modeline.git
 [submodule "doom-themes"]
 	path = mirror/doom-themes
 	url = git@github.com:emacsmirror/doom-themes.git
@@ -6803,6 +6821,9 @@
 [submodule "frame-restore"]
 	path = attic/frame-restore
 	url = git@github.com:emacsattic/frame-restore.git
+[submodule "frame-tabs"]
+	path = mirror/frame-tabs
+	url = git@github.com:emacsmirror/frame-tabs.git
 [submodule "frame-tag"]
 	path = mirror/frame-tag
 	url = git@github.com:emacsmirror/frame-tag.git
@@ -8512,6 +8533,9 @@
 	path = mirror/helm-systemd
 	url = git@github.com:emacsmirror/helm-systemd.git
 	branch = master
+[submodule "helm-tail"]
+	path = mirror/helm-tail
+	url = git@github.com:emacsmirror/helm-tail.git
 [submodule "helm-themes"]
 	path = mirror/helm-themes
 	url = git@github.com:emacsmirror/helm-themes.git
@@ -10598,6 +10622,9 @@
 [submodule "libelcouch"]
 	path = mirror/libelcouch
 	url = git@github.com:emacsmirror/libelcouch.git
+[submodule "libgit"]
+	path = mirror/libgit
+	url = git@github.com:emacsmirror/libgit.git
 [submodule "libmpdee"]
 	path = mirror/libmpdee
 	url = git@github.com:emacsmirror/libmpdee.git
@@ -10635,6 +10662,9 @@
 [submodule "line-numbers-mode"]
 	path = attic/line-numbers-mode
 	url = git@github.com:emacsattic/line-numbers-mode.git
+[submodule "line-reminder"]
+	path = mirror/line-reminder
+	url = git@github.com:emacsmirror/line-reminder.git
 [submodule "line-up-words"]
 	path = mirror/line-up-words
 	url = git@github.com:emacsmirror/line-up-words.git
@@ -10938,6 +10968,9 @@
 	path = mirror/lsp-haskell
 	url = git@github.com:emacsmirror/lsp-haskell.git
 	branch = master
+[submodule "lsp-html"]
+	path = mirror/lsp-html
+	url = git@github.com:emacsmirror/lsp-html.git
 [submodule "lsp-intellij"]
 	path = mirror/lsp-intellij
 	url = git@github.com:emacsmirror/lsp-intellij.git
@@ -11120,6 +11153,9 @@
 [submodule "magit-tbdiff"]
 	path = mirror/magit-tbdiff
 	url = git@github.com:emacsmirror/magit-tbdiff.git
+[submodule "magit-todos"]
+	path = mirror/magit-todos
+	url = git@github.com:emacsmirror/magit-todos.git
 [submodule "magit-topgit"]
 	path = mirror/magit-topgit
 	url = git@github.com:emacsmirror/magit-topgit.git
@@ -13342,6 +13378,9 @@
 [submodule "org-osm-link"]
 	path = mirror/org-osm-link
 	url = git@github.com:emacsmirror/org-osm-link.git
+[submodule "org-outline-numbering"]
+	path = mirror/org-outline-numbering
+	url = git@github.com:emacsmirror/org-outline-numbering.git
 [submodule "org-outlook"]
 	path = mirror/org-outlook
 	url = git@github.com:emacsmirror/org-outlook.git
@@ -14395,6 +14434,9 @@
 [submodule "pinpoint-mode"]
 	path = attic/pinpoint-mode
 	url = git@github.com:emacsattic/pinpoint-mode.git
+[submodule "pinyin"]
+	path = mirror/pinyin
+	url = git@github.com:emacsmirror/pinyin.git
 [submodule "pinyin-search"]
 	path = mirror/pinyin-search
 	url = git@github.com:emacsmirror/pinyin-search.git
@@ -14801,6 +14843,9 @@
 [submodule "programmer-dvorak"]
 	path = mirror/programmer-dvorak
 	url = git@github.com:emacsmirror/programmer-dvorak.git
+[submodule "project-abbrev"]
+	path = mirror/project-abbrev
+	url = git@github.com:emacsmirror/project-abbrev.git
 [submodule "project-buffer-mode"]
 	path = attic/project-buffer-mode
 	url = git@github.com:emacsattic/project-buffer-mode.git
@@ -18011,6 +18056,9 @@
 [submodule "template"]
 	path = attic/template
 	url = git@github.com:emacsattic/template.git
+[submodule "template-overlays"]
+	path = mirror/template-overlays
+	url = git@github.com:emacsmirror/template-overlays.git
 [submodule "template-simple"]
 	path = mirror/template-simple
 	url = git@github.com:emacsmirror/template-simple.git
@@ -19240,6 +19288,9 @@
 [submodule "vwindow"]
 	path = attic/vwindow
 	url = git@github.com:emacsattic/vwindow.git
+[submodule "vyper-mode"]
+	path = mirror/vyper-mode
+	url = git@github.com:emacsmirror/vyper-mode.git
 [submodule "w3"]
 	path = mirror/w3
 	url = git@github.com:emacsmirror/w3.git
@@ -20302,6 +20353,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "frame-tabs"]
-	path = mirror/frame-tabs
-	url = git@github.com:emacsmirror/frame-tabs.git
