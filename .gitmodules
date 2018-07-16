@@ -10957,6 +10957,12 @@
 [submodule "lsl-mode"]
 	path = attic/lsl-mode
 	url = git@github.com:emacsattic/lsl-mode.git
+[submodule "lsp-clangd"]
+	path = mirror/lsp-clangd
+	url = git@github.com:emacsmirror/lsp-clangd.git
+[submodule "lsp-css"]
+	path = mirror/lsp-css
+	url = git@github.com:emacsmirror/lsp-css.git
 [submodule "lsp-go"]
 	path = mirror/lsp-go
 	url = git@github.com:emacsmirror/lsp-go.git
