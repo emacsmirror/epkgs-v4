@@ -5578,6 +5578,9 @@
 [submodule "evil-paredit"]
 	path = mirror/evil-paredit
 	url = git@github.com:emacsmirror/evil-paredit.git
+[submodule "evil-python-movement"]
+	path = mirror/evil-python-movement
+	url = git@github.com:emacsmirror/evil-python-movement.git
 [submodule "evil-quickscope"]
 	path = mirror/evil-quickscope
 	url = git@github.com:emacsmirror/evil-quickscope.git
@@ -13252,6 +13255,9 @@
 [submodule "org-email"]
 	path = mirror/org-email
 	url = git@github.com:emacsmirror/org-email.git
+[submodule "org-emms"]
+	path = mirror/org-emms
+	url = git@github.com:emacsmirror/org-emms.git
 [submodule "org-evil"]
 	path = mirror/org-evil
 	url = git@github.com:emacsmirror/org-evil.git
