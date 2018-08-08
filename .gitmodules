@@ -5866,6 +5866,9 @@
 [submodule "fcsh-mode"]
 	path = mirror/fcsh-mode
 	url = git@github.com:emacsmirror/fcsh-mode.git
+[submodule "fd-dired"]
+	path = mirror/fd-dired
+	url = git@github.com:emacsmirror/fd-dired.git
 [submodule "fdlcap"]
 	path = mirror/fdlcap
 	url = git@github.com:emacsmirror/fdlcap.git
@@ -6365,6 +6368,9 @@
 [submodule "flycheck-gradle"]
 	path = mirror/flycheck-gradle
 	url = git@github.com:emacsmirror/flycheck-gradle.git
+[submodule "flycheck-grammalecte"]
+	path = mirror/flycheck-grammalecte
+	url = git@github.com:emacsmirror/flycheck-grammalecte.git
 [submodule "flycheck-haskell"]
 	path = mirror/flycheck-haskell
 	url = git@github.com:emacsmirror/flycheck-haskell.git
