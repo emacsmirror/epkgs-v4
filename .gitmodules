@@ -1552,8 +1552,8 @@
 	path = attic/breathe
 	url = git@github.com:emacsattic/breathe.git
 [submodule "brief"]
-	path = attic/brief
-	url = git@github.com:emacsattic/brief.git
+	path = mirror/brief
+	url = git@github.com:emacsmirror/brief.git
 [submodule "broadcast"]
 	path = mirror/broadcast
 	url = git@github.com:emacsmirror/broadcast.git
