@@ -1413,6 +1413,9 @@
 [submodule "blgrep"]
 	path = mirror/blgrep
 	url = git@github.com:emacsmirror/blgrep.git
+[submodule "blimp"]
+	path = mirror/blimp
+	url = git@github.com:emacsmirror/blimp.git
 [submodule "blink-extras"]
 	path = attic/blink-extras
 	url = git@github.com:emacsattic/blink-extras.git
@@ -2476,6 +2479,9 @@
 [submodule "com-css-sort"]
 	path = mirror/com-css-sort
 	url = git@github.com:emacsmirror/com-css-sort.git
+[submodule "comb"]
+	path = mirror/comb
+	url = git@github.com:emacsmirror/comb.git
 [submodule "come-fly"]
 	path = mirror/come-fly
 	url = git@github.com:emacsmirror/come-fly.git
@@ -6466,6 +6472,9 @@
 	path = mirror/flycheck-package
 	url = git@github.com:emacsmirror/flycheck-package.git
 	branch = master
+[submodule "flycheck-pact"]
+	path = mirror/flycheck-pact
+	url = git@github.com:emacsmirror/flycheck-pact.git
 [submodule "flycheck-perl6"]
 	path = mirror/flycheck-perl6
 	url = git@github.com:emacsmirror/flycheck-perl6.git
@@ -6551,6 +6560,9 @@
 	path = mirror/flycheck-vale
 	url = git@github.com:emacsmirror/flycheck-vale.git
 	branch = master
+[submodule "flycheck-vdm"]
+	path = mirror/flycheck-vdm
+	url = git@github.com:emacsmirror/flycheck-vdm.git
 [submodule "flycheck-xcode"]
 	path = mirror/flycheck-xcode
 	url = git@github.com:emacsmirror/flycheck-xcode.git
@@ -7956,6 +7968,9 @@
 [submodule "hack-locals"]
 	path = attic/hack-locals
 	url = git@github.com:emacsattic/hack-locals.git
+[submodule "hack-mode"]
+	path = mirror/hack-mode
+	url = git@github.com:emacsmirror/hack-mode.git
 [submodule "hack-time-mode"]
 	path = mirror/hack-time-mode
 	url = git@github.com:emacsmirror/hack-time-mode.git
@@ -10743,6 +10758,9 @@
 [submodule "lingr"]
 	path = mirror/lingr
 	url = git@github.com:emacsmirror/lingr.git
+[submodule "linguistic"]
+	path = mirror/linguistic
+	url = git@github.com:emacsmirror/linguistic.git
 [submodule "link-hint"]
 	path = mirror/link-hint
 	url = git@github.com:emacsmirror/link-hint.git
@@ -11168,6 +11186,9 @@
 [submodule "magic-latex-buffer"]
 	path = mirror/magic-latex-buffer
 	url = git@github.com:emacsmirror/magic-latex-buffer.git
+[submodule "magik-mode"]
+	path = mirror/magik-mode
+	url = git@github.com:emacsmirror/magik-mode.git
 [submodule "magit"]
 	path = mirror/magit
 	url = git@github.com:emacsmirror/magit.git
@@ -13964,6 +13985,9 @@
 [submodule "pacmacs"]
 	path = mirror/pacmacs
 	url = git@github.com:emacsmirror/pacmacs.git
+[submodule "pact-mode"]
+	path = mirror/pact-mode
+	url = git@github.com:emacsmirror/pact-mode.git
 [submodule "paganini-theme"]
 	path = mirror/paganini-theme
 	url = git@github.com:emacsmirror/paganini-theme.git
@@ -15683,6 +15707,9 @@
 [submodule "reason-mode"]
 	path = mirror/reason-mode
 	url = git@github.com:emacsmirror/reason-mode.git
+[submodule "reazon"]
+	path = mirror/reazon
+	url = git@github.com:emacsmirror/reazon.git
 [submodule "rebecca-theme"]
 	path = mirror/rebecca-theme
 	url = git@github.com:emacsmirror/rebecca-theme.git
@@ -20388,6 +20415,9 @@
 	path = mirror/zenity-color-picker
 	url = git@github.com:emacsmirror/zenity-color-picker.git
 	branch = master
+[submodule "zeno-theme"]
+	path = mirror/zeno-theme
+	url = git@github.com:emacsmirror/zeno-theme.git
 [submodule "zephir-mode"]
 	path = mirror/zephir-mode
 	url = git@github.com:emacsmirror/zephir-mode.git
