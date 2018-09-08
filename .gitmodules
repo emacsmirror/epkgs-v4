@@ -13883,9 +13883,9 @@
 [submodule "ox-ioslide"]
 	path = mirror/ox-ioslide
 	url = git@github.com:emacsmirror/ox-ioslide.git
-[submodule "ox-jekyll"]
-	path = mirror/ox-jekyll
-	url = git@github.com:emacsmirror/ox-jekyll.git
+[submodule "ox-jekyll-md"]
+	path = mirror/ox-jekyll-md
+	url = git@github.com:emacsmirror/ox-jekyll-md.git
 [submodule "ox-jira"]
 	path = mirror/ox-jira
 	url = git@github.com:emacsmirror/ox-jira.git
