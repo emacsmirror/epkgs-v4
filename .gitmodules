@@ -10177,6 +10177,9 @@
 [submodule "jsonnet-mode"]
 	path = mirror/jsonnet-mode
 	url = git@github.com:emacsmirror/jsonnet-mode.git
+[submodule "jsonrpc"]
+	path = mirror/jsonrpc
+	url = git@github.com:emacsmirror/jsonrpc.git
 [submodule "jss"]
 	path = mirror/jss
 	url = git@github.com:emacsmirror/jss.git
