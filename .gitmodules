@@ -6560,9 +6560,6 @@
 	path = mirror/flycheck-vale
 	url = git@github.com:emacsmirror/flycheck-vale.git
 	branch = master
-[submodule "flycheck-vdm"]
-	path = mirror/flycheck-vdm
-	url = git@github.com:emacsmirror/flycheck-vdm.git
 [submodule "flycheck-xcode"]
 	path = mirror/flycheck-xcode
 	url = git@github.com:emacsmirror/flycheck-xcode.git
@@ -19236,6 +19233,9 @@
 [submodule "vdirel"]
 	path = mirror/vdirel
 	url = git@github.com:emacsmirror/vdirel.git
+[submodule "vdm-mode"]
+	path = mirror/vdm-mode
+	url = git@github.com:emacsmirror/vdm-mode.git
 [submodule "vector-utils"]
 	path = mirror/vector-utils
 	url = git@github.com:emacsmirror/vector-utils.git
