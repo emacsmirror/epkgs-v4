@@ -140,8 +140,8 @@
 	path = mirror/ac-mozc
 	url = git@github.com:emacsmirror/ac-mozc.git
 [submodule "ac-nrepl"]
-	path = mirror/ac-nrepl
-	url = git@github.com:emacsmirror/ac-nrepl.git
+	path = attic/ac-nrepl
+	url = git@github.com:emacsattic/ac-nrepl.git
 [submodule "ac-octave"]
 	path = mirror/ac-octave
 	url = git@github.com:emacsmirror/ac-octave.git
@@ -2277,8 +2277,8 @@
 	path = mirror/clojars
 	url = git@github.com:emacsmirror/clojars.git
 [submodule "clojure-cheatsheet"]
-	path = mirror/clojure-cheatsheet
-	url = git@github.com:emacsmirror/clojure-cheatsheet.git
+	path = attic/clojure-cheatsheet
+	url = git@github.com:emacsattic/clojure-cheatsheet.git
 [submodule "clojure-mode"]
 	path = mirror/clojure-mode
 	url = git@github.com:emacsmirror/clojure-mode.git
