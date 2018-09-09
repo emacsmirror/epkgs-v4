@@ -6502,9 +6502,6 @@
 [submodule "flycheck-prospector"]
 	path = mirror/flycheck-prospector
 	url = git@github.com:emacsmirror/flycheck-prospector.git
-[submodule "flycheck-protobuf"]
-	path = attic/flycheck-protobuf
-	url = git@github.com:emacsattic/flycheck-protobuf.git
 [submodule "flycheck-purescript"]
 	path = mirror/flycheck-purescript
 	url = git@github.com:emacsmirror/flycheck-purescript.git
