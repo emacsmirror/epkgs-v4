@@ -2831,10 +2831,6 @@
 [submodule "copyright-both-ends"]
 	path = mirror/copyright-both-ends
 	url = git@github.com:emacsmirror/copyright-both-ends.git
-[submodule "coq"]
-	path = mirror/coq
-	url = git@github.com:emacsmirror/coq.git
-	branch = master
 [submodule "coq-commenter"]
 	path = mirror/coq-commenter
 	url = git@github.com:emacsmirror/coq-commenter.git
@@ -11502,9 +11498,6 @@
 [submodule "mathematica"]
 	path = attic/mathematica
 	url = git@github.com:emacsattic/mathematica.git
-[submodule "maths-menu"]
-	path = attic/maths-menu
-	url = git@github.com:emacsattic/maths-menu.git
 [submodule "matlab-mode"]
 	path = mirror/matlab-mode
 	url = git@github.com:emacsmirror/matlab-mode.git
@@ -15058,6 +15051,9 @@
 	path = mirror/prompts
 	url = git@github.com:emacsmirror/prompts.git
 	branch = master
+[submodule "proof-general"]
+	path = mirror/proof-general
+	url = git@github.com:emacsmirror/proof-general.git
 [submodule "prop-menu"]
 	path = mirror/prop-menu
 	url = git@github.com:emacsmirror/prop-menu.git
