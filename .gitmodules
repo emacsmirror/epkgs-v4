@@ -2309,8 +2309,8 @@
 	path = mirror/cloud-to-butt-erc
 	url = git@github.com:emacsmirror/cloud-to-butt-erc.git
 [submodule "cluck"]
-	path = mirror/cluck
-	url = git@github.com:emacsmirror/cluck.git
+	path = attic/cluck
+	url = git@github.com:emacsattic/cluck.git
 [submodule "clues-theme"]
 	path = mirror/clues-theme
 	url = git@github.com:emacsmirror/clues-theme.git
@@ -6503,8 +6503,8 @@
 	path = mirror/flycheck-prospector
 	url = git@github.com:emacsmirror/flycheck-prospector.git
 [submodule "flycheck-protobuf"]
-	path = mirror/flycheck-protobuf
-	url = git@github.com:emacsmirror/flycheck-protobuf.git
+	path = attic/flycheck-protobuf
+	url = git@github.com:emacsattic/flycheck-protobuf.git
 [submodule "flycheck-purescript"]
 	path = mirror/flycheck-purescript
 	url = git@github.com:emacsmirror/flycheck-purescript.git
@@ -10365,8 +10365,8 @@
 	path = mirror/keyword-search
 	url = git@github.com:emacsmirror/keyword-search.git
 [submodule "kfg"]
-	path = mirror/kfg
-	url = git@github.com:emacsmirror/kfg.git
+	path = attic/kfg
+	url = git@github.com:emacsattic/kfg.git
 [submodule "kibit-helper"]
 	path = mirror/kibit-helper
 	url = git@github.com:emacsmirror/kibit-helper.git
@@ -13483,8 +13483,8 @@
 	path = mirror/org-onenote
 	url = git@github.com:emacsmirror/org-onenote.git
 [submodule "org-osm-link"]
-	path = mirror/org-osm-link
-	url = git@github.com:emacsmirror/org-osm-link.git
+	path = attic/org-osm-link
+	url = git@github.com:emacsattic/org-osm-link.git
 [submodule "org-outline-numbering"]
 	path = mirror/org-outline-numbering
 	url = git@github.com:emacsmirror/org-outline-numbering.git
@@ -19208,8 +19208,8 @@
 	path = mirror/vc-jump
 	url = git@github.com:emacsmirror/vc-jump.git
 [submodule "vc-mks"]
-	path = mirror/vc-mks
-	url = git@github.com:emacsmirror/vc-mks.git
+	path = attic/vc-mks
+	url = git@github.com:emacsattic/vc-mks.git
 [submodule "vc-msg"]
 	path = mirror/vc-msg
 	url = git@github.com:emacsmirror/vc-msg.git
