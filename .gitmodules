@@ -4359,7 +4359,6 @@
 [submodule "ede-php-autoload"]
 	path = mirror/ede-php-autoload
 	url = git@github.com:emacsmirror/ede-php-autoload.git
-	branch = master
 [submodule "ede-php-autoload-composer-installers"]
 	path = mirror/ede-php-autoload-composer-installers
 	url = git@github.com:emacsmirror/ede-php-autoload-composer-installers.git
