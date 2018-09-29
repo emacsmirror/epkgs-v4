@@ -2770,6 +2770,9 @@
 [submodule "conspire"]
 	path = mirror/conspire
 	url = git@github.com:emacsmirror/conspire.git
+[submodule "constant-theme"]
+	path = mirror/constant-theme
+	url = git@github.com:emacsmirror/constant-theme.git
 [submodule "constants"]
 	path = mirror/constants
 	url = git@github.com:emacsmirror/constants.git
@@ -3733,6 +3736,9 @@
 [submodule "dired-recent"]
 	path = mirror/dired-recent
 	url = git@github.com:emacsmirror/dired-recent.git
+[submodule "dired-rifle"]
+	path = mirror/dired-rifle
+	url = git@github.com:emacsmirror/dired-rifle.git
 [submodule "dired-rsync"]
 	path = mirror/dired-rsync
 	url = git@github.com:emacsmirror/dired-rsync.git
@@ -3840,6 +3846,9 @@
 [submodule "disptime"]
 	path = attic/disptime
 	url = git@github.com:emacsattic/disptime.git
+[submodule "dist-file-mode"]
+	path = mirror/dist-file-mode
+	url = git@github.com:emacsmirror/dist-file-mode.git
 [submodule "distel"]
 	path = mirror/distel
 	url = git@github.com:emacsmirror/distel.git
@@ -3864,6 +3873,9 @@
 [submodule "dizzee"]
 	path = mirror/dizzee
 	url = git@github.com:emacsmirror/dizzee.git
+[submodule "django-commands"]
+	path = mirror/django-commands
+	url = git@github.com:emacsmirror/django-commands.git
 [submodule "django-manage"]
 	path = mirror/django-manage
 	url = git@github.com:emacsmirror/django-manage.git
@@ -5362,6 +5374,9 @@
 [submodule "espuds"]
 	path = mirror/espuds
 	url = git@github.com:emacsmirror/espuds.git
+[submodule "espy"]
+	path = mirror/espy
+	url = git@github.com:emacsmirror/espy.git
 [submodule "esqlite"]
 	path = mirror/esqlite
 	url = git@github.com:emacsmirror/esqlite.git
@@ -5520,6 +5535,12 @@
 [submodule "evil-escape"]
 	path = mirror/evil-escape
 	url = git@github.com:emacsmirror/evil-escape.git
+[submodule "evil-ex-fasd"]
+	path = mirror/evil-ex-fasd
+	url = git@github.com:emacsmirror/evil-ex-fasd.git
+[submodule "evil-ex-shell-command"]
+	path = mirror/evil-ex-shell-command
+	url = git@github.com:emacsmirror/evil-ex-shell-command.git
 [submodule "evil-exchange"]
 	path = mirror/evil-exchange
 	url = git@github.com:emacsmirror/evil-exchange.git
@@ -6609,6 +6630,9 @@
 [submodule "flymake-google-cpplint"]
 	path = mirror/flymake-google-cpplint
 	url = git@github.com:emacsmirror/flymake-google-cpplint.git
+[submodule "flymake-gradle"]
+	path = mirror/flymake-gradle
+	url = git@github.com:emacsmirror/flymake-gradle.git
 [submodule "flymake-haml"]
 	path = mirror/flymake-haml
 	url = git@github.com:emacsmirror/flymake-haml.git
@@ -6658,6 +6682,9 @@
 [submodule "flymake-python-pyflakes"]
 	path = mirror/flymake-python-pyflakes
 	url = git@github.com:emacsmirror/flymake-python-pyflakes.git
+[submodule "flymake-racket"]
+	path = mirror/flymake-racket
+	url = git@github.com:emacsmirror/flymake-racket.git
 [submodule "flymake-ruby"]
 	path = mirror/flymake-ruby
 	url = git@github.com:emacsmirror/flymake-ruby.git
@@ -11040,6 +11067,9 @@
 [submodule "lsp-css"]
 	path = mirror/lsp-css
 	url = git@github.com:emacsmirror/lsp-css.git
+[submodule "lsp-fortran"]
+	path = mirror/lsp-fortran
+	url = git@github.com:emacsmirror/lsp-fortran.git
 [submodule "lsp-go"]
 	path = mirror/lsp-go
 	url = git@github.com:emacsmirror/lsp-go.git
@@ -13272,6 +13302,9 @@
 	path = mirror/org-clock-csv
 	url = git@github.com:emacsmirror/org-clock-csv.git
 	branch = master
+[submodule "org-clock-split"]
+	path = mirror/org-clock-split
+	url = git@github.com:emacsmirror/org-clock-split.git
 [submodule "org-clock-today"]
 	path = mirror/org-clock-today
 	url = git@github.com:emacsmirror/org-clock-today.git
@@ -13450,6 +13483,9 @@
 	path = mirror/org-mru-clock
 	url = git@github.com:emacsmirror/org-mru-clock.git
 	branch = master
+[submodule "org-msg"]
+	path = mirror/org-msg
+	url = git@github.com:emacsmirror/org-msg.git
 [submodule "org-multiple-keymap"]
 	path = mirror/org-multiple-keymap
 	url = git@github.com:emacsmirror/org-multiple-keymap.git
@@ -14231,6 +14267,9 @@
 [submodule "pdf-tools"]
 	path = mirror/pdf-tools
 	url = git@github.com:emacsmirror/pdf-tools.git
+[submodule "pdfgrep"]
+	path = mirror/pdfgrep
+	url = git@github.com:emacsmirror/pdfgrep.git
 [submodule "pdfscan"]
 	path = mirror/pdfscan
 	url = git@github.com:emacsmirror/pdfscan.git
@@ -15886,6 +15925,9 @@
 [submodule "removable-media"]
 	path = attic/removable-media
 	url = git@github.com:emacsattic/removable-media.git
+[submodule "renpy"]
+	path = mirror/renpy
+	url = git@github.com:emacsmirror/renpy.git
 [submodule "rep-words"]
 	path = attic/rep-words
 	url = git@github.com:emacsattic/rep-words.git
@@ -16100,6 +16142,9 @@
 [submodule "rmoo"]
 	path = attic/rmoo
 	url = git@github.com:emacsattic/rmoo.git
+[submodule "rmsbolt"]
+	path = mirror/rmsbolt
+	url = git@github.com:emacsmirror/rmsbolt.git
 [submodule "rnc-mode"]
 	path = mirror/rnc-mode
 	url = git@github.com:emacsmirror/rnc-mode.git
@@ -20362,6 +20407,9 @@
 [submodule "youdao-dictionary"]
 	path = mirror/youdao-dictionary
 	url = git@github.com:emacsmirror/youdao-dictionary.git
+[submodule "youtube-dl"]
+	path = mirror/youtube-dl
+	url = git@github.com:emacsmirror/youtube-dl.git
 [submodule "youwill"]
 	path = attic/youwill
 	url = git@github.com:emacsattic/youwill.git
@@ -20486,6 +20534,9 @@
 	path = mirror/zoutline
 	url = git@github.com:emacsmirror/zoutline.git
 	branch = master
+[submodule "zpl-mode"]
+	path = mirror/zpl-mode
+	url = git@github.com:emacsmirror/zpl-mode.git
 [submodule "zpresent"]
 	path = mirror/zpresent
 	url = git@github.com:emacsmirror/zpresent.git
@@ -20505,6 +20556,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "youtube-dl"]
-	path = mirror/youtube-dl
-	url = git@github.com:emacsmirror/youtube-dl.git
