@@ -3408,12 +3408,9 @@
 [submodule "debbugs"]
 	path = mirror/debbugs
 	url = git@github.com:emacsmirror/debbugs.git
-[submodule "debian-bug"]
-	path = attic/debian-bug
-	url = git@github.com:emacsattic/debian-bug.git
-[submodule "debian-changelog-mode"]
-	path = attic/debian-changelog-mode
-	url = git@github.com:emacsattic/debian-changelog-mode.git
+[submodule "debian-el"]
+	path = mirror/debian-el
+	url = git@github.com:emacsmirror/debian-el.git
 [submodule "debpaste"]
 	path = mirror/debpaste
 	url = git@github.com:emacsmirror/debpaste.git
@@ -4050,6 +4047,9 @@
 [submodule "dpaste_de"]
 	path = mirror/dpaste_de
 	url = git@github.com:emacsmirror/dpaste_de.git
+[submodule "dpkg-dev-el"]
+	path = mirror/dpkg-dev-el
+	url = git@github.com:emacsmirror/dpkg-dev-el.git
 [submodule "dr-racket-like-unicode"]
 	path = mirror/dr-racket-like-unicode
 	url = git@github.com:emacsmirror/dr-racket-like-unicode.git
