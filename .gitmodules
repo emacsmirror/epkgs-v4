@@ -7505,6 +7505,9 @@
 [submodule "gnus-identities"]
 	path = mirror/gnus-identities
 	url = git@github.com:emacsmirror/gnus-identities.git
+[submodule "gnus-mock"]
+	path = mirror/gnus-mock
+	url = git@github.com:emacsmirror/gnus-mock.git
 [submodule "gnus-notify"]
 	path = mirror/gnus-notify
 	url = git@github.com:emacsmirror/gnus-notify.git
@@ -16627,7 +16630,6 @@
 [submodule "secretaria"]
 	path = mirror/secretaria
 	url = git@github.com:emacsmirror/secretaria.git
-	branch = master
 [submodule "sed-mode"]
 	path = mirror/sed-mode
 	url = git@github.com:emacsmirror/sed-mode.git
@@ -20582,6 +20584,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "gnus-mock"]
-	path = mirror/gnus-mock
-	url = git@github.com:emacsmirror/gnus-mock.git
