@@ -1843,6 +1843,9 @@
 [submodule "campfire"]
 	path = mirror/campfire
 	url = git@github.com:emacsmirror/campfire.git
+[submodule "cangjie"]
+	path = mirror/cangjie
+	url = git@github.com:emacsmirror/cangjie.git
 [submodule "caps-lock"]
 	path = mirror/caps-lock
 	url = git@github.com:emacsmirror/caps-lock.git
@@ -6527,6 +6530,9 @@
 [submodule "flycheck-pyflakes"]
 	path = mirror/flycheck-pyflakes
 	url = git@github.com:emacsmirror/flycheck-pyflakes.git
+[submodule "flycheck-pyre"]
+	path = mirror/flycheck-pyre
+	url = git@github.com:emacsmirror/flycheck-pyre.git
 [submodule "flycheck-rebar3"]
 	path = mirror/flycheck-rebar3
 	url = git@github.com:emacsmirror/flycheck-rebar3.git
@@ -7570,6 +7576,9 @@
 	path = mirror/go-gopath
 	url = git@github.com:emacsmirror/go-gopath.git
 	branch = master
+[submodule "go-imenu"]
+	path = mirror/go-imenu
+	url = git@github.com:emacsmirror/go-imenu.git
 [submodule "go-impl"]
 	path = mirror/go-impl
 	url = git@github.com:emacsmirror/go-impl.git
@@ -11120,6 +11129,9 @@
 	path = mirror/lsp-rust
 	url = git@github.com:emacsmirror/lsp-rust.git
 	branch = master
+[submodule "lsp-sh"]
+	path = mirror/lsp-sh
+	url = git@github.com:emacsmirror/lsp-sh.git
 [submodule "lsp-ui"]
 	path = mirror/lsp-ui
 	url = git@github.com:emacsmirror/lsp-ui.git
@@ -11690,6 +11702,9 @@
 	path = mirror/metalheart-theme
 	url = git@github.com:emacsmirror/metalheart-theme.git
 	branch = master
+[submodule "metamorph"]
+	path = mirror/metamorph
+	url = git@github.com:emacsmirror/metamorph.git
 [submodule "metapost-mode+"]
 	path = mirror/metapost-mode+
 	url = git@github.com:emacsmirror/metapost-mode-plus.git
@@ -13535,6 +13550,9 @@
 [submodule "org-present"]
 	path = mirror/org-present
 	url = git@github.com:emacsmirror/org-present.git
+[submodule "org-present-remote"]
+	path = mirror/org-present-remote
+	url = git@github.com:emacsmirror/org-present-remote.git
 [submodule "org-presie"]
 	path = mirror/org-presie
 	url = git@github.com:emacsmirror/org-presie.git
@@ -15211,6 +15229,9 @@
 [submodule "purescript-mode"]
 	path = mirror/purescript-mode
 	url = git@github.com:emacsmirror/purescript-mode.git
+[submodule "purp-theme"]
+	path = mirror/purp-theme
+	url = git@github.com:emacsmirror/purp-theme.git
 [submodule "purple-haze-theme"]
 	path = mirror/purple-haze-theme
 	url = git@github.com:emacsmirror/purple-haze-theme.git
@@ -17157,6 +17178,9 @@
 [submodule "smart-mode-line"]
 	path = mirror/smart-mode-line
 	url = git@github.com:emacsmirror/smart-mode-line.git
+[submodule "smart-mode-line-atom-one-dark-theme"]
+	path = mirror/smart-mode-line-atom-one-dark-theme
+	url = git@github.com:emacsmirror/smart-mode-line-atom-one-dark-theme.git
 [submodule "smart-newline"]
 	path = mirror/smart-newline
 	url = git@github.com:emacsmirror/smart-newline.git
@@ -20303,6 +20327,9 @@
 [submodule "yalinum"]
 	path = mirror/yalinum
 	url = git@github.com:emacsmirror/yalinum.git
+[submodule "yaml-imenu"]
+	path = mirror/yaml-imenu
+	url = git@github.com:emacsmirror/yaml-imenu.git
 [submodule "yaml-mode"]
 	path = mirror/yaml-mode
 	url = git@github.com:emacsmirror/yaml-mode.git
