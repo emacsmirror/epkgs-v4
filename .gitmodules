@@ -2138,8 +2138,8 @@
 	url = git@github.com:emacsmirror/cider-hydra.git
 	branch = master
 [submodule "cider-spy"]
-	path = mirror/cider-spy
-	url = git@github.com:emacsmirror/cider-spy.git
+	path = attic/cider-spy
+	url = git@github.com:emacsattic/cider-spy.git
 [submodule "ciel"]
 	path = mirror/ciel
 	url = git@github.com:emacsmirror/ciel.git
