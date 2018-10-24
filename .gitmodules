@@ -6281,6 +6281,9 @@
 [submodule "flowtimer"]
 	path = mirror/flowtimer
 	url = git@github.com:emacsmirror/flowtimer.git
+[submodule "flucui-themes"]
+	path = mirror/flucui-themes
+	url = git@github.com:emacsmirror/flucui-themes.git
 [submodule "fluiddb"]
 	path = attic/fluiddb
 	url = git@github.com:emacsattic/fluiddb.git
@@ -10478,6 +10481,9 @@
 [submodule "kwin"]
 	path = mirror/kwin
 	url = git@github.com:emacsmirror/kwin.git
+[submodule "lab-themes"]
+	path = mirror/lab-themes
+	url = git@github.com:emacsmirror/lab-themes.git
 [submodule "labbook"]
 	path = attic/labbook
 	url = git@github.com:emacsattic/labbook.git
@@ -12761,6 +12767,9 @@
 [submodule "nroff-filladapt"]
 	path = attic/nroff-filladapt
 	url = git@github.com:emacsattic/nroff-filladapt.git
+[submodule "ns-auto-titlebar"]
+	path = mirror/ns-auto-titlebar
+	url = git@github.com:emacsmirror/ns-auto-titlebar.git
 [submodule "ns-browse"]
 	path = attic/ns-browse
 	url = git@github.com:emacsattic/ns-browse.git
@@ -13948,6 +13957,9 @@
 [submodule "paced"]
 	path = mirror/paced
 	url = git@github.com:emacsmirror/paced.git
+[submodule "pacfiles-mode"]
+	path = mirror/pacfiles-mode
+	url = git@github.com:emacsmirror/pacfiles-mode.git
 [submodule "pack-windows"]
 	path = attic/pack-windows
 	url = git@github.com:emacsattic/pack-windows.git
@@ -14089,6 +14101,9 @@
 	path = mirror/parinfer
 	url = git@github.com:emacsmirror/parinfer.git
 	branch = master
+[submodule "parrot"]
+	path = mirror/parrot
+	url = git@github.com:emacsmirror/parrot.git
 [submodule "parse-csv"]
 	path = mirror/parse-csv
 	url = git@github.com:emacsmirror/parse-csv.git
@@ -17538,6 +17553,9 @@
 [submodule "sqled-mode"]
 	path = mirror/sqled-mode
 	url = git@github.com:emacsmirror/sqled-mode.git
+[submodule "sqlformat"]
+	path = mirror/sqlformat
+	url = git@github.com:emacsmirror/sqlformat.git
 [submodule "sqlite"]
 	path = mirror/sqlite
 	url = git@github.com:emacsmirror/sqlite.git
@@ -19363,6 +19381,9 @@
 [submodule "visual-basic-mode"]
 	path = mirror/visual-basic-mode
 	url = git@github.com:emacsmirror/visual-basic-mode.git
+[submodule "visual-fill"]
+	path = mirror/visual-fill
+	url = git@github.com:emacsmirror/visual-fill.git
 [submodule "visual-fill-column"]
 	path = mirror/visual-fill-column
 	url = git@github.com:emacsmirror/visual-fill-column.git
@@ -20524,6 +20545,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "visual-fill"]
-	path = mirror/visual-fill
-	url = git@github.com:emacsmirror/visual-fill.git
