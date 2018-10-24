@@ -20524,3 +20524,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "visual-fill"]
+	path = mirror/visual-fill
+	url = git@github.com:emacsmirror/visual-fill.git
