@@ -9184,6 +9184,9 @@
 [submodule "icomplete+"]
 	path = mirror/icomplete+
 	url = git@github.com:emacsmirror/icomplete-plus.git
+[submodule "icons-in-terminal"]
+	path = mirror/icons-in-terminal
+	url = git@github.com:emacsmirror/icons-in-terminal.git
 [submodule "id-manager"]
 	path = mirror/id-manager
 	url = git@github.com:emacsmirror/id-manager.git
