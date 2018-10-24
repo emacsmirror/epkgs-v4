@@ -18899,8 +18899,8 @@
 	path = mirror/type-test
 	url = git@github.com:emacsmirror/type-test.git
 [submodule "typed-clojure-mode"]
-	path = mirror/typed-clojure-mode
-	url = git@github.com:emacsmirror/typed-clojure-mode.git
+	path = attic/typed-clojure-mode
+	url = git@github.com:emacsattic/typed-clojure-mode.git
 [submodule "typematic"]
 	path = mirror/typematic
 	url = git@github.com:emacsmirror/typematic.git
