@@ -6123,6 +6123,9 @@
 [submodule "find-things-fast"]
 	path = mirror/find-things-fast
 	url = git@github.com:emacsmirror/find-things-fast.git
+[submodule "find-where"]
+	path = mirror/find-where
+	url = git@github.com:emacsmirror/find-where.git
 [submodule "finder+"]
 	path = mirror/finder+
 	url = git@github.com:emacsmirror/finder-plus.git
