@@ -1083,6 +1083,9 @@
 [submodule "backlight"]
 	path = mirror/backlight
 	url = git@github.com:emacsmirror/backlight.git
+[submodule "backline"]
+	path = mirror/backline
+	url = git@github.com:emacsmirror/backline.git
 [submodule "backup"]
 	path = attic/backup
 	url = git@github.com:emacsattic/backup.git
@@ -13834,6 +13837,9 @@
 [submodule "outline-magic"]
 	path = mirror/outline-magic
 	url = git@github.com:emacsmirror/outline-magic.git
+[submodule "outline-minor-faces"]
+	path = mirror/outline-minor-faces
+	url = git@github.com:emacsmirror/outline-minor-faces.git
 [submodule "outline-toc"]
 	path = mirror/outline-toc
 	url = git@github.com:emacsmirror/outline-toc.git
