@@ -12,8 +12,10 @@
   (emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package | Reason |
-|---------+--------|
+| Package     | Reason                            |
+|-------------+-----------------------------------|
+| ada-ref-man | no license, no elisp, no response |
+| nadvice     | backport                          |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
@@ -30,10 +32,9 @@
   (emir--save-variable 'emir-secondary-packages value)
 #+END_SRC
 #+NAME: val--emir-secondary-packages
-| Secondary    | Primary |
-|--------------+---------|
-| shimbun      | w3m     |
-| sml-modeline | nxhtml  |
+| Secondary | Primary |
+|-----------+---------|
+| shimbun   | w3m     |
 
 * Set ~emir-renamed-files~
 #+NAME: set--emir-renamed-files
@@ -41,7 +42,7 @@
   (emir--save-variable 'emir-renamed-files value)
 #+END_SRC
 #+NAME: val--emir-renamed-files
-| Name                  | Filename                                     |
+| Package               | Filename                                     |
 |-----------------------+----------------------------------------------|
 | chasen                | chasen.el.txt                                |
 | debian-bug            | debian-bug.el?root=pkg-goodies-el            |
@@ -51,3 +52,232 @@
 | spamfilter            | spamfilter.el.txt                            |
 | tablegen-mode         | tablegen-mode.el?view=co                     |
 
+* Set ~emir--preferred-updatream~
+#+NAME: set--emir--preferred-upstreams
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--preferred-upstreams
+  (emir--save-variable 'emir--preferred-upstreams value)
+#+END_SRC
+#+NAME: val--emir--preferred-upstreams
+| Name               | Reason               |
+|--------------------+----------------------|
+| ace-window         | squash               |
+| ack                | [[https://github.com/leoliu/sokoban/issues/2][leoliu/sokoban#2]]     |
+| ada-mode           | builtin              |
+| aggressive-indent  | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| async              | squash               |
+| avy                | squash               |
+| auctex             | actively maintained  |
+| beacon             | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| bug-hunter         | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| cedet              | not [[http://git.randomsample.de/cedet.git][randomsample.de]]  |
+| coffee-mode        | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67443674][#34#67443674]]         |
+| company            | squash [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67203059][#34#67203059]]  |
+| company-math       | squash [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164841865][#69#164841865]] |
+| company-statistics | squash               |
+| crisp              | builtin              |
+| dash               | external             |
+| dbus-codegen       | squash               |
+| diff-hl            | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67203059][#34#67203059]]         |
+| dts-mode           | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164455502][#69#164455502]]        |
+| easy-kill          | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164356304][melpa#3383#164356304]] |
+| eglot              | external             |
+| eldoc-eval         | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67275846][#34#67275846]]         |
+| electric-spacing   | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164462609][#69#164462609]]        |
+| ergoemacs-mode     | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164897071][melpa#3383#164897071]] |
+| exwm               | external             |
+| f90-face           | [[https://github.com/wence-/f90-iface/issues/1][wence-/f90-iface#1]]   |
+| ggtags             | [[https://github.com/leoliu/sokoban/issues/2][leoliu/sokoban#2]]     |
+| gnorb              | squash               |
+| gnus               | not [[http://git.gnus.org/gnus.git][gnus.org]]         |
+| hydra              | squash               |
+| ioccur             | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67275846][#34#67275846]]         |
+| ivy                | squash               |
+| js2-mode           | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67203059][#34#67203059]]         |
+| load-relative      |                      |
+| loc-changes        | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164446621][#69#164446621]]        |
+| loccur             | squash               |
+| math-symbol-lists  | squash [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164841865][#69#164841865]] |
+| minimap            | unfriendly fork      |
+| nadvice            | builtin              |
+| nameless           | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| names              | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| on-screen          | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164450677][#69#164450677]]        |
+| pabbrev            | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164418230][melpa#3383#164418230]] |
+| rich-minority      | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| sokoban            | [[https://github.com/leoliu/sokoban/issues/2][leoliu/sokoban#2]]     |
+| sotlisp            | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| spinner            | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
+| test-simple        | [[https://github.com/emacsmirror/p.old/issues/69#issuecomment-164446621][#69#164446621]]        |
+| tiny               | squash               |
+| undo-tree          | squash               |
+| vlf                | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164299250][melpa#3383#164299250]] |
+| wcheck-mode        | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-68142129][#34#68142129]]         |
+| websocket          | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-68123453][#34#68123453]]         |
+| web-server         | [[https://github.com/milkypostman/melpa/pull/3394][melpa#3394]]           |
+| xelb               | external             |
+| yasnippet          | [[https://github.com/emacsmirror/p.old/issues/34#issuecomment-67199311][#34#67199311]]         |
+| ztree              | [[https://github.com/milkypostman/melpa/issues/3383#issuecomment-164285940][melpa#3383#164285940]] |
+
+* Set ~emir--preferred-builtins~
+#+NAME: set--emir--preferred-builtins
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--preferred-builtins
+  (emir--save-variable 'emir--preferred-builtins value)
+#+END_SRC
+#+NAME: val--emir--preferred-builtins
+| Name       | Reason                         |
+|------------+--------------------------------|
+| cl-generic | Elpa has backport of builtin   |
+| cl-lib     | Elpa has backport of builtin   |
+| seq        | Elpa has backport of builtin   |
+| svg        | Elpa imports outdated upstream |
+
+* Set ~emir--diverging-reason~
+#+NAME: set--emir--diverging-reason
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--diverging-reason
+  (emir--save-variable 'emir--diverging-reason value)
+#+END_SRC
+#+NAME: val--emir--diverging-reason
+| Package             | Reason               |
+|---------------------+----------------------|
+| auth-source-pass    | part of Emacs 26.1   |
+| autotest            | all-in-one repo      |
+| bibliothek          | all-in-one repo      |
+| cfengine-code-style | mostly non-elisp     |
+| cmake-mode          | mostly non-elisp     |
+| cython-mode         | mostly non-elisp     |
+| diffscuss-mode      | mostly non-elisp     |
+| fold-dwim-org       | depends on shelved   |
+| forecast            | all-in-one repo      |
+| google-c-style      | mostly non-elisp     |
+| less-css-mode       | Emacs 26.1 has newer |
+| nemerle             | mostly non-elisp     |
+| ninja-mode          | mostly non-elisp     |
+| org-variable-pitch  | all-in-one repo      |
+| paper-theme         | all-in-one repo      |
+| po-mode             | mostly non-elisp     |
+| pylint              | mostly non-elisp     |
+| smart-compile       | all-in-one repo      |
+| thrift              | mostly non-elisp     |
+| toggle              | all-in-one repo      |
+| wisp-mode           | mostly non-elisp     |
+
+* Set ~emir--library-reason~
+#+NAME: set--emir--library-reason
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--library-reason
+  (emir--save-variable 'emir--library-reason value)
+#+END_SRC
+#+NAME: val--emir--library-reason
+| Package               | Reason                     |
+|-----------------------+----------------------------|
+| auctex                | pkg/lib name mismatch      |
+| chumpy-windows        | no primary entry point     |
+| ddskk                 | pkg/lib name mismatch      |
+| dired-hacks           | no primary entry point     |
+| edb                   | no/mismatched main library |
+| emacs-speaks-nonmem   | no/mismatched main library |
+| emux                  | no/mismatched main library |
+| ert-runner            | not a library [[https://github.com/rejeep/ert-runner.el/pull/16][#16]]          |
+| eziam-theme           | two-variant theme          |
+| farmhouse-theme       | two-variant theme [[https://github.com/mattly/emacs-farmhouse-theme/pull/3][#3]]       |
+| html5                 | no/mismatched main library |
+| literate-starter-kit  | not a package              |
+| majapahit-theme       | two-variant theme [[https://gitlab.com/franksn/majapahit-theme/merge_requests/1][#1]]       |
+| ne2wm                 | no/mismatched main library |
+| omtose-phellack-theme | two-variant theme          |
+| proof-general         | pending [[https://github.com/ProofGeneral/PG/issues/198][#198]]               |
+| profile-dotemacs      | no feature                 |
+| punpun-theme          | two-variant theme [[https://github.com/wasamasa/punpun-theme/pull/7][#7]]       |
+| spacemacs-theme       | two-variant theme [[https://github.com/nashamri/spacemacs-theme/pull/63][#63]]      |
+| tao-theme             | two-variant theme [[https://github.com/11111000000/tao-theme-emacs/pull/17][#17]]      |
+| ultratex              | no/mismatched main library |
+| uni-confusables       | no feature [[http://debbugs.gnu.org/cgi/bugreport.cgi?bug=24517][debbugs#24517]]   |
+
+* Set ~emir--orphanage-reason~
+#+NAME: set--emir--orphanage-reason
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--orphanage-reason
+  (emir--save-variable 'emir--orphanage-reason value)
+#+END_SRC
+#+NAME: val--emir--orphanage-reason
+| Package           | Reason                  |
+|-------------------+-------------------------|
+| caml              | semi-automatic import   |
+| cg                | semi-automatic import   |
+| clang-format      | semi-automatic import   |
+| color-theme       | semi-automatic import   |
+| confluence        | semi-automatic import   |
+| crontab-mode      | upstream disappeared    |
+| darcsum           | semi-automatic import   |
+| dedicated         | upstream disappeared    |
+| dic-lookup-w3m    | semi-automatic import   |
+| dirtree           | wiki needed by non-wiki |
+| doom              | upstream unresponsive   |
+| dsvn              | semi-automatic import   |
+| ecasound          | upstream disappeared    |
+| edb               | upstream unresponsive   |
+| elisp-depend      | upstream unresponsive   |
+| ert-expectations  | wiki needed by non-wiki |
+| filladapt         | upstream unresponsive   |
+| findr             | wiki needed by non-wiki |
+| helm-ls-svn       | semi-automatic import   |
+| hide-lines        | wiki needed by non-wiki |
+| http-post-simple  | wiki needed by non-wiki |
+| hyperspec         | multiple non-upstreams  |
+| key-chord         | wiki needed by non-wiki |
+| keydef            | upstream disappeared    |
+| levenshtein       | wiki needed by non-wiki |
+| linkd             | wiki multiple files     |
+| look-mode         | wiki needed by non-wiki |
+| miniedit          | upstream disappeared    |
+| multi-term        | wiki needed by non-wiki |
+| nxhtml            | semi-automatic import   |
+| oberon            | upstream unresponsive   |
+| org-bullets       | upstream unresponsive   |
+| org-grep          | maintainer is dead      |
+| osd               | upstream disappeared    |
+| pager             | upstream disappeared    |
+| picolisp          | manual tarball import   |
+| pointback         | upstream disappeared    |
+| read-char-spec    | upstream unresponsive   |
+| ruby-additional   | semi-automatic import   |
+| session           | manual tarball import   |
+| setnu             | upstream unresponsive   |
+| shell-command     | wiki needed by non-wiki |
+| shell-history     | wiki needed by non-wiki |
+| showtip           | wiki needed by non-wiki |
+| smarty-mode       | upstream disappeared    |
+| sml-modeline      | manual tarball import   |
+| sr-speedbar       | wiki needed by non-wiki |
+| tail              | upstream disappeared    |
+| tex-smart-umlauts | semi-automatic import   |
+| text-translator   | semi-automatic import   |
+| transpose-frame   | wiki needed by non-wiki |
+| tree-mode         | wiki needed by non-wiki |
+| undo-tree         | two diverging upstreams |
+| vala-mode         | upstream disappeared    |
+| vm                | semi-automatic import   |
+| w32-browser       | wiki needed by non-wiki |
+| w3m               | semi-automatic import   |
+| windata           | wiki needed by non-wiki |
+
+* Set ~emir--other-vcs~
+#+NAME: set--emir--other-vcs
+#+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--other-vcs
+  (emir--save-variable 'emir--other-vcs value)
+#+END_SRC
+#+NAME: val--emir--other-vcs
+| Package           | Vcs   |
+|-------------------+-------|
+| cg                | svn   |
+| clang-format      | svn   |
+| color-theme       | bzr   |
+| confluence        | svn   |
+| darcsum           | darcs |
+| dic-lookup-w3m    | svn   |
+| dsvn              | svn   |
+| helm-ls-svn       | svn   |
+| nxhtml            | bzr   |
+| ruby-additional   | svn   |
+| tex-smart-umlauts | darcs |
+| text-translator   | bzr   |
+| vm                | bzr   |
+| w3m               | cvs   |
