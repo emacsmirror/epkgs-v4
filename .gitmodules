@@ -18372,8 +18372,8 @@
 	path = attic/text-to-html
 	url = git@github.com:emacsattic/text-to-html.git
 [submodule "text-translator"]
-	path = mirror/text-translator
-	url = git@github.com:emacsmirror/text-translator.git
+	path = attic/text-translator
+	url = git@github.com:emacsattic/text-translator.git
 	branch = master
 [submodule "textile-mode"]
 	path = mirror/textile-mode
