@@ -137,29 +137,29 @@
   (emir--save-variable 'emir--diverging-reason value)
 #+END_SRC
 #+NAME: val--emir--diverging-reason
-| Package             | Reason               |
-|---------------------+----------------------|
-| auth-source-pass    | part of Emacs 26.1   |
-| autotest            | all-in-one repo      |
-| bibliothek          | all-in-one repo      |
-| cfengine-code-style | mostly non-elisp     |
-| cmake-mode          | mostly non-elisp     |
-| cython-mode         | mostly non-elisp     |
-| diffscuss-mode      | mostly non-elisp     |
-| fold-dwim-org       | depends on shelved   |
-| forecast            | all-in-one repo      |
-| google-c-style      | mostly non-elisp     |
-| less-css-mode       | Emacs 26.1 has newer |
-| nemerle             | mostly non-elisp     |
-| ninja-mode          | mostly non-elisp     |
-| org-variable-pitch  | all-in-one repo      |
-| paper-theme         | all-in-one repo      |
-| po-mode             | mostly non-elisp     |
-| pylint              | mostly non-elisp     |
-| smart-compile       | all-in-one repo      |
-| thrift              | mostly non-elisp     |
-| toggle              | all-in-one repo      |
-| wisp-mode           | mostly non-elisp     |
+| Package             | Reason              |
+|---------------------+---------------------|
+| auth-source-pass    | part of Emacs 26.1  |
+| autotest            | all-in-one repo     |
+| bibliothek          | all-in-one repo     |
+| cfengine-code-style | mostly non-elisp    |
+| cmake-mode          | mostly non-elisp    |
+| cython-mode         | mostly non-elisp    |
+| diffscuss-mode      | mostly non-elisp    |
+| fold-dwim-org       | obsolete dependency |
+| forecast            | all-in-one repo     |
+| google-c-style      | mostly non-elisp    |
+| less-css-mode       | part of Emacs 26.1  |
+| nemerle             | mostly non-elisp    |
+| ninja-mode          | mostly non-elisp    |
+| org-variable-pitch  | all-in-one repo     |
+| paper-theme         | all-in-one repo     |
+| po-mode             | mostly non-elisp    |
+| pylint              | mostly non-elisp    |
+| smart-compile       | all-in-one repo     |
+| thrift              | mostly non-elisp    |
+| toggle              | all-in-one repo     |
+| wisp-mode           | mostly non-elisp    |
 
 * Set ~emir--library-reason~
 #+NAME: set--emir--library-reason

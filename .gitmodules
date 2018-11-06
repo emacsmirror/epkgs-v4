@@ -15437,8 +15437,8 @@
 	path = mirror/qtref
 	url = git@github.com:emacsmirror/qtref.git
 [submodule "quack"]
-	path = attic/quack
-	url = git@github.com:emacsattic/quack.git
+	path = mirror/quack
+	url = git@github.com:emacsmirror/quack.git
 [submodule "quarter-plane"]
 	path = mirror/quarter-plane
 	url = git@github.com:emacsmirror/quarter-plane.git
