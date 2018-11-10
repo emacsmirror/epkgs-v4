@@ -20563,9 +20563,6 @@
 [submodule "zone-sl"]
 	path = mirror/zone-sl
 	url = git@github.com:emacsmirror/zone-sl.git
-[submodule "zones"]
-	path = mirror/zones
-	url = git@github.com:emacsmirror/zones.git
 [submodule "zonokai-theme"]
 	path = mirror/zonokai-theme
 	url = git@github.com:emacsmirror/zonokai-theme.git
@@ -20620,3 +20617,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "zones"]
+	path = mirror/zones
+	url = git@github.com:emacsmirror/zones.git
