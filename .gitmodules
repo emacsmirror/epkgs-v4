@@ -234,6 +234,9 @@
 [submodule "active-menu"]
 	path = mirror/active-menu
 	url = git@github.com:emacsmirror/active-menu.git
+[submodule "activity-watch-mode"]
+	path = mirror/activity-watch-mode
+	url = git@github.com:emacsmirror/activity-watch-mode.git
 [submodule "actr-mode"]
 	path = attic/actr-mode
 	url = git@github.com:emacsattic/actr-mode.git
@@ -327,6 +330,9 @@
 [submodule "alarm"]
 	path = mirror/alarm
 	url = git@github.com:emacsmirror/alarm.git
+[submodule "alarm-clock"]
+	path = mirror/alarm-clock
+	url = git@github.com:emacsmirror/alarm-clock.git
 [submodule "alchemist"]
 	path = mirror/alchemist
 	url = git@github.com:emacsmirror/alchemist.git
@@ -458,6 +464,9 @@
 [submodule "anki-editor"]
 	path = mirror/anki-editor
 	url = git@github.com:emacsmirror/anki-editor.git
+[submodule "anki-mode"]
+	path = mirror/anki-mode
+	url = git@github.com:emacsmirror/anki-mode.git
 [submodule "annot"]
 	path = attic/annot
 	url = git@github.com:emacsattic/annot.git
@@ -4425,6 +4434,9 @@
 	path = mirror/editorconfig-domain-specific
 	url = git@github.com:emacsmirror/editorconfig-domain-specific.git
 	branch = master
+[submodule "editorconfig-generate"]
+	path = mirror/editorconfig-generate
+	url = git@github.com:emacsmirror/editorconfig-generate.git
 [submodule "edje-mode"]
 	path = mirror/edje-mode
 	url = git@github.com:emacsmirror/edje-mode.git
@@ -5494,6 +5506,9 @@
 [submodule "evil-avy"]
 	path = mirror/evil-avy
 	url = git@github.com:emacsmirror/evil-avy.git
+[submodule "evil-better-visual-line"]
+	path = mirror/evil-better-visual-line
+	url = git@github.com:emacsmirror/evil-better-visual-line.git
 [submodule "evil-cleverparens"]
 	path = mirror/evil-cleverparens
 	url = git@github.com:emacsmirror/evil-cleverparens.git
@@ -5689,6 +5704,15 @@
 [submodule "evil-textobj-column"]
 	path = mirror/evil-textobj-column
 	url = git@github.com:emacsmirror/evil-textobj-column.git
+[submodule "evil-textobj-entire"]
+	path = mirror/evil-textobj-entire
+	url = git@github.com:emacsmirror/evil-textobj-entire.git
+[submodule "evil-textobj-line"]
+	path = mirror/evil-textobj-line
+	url = git@github.com:emacsmirror/evil-textobj-line.git
+[submodule "evil-textobj-syntax"]
+	path = mirror/evil-textobj-syntax
+	url = git@github.com:emacsmirror/evil-textobj-syntax.git
 [submodule "evil-tutor"]
 	path = mirror/evil-tutor
 	url = git@github.com:emacsmirror/evil-tutor.git
@@ -6541,6 +6565,9 @@
 	path = attic/flycheck-scala-sbt
 	url = git@github.com:emacsattic/flycheck-scala-sbt.git
 	branch = master
+[submodule "flycheck-soar"]
+	path = mirror/flycheck-soar
+	url = git@github.com:emacsmirror/flycheck-soar.git
 [submodule "flycheck-stack"]
 	path = mirror/flycheck-stack
 	url = git@github.com:emacsmirror/flycheck-stack.git
@@ -8060,6 +8087,9 @@
 [submodule "haskell-tab-indent"]
 	path = mirror/haskell-tab-indent
 	url = git@github.com:emacsmirror/haskell-tab-indent.git
+[submodule "hasklig-mode"]
+	path = mirror/hasklig-mode
+	url = git@github.com:emacsmirror/hasklig-mode.git
 [submodule "hasky-extensions"]
 	path = mirror/hasky-extensions
 	url = git@github.com:emacsmirror/hasky-extensions.git
@@ -11057,6 +11087,9 @@
 [submodule "lsp-css"]
 	path = mirror/lsp-css
 	url = git@github.com:emacsmirror/lsp-css.git
+[submodule "lsp-dart"]
+	path = mirror/lsp-dart
+	url = git@github.com:emacsmirror/lsp-dart.git
 [submodule "lsp-fortran"]
 	path = mirror/lsp-fortran
 	url = git@github.com:emacsmirror/lsp-fortran.git
@@ -11155,6 +11188,9 @@
 [submodule "lxc-tramp"]
 	path = mirror/lxc-tramp
 	url = git@github.com:emacsmirror/lxc-tramp.git
+[submodule "lxd-tramp"]
+	path = mirror/lxd-tramp
+	url = git@github.com:emacsmirror/lxd-tramp.git
 [submodule "lyric-mode"]
 	path = mirror/lyric-mode
 	url = git@github.com:emacsmirror/lyric-mode.git
@@ -13006,6 +13042,9 @@
 [submodule "objc-font-lock"]
 	path = mirror/objc-font-lock
 	url = git@github.com:emacsmirror/objc-font-lock.git
+[submodule "objed"]
+	path = mirror/objed
+	url = git@github.com:emacsmirror/objed.git
 [submodule "obsidian-theme"]
 	path = mirror/obsidian-theme
 	url = git@github.com:emacsmirror/obsidian-theme.git
@@ -13941,6 +13980,9 @@
 [submodule "ox-rst"]
 	path = mirror/ox-rst
 	url = git@github.com:emacsmirror/ox-rst.git
+[submodule "ox-slack"]
+	path = mirror/ox-slack
+	url = git@github.com:emacsmirror/ox-slack.git
 [submodule "ox-textile"]
 	path = mirror/ox-textile
 	url = git@github.com:emacsmirror/ox-textile.git
@@ -13957,6 +13999,9 @@
 [submodule "ox-twiki"]
 	path = mirror/ox-twiki
 	url = git@github.com:emacsmirror/ox-twiki.git
+[submodule "ox-wk"]
+	path = mirror/ox-wk
+	url = git@github.com:emacsmirror/ox-wk.git
 [submodule "p4"]
 	path = mirror/p4
 	url = git@github.com:emacsmirror/p4.git
@@ -14195,6 +14240,9 @@
 [submodule "path-headerline-mode"]
 	path = mirror/path-headerline-mode
 	url = git@github.com:emacsmirror/path-headerline-mode.git
+[submodule "path-helper"]
+	path = mirror/path-helper
+	url = git@github.com:emacsmirror/path-helper.git
 [submodule "pathify"]
 	path = mirror/pathify
 	url = git@github.com:emacsmirror/pathify.git
@@ -14575,6 +14623,9 @@
 [submodule "pinboard-popular"]
 	path = mirror/pinboard-popular
 	url = git@github.com:emacsmirror/pinboard-popular.git
+[submodule "pine-script-mode"]
+	path = mirror/pine-script-mode
+	url = git@github.com:emacsmirror/pine-script-mode.git
 [submodule "pinentry"]
 	path = mirror/pinentry
 	url = git@github.com:emacsmirror/pinentry.git
@@ -15843,6 +15894,9 @@
 	path = mirror/redtick
 	url = git@github.com:emacsmirror/redtick.git
 	branch = master
+[submodule "redtt"]
+	path = mirror/redtt
+	url = git@github.com:emacsmirror/redtt.git
 [submodule "reduce-mode"]
 	path = attic/reduce-mode
 	url = git@github.com:emacsattic/reduce-mode.git
@@ -19240,6 +19294,9 @@
 [submodule "vc-fossil"]
 	path = mirror/vc-fossil
 	url = git@github.com:emacsmirror/vc-fossil.git
+[submodule "vc-hgcmd"]
+	path = mirror/vc-hgcmd
+	url = git@github.com:emacsmirror/vc-hgcmd.git
 [submodule "vc-hooks+"]
 	path = mirror/vc-hooks+
 	url = git@github.com:emacsmirror/vc-hooks-plus.git
@@ -20479,6 +20536,9 @@
 [submodule "zlc"]
 	path = mirror/zlc
 	url = git@github.com:emacsmirror/zlc.git
+[submodule "zmq"]
+	path = mirror/zmq
+	url = git@github.com:emacsmirror/zmq.git
 [submodule "znc"]
 	path = mirror/znc
 	url = git@github.com:emacsmirror/znc.git
@@ -20542,6 +20602,9 @@
 	path = mirror/zpresent
 	url = git@github.com:emacsmirror/zpresent.git
 	branch = master
+[submodule "zprint-mode"]
+	path = mirror/zprint-mode
+	url = git@github.com:emacsmirror/zprint-mode.git
 [submodule "ztree"]
 	path = mirror/ztree
 	url = git@github.com:emacsmirror/ztree.git
