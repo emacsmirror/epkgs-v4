@@ -2699,6 +2699,9 @@
 [submodule "company-suggest"]
 	path = mirror/company-suggest
 	url = git@github.com:emacsmirror/company-suggest.git
+[submodule "company-tabnine"]
+	path = mirror/company-tabnine
+	url = git@github.com:emacsmirror/company-tabnine.git
 [submodule "company-tern"]
 	path = mirror/company-tern
 	url = git@github.com:emacsmirror/company-tern.git
@@ -4787,6 +4790,9 @@
 	path = mirror/elquery
 	url = git@github.com:emacsmirror/elquery.git
 	branch = master
+[submodule "elsa"]
+	path = mirror/elsa
+	url = git@github.com:emacsmirror/elsa.git
 [submodule "elscreen"]
 	path = mirror/elscreen
 	url = git@github.com:emacsmirror/elscreen.git
@@ -19344,6 +19350,9 @@
 [submodule "verbiste"]
 	path = attic/verbiste
 	url = git@github.com:emacsattic/verbiste.git
+[submodule "veri-kompass"]
+	path = mirror/veri-kompass
+	url = git@github.com:emacsmirror/veri-kompass.git
 [submodule "verify-url"]
 	path = mirror/verify-url
 	url = git@github.com:emacsmirror/verify-url.git
@@ -20563,6 +20572,9 @@
 [submodule "zone-sl"]
 	path = mirror/zone-sl
 	url = git@github.com:emacsmirror/zone-sl.git
+[submodule "zones"]
+	path = mirror/zones
+	url = git@github.com:emacsmirror/zones.git
 [submodule "zonokai-theme"]
 	path = mirror/zonokai-theme
 	url = git@github.com:emacsmirror/zonokai-theme.git
@@ -20617,6 +20629,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "zones"]
-	path = mirror/zones
-	url = git@github.com:emacsmirror/zones.git
