@@ -9521,8 +9521,8 @@
 	path = mirror/inf-perl
 	url = git@github.com:emacsmirror/inf-perl.git
 [submodule "inf-php"]
-	path = attic/inf-php
-	url = git@github.com:emacsattic/inf-php.git
+	path = mirror/inf-php
+	url = git@github.com:emacsmirror/inf-php.git
 [submodule "inf-ruby"]
 	path = mirror/inf-ruby
 	url = git@github.com:emacsmirror/inf-ruby.git
@@ -9941,8 +9941,8 @@
 	url = git@github.com:emacsmirror/jastadd-ast-mode.git
 	branch = master
 [submodule "jaunte"]
-	path = attic/jaunte
-	url = git@github.com:emacsattic/jaunte.git
+	path = mirror/jaunte
+	url = git@github.com:emacsmirror/jaunte.git
 [submodule "java-class-doc"]
 	path = mirror/java-class-doc
 	url = git@github.com:emacsmirror/java-class-doc.git
@@ -19245,8 +19245,8 @@
 	path = mirror/uuidgen
 	url = git@github.com:emacsmirror/uuidgen.git
 [submodule "uzumaki"]
-	path = attic/uzumaki
-	url = git@github.com:emacsattic/uzumaki.git
+	path = mirror/uzumaki
+	url = git@github.com:emacsmirror/uzumaki.git
 [submodule "v2ex-mode"]
 	path = mirror/v2ex-mode
 	url = git@github.com:emacsmirror/v2ex-mode.git
