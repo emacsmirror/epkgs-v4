@@ -1174,9 +1174,6 @@
 [submodule "bats-mode"]
 	path = mirror/bats-mode
 	url = git@github.com:emacsmirror/bats-mode.git
-[submodule "bavard"]
-	path = attic/bavard
-	url = git@github.com:emacsattic/bavard.git
 [submodule "bazel-mode"]
 	path = mirror/bazel-mode
 	url = git@github.com:emacsmirror/bazel-mode.git
@@ -7442,9 +7439,6 @@
 [submodule "globalff"]
 	path = mirror/globalff
 	url = git@github.com:emacsmirror/globalff.git
-[submodule "globalizer"]
-	path = attic/globalizer
-	url = git@github.com:emacsattic/globalizer.git
 [submodule "globrep"]
 	path = mirror/globrep
 	url = git@github.com:emacsmirror/globrep.git
@@ -9340,9 +9334,6 @@
 [submodule "ietf-docs"]
 	path = mirror/ietf-docs
 	url = git@github.com:emacsmirror/ietf-docs.git
-[submodule "ietfdoc"]
-	path = attic/ietfdoc
-	url = git@github.com:emacsattic/ietfdoc.git
 [submodule "ifile-gnus"]
 	path = attic/ifile-gnus
 	url = git@github.com:emacsattic/ifile-gnus.git
@@ -12076,9 +12067,6 @@
 [submodule "mouse3"]
 	path = mirror/mouse3
 	url = git@github.com:emacsmirror/mouse3.git
-[submodule "mousymacro"]
-	path = attic/mousymacro
-	url = git@github.com:emacsattic/mousymacro.git
 [submodule "move-and"]
 	path = mirror/move-and
 	url = git@github.com:emacsmirror/move-and.git
@@ -12426,9 +12414,6 @@
 [submodule "naked"]
 	path = mirror/naked
 	url = git@github.com:emacsmirror/naked.git
-[submodule "namazu"]
-	path = attic/namazu
-	url = git@github.com:emacsattic/namazu.git
 [submodule "name-this-color"]
 	path = mirror/name-this-color
 	url = git@github.com:emacsmirror/name-this-color.git
@@ -13036,9 +13021,6 @@
 	path = mirror/obfusurl
 	url = git@github.com:emacsmirror/obfusurl.git
 	branch = master
-[submodule "objc-c-mode"]
-	path = attic/objc-c-mode
-	url = git@github.com:emacsattic/objc-c-mode.git
 [submodule "objc-font-lock"]
 	path = mirror/objc-font-lock
 	url = git@github.com:emacsmirror/objc-font-lock.git
@@ -16783,9 +16765,6 @@
 [submodule "shampoo"]
 	path = mirror/shampoo
 	url = git@github.com:emacsmirror/shampoo.git
-[submodule "shbuf"]
-	path = attic/shbuf
-	url = git@github.com:emacsattic/shbuf.git
 [submodule "shell-command"]
 	path = mirror/shell-command
 	url = git@github.com:emacsmirror/shell-command.git
@@ -19881,9 +19860,6 @@
 [submodule "window-extension"]
 	path = mirror/window-extension
 	url = git@github.com:emacsmirror/window-extension.git
-[submodule "window-grid"]
-	path = attic/window-grid
-	url = git@github.com:emacsattic/window-grid.git
 [submodule "window-layout"]
 	path = mirror/window-layout
 	url = git@github.com:emacsmirror/window-layout.git
