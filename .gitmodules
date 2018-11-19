@@ -5400,9 +5400,6 @@
 [submodule "ess-R-data-view"]
 	path = mirror/ess-R-data-view
 	url = git@github.com:emacsmirror/ess-R-data-view.git
-[submodule "ess-R-object-popup"]
-	path = attic/ess-R-object-popup
-	url = git@github.com:emacsattic/ess-R-object-popup.git
 [submodule "ess-edit"]
 	path = mirror/ess-edit
 	url = git@github.com:emacsmirror/ess-edit.git
@@ -15362,9 +15359,6 @@
 [submodule "pyim-cangjie5dict"]
 	path = mirror/pyim-cangjie5dict
 	url = git@github.com:emacsmirror/pyim-cangjie5dict.git
-[submodule "pyim-greatdict"]
-	path = attic/pyim-greatdict
-	url = git@github.com:emacsattic/pyim-greatdict.git
 [submodule "pyim-wbdict"]
 	path = mirror/pyim-wbdict
 	url = git@github.com:emacsmirror/pyim-wbdict.git
@@ -15574,9 +15568,6 @@
 [submodule "radio"]
 	path = attic/radio
 	url = git@github.com:emacsattic/radio.git
-[submodule "railgun"]
-	path = attic/railgun
-	url = git@github.com:emacsattic/railgun.git
 [submodule "rails"]
 	path = attic/rails
 	url = git@github.com:emacsattic/rails.git
@@ -15912,9 +15903,6 @@
 [submodule "refdb-mode"]
 	path = attic/refdb-mode
 	url = git@github.com:emacsattic/refdb-mode.git
-[submodule "refheap"]
-	path = attic/refheap
-	url = git@github.com:emacsattic/refheap.git
 [submodule "refine"]
 	path = mirror/refine
 	url = git@github.com:emacsmirror/refine.git
@@ -16292,9 +16280,6 @@
 [submodule "ruby-comint"]
 	path = mirror/ruby-comint
 	url = git@github.com:emacsmirror/ruby-comint.git
-[submodule "ruby-dev"]
-	path = attic/ruby-dev
-	url = git@github.com:emacsattic/ruby-dev.git
 [submodule "ruby-electric"]
 	path = mirror/ruby-electric
 	url = git@github.com:emacsmirror/ruby-electric.git
@@ -16307,9 +16292,6 @@
 [submodule "ruby-factory"]
 	path = mirror/ruby-factory
 	url = git@github.com:emacsmirror/ruby-factory.git
-[submodule "ruby-guard"]
-	path = attic/ruby-guard
-	url = git@github.com:emacsattic/ruby-guard.git
 [submodule "ruby-hash-syntax"]
 	path = mirror/ruby-hash-syntax
 	url = git@github.com:emacsmirror/ruby-hash-syntax.git
