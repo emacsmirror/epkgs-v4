@@ -12420,9 +12420,6 @@
 [submodule "mz-comment-fix"]
 	path = mirror/mz-comment-fix
 	url = git@github.com:emacsmirror/mz-comment-fix.git
-[submodule "n3-mode"]
-	path = attic/n3-mode
-	url = git@github.com:emacsattic/n3-mode.git
 [submodule "n4js"]
 	path = mirror/n4js
 	url = git@github.com:emacsmirror/n4js.git
@@ -20611,3 +20608,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "n3-mode"]
+	path = mirror/n3-mode
+	url = git@github.com:emacsmirror/n3-mode.git
