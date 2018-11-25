@@ -1741,6 +1741,9 @@
 [submodule "buttercup"]
 	path = mirror/buttercup
 	url = git@github.com:emacsmirror/buttercup.git
+[submodule "buttercup-junit"]
+	path = mirror/buttercup-junit
+	url = git@github.com:emacsmirror/buttercup-junit.git
 [submodule "button-lock"]
 	path = mirror/button-lock
 	url = git@github.com:emacsmirror/button-lock.git
@@ -4104,6 +4107,9 @@
 [submodule "dsvn"]
 	path = mirror/dsvn
 	url = git@github.com:emacsmirror/dsvn.git
+[submodule "dtk"]
+	path = mirror/dtk
+	url = git@github.com:emacsmirror/dtk.git
 [submodule "dtrace-script-mode"]
 	path = mirror/dtrace-script-mode
 	url = git@github.com:emacsmirror/dtrace-script-mode.git
@@ -4945,6 +4951,9 @@
 [submodule "emeteo"]
 	path = attic/emeteo
 	url = git@github.com:emacsattic/emeteo.git
+[submodule "emidje"]
+	path = mirror/emidje
+	url = git@github.com:emacsmirror/emidje.git
 [submodule "emir"]
 	path = mirror/emir
 	url = git@github.com:emacsmirror/emir.git
@@ -7336,6 +7345,9 @@
 [submodule "git-time-machine"]
 	path = mirror/git-time-machine
 	url = git@github.com:emacsmirror/git-time-machine.git
+[submodule "git-time-metric"]
+	path = mirror/git-time-metric
+	url = git@github.com:emacsmirror/git-time-metric.git
 [submodule "git-timemachine"]
 	path = mirror/git-timemachine
 	url = git@github.com:emacsmirror/git-timemachine.git
@@ -13936,6 +13948,9 @@
 	path = mirror/ox-jira
 	url = git@github.com:emacsmirror/ox-jira.git
 	branch = master
+[submodule "ox-mdx-deck"]
+	path = mirror/ox-mdx-deck
+	url = git@github.com:emacsmirror/ox-mdx-deck.git
 [submodule "ox-mediawiki"]
 	path = mirror/ox-mediawiki
 	url = git@github.com:emacsmirror/ox-mediawiki.git
@@ -14794,6 +14809,9 @@
 [submodule "poly-R"]
 	path = mirror/poly-R
 	url = git@github.com:emacsmirror/poly-R.git
+[submodule "poly-ansible"]
+	path = mirror/poly-ansible
+	url = git@github.com:emacsmirror/poly-ansible.git
 [submodule "poly-erb"]
 	path = mirror/poly-erb
 	url = git@github.com:emacsmirror/poly-erb.git
@@ -16317,6 +16335,9 @@
 	path = mirror/russian-holidays
 	url = git@github.com:emacsmirror/russian-holidays.git
 	branch = master
+[submodule "rust-auto-use"]
+	path = mirror/rust-auto-use
+	url = git@github.com:emacsmirror/rust-auto-use.git
 [submodule "rust-mode"]
 	path = mirror/rust-mode
 	url = git@github.com:emacsmirror/rust-mode.git
@@ -18605,6 +18626,9 @@
 [submodule "tmt-mode"]
 	path = mirror/tmt-mode
 	url = git@github.com:emacsmirror/tmt-mode.git
+[submodule "tmux-pane"]
+	path = mirror/tmux-pane
+	url = git@github.com:emacsmirror/tmux-pane.git
 [submodule "tnt"]
 	path = attic/tnt
 	url = git@github.com:emacsattic/tnt.git
@@ -20584,6 +20608,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "n3-mode"]
-	path = mirror/n3-mode
-	url = git@github.com:emacsmirror/n3-mode.git
