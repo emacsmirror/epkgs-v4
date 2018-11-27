@@ -346,6 +346,9 @@
 [submodule "alert"]
 	path = mirror/alert
 	url = git@github.com:emacsmirror/alert.git
+[submodule "alert-termux"]
+	path = mirror/alert-termux
+	url = git@github.com:emacsmirror/alert-termux.git
 [submodule "algorithms"]
 	path = mirror/algorithms
 	url = git@github.com:emacsmirror/algorithms.git
@@ -1793,6 +1796,9 @@
 [submodule "cacoo"]
 	path = mirror/cacoo
 	url = git@github.com:emacsmirror/cacoo.git
+[submodule "caddyfile-mode"]
+	path = mirror/caddyfile-mode
+	url = git@github.com:emacsmirror/caddyfile-mode.git
 [submodule "cake"]
 	path = attic/cake
 	url = git@github.com:emacsattic/cake.git
@@ -3521,6 +3527,9 @@
 [submodule "desktop-registry"]
 	path = mirror/desktop-registry
 	url = git@github.com:emacsmirror/desktop-registry.git
+[submodule "detour"]
+	path = mirror/detour
+	url = git@github.com:emacsmirror/detour.git
 [submodule "devdocs"]
 	path = mirror/devdocs
 	url = git@github.com:emacsmirror/devdocs.git
@@ -6742,6 +6751,9 @@
 [submodule "flymake-vala"]
 	path = mirror/flymake-vala
 	url = git@github.com:emacsmirror/flymake-vala.git
+[submodule "flymake-vnu"]
+	path = mirror/flymake-vnu
+	url = git@github.com:emacsmirror/flymake-vnu.git
 [submodule "flymake-yaml"]
 	path = mirror/flymake-yaml
 	url = git@github.com:emacsmirror/flymake-yaml.git
@@ -8931,6 +8943,9 @@
 [submodule "hl-defined"]
 	path = mirror/hl-defined
 	url = git@github.com:emacsmirror/hl-defined.git
+[submodule "hl-fill-column"]
+	path = mirror/hl-fill-column
+	url = git@github.com:emacsmirror/hl-fill-column.git
 [submodule "hl-indent"]
 	path = mirror/hl-indent
 	url = git@github.com:emacsmirror/hl-indent.git
@@ -10679,6 +10694,9 @@
 [submodule "lectionary"]
 	path = attic/lectionary
 	url = git@github.com:emacsattic/lectionary.git
+[submodule "ledger-import"]
+	path = mirror/ledger-import
+	url = git@github.com:emacsmirror/ledger-import.git
 [submodule "ledger-mode"]
 	path = mirror/ledger-mode
 	url = git@github.com:emacsmirror/ledger-mode.git
@@ -10962,6 +10980,9 @@
 [submodule "lnk"]
 	path = mirror/lnk
 	url = git@github.com:emacsmirror/lnk.git
+[submodule "load-bash-alias"]
+	path = mirror/load-bash-alias
+	url = git@github.com:emacsmirror/load-bash-alias.git
 [submodule "load-dir"]
 	path = mirror/load-dir
 	url = git@github.com:emacsmirror/load-dir.git
@@ -12429,6 +12450,9 @@
 [submodule "name-this-color"]
 	path = mirror/name-this-color
 	url = git@github.com:emacsmirror/name-this-color.git
+[submodule "named-timer"]
+	path = mirror/named-timer
+	url = git@github.com:emacsmirror/named-timer.git
 [submodule "nameframe"]
 	path = mirror/nameframe
 	url = git@github.com:emacsmirror/nameframe.git
