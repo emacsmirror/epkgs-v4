@@ -2206,6 +2206,9 @@
 [submodule "cl-lib-highlight"]
 	path = mirror/cl-lib-highlight
 	url = git@github.com:emacsmirror/cl-lib-highlight.git
+[submodule "cl-libify"]
+	path = mirror/cl-libify
+	url = git@github.com:emacsmirror/cl-libify.git
 [submodule "cl-merge"]
 	path = mirror/cl-merge
 	url = git@github.com:emacsmirror/cl-merge.git
@@ -5831,6 +5834,9 @@
 [submodule "exwm-edit"]
 	path = mirror/exwm-edit
 	url = git@github.com:emacsmirror/exwm-edit.git
+[submodule "exwm-firefox-core"]
+	path = mirror/exwm-firefox-core
+	url = git@github.com:emacsmirror/exwm-firefox-core.git
 [submodule "exwm-surf"]
 	path = mirror/exwm-surf
 	url = git@github.com:emacsmirror/exwm-surf.git
@@ -9039,6 +9045,9 @@
 [submodule "hsearch"]
 	path = mirror/hsearch
 	url = git@github.com:emacsmirror/hsearch.git
+[submodule "hsluv"]
+	path = mirror/hsluv
+	url = git@github.com:emacsmirror/hsluv.git
 [submodule "ht"]
 	path = mirror/ht
 	url = git@github.com:emacsmirror/ht.git
@@ -14004,6 +14013,9 @@
 [submodule "ox-slack"]
 	path = mirror/ox-slack
 	url = git@github.com:emacsmirror/ox-slack.git
+[submodule "ox-slimhtml"]
+	path = mirror/ox-slimhtml
+	url = git@github.com:emacsmirror/ox-slimhtml.git
 [submodule "ox-textile"]
 	path = mirror/ox-textile
 	url = git@github.com:emacsmirror/ox-textile.git
@@ -20080,6 +20092,9 @@
 [submodule "write-table-data"]
 	path = attic/write-table-data
 	url = git@github.com:emacsattic/write-table-data.git
+[submodule "writefreely"]
+	path = mirror/writefreely
+	url = git@github.com:emacsmirror/writefreely.git
 [submodule "writegood-mode"]
 	path = mirror/writegood-mode
 	url = git@github.com:emacsmirror/writegood-mode.git
