@@ -19339,9 +19339,6 @@
 [submodule "vc-partial-commit"]
 	path = mirror/vc-partial-commit
 	url = git@github.com:emacsmirror/vc-partial-commit.git
-[submodule "vcl-mode"]
-	path = mirror/vcl-mode
-	url = git@github.com:emacsmirror/vcl-mode.git
 [submodule "vcomp"]
 	path = mirror/vcomp
 	url = git@github.com:emacsmirror/vcomp.git
@@ -20647,3 +20644,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "vcl-mode"]
+	path = mirror/vcl-mode
+	url = git@github.com:emacsmirror/vcl-mode.git
