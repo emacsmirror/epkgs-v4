@@ -950,6 +950,9 @@
 [submodule "auto-recomp"]
 	path = attic/auto-recomp
 	url = git@github.com:emacsattic/auto-recomp.git
+[submodule "auto-rename-tag"]
+	path = mirror/auto-rename-tag
+	url = git@github.com:emacsmirror/auto-rename-tag.git
 [submodule "auto-save-buffers-enhanced"]
 	path = mirror/auto-save-buffers-enhanced
 	url = git@github.com:emacsmirror/auto-save-buffers-enhanced.git
@@ -1750,6 +1753,9 @@
 [submodule "button-lock"]
 	path = mirror/button-lock
 	url = git@github.com:emacsmirror/button-lock.git
+[submodule "buttons"]
+	path = mirror/buttons
+	url = git@github.com:emacsmirror/buttons.git
 [submodule "byrd-biff"]
 	path = attic/byrd-biff
 	url = git@github.com:emacsattic/byrd-biff.git
@@ -1911,6 +1917,9 @@
 [submodule "cbm"]
 	path = mirror/cbm
 	url = git@github.com:emacsmirror/cbm.git
+[submodule "cc-cedict"]
+	path = mirror/cc-cedict
+	url = git@github.com:emacsmirror/cc-cedict.git
 [submodule "cc-chainsaw"]
 	path = mirror/cc-chainsaw
 	url = git@github.com:emacsmirror/cc-chainsaw.git
@@ -4704,6 +4713,9 @@
 [submodule "elisp-def"]
 	path = mirror/elisp-def
 	url = git@github.com:emacsmirror/elisp-def.git
+[submodule "elisp-demos"]
+	path = mirror/elisp-demos
+	url = git@github.com:emacsmirror/elisp-demos.git
 [submodule "elisp-depend"]
 	path = mirror/elisp-depend
 	url = git@github.com:emacsmirror/elisp-depend.git
@@ -5650,6 +5662,9 @@
 [submodule "evil-nerd-commenter"]
 	path = mirror/evil-nerd-commenter
 	url = git@github.com:emacsmirror/evil-nerd-commenter.git
+[submodule "evil-nl-break-undo"]
+	path = mirror/evil-nl-break-undo
+	url = git@github.com:emacsmirror/evil-nl-break-undo.git
 [submodule "evil-numbers"]
 	path = mirror/evil-numbers
 	url = git@github.com:emacsmirror/evil-numbers.git
@@ -5837,6 +5852,9 @@
 [submodule "exwm-firefox-core"]
 	path = mirror/exwm-firefox-core
 	url = git@github.com:emacsmirror/exwm-firefox-core.git
+[submodule "exwm-firefox-evil"]
+	path = mirror/exwm-firefox-evil
+	url = git@github.com:emacsmirror/exwm-firefox-evil.git
 [submodule "exwm-surf"]
 	path = mirror/exwm-surf
 	url = git@github.com:emacsmirror/exwm-surf.git
@@ -6890,6 +6908,9 @@
 [submodule "format-sql"]
 	path = mirror/format-sql
 	url = git@github.com:emacsmirror/format-sql.git
+[submodule "format-table"]
+	path = mirror/format-table
+	url = git@github.com:emacsmirror/format-table.git
 [submodule "formfeed-hline"]
 	path = mirror/formfeed-hline
 	url = git@github.com:emacsmirror/formfeed-hline.git
@@ -7559,6 +7580,9 @@
 [submodule "gnus-propfont"]
 	path = mirror/gnus-propfont
 	url = git@github.com:emacsmirror/gnus-propfont.git
+[submodule "gnus-recent"]
+	path = mirror/gnus-recent
+	url = git@github.com:emacsmirror/gnus-recent.git
 [submodule "gnus-select-account"]
 	path = mirror/gnus-select-account
 	url = git@github.com:emacsmirror/gnus-select-account.git
@@ -8716,6 +8740,9 @@
 [submodule "help-dwim-perldoc"]
 	path = mirror/help-dwim-perldoc
 	url = git@github.com:emacsmirror/help-dwim-perldoc.git
+[submodule "help-find-org-mode"]
+	path = mirror/help-find-org-mode
+	url = git@github.com:emacsmirror/help-find-org-mode.git
 [submodule "help-fns+"]
 	path = mirror/help-fns+
 	url = git@github.com:emacsmirror/help-fns-plus.git
@@ -9123,6 +9150,9 @@
 [submodule "htmlr"]
 	path = mirror/htmlr
 	url = git@github.com:emacsmirror/htmlr.git
+[submodule "htmltagwrap"]
+	path = mirror/htmltagwrap
+	url = git@github.com:emacsmirror/htmltagwrap.git
 [submodule "http"]
 	path = mirror/http
 	url = git@github.com:emacsmirror/http.git
@@ -9213,6 +9243,9 @@
 [submodule "ibuffer-perspective"]
 	path = mirror/ibuffer-perspective
 	url = git@github.com:emacsmirror/ibuffer-perspective.git
+[submodule "ibuffer-project"]
+	path = mirror/ibuffer-project
+	url = git@github.com:emacsmirror/ibuffer-project.git
 [submodule "ibuffer-projectile"]
 	path = mirror/ibuffer-projectile
 	url = git@github.com:emacsmirror/ibuffer-projectile.git
