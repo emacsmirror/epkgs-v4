@@ -6899,6 +6899,9 @@
 	path = mirror/forest-blue-theme
 	url = git@github.com:emacsmirror/forest-blue-theme.git
 	branch = master
+[submodule "forge"]
+	path = mirror/forge
+	url = git@github.com:emacsmirror/forge.git
 [submodule "form-feed"]
 	path = mirror/form-feed
 	url = git@github.com:emacsmirror/form-feed.git
@@ -9891,6 +9894,9 @@
 	path = mirror/ivy-erlang-complete
 	url = git@github.com:emacsmirror/ivy-erlang-complete.git
 	branch = master
+[submodule "ivy-explorer"]
+	path = mirror/ivy-explorer
+	url = git@github.com:emacsmirror/ivy-explorer.git
 [submodule "ivy-feedwrangler"]
 	path = mirror/ivy-feedwrangler
 	url = git@github.com:emacsmirror/ivy-feedwrangler.git
@@ -10125,6 +10131,9 @@
 [submodule "jess-mode"]
 	path = attic/jess-mode
 	url = git@github.com:emacsattic/jess-mode.git
+[submodule "jest"]
+	path = mirror/jest
+	url = git@github.com:emacsmirror/jest.git
 [submodule "jetbrains"]
 	path = mirror/jetbrains
 	url = git@github.com:emacsmirror/jetbrains.git
