@@ -18952,7 +18952,6 @@
 [submodule "ts-comint"]
 	path = mirror/ts-comint
 	url = git@github.com:emacsmirror/ts-comint.git
-	branch = master
 [submodule "ts-mode"]
 	path = mirror/ts-mode
 	url = git@github.com:emacsmirror/ts-mode.git
