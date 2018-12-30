@@ -2612,9 +2612,6 @@
 [submodule "company-cabal"]
 	path = mirror/company-cabal
 	url = git@github.com:emacsmirror/company-cabal.git
-[submodule "company-childframe"]
-	path = mirror/company-childframe
-	url = git@github.com:emacsmirror/company-childframe.git
 [submodule "company-coq"]
 	path = mirror/company-coq
 	url = git@github.com:emacsmirror/company-coq.git
