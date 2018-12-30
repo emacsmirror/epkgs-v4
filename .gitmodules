@@ -11169,8 +11169,8 @@
 	path = attic/lsl-mode
 	url = git@github.com:emacsattic/lsl-mode.git
 [submodule "lsp-clangd"]
-	path = mirror/lsp-clangd
-	url = git@github.com:emacsmirror/lsp-clangd.git
+	path = attic/lsp-clangd
+	url = git@github.com:emacsattic/lsp-clangd.git
 [submodule "lsp-css"]
 	path = mirror/lsp-css
 	url = git@github.com:emacsmirror/lsp-css.git
@@ -11221,8 +11221,8 @@
 	path = mirror/lsp-php
 	url = git@github.com:emacsmirror/lsp-php.git
 [submodule "lsp-python"]
-	path = mirror/lsp-python
-	url = git@github.com:emacsmirror/lsp-python.git
+	path = attic/lsp-python
+	url = git@github.com:emacsattic/lsp-python.git
 	branch = master
 [submodule "lsp-ruby"]
 	path = mirror/lsp-ruby
