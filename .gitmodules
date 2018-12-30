@@ -304,6 +304,9 @@
 [submodule "aggressive-indent"]
 	path = mirror/aggressive-indent
 	url = git@github.com:emacsmirror/aggressive-indent.git
+[submodule "agtags"]
+	path = mirror/agtags
+	url = git@github.com:emacsmirror/agtags.git
 [submodule "ahg"]
 	path = mirror/ahg
 	url = git@github.com:emacsmirror/ahg.git
@@ -3373,6 +3376,9 @@
 	path = mirror/dashboard
 	url = git@github.com:emacsmirror/dashboard.git
 	branch = master
+[submodule "dashboard-hackernews"]
+	path = mirror/dashboard-hackernews
+	url = git@github.com:emacsmirror/dashboard-hackernews.git
 [submodule "date-at-point"]
 	path = mirror/date-at-point
 	url = git@github.com:emacsmirror/date-at-point.git
@@ -6680,6 +6686,9 @@
 	path = mirror/flymake-cursor
 	url = git@github.com:emacsmirror/flymake-cursor.git
 	branch = master
+[submodule "flymake-diagnostic-at-point"]
+	path = mirror/flymake-diagnostic-at-point
+	url = git@github.com:emacsmirror/flymake-diagnostic-at-point.git
 [submodule "flymake-easy"]
 	path = mirror/flymake-easy
 	url = git@github.com:emacsmirror/flymake-easy.git
@@ -10994,6 +11003,9 @@
 [submodule "literate-coffee-mode"]
 	path = mirror/literate-coffee-mode
 	url = git@github.com:emacsmirror/literate-coffee-mode.git
+[submodule "literate-elisp"]
+	path = mirror/literate-elisp
+	url = git@github.com:emacsmirror/literate-elisp.git
 [submodule "literate-starter-kit"]
 	path = mirror/literate-starter-kit
 	url = git@github.com:emacsmirror/literate-starter-kit.git
@@ -12231,6 +12243,9 @@
 [submodule "mru-yank"]
 	path = mirror/mru-yank
 	url = git@github.com:emacsmirror/mru-yank.git
+[submodule "ms-python"]
+	path = mirror/ms-python
+	url = git@github.com:emacsmirror/ms-python.git
 [submodule "msearch"]
 	path = mirror/msearch
 	url = git@github.com:emacsmirror/msearch.git
@@ -13026,6 +13041,9 @@
 [submodule "ob-go"]
 	path = mirror/ob-go
 	url = git@github.com:emacsmirror/ob-go.git
+[submodule "ob-html-chrome"]
+	path = mirror/ob-html-chrome
+	url = git@github.com:emacsmirror/ob-html-chrome.git
 [submodule "ob-http"]
 	path = mirror/ob-http
 	url = git@github.com:emacsmirror/ob-http.git
@@ -13719,6 +13737,9 @@
 [submodule "org-site"]
 	path = attic/org-site
 	url = git@github.com:emacsattic/org-site.git
+[submodule "org-snooze"]
+	path = mirror/org-snooze
+	url = git@github.com:emacsmirror/org-snooze.git
 [submodule "org-starter"]
 	path = mirror/org-starter
 	url = git@github.com:emacsmirror/org-starter.git
@@ -14058,6 +14079,9 @@
 [submodule "ox-slimhtml"]
 	path = mirror/ox-slimhtml
 	url = git@github.com:emacsmirror/ox-slimhtml.git
+[submodule "ox-spectacle"]
+	path = mirror/ox-spectacle
+	url = git@github.com:emacsmirror/ox-spectacle.git
 [submodule "ox-textile"]
 	path = mirror/ox-textile
 	url = git@github.com:emacsmirror/ox-textile.git
@@ -14092,6 +14116,9 @@
 [submodule "pacfiles-mode"]
 	path = mirror/pacfiles-mode
 	url = git@github.com:emacsmirror/pacfiles-mode.git
+[submodule "pack"]
+	path = mirror/pack
+	url = git@github.com:emacsmirror/pack.git
 [submodule "pack-windows"]
 	path = attic/pack-windows
 	url = git@github.com:emacsattic/pack-windows.git
@@ -15512,6 +15539,9 @@
 [submodule "pyvenv"]
 	path = mirror/pyvenv
 	url = git@github.com:emacsmirror/pyvenv.git
+[submodule "q-mode"]
+	path = mirror/q-mode
+	url = git@github.com:emacsmirror/q-mode.git
 [submodule "qa"]
 	path = attic/qa
 	url = git@github.com:emacsattic/qa.git
@@ -15895,6 +15925,9 @@
 [submodule "recentf-remove-sudo-tramp-prefix"]
 	path = mirror/recentf-remove-sudo-tramp-prefix
 	url = git@github.com:emacsmirror/recentf-remove-sudo-tramp-prefix.git
+[submodule "recently"]
+	path = mirror/recently
+	url = git@github.com:emacsmirror/recently.git
 [submodule "recipe-mode"]
 	path = mirror/recipe-mode
 	url = git@github.com:emacsmirror/recipe-mode.git
@@ -18270,6 +18303,9 @@
 [submodule "tea-time"]
 	path = mirror/tea-time
 	url = git@github.com:emacsmirror/tea-time.git
+[submodule "teacode-expand"]
+	path = mirror/teacode-expand
+	url = git@github.com:emacsmirror/teacode-expand.git
 [submodule "technorati"]
 	path = attic/technorati
 	url = git@github.com:emacsattic/technorati.git
@@ -20039,6 +20075,9 @@
 [submodule "with-simulated-input"]
 	path = mirror/with-simulated-input
 	url = git@github.com:emacsmirror/with-simulated-input.git
+[submodule "with-venv"]
+	path = mirror/with-venv
+	url = git@github.com:emacsmirror/with-venv.git
 [submodule "wl-list"]
 	path = attic/wl-list
 	url = git@github.com:emacsattic/wl-list.git
@@ -20518,6 +20557,9 @@
 [submodule "yeoman"]
 	path = mirror/yeoman
 	url = git@github.com:emacsmirror/yeoman.git
+[submodule "yequake"]
+	path = mirror/yequake
+	url = git@github.com:emacsmirror/yequake.git
 [submodule "yesql-ghosts"]
 	path = mirror/yesql-ghosts
 	url = git@github.com:emacsmirror/yesql-ghosts.git
