@@ -16030,7 +16030,6 @@
 [submodule "region-convert"]
 	path = mirror/region-convert
 	url = git@github.com:emacsmirror/region-convert.git
-	branch = master
 [submodule "region-state"]
 	path = mirror/region-state
 	url = git@github.com:emacsmirror/region-state.git
