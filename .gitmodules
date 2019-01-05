@@ -11187,8 +11187,8 @@
 	path = mirror/lsp-dart
 	url = git@github.com:emacsmirror/lsp-dart.git
 [submodule "lsp-fortran"]
-	path = mirror/lsp-fortran
-	url = git@github.com:emacsmirror/lsp-fortran.git
+	path = attic/lsp-fortran
+	url = git@github.com:emacsattic/lsp-fortran.git
 [submodule "lsp-go"]
 	path = mirror/lsp-go
 	url = git@github.com:emacsmirror/lsp-go.git
