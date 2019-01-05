@@ -54,6 +54,9 @@
 [submodule "abl-mode"]
 	path = mirror/abl-mode
 	url = git@github.com:emacsmirror/abl-mode.git
+[submodule "abs-mode"]
+	path = mirror/abs-mode
+	url = git@github.com:emacsmirror/abs-mode.git
 [submodule "abyss-theme"]
 	path = mirror/abyss-theme
 	url = git@github.com:emacsmirror/abyss-theme.git
@@ -5846,6 +5849,9 @@
 [submodule "extview"]
 	path = mirror/extview
 	url = git@github.com:emacsmirror/extview.git
+[submodule "exunit"]
+	path = mirror/exunit
+	url = git@github.com:emacsmirror/exunit.git
 [submodule "exwm"]
 	path = mirror/exwm
 	url = git@github.com:emacsmirror/exwm.git
@@ -10352,6 +10358,9 @@
 [submodule "jvm-mode"]
 	path = mirror/jvm-mode
 	url = git@github.com:emacsmirror/jvm-mode.git
+[submodule "k8s-mode"]
+	path = mirror/k8s-mode
+	url = git@github.com:emacsmirror/k8s-mode.git
 [submodule "kaesar"]
 	path = mirror/kaesar
 	url = git@github.com:emacsmirror/kaesar.git
@@ -13336,6 +13345,9 @@
 [submodule "order-head"]
 	path = attic/order-head
 	url = git@github.com:emacsattic/order-head.git
+[submodule "ordinal"]
+	path = mirror/ordinal
+	url = git@github.com:emacsmirror/ordinal.git
 [submodule "oremus"]
 	path = attic/oremus
 	url = git@github.com:emacsattic/oremus.git
@@ -16236,6 +16248,9 @@
 [submodule "riece"]
 	path = mirror/riece
 	url = git@github.com:emacsmirror/riece.git
+[submodule "right-click-context"]
+	path = mirror/right-click-context
+	url = git@github.com:emacsmirror/right-click-context.git
 [submodule "rightjustify"]
 	path = attic/rightjustify
 	url = git@github.com:emacsattic/rightjustify.git
@@ -16713,6 +16728,9 @@
 [submodule "scroll-restore"]
 	path = mirror/scroll-restore
 	url = git@github.com:emacsmirror/scroll-restore.git
+[submodule "scrollkeeper"]
+	path = mirror/scrollkeeper
+	url = git@github.com:emacsmirror/scrollkeeper.git
 [submodule "scrooge"]
 	path = mirror/scrooge
 	url = git@github.com:emacsmirror/scrooge.git
@@ -19212,6 +19230,9 @@
 [submodule "unicode-input"]
 	path = mirror/unicode-input
 	url = git@github.com:emacsmirror/unicode-input.git
+[submodule "unicode-math-input"]
+	path = mirror/unicode-math-input
+	url = git@github.com:emacsmirror/unicode-math-input.git
 [submodule "unicode-progress-reporter"]
 	path = mirror/unicode-progress-reporter
 	url = git@github.com:emacsmirror/unicode-progress-reporter.git
@@ -19311,6 +19332,9 @@
 [submodule "use-package-el-get"]
 	path = mirror/use-package-el-get
 	url = git@github.com:emacsmirror/use-package-el-get.git
+[submodule "use-package-hydra"]
+	path = mirror/use-package-hydra
+	url = git@github.com:emacsmirror/use-package-hydra.git
 [submodule "use-ttf"]
 	path = mirror/use-ttf
 	url = git@github.com:emacsmirror/use-ttf.git
