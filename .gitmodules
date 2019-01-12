@@ -6597,8 +6597,8 @@
 	path = mirror/flycheck-prospector
 	url = git@github.com:emacsmirror/flycheck-prospector.git
 [submodule "flycheck-purescript"]
-	path = mirror/flycheck-purescript
-	url = git@github.com:emacsmirror/flycheck-purescript.git
+	path = attic/flycheck-purescript
+	url = git@github.com:emacsattic/flycheck-purescript.git
 [submodule "flycheck-pycheckers"]
 	path = mirror/flycheck-pycheckers
 	url = git@github.com:emacsmirror/flycheck-pycheckers.git
@@ -18481,8 +18481,8 @@
 	url = git@github.com:emacsmirror/tern-context-coloring.git
 	branch = master
 [submodule "tern-django"]
-	path = mirror/tern-django
-	url = git@github.com:emacsmirror/tern-django.git
+	path = attic/tern-django
+	url = git@github.com:emacsattic/tern-django.git
 [submodule "terraform-mode"]
 	path = mirror/terraform-mode
 	url = git@github.com:emacsmirror/terraform-mode.git
