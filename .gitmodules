@@ -20759,3 +20759,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "clipboard-collector"]
+	path = mirror/clipboard-collector
+	url = git@github.com:emacsmirror/clipboard-collector.git
