@@ -5414,6 +5414,9 @@
 [submodule "esmtpmail"]
 	path = attic/esmtpmail
 	url = git@github.com:emacsattic/esmtpmail.git
+[submodule "esonify"]
+	path = mirror/esonify
+	url = git@github.com:emacsmirror/esonify.git
 [submodule "espect"]
 	path = attic/espect
 	url = git@github.com:emacsattic/espect.git
@@ -9323,6 +9326,9 @@
 [submodule "idle-highlight-mode"]
 	path = mirror/idle-highlight-mode
 	url = git@github.com:emacsmirror/idle-highlight-mode.git
+[submodule "idle-org-agenda"]
+	path = mirror/idle-org-agenda
+	url = git@github.com:emacsmirror/idle-org-agenda.git
 [submodule "idle-require"]
 	path = mirror/idle-require
 	url = git@github.com:emacsmirror/idle-require.git
@@ -16024,6 +16030,9 @@
 	path = mirror/refine
 	url = git@github.com:emacsmirror/refine.git
 	branch = master
+[submodule "reformatter"]
+	path = mirror/reformatter
+	url = git@github.com:emacsmirror/reformatter.git
 [submodule "regex-dsl"]
 	path = mirror/regex-dsl
 	url = git@github.com:emacsmirror/regex-dsl.git
