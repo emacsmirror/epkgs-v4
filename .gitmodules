@@ -20762,3 +20762,9 @@
 [submodule "clipboard-collector"]
 	path = mirror/clipboard-collector
 	url = git@github.com:emacsmirror/clipboard-collector.git
+[submodule "path-iterator"]
+	path = mirror/path-iterator
+	url = git@github.com:emacsmirror/path-iterator.git
+[submodule "uniquify-files"]
+	path = mirror/uniquify-files
+	url = git@github.com:emacsmirror/uniquify-files.git
