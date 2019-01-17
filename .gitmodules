@@ -2276,6 +2276,9 @@
 [submodule "clip2org"]
 	path = mirror/clip2org
 	url = git@github.com:emacsmirror/clip2org.git
+[submodule "clipboard-collector"]
+	path = mirror/clipboard-collector
+	url = git@github.com:emacsmirror/clipboard-collector.git
 [submodule "cliphist"]
 	path = mirror/cliphist
 	url = git@github.com:emacsmirror/cliphist.git
@@ -14360,6 +14363,9 @@
 [submodule "path-helper"]
 	path = mirror/path-helper
 	url = git@github.com:emacsmirror/path-helper.git
+[submodule "path-iterator"]
+	path = mirror/path-iterator
+	url = git@github.com:emacsmirror/path-iterator.git
 [submodule "pathify"]
 	path = mirror/pathify
 	url = git@github.com:emacsmirror/pathify.git
@@ -17729,6 +17735,9 @@
 	path = attic/sql-mssql
 	url = git@github.com:emacsattic/sql-mssql.git
 	branch = master
+[submodule "sql-presto"]
+	path = mirror/sql-presto
+	url = git@github.com:emacsmirror/sql-presto.git
 [submodule "sql-transform"]
 	path = mirror/sql-transform
 	url = git@github.com:emacsmirror/sql-transform.git
@@ -19278,6 +19287,9 @@
 [submodule "unique-window-buffers"]
 	path = mirror/unique-window-buffers
 	url = git@github.com:emacsmirror/unique-window-buffers.git
+[submodule "uniquify-files"]
+	path = mirror/uniquify-files
+	url = git@github.com:emacsmirror/uniquify-files.git
 [submodule "unison"]
 	path = mirror/unison
 	url = git@github.com:emacsmirror/unison.git
@@ -20759,12 +20771,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "clipboard-collector"]
-	path = mirror/clipboard-collector
-	url = git@github.com:emacsmirror/clipboard-collector.git
-[submodule "path-iterator"]
-	path = mirror/path-iterator
-	url = git@github.com:emacsmirror/path-iterator.git
-[submodule "uniquify-files"]
-	path = mirror/uniquify-files
-	url = git@github.com:emacsmirror/uniquify-files.git
