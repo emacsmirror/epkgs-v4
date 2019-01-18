@@ -10307,9 +10307,6 @@
 [submodule "jsonnet-mode"]
 	path = mirror/jsonnet-mode
 	url = git@github.com:emacsmirror/jsonnet-mode.git
-[submodule "jsonrpc"]
-	path = mirror/jsonrpc
-	url = git@github.com:emacsmirror/jsonrpc.git
 [submodule "jss"]
 	path = mirror/jss
 	url = git@github.com:emacsmirror/jss.git
@@ -20771,3 +20768,24 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "cl-print"]
+	path = mirror/cl-print
+	url = git@github.com:emacsmirror/cl-print.git
+[submodule "flymake"]
+	path = mirror/flymake
+	url = git@github.com:emacsmirror/flymake.git
+[submodule "jsonrpc"]
+	path = mirror/jsonrpc
+	url = git@github.com:emacsmirror/jsonrpc.git
+[submodule "let-alist"]
+	path = mirror/let-alist
+	url = git@github.com:emacsmirror/let-alist.git
+[submodule "map"]
+	path = mirror/map
+	url = git@github.com:emacsmirror/map.git
+[submodule "ntlm"]
+	path = mirror/ntlm
+	url = git@github.com:emacsmirror/ntlm.git
+[submodule "python"]
+	path = mirror/python
+	url = git@github.com:emacsmirror/python.git
