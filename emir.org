@@ -124,12 +124,13 @@
   (emir--save-variable 'emir--preferred-builtins value)
 #+END_SRC
 #+NAME: val--emir--preferred-builtins
-| Name       | Reason                         |
-|------------+--------------------------------|
-| cl-generic | Elpa has backport of builtin   |
-| cl-lib     | Elpa has backport of builtin   |
-| seq        | Elpa has backport of builtin   |
-| svg        | Elpa imports outdated upstream |
+| Name        | Reason                        |
+|-------------+-------------------------------|
+| cl-generic  | backport of builtin           |
+| cl-lib      | backport of builtin           |
+| seq         | backport of builtin           |
+| soap-client | multi-file core not supported |
+| svg         | import of outdated upstream   |
 
 * Set ~emir--diverging-reason~
 #+NAME: set--emir--diverging-reason

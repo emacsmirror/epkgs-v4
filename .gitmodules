@@ -11187,17 +11187,17 @@
 	path = attic/lsp-clangd
 	url = git@github.com:emacsattic/lsp-clangd.git
 [submodule "lsp-css"]
-	path = mirror/lsp-css
-	url = git@github.com:emacsmirror/lsp-css.git
+	path = attic/lsp-css
+	url = git@github.com:emacsattic/lsp-css.git
 [submodule "lsp-dart"]
-	path = mirror/lsp-dart
-	url = git@github.com:emacsmirror/lsp-dart.git
+	path = attic/lsp-dart
+	url = git@github.com:emacsattic/lsp-dart.git
 [submodule "lsp-fortran"]
 	path = attic/lsp-fortran
 	url = git@github.com:emacsattic/lsp-fortran.git
 [submodule "lsp-go"]
-	path = mirror/lsp-go
-	url = git@github.com:emacsmirror/lsp-go.git
+	path = attic/lsp-go
+	url = git@github.com:emacsattic/lsp-go.git
 	branch = master
 [submodule "lsp-hack"]
 	path = mirror/lsp-hack
@@ -11207,8 +11207,8 @@
 	url = git@github.com:emacsmirror/lsp-haskell.git
 	branch = master
 [submodule "lsp-html"]
-	path = mirror/lsp-html
-	url = git@github.com:emacsmirror/lsp-html.git
+	path = attic/lsp-html
+	url = git@github.com:emacsattic/lsp-html.git
 [submodule "lsp-intellij"]
 	path = mirror/lsp-intellij
 	url = git@github.com:emacsmirror/lsp-intellij.git
@@ -11220,41 +11220,41 @@
 	path = mirror/lsp-javacomp
 	url = git@github.com:emacsmirror/lsp-javacomp.git
 [submodule "lsp-javascript-typescript"]
-	path = mirror/lsp-javascript-typescript
-	url = git@github.com:emacsmirror/lsp-javascript-typescript.git
+	path = attic/lsp-javascript-typescript
+	url = git@github.com:emacsattic/lsp-javascript-typescript.git
 [submodule "lsp-mode"]
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
 	branch = master
 [submodule "lsp-ocaml"]
-	path = mirror/lsp-ocaml
-	url = git@github.com:emacsmirror/lsp-ocaml.git
+	path = attic/lsp-ocaml
+	url = git@github.com:emacsattic/lsp-ocaml.git
 [submodule "lsp-p4"]
 	path = mirror/lsp-p4
 	url = git@github.com:emacsmirror/lsp-p4.git
 [submodule "lsp-php"]
-	path = mirror/lsp-php
-	url = git@github.com:emacsmirror/lsp-php.git
+	path = attic/lsp-php
+	url = git@github.com:emacsattic/lsp-php.git
 [submodule "lsp-python"]
 	path = attic/lsp-python
 	url = git@github.com:emacsattic/lsp-python.git
 	branch = master
 [submodule "lsp-ruby"]
-	path = mirror/lsp-ruby
-	url = git@github.com:emacsmirror/lsp-ruby.git
+	path = attic/lsp-ruby
+	url = git@github.com:emacsattic/lsp-ruby.git
 [submodule "lsp-rust"]
-	path = mirror/lsp-rust
-	url = git@github.com:emacsmirror/lsp-rust.git
+	path = attic/lsp-rust
+	url = git@github.com:emacsattic/lsp-rust.git
 	branch = master
 [submodule "lsp-sh"]
-	path = mirror/lsp-sh
-	url = git@github.com:emacsmirror/lsp-sh.git
+	path = attic/lsp-sh
+	url = git@github.com:emacsattic/lsp-sh.git
 [submodule "lsp-ui"]
 	path = mirror/lsp-ui
 	url = git@github.com:emacsmirror/lsp-ui.git
 [submodule "lsp-vue"]
-	path = mirror/lsp-vue
-	url = git@github.com:emacsmirror/lsp-vue.git
+	path = attic/lsp-vue
+	url = git@github.com:emacsattic/lsp-vue.git
 [submodule "ltsv"]
 	path = mirror/ltsv
 	url = git@github.com:emacsmirror/ltsv.git
