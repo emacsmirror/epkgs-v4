@@ -2227,6 +2227,9 @@
 [submodule "cl-merge"]
 	path = mirror/cl-merge
 	url = git@github.com:emacsmirror/cl-merge.git
+[submodule "cl-print"]
+	path = mirror/cl-print
+	url = git@github.com:emacsmirror/cl-print.git
 [submodule "claire-mode"]
 	path = attic/claire-mode
 	url = git@github.com:emacsattic/claire-mode.git
@@ -6679,6 +6682,9 @@
 [submodule "flylisp"]
 	path = mirror/flylisp
 	url = git@github.com:emacsmirror/flylisp.git
+[submodule "flymake"]
+	path = mirror/flymake
+	url = git@github.com:emacsmirror/flymake.git
 [submodule "flymake-coffee"]
 	path = mirror/flymake-coffee
 	url = git@github.com:emacsmirror/flymake-coffee.git
@@ -10307,6 +10313,9 @@
 [submodule "jsonnet-mode"]
 	path = mirror/jsonnet-mode
 	url = git@github.com:emacsmirror/jsonnet-mode.git
+[submodule "jsonrpc"]
+	path = mirror/jsonrpc
+	url = git@github.com:emacsmirror/jsonrpc.git
 [submodule "jss"]
 	path = mirror/jss
 	url = git@github.com:emacsmirror/jss.git
@@ -10804,6 +10813,9 @@
 [submodule "lessage"]
 	path = attic/lessage
 	url = git@github.com:emacsattic/lessage.git
+[submodule "let-alist"]
+	path = mirror/let-alist
+	url = git@github.com:emacsmirror/let-alist.git
 [submodule "let-recur"]
 	path = mirror/let-recur
 	url = git@github.com:emacsmirror/let-recur.git
@@ -11567,6 +11579,9 @@
 [submodule "manued"]
 	path = mirror/manued
 	url = git@github.com:emacsmirror/manued.git
+[submodule "map"]
+	path = mirror/map
+	url = git@github.com:emacsmirror/map.git
 [submodule "map-progress"]
 	path = mirror/map-progress
 	url = git@github.com:emacsmirror/map-progress.git
@@ -12929,6 +12944,9 @@
 [submodule "nterm"]
 	path = attic/nterm
 	url = git@github.com:emacsattic/nterm.git
+[submodule "ntlm"]
+	path = mirror/ntlm
+	url = git@github.com:emacsmirror/ntlm.git
 [submodule "nu-mode"]
 	path = mirror/nu-mode
 	url = git@github.com:emacsmirror/nu-mode.git
@@ -15510,6 +15528,9 @@
 [submodule "pytest"]
 	path = mirror/pytest
 	url = git@github.com:emacsmirror/pytest.git
+[submodule "python"]
+	path = mirror/python
+	url = git@github.com:emacsmirror/python.git
 [submodule "python-cell"]
 	path = mirror/python-cell
 	url = git@github.com:emacsmirror/python-cell.git
@@ -20768,24 +20789,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "cl-print"]
-	path = mirror/cl-print
-	url = git@github.com:emacsmirror/cl-print.git
-[submodule "flymake"]
-	path = mirror/flymake
-	url = git@github.com:emacsmirror/flymake.git
-[submodule "jsonrpc"]
-	path = mirror/jsonrpc
-	url = git@github.com:emacsmirror/jsonrpc.git
-[submodule "let-alist"]
-	path = mirror/let-alist
-	url = git@github.com:emacsmirror/let-alist.git
-[submodule "map"]
-	path = mirror/map
-	url = git@github.com:emacsmirror/map.git
-[submodule "ntlm"]
-	path = mirror/ntlm
-	url = git@github.com:emacsmirror/ntlm.git
-[submodule "python"]
-	path = mirror/python
-	url = git@github.com:emacsmirror/python.git
