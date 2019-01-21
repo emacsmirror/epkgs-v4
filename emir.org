@@ -185,7 +185,6 @@
 | majapahit-theme       | two-variant theme [[https://gitlab.com/franksn/majapahit-theme/merge_requests/1][#1]]       |
 | ne2wm                 | no/mismatched main library |
 | omtose-phellack-theme | two-variant theme          |
-| proof-general         | pending [[https://github.com/ProofGeneral/PG/issues/198][#198]]               |
 | profile-dotemacs      | no feature                 |
 | punpun-theme          | two-variant theme [[https://github.com/wasamasa/punpun-theme/pull/7][#7]]       |
 | spacemacs-theme       | two-variant theme [[https://github.com/nashamri/spacemacs-theme/pull/63][#63]]      |
