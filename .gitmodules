@@ -1342,6 +1342,9 @@
 	path = mirror/biblio
 	url = git@github.com:emacsmirror/biblio.git
 	branch = master
+[submodule "biblio-bibsonomy"]
+	path = mirror/biblio-bibsonomy
+	url = git@github.com:emacsmirror/biblio-bibsonomy.git
 [submodule "bibliothek"]
 	path = mirror/bibliothek
 	url = git@github.com:emacsmirror/bibliothek.git
@@ -4670,6 +4673,9 @@
 [submodule "eldo-mode"]
 	path = attic/eldo-mode
 	url = git@github.com:emacsattic/eldo-mode.git
+[submodule "eldoc-box"]
+	path = mirror/eldoc-box
+	url = git@github.com:emacsmirror/eldoc-box.git
 [submodule "eldoc-eval"]
 	path = mirror/eldoc-eval
 	url = git@github.com:emacsmirror/eldoc-eval.git
@@ -6377,6 +6383,9 @@
 [submodule "fluiddb"]
 	path = attic/fluiddb
 	url = git@github.com:emacsattic/fluiddb.git
+[submodule "flutter"]
+	path = mirror/flutter
+	url = git@github.com:emacsmirror/flutter.git
 [submodule "fluxus-mode"]
 	path = mirror/fluxus-mode
 	url = git@github.com:emacsmirror/fluxus-mode.git
@@ -6481,6 +6490,9 @@
 [submodule "flycheck-elsa"]
 	path = mirror/flycheck-elsa
 	url = git@github.com:emacsmirror/flycheck-elsa.git
+[submodule "flycheck-ensime"]
+	path = mirror/flycheck-ensime
+	url = git@github.com:emacsmirror/flycheck-ensime.git
 [submodule "flycheck-flawfinder"]
 	path = mirror/flycheck-flawfinder
 	url = git@github.com:emacsmirror/flycheck-flawfinder.git
@@ -8538,6 +8550,12 @@
 [submodule "helm-ls-svn"]
 	path = mirror/helm-ls-svn
 	url = git@github.com:emacsmirror/helm-ls-svn.git
+[submodule "helm-lsp"]
+	path = mirror/helm-lsp
+	url = git@github.com:emacsmirror/helm-lsp.git
+[submodule "helm-lxc"]
+	path = mirror/helm-lxc
+	url = git@github.com:emacsmirror/helm-lxc.git
 [submodule "helm-make"]
 	path = mirror/helm-make
 	url = git@github.com:emacsmirror/helm-make.git
@@ -10606,10 +10624,16 @@
 	path = mirror/ksp-cfg-mode
 	url = git@github.com:emacsmirror/ksp-cfg-mode.git
 	branch = master
+[submodule "kubel"]
+	path = mirror/kubel
+	url = git@github.com:emacsmirror/kubel.git
 [submodule "kubernetes"]
 	path = mirror/kubernetes
 	url = git@github.com:emacsmirror/kubernetes.git
 	branch = master
+[submodule "kubernetes-helm"]
+	path = mirror/kubernetes-helm
+	url = git@github.com:emacsmirror/kubernetes-helm.git
 [submodule "kubernetes-tramp"]
 	path = mirror/kubernetes-tramp
 	url = git@github.com:emacsmirror/kubernetes-tramp.git
@@ -10661,6 +10685,9 @@
 	path = mirror/language-detection
 	url = git@github.com:emacsmirror/language-detection.git
 	branch = master
+[submodule "language-id"]
+	path = mirror/language-id
+	url = git@github.com:emacsmirror/language-id.git
 [submodule "lastpass"]
 	path = mirror/lastpass
 	url = git@github.com:emacsmirror/lastpass.git
@@ -11204,6 +11231,9 @@
 [submodule "lsp-dart"]
 	path = attic/lsp-dart
 	url = git@github.com:emacsattic/lsp-dart.git
+[submodule "lsp-elixir"]
+	path = mirror/lsp-elixir
+	url = git@github.com:emacsmirror/lsp-elixir.git
 [submodule "lsp-fortran"]
 	path = attic/lsp-fortran
 	url = git@github.com:emacsattic/lsp-fortran.git
@@ -11258,9 +11288,15 @@
 	path = attic/lsp-rust
 	url = git@github.com:emacsattic/lsp-rust.git
 	branch = master
+[submodule "lsp-scala"]
+	path = mirror/lsp-scala
+	url = git@github.com:emacsmirror/lsp-scala.git
 [submodule "lsp-sh"]
 	path = attic/lsp-sh
 	url = git@github.com:emacsattic/lsp-sh.git
+[submodule "lsp-sourcekit"]
+	path = mirror/lsp-sourcekit
+	url = git@github.com:emacsmirror/lsp-sourcekit.git
 [submodule "lsp-ui"]
 	path = mirror/lsp-ui
 	url = git@github.com:emacsmirror/lsp-ui.git
@@ -11499,6 +11535,9 @@
 	path = mirror/majapahit-theme
 	url = git@github.com:emacsmirror/majapahit-theme.git
 	branch = master
+[submodule "major-mode-hydra"]
+	path = mirror/major-mode-hydra
+	url = git@github.com:emacsmirror/major-mode-hydra.git
 [submodule "major-mode-icons"]
 	path = mirror/major-mode-icons
 	url = git@github.com:emacsmirror/major-mode-icons.git
@@ -11641,6 +11680,9 @@
 [submodule "marker-visit"]
 	path = attic/marker-visit
 	url = git@github.com:emacsattic/marker-visit.git
+[submodule "markless"]
+	path = mirror/markless
+	url = git@github.com:emacsmirror/markless.git
 [submodule "markup"]
 	path = mirror/markup
 	url = git@github.com:emacsmirror/markup.git
@@ -13474,6 +13516,9 @@
 [submodule "org-cua-dwim"]
 	path = mirror/org-cua-dwim
 	url = git@github.com:emacsmirror/org-cua-dwim.git
+[submodule "org-d20"]
+	path = mirror/org-d20
+	url = git@github.com:emacsmirror/org-d20.git
 [submodule "org-dashboard"]
 	path = mirror/org-dashboard
 	url = git@github.com:emacsmirror/org-dashboard.git
@@ -13591,6 +13636,9 @@
 [submodule "org-journal"]
 	path = mirror/org-journal
 	url = git@github.com:emacsmirror/org-journal.git
+[submodule "org-journal-list"]
+	path = mirror/org-journal-list
+	url = git@github.com:emacsmirror/org-journal-list.git
 [submodule "org-json"]
 	path = mirror/org-json
 	url = git@github.com:emacsmirror/org-json.git
@@ -13682,6 +13730,9 @@
 [submodule "org-pdfview"]
 	path = mirror/org-pdfview
 	url = git@github.com:emacsmirror/org-pdfview.git
+[submodule "org-pivotal"]
+	path = mirror/org-pivotal
+	url = git@github.com:emacsmirror/org-pivotal.git
 [submodule "org-pomodoro"]
 	path = mirror/org-pomodoro
 	url = git@github.com:emacsmirror/org-pomodoro.git
@@ -13773,6 +13824,9 @@
 [submodule "org-snooze"]
 	path = mirror/org-snooze
 	url = git@github.com:emacsmirror/org-snooze.git
+[submodule "org-sql"]
+	path = mirror/org-sql
+	url = git@github.com:emacsmirror/org-sql.git
 [submodule "org-starter"]
 	path = mirror/org-starter
 	url = git@github.com:emacsmirror/org-starter.git
@@ -14230,6 +14284,9 @@
 [submodule "pamparam"]
 	path = mirror/pamparam
 	url = git@github.com:emacsmirror/pamparam.git
+[submodule "panda"]
+	path = mirror/panda
+	url = git@github.com:emacsmirror/panda.git
 [submodule "panda-theme"]
 	path = mirror/panda-theme
 	url = git@github.com:emacsmirror/panda-theme.git
@@ -14918,6 +14975,9 @@
 	path = mirror/podcaster
 	url = git@github.com:emacsmirror/podcaster.git
 	branch = master
+[submodule "poet-client"]
+	path = mirror/poet-client
+	url = git@github.com:emacsmirror/poet-client.git
 [submodule "poet-theme"]
 	path = mirror/poet-theme
 	url = git@github.com:emacsmirror/poet-theme.git
@@ -16646,6 +16706,9 @@
 	path = mirror/scala-mode
 	url = git@github.com:emacsmirror/scala-mode.git
 	branch = master
+[submodule "scalariform"]
+	path = mirror/scalariform
+	url = git@github.com:emacsmirror/scalariform.git
 [submodule "scan"]
 	path = mirror/scan
 	url = git@github.com:emacsmirror/scan.git
