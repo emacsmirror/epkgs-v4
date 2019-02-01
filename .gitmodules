@@ -10522,8 +10522,8 @@
 	path = mirror/keyword-search
 	url = git@github.com:emacsmirror/keyword-search.git
 [submodule "kfg"]
-	path = attic/kfg
-	url = git@github.com:emacsattic/kfg.git
+	path = mirror/kfg
+	url = git@github.com:emacsmirror/kfg.git
 [submodule "kibit-helper"]
 	path = mirror/kibit-helper
 	url = git@github.com:emacsmirror/kibit-helper.git
