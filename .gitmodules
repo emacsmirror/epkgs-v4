@@ -422,6 +422,9 @@
 [submodule "aml-mode"]
 	path = mirror/aml-mode
 	url = git@github.com:emacsmirror/aml-mode.git
+[submodule "ammonite-term-repl"]
+	path = mirror/ammonite-term-repl
+	url = git@github.com:emacsmirror/ammonite-term-repl.git
 [submodule "ampc"]
 	path = mirror/ampc
 	url = git@github.com:emacsmirror/ampc.git
@@ -3388,6 +3391,9 @@
 [submodule "dashboard-hackernews"]
 	path = mirror/dashboard-hackernews
 	url = git@github.com:emacsmirror/dashboard-hackernews.git
+[submodule "dashboard-project-status"]
+	path = mirror/dashboard-project-status
+	url = git@github.com:emacsmirror/dashboard-project-status.git
 [submodule "date-at-point"]
 	path = mirror/date-at-point
 	url = git@github.com:emacsmirror/date-at-point.git
@@ -13770,6 +13776,9 @@
 [submodule "org-randomnote"]
 	path = mirror/org-randomnote
 	url = git@github.com:emacsmirror/org-randomnote.git
+[submodule "org-re-reveal"]
+	path = mirror/org-re-reveal
+	url = git@github.com:emacsmirror/org-re-reveal.git
 [submodule "org-reading"]
 	path = mirror/org-reading
 	url = git@github.com:emacsmirror/org-reading.git
