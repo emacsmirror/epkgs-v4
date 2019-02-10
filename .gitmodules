@@ -4182,6 +4182,9 @@
 [submodule "dummyparens"]
 	path = mirror/dummyparens
 	url = git@github.com:emacsmirror/dummyparens.git
+[submodule "dune"]
+	path = mirror/dune
+	url = git@github.com:emacsmirror/dune.git
 [submodule "duplicate-line"]
 	path = attic/duplicate-line
 	url = git@github.com:emacsattic/duplicate-line.git
@@ -5204,6 +5207,9 @@
 [submodule "epydoc"]
 	path = mirror/epydoc
 	url = git@github.com:emacsmirror/epydoc.git
+[submodule "equake"]
+	path = mirror/equake
+	url = git@github.com:emacsmirror/equake.git
 [submodule "equinox"]
 	path = attic/equinox
 	url = git@github.com:emacsattic/equinox.git
@@ -9259,6 +9265,9 @@
 	path = mirror/hyperbole
 	url = git@github.com:emacsmirror/hyperbole.git
 	branch = master
+[submodule "hyperspace"]
+	path = mirror/hyperspace
+	url = git@github.com:emacsmirror/hyperspace.git
 [submodule "hyperspec"]
 	path = mirror/hyperspec
 	url = git@github.com:emacsmirror/hyperspec.git
@@ -10394,6 +10403,9 @@
 [submodule "junkbust"]
 	path = attic/junkbust
 	url = git@github.com:emacsattic/junkbust.git
+[submodule "jupyter"]
+	path = mirror/jupyter
+	url = git@github.com:emacsmirror/jupyter.git
 [submodule "jvm-mode"]
 	path = mirror/jvm-mode
 	url = git@github.com:emacsmirror/jvm-mode.git
@@ -10513,6 +10525,9 @@
 [submodule "keyset"]
 	path = mirror/keyset
 	url = git@github.com:emacsmirror/keyset.git
+[submodule "keystore-mode"]
+	path = mirror/keystore-mode
+	url = git@github.com:emacsmirror/keystore-mode.git
 [submodule "keyswap"]
 	path = mirror/keyswap
 	url = git@github.com:emacsmirror/keyswap.git
@@ -11451,6 +11466,9 @@
 [submodule "magit-rbr"]
 	path = mirror/magit-rbr
 	url = git@github.com:emacsmirror/magit-rbr.git
+[submodule "magit-reviewboard"]
+	path = mirror/magit-reviewboard
+	url = git@github.com:emacsmirror/magit-reviewboard.git
 [submodule "magit-rockstar"]
 	path = attic/magit-rockstar
 	url = git@github.com:emacsattic/magit-rockstar.git
@@ -12986,6 +13004,9 @@
 [submodule "nsis-mode"]
 	path = mirror/nsis-mode
 	url = git@github.com:emacsmirror/nsis-mode.git
+[submodule "nswbuff"]
+	path = mirror/nswbuff
+	url = git@github.com:emacsmirror/nswbuff.git
 [submodule "ntcmd"]
 	path = mirror/ntcmd
 	url = git@github.com:emacsmirror/ntcmd.git
@@ -13062,6 +13083,9 @@
 [submodule "oauth2"]
 	path = mirror/oauth2
 	url = git@github.com:emacsmirror/oauth2.git
+[submodule "ob-ammonite"]
+	path = mirror/ob-ammonite
+	url = git@github.com:emacsmirror/ob-ammonite.git
 [submodule "ob-applescript"]
 	path = mirror/ob-applescript
 	url = git@github.com:emacsmirror/ob-applescript.git
@@ -13779,6 +13803,9 @@
 [submodule "org-re-reveal"]
 	path = mirror/org-re-reveal
 	url = git@github.com:emacsmirror/org-re-reveal.git
+[submodule "org-re-reveal-ref"]
+	path = mirror/org-re-reveal-ref
+	url = git@github.com:emacsmirror/org-re-reveal-ref.git
 [submodule "org-reading"]
 	path = mirror/org-reading
 	url = git@github.com:emacsmirror/org-reading.git
