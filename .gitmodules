@@ -7941,6 +7941,9 @@
 [submodule "grc"]
 	path = mirror/grc
 	url = git@github.com:emacsmirror/grc.git
+[submodule "greader"]
+	path = mirror/greader
+	url = git@github.com:emacsmirror/greader.git
 [submodule "green-is-the-new-black-theme"]
 	path = mirror/green-is-the-new-black-theme
 	url = git@github.com:emacsmirror/green-is-the-new-black-theme.git
@@ -20539,6 +20542,9 @@
 [submodule "xquery-tool"]
 	path = mirror/xquery-tool
 	url = git@github.com:emacsmirror/xquery-tool.git
+[submodule "xr"]
+	path = mirror/xr
+	url = git@github.com:emacsmirror/xr.git
 [submodule "xray"]
 	path = mirror/xray
 	url = git@github.com:emacsmirror/xray.git
