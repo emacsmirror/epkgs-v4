@@ -3790,6 +3790,9 @@
 [submodule "dired-rifle"]
 	path = mirror/dired-rifle
 	url = git@github.com:emacsmirror/dired-rifle.git
+[submodule "dired-rmjunk"]
+	path = mirror/dired-rmjunk
+	url = git@github.com:emacsmirror/dired-rmjunk.git
 [submodule "dired-rsync"]
 	path = mirror/dired-rsync
 	url = git@github.com:emacsmirror/dired-rsync.git
@@ -19040,6 +19043,9 @@
 [submodule "transfer-sh"]
 	path = mirror/transfer-sh
 	url = git@github.com:emacsmirror/transfer-sh.git
+[submodule "transient"]
+	path = mirror/transient
+	url = git@github.com:emacsmirror/transient.git
 [submodule "translate"]
 	path = attic/translate
 	url = git@github.com:emacsattic/translate.git
