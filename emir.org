@@ -25,6 +25,7 @@
 #+NAME: val--emir-suspended-packages
 | Package | Reason |
 |---------+--------|
+| icicles | fails  |
 
 * Set ~emir-secondary-packages~
 #+NAME: set--emir-secondary-packages

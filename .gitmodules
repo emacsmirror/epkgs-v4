@@ -3387,7 +3387,6 @@
 [submodule "dashboard"]
 	path = mirror/dashboard
 	url = git@github.com:emacsmirror/dashboard.git
-	branch = master
 [submodule "dashboard-hackernews"]
 	path = mirror/dashboard-hackernews
 	url = git@github.com:emacsmirror/dashboard-hackernews.git
