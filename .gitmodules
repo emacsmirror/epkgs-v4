@@ -1654,6 +1654,9 @@
 [submodule "buffer-charset"]
 	path = attic/buffer-charset
 	url = git@github.com:emacsattic/buffer-charset.git
+[submodule "buffer-expose"]
+	path = mirror/buffer-expose
+	url = git@github.com:emacsmirror/buffer-expose.git
 [submodule "buffer-file-sync"]
 	path = attic/buffer-file-sync
 	url = git@github.com:emacsattic/buffer-file-sync.git
@@ -3755,6 +3758,9 @@
 [submodule "dired-filetype-face"]
 	path = mirror/dired-filetype-face
 	url = git@github.com:emacsmirror/dired-filetype-face.git
+[submodule "dired-git-info"]
+	path = mirror/dired-git-info
+	url = git@github.com:emacsmirror/dired-git-info.git
 [submodule "dired-hacks"]
 	path = mirror/dired-hacks
 	url = git@github.com:emacsmirror/dired-hacks.git
@@ -3880,6 +3886,9 @@
 [submodule "disk"]
 	path = mirror/disk
 	url = git@github.com:emacsmirror/disk.git
+[submodule "disk-usage"]
+	path = mirror/disk-usage
+	url = git@github.com:emacsmirror/disk-usage.git
 [submodule "dismal"]
 	path = mirror/dismal
 	url = git@github.com:emacsmirror/dismal.git
