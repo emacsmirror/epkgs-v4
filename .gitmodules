@@ -5549,6 +5549,9 @@
 [submodule "eval-in-repl"]
 	path = mirror/eval-in-repl
 	url = git@github.com:emacsmirror/eval-in-repl.git
+[submodule "eval-server"]
+	path = mirror/eval-server
+	url = git@github.com:emacsmirror/eval-server.git
 [submodule "eval-sexp-fu"]
 	path = mirror/eval-sexp-fu
 	url = git@github.com:emacsmirror/eval-sexp-fu.git
