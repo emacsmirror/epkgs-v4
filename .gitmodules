@@ -3050,8 +3050,8 @@
 	path = mirror/crm-custom
 	url = git@github.com:emacsmirror/crm-custom.git
 [submodule "crontab-mode"]
-	path = attic/crontab-mode
-	url = git@github.com:emacsattic/crontab-mode.git
+	path = mirror/crontab-mode
+	url = git@github.com:emacsmirror/crontab-mode.git
 [submodule "crosshairs"]
 	path = mirror/crosshairs
 	url = git@github.com:emacsmirror/crosshairs.git
