@@ -1332,6 +1332,9 @@
 [submodule "bhl"]
 	path = attic/bhl
 	url = git@github.com:emacsattic/bhl.git
+[submodule "bibclean-format"]
+	path = mirror/bibclean-format
+	url = git@github.com:emacsmirror/bibclean-format.git
 [submodule "bibeltex"]
 	path = mirror/bibeltex
 	url = git@github.com:emacsmirror/bibeltex.git
@@ -2574,6 +2577,9 @@
 [submodule "comment-dwim-2"]
 	path = mirror/comment-dwim-2
 	url = git@github.com:emacsmirror/comment-dwim-2.git
+[submodule "comment-or-uncomment-sexp"]
+	path = mirror/comment-or-uncomment-sexp
+	url = git@github.com:emacsmirror/comment-or-uncomment-sexp.git
 [submodule "comment-tags"]
 	path = mirror/comment-tags
 	url = git@github.com:emacsmirror/comment-tags.git
@@ -4696,6 +4702,9 @@
 [submodule "eldoc-box"]
 	path = mirror/eldoc-box
 	url = git@github.com:emacsmirror/eldoc-box.git
+[submodule "eldoc-cmake"]
+	path = mirror/eldoc-cmake
+	url = git@github.com:emacsmirror/eldoc-cmake.git
 [submodule "eldoc-eval"]
 	path = mirror/eldoc-eval
 	url = git@github.com:emacsmirror/eldoc-eval.git
@@ -4880,6 +4889,9 @@
 [submodule "elscreen-separate-buffer-list"]
 	path = mirror/elscreen-separate-buffer-list
 	url = git@github.com:emacsmirror/elscreen-separate-buffer-list.git
+[submodule "elscreen-tab"]
+	path = mirror/elscreen-tab
+	url = git@github.com:emacsmirror/elscreen-tab.git
 [submodule "elscreen-vim-mode"]
 	path = attic/elscreen-vim-mode
 	url = git@github.com:emacsattic/elscreen-vim-mode.git
@@ -7499,6 +7511,9 @@
 	path = mirror/github-pullrequest
 	url = git@github.com:emacsmirror/github-pullrequest.git
 	branch = master
+[submodule "github-review"]
+	path = mirror/github-review
+	url = git@github.com:emacsmirror/github-review.git
 [submodule "github-search"]
 	path = mirror/github-search
 	url = git@github.com:emacsmirror/github-search.git
@@ -7865,6 +7880,9 @@
 [submodule "goto-last-change"]
 	path = mirror/goto-last-change
 	url = git@github.com:emacsmirror/goto-last-change.git
+[submodule "goto-line-preview"]
+	path = mirror/goto-line-preview
+	url = git@github.com:emacsmirror/goto-line-preview.git
 [submodule "govc"]
 	path = mirror/govc
 	url = git@github.com:emacsmirror/govc.git
@@ -8763,6 +8781,9 @@
 [submodule "helm-tail"]
 	path = mirror/helm-tail
 	url = git@github.com:emacsmirror/helm-tail.git
+[submodule "helm-taskswitch"]
+	path = mirror/helm-taskswitch
+	url = git@github.com:emacsmirror/helm-taskswitch.git
 [submodule "helm-themes"]
 	path = mirror/helm-themes
 	url = git@github.com:emacsmirror/helm-themes.git
@@ -9580,6 +9601,9 @@
 [submodule "imgur"]
 	path = attic/imgur
 	url = git@github.com:emacsattic/imgur.git
+[submodule "immaterial-theme"]
+	path = mirror/immaterial-theme
+	url = git@github.com:emacsmirror/immaterial-theme.git
 [submodule "immigrant"]
 	path = attic/immigrant
 	url = git@github.com:emacsattic/immigrant.git
@@ -9983,6 +10007,9 @@
 [submodule "ivy-mpdel"]
 	path = mirror/ivy-mpdel
 	url = git@github.com:emacsmirror/ivy-mpdel.git
+[submodule "ivy-omni-org"]
+	path = mirror/ivy-omni-org
+	url = git@github.com:emacsmirror/ivy-omni-org.git
 [submodule "ivy-pages"]
 	path = mirror/ivy-pages
 	url = git@github.com:emacsmirror/ivy-pages.git
@@ -13842,6 +13869,9 @@
 [submodule "org-repo-todo"]
 	path = mirror/org-repo-todo
 	url = git@github.com:emacsmirror/org-repo-todo.git
+[submodule "org-reverse-datetree"]
+	path = mirror/org-reverse-datetree
+	url = git@github.com:emacsmirror/org-reverse-datetree.git
 [submodule "org-review"]
 	path = mirror/org-review
 	url = git@github.com:emacsmirror/org-review.git
@@ -14210,6 +14240,9 @@
 [submodule "ox-reveal"]
 	path = mirror/ox-reveal
 	url = git@github.com:emacsmirror/ox-reveal.git
+[submodule "ox-rfc"]
+	path = mirror/ox-rfc
+	url = git@github.com:emacsmirror/ox-rfc.git
 [submodule "ox-rst"]
 	path = mirror/ox-rst
 	url = git@github.com:emacsmirror/ox-rst.git
@@ -15641,6 +15674,9 @@
 [submodule "pytest"]
 	path = mirror/pytest
 	url = git@github.com:emacsmirror/pytest.git
+[submodule "pytest-pdb-break"]
+	path = mirror/pytest-pdb-break
+	url = git@github.com:emacsmirror/pytest-pdb-break.git
 [submodule "python"]
 	path = mirror/python
 	url = git@github.com:emacsmirror/python.git
@@ -18615,6 +18651,9 @@
 [submodule "terminal-notifier"]
 	path = mirror/terminal-notifier
 	url = git@github.com:emacsmirror/terminal-notifier.git
+[submodule "terminal-toggle"]
+	path = mirror/terminal-toggle
+	url = git@github.com:emacsmirror/terminal-toggle.git
 [submodule "tern"]
 	path = mirror/tern
 	url = git@github.com:emacsmirror/tern.git
@@ -19340,6 +19379,9 @@
 [submodule "undo-group"]
 	path = attic/undo-group
 	url = git@github.com:emacsattic/undo-group.git
+[submodule "undo-propose"]
+	path = mirror/undo-propose
+	url = git@github.com:emacsmirror/undo-propose.git
 [submodule "undo-tree"]
 	path = mirror/undo-tree
 	url = git@github.com:emacsmirror/undo-tree.git
@@ -19481,6 +19523,9 @@
 [submodule "urlenc"]
 	path = mirror/urlenc
 	url = git@github.com:emacsmirror/urlenc.git
+[submodule "urscript-mode"]
+	path = mirror/urscript-mode
+	url = git@github.com:emacsmirror/urscript-mode.git
 [submodule "usage-memo"]
 	path = mirror/usage-memo
 	url = git@github.com:emacsmirror/usage-memo.git
