@@ -13728,6 +13728,9 @@
 [submodule "org-kanban"]
 	path = mirror/org-kanban
 	url = git@github.com:emacsmirror/org-kanban.git
+[submodule "org-kindle"]
+	path = mirror/org-kindle
+	url = git@github.com:emacsmirror/org-kindle.git
 [submodule "org-link-minor-mode"]
 	path = mirror/org-link-minor-mode
 	url = git@github.com:emacsmirror/org-link-minor-mode.git
@@ -13910,9 +13913,6 @@
 [submodule "org-seenthis"]
 	path = mirror/org-seenthis
 	url = git@github.com:emacsmirror/org-seenthis.git
-[submodule "org-send-ebook"]
-	path = mirror/org-send-ebook
-	url = git@github.com:emacsmirror/org-send-ebook.git
 [submodule "org-site"]
 	path = attic/org-site
 	url = git@github.com:emacsattic/org-site.git
