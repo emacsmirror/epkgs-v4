@@ -20971,3 +20971,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "visual-filename-abbrev"]
+	path = mirror/visual-filename-abbrev
+	url = git@github.com:emacsmirror/visual-filename-abbrev.git
