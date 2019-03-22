@@ -12,10 +12,11 @@
   (emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package     | Reason                            |
-|-------------+-----------------------------------|
-| ada-ref-man | no license, no elisp, no response |
-| nadvice     | backport                          |
+| Package      | Reason                                   |
+|--------------+------------------------------------------|
+| ada-ref-man  | no license, no elisp, no response        |
+| nadvice      | backport                                 |
+| lsp-treemacs | https://github.com/melpa/melpa/pull/6051 |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages

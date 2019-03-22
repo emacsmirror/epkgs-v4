@@ -2152,8 +2152,8 @@
 	path = attic/choose
 	url = git@github.com:emacsattic/choose.git
 [submodule "chronometer"]
-	path = attic/chronometer
-	url = git@github.com:emacsattic/chronometer.git
+	path = mirror/chronometer
+	url = git@github.com:emacsmirror/chronometer.git
 [submodule "chronos"]
 	path = mirror/chronos
 	url = git@github.com:emacsmirror/chronos.git
