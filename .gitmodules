@@ -3233,6 +3233,9 @@
 [submodule "cwm-mode"]
 	path = attic/cwm-mode
 	url = git@github.com:emacsattic/cwm-mode.git
+[submodule "cyberpunk-2019-theme"]
+	path = mirror/cyberpunk-2019-theme
+	url = git@github.com:emacsmirror/cyberpunk-2019-theme.git
 [submodule "cyberpunk-theme"]
 	path = mirror/cyberpunk-theme
 	url = git@github.com:emacsmirror/cyberpunk-theme.git
@@ -13124,6 +13127,9 @@
 [submodule "nyx-theme"]
 	path = mirror/nyx-theme
 	url = git@github.com:emacsmirror/nyx-theme.git
+[submodule "nz-holidays"]
+	path = mirror/nz-holidays
+	url = git@github.com:emacsmirror/nz-holidays.git
 [submodule "o-blog"]
 	path = mirror/o-blog
 	url = git@github.com:emacsmirror/o-blog.git
@@ -15123,6 +15129,9 @@
 [submodule "poly-org"]
 	path = mirror/poly-org
 	url = git@github.com:emacsmirror/poly-org.git
+[submodule "poly-rst"]
+	path = mirror/poly-rst
+	url = git@github.com:emacsmirror/poly-rst.git
 [submodule "poly-ruby"]
 	path = mirror/poly-ruby
 	url = git@github.com:emacsmirror/poly-ruby.git
@@ -15855,6 +15864,9 @@
 	path = mirror/quiet
 	url = git@github.com:emacsmirror/quiet.git
 	branch = master
+[submodule "quilt"]
+	path = mirror/quilt
+	url = git@github.com:emacsmirror/quilt.git
 [submodule "quiz"]
 	path = mirror/quiz
 	url = git@github.com:emacsmirror/quiz.git
