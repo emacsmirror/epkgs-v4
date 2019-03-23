@@ -4100,6 +4100,9 @@
 [submodule "dotnet"]
 	path = mirror/dotnet
 	url = git@github.com:emacsmirror/dotnet.git
+[submodule "double-saber"]
+	path = mirror/double-saber
+	url = git@github.com:emacsmirror/double-saber.git
 [submodule "download-region"]
 	path = mirror/download-region
 	url = git@github.com:emacsmirror/download-region.git
@@ -6568,6 +6571,9 @@
 [submodule "flycheck-hdevtools"]
 	path = mirror/flycheck-hdevtools
 	url = git@github.com:emacsmirror/flycheck-hdevtools.git
+[submodule "flycheck-ini-pyinilint"]
+	path = mirror/flycheck-ini-pyinilint
+	url = git@github.com:emacsmirror/flycheck-ini-pyinilint.git
 [submodule "flycheck-inline"]
 	path = mirror/flycheck-inline
 	url = git@github.com:emacsmirror/flycheck-inline.git
@@ -11371,6 +11377,9 @@
 [submodule "lsp-sourcekit"]
 	path = mirror/lsp-sourcekit
 	url = git@github.com:emacsmirror/lsp-sourcekit.git
+[submodule "lsp-treemacs"]
+	path = mirror/lsp-treemacs
+	url = git@github.com:emacsmirror/lsp-treemacs.git
 [submodule "lsp-ui"]
 	path = mirror/lsp-ui
 	url = git@github.com:emacsmirror/lsp-ui.git
@@ -13351,6 +13360,9 @@
 [submodule "odf-mode"]
 	path = attic/odf-mode
 	url = git@github.com:emacsattic/odf-mode.git
+[submodule "oer-reveal"]
+	path = mirror/oer-reveal
+	url = git@github.com:emacsmirror/oer-reveal.git
 [submodule "offlineimap"]
 	path = mirror/offlineimap
 	url = git@github.com:emacsmirror/offlineimap.git
@@ -13837,6 +13849,9 @@
 [submodule "org-presie"]
 	path = mirror/org-presie
 	url = git@github.com:emacsmirror/org-presie.git
+[submodule "org-pretty-tags"]
+	path = mirror/org-pretty-tags
+	url = git@github.com:emacsmirror/org-pretty-tags.git
 [submodule "org-preview-html"]
 	path = mirror/org-preview-html
 	url = git@github.com:emacsmirror/org-preview-html.git
