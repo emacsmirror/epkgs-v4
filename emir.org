@@ -12,11 +12,10 @@
   (emir--save-variable 'emir-pending-packages value)
 #+END_SRC
 #+NAME: val--emir-pending-packages
-| Package      | Reason                                   |
-|--------------+------------------------------------------|
-| ada-ref-man  | no license, no elisp, no response        |
-| nadvice      | backport                                 |
-| lsp-treemacs | https://github.com/melpa/melpa/pull/6051 |
+| Package     | Reason                            |
+|-------------+-----------------------------------|
+| ada-ref-man | no license, no elisp, no response |
+| nadvice     | backport                          |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
@@ -229,6 +228,8 @@
 | levenshtein       | wiki needed by non-wiki |
 | linkd             | wiki multiple files     |
 | look-mode         | wiki needed by non-wiki |
+| magit-stgit       | dropped by maintainer   |
+| magit-svn         | dropped by maintainer   |
 | miniedit          | upstream disappeared    |
 | multi-term        | wiki needed by non-wiki |
 | nxhtml            | semi-automatic import   |
