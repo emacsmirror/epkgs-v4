@@ -641,6 +641,9 @@
 	path = mirror/arbitools
 	url = git@github.com:emacsmirror/arbitools.git
 	branch = master
+[submodule "arc-dark-theme"]
+	path = mirror/arc-dark-theme
+	url = git@github.com:emacsmirror/arc-dark-theme.git
 [submodule "arc-lzh-exe"]
 	path = attic/arc-lzh-exe
 	url = git@github.com:emacsattic/arc-lzh-exe.git
@@ -1492,6 +1495,9 @@
 [submodule "bmx-mode"]
 	path = mirror/bmx-mode
 	url = git@github.com:emacsmirror/bmx-mode.git
+[submodule "bnf-mode"]
+	path = mirror/bnf-mode
+	url = git@github.com:emacsmirror/bnf-mode.git
 [submodule "bnfc"]
 	path = mirror/bnfc
 	url = git@github.com:emacsmirror/bnfc.git
@@ -15555,6 +15561,9 @@
 [submodule "pt"]
 	path = mirror/pt
 	url = git@github.com:emacsmirror/pt.git
+[submodule "pubmed"]
+	path = mirror/pubmed
+	url = git@github.com:emacsmirror/pubmed.git
 [submodule "pug-mode"]
 	path = mirror/pug-mode
 	url = git@github.com:emacsmirror/pug-mode.git
