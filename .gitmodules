@@ -7103,6 +7103,9 @@
 [submodule "fringe-helper"]
 	path = mirror/fringe-helper
 	url = git@github.com:emacsmirror/fringe-helper.git
+[submodule "frog-menu"]
+	path = mirror/frog-menu
+	url = git@github.com:emacsmirror/frog-menu.git
 [submodule "from"]
 	path = attic/from
 	url = git@github.com:emacsattic/from.git
@@ -16296,6 +16299,9 @@
 [submodule "relax"]
 	path = mirror/relax
 	url = git@github.com:emacsmirror/relax.git
+[submodule "relint"]
+	path = mirror/relint
+	url = git@github.com:emacsmirror/relint.git
 [submodule "remap-parens"]
 	path = attic/remap-parens
 	url = git@github.com:emacsattic/remap-parens.git
@@ -20105,6 +20111,9 @@
 [submodule "web-server"]
 	path = mirror/web-server
 	url = git@github.com:emacsmirror/web-server.git
+[submodule "webfeeder"]
+	path = mirror/webfeeder
+	url = git@github.com:emacsmirror/webfeeder.git
 [submodule "webgen-mode"]
 	path = mirror/webgen-mode
 	url = git@github.com:emacsmirror/webgen-mode.git
