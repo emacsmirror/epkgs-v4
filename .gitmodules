@@ -3817,8 +3817,8 @@
 	path = mirror/dired-rsync
 	url = git@github.com:emacsmirror/dired-rsync.git
 [submodule "dired-sequence"]
-	path = mirror/dired-sequence
-	url = git@github.com:emacsmirror/dired-sequence.git
+	path = attic/dired-sequence
+	url = git@github.com:emacsattic/dired-sequence.git
 [submodule "dired-sidebar"]
 	path = mirror/dired-sidebar
 	url = git@github.com:emacsmirror/dired-sidebar.git
@@ -3992,8 +3992,8 @@
 	path = attic/dms-sig
 	url = git@github.com:emacsattic/dms-sig.git
 [submodule "dna-debug"]
-	path = mirror/dna-debug
-	url = git@github.com:emacsmirror/dna-debug.git
+	path = attic/dna-debug
+	url = git@github.com:emacsattic/dna-debug.git
 [submodule "dna-mode"]
 	path = mirror/dna-mode
 	url = git@github.com:emacsmirror/dna-mode.git
@@ -4151,8 +4151,8 @@
 	path = mirror/drag-stuff
 	url = git@github.com:emacsmirror/drag-stuff.git
 [submodule "dragbox"]
-	path = mirror/dragbox
-	url = git@github.com:emacsmirror/dragbox.git
+	path = attic/dragbox
+	url = git@github.com:emacsattic/dragbox.git
 [submodule "drawille"]
 	path = mirror/drawille
 	url = git@github.com:emacsmirror/drawille.git
@@ -5052,8 +5052,8 @@
 	url = git@github.com:emacsmirror/emlib.git
 	branch = master
 [submodule "emmental"]
-	path = mirror/emmental
-	url = git@github.com:emacsmirror/emmental.git
+	path = attic/emmental
+	url = git@github.com:emacsattic/emmental.git
 [submodule "emmet-mode"]
 	path = mirror/emmet-mode
 	url = git@github.com:emacsmirror/emmet-mode.git
@@ -5129,8 +5129,8 @@
 	path = mirror/emr
 	url = git@github.com:emacsmirror/emr.git
 [submodule "emsane"]
-	path = mirror/emsane
-	url = git@github.com:emacsmirror/emsane.git
+	path = attic/emsane
+	url = git@github.com:emacsattic/emsane.git
 [submodule "emuds"]
 	path = attic/emuds
 	url = git@github.com:emacsattic/emuds.git
@@ -15100,8 +15100,8 @@
 	path = mirror/pocket-reader
 	url = git@github.com:emacsmirror/pocket-reader.git
 [submodule "pocketcompletion"]
-	path = mirror/pocketcompletion
-	url = git@github.com:emacsmirror/pocketcompletion.git
+	path = attic/pocketcompletion
+	url = git@github.com:emacsattic/pocketcompletion.git
 [submodule "podcaster"]
 	path = mirror/podcaster
 	url = git@github.com:emacsmirror/podcaster.git
@@ -17136,8 +17136,8 @@
 	path = attic/sh-autoconf
 	url = git@github.com:emacsattic/sh-autoconf.git
 [submodule "sh-proxy"]
-	path = mirror/sh-proxy
-	url = git@github.com:emacsmirror/sh-proxy.git
+	path = attic/sh-proxy
+	url = git@github.com:emacsattic/sh-proxy.git
 [submodule "shackle"]
 	path = mirror/shackle
 	url = git@github.com:emacsmirror/shackle.git
@@ -20903,8 +20903,8 @@
 	url = git@github.com:emacsmirror/zen-and-art-theme.git
 	branch = master
 [submodule "zen-mode"]
-	path = mirror/zen-mode
-	url = git@github.com:emacsmirror/zen-mode.git
+	path = attic/zen-mode
+	url = git@github.com:emacsattic/zen-mode.git
 [submodule "zenburn-theme"]
 	path = mirror/zenburn-theme
 	url = git@github.com:emacsmirror/zenburn-theme.git
