@@ -6683,8 +6683,8 @@
 	path = mirror/flycheck-pyre
 	url = git@github.com:emacsmirror/flycheck-pyre.git
 [submodule "flycheck-rebar3"]
-	path = mirror/flycheck-rebar3
-	url = git@github.com:emacsmirror/flycheck-rebar3.git
+	path = attic/flycheck-rebar3
+	url = git@github.com:emacsattic/flycheck-rebar3.git
 	branch = master
 [submodule "flycheck-rust"]
 	path = mirror/flycheck-rust
@@ -11331,8 +11331,8 @@
 	url = git@github.com:emacsattic/lsp-go.git
 	branch = master
 [submodule "lsp-hack"]
-	path = mirror/lsp-hack
-	url = git@github.com:emacsmirror/lsp-hack.git
+	path = attic/lsp-hack
+	url = git@github.com:emacsattic/lsp-hack.git
 [submodule "lsp-haskell"]
 	path = mirror/lsp-haskell
 	url = git@github.com:emacsmirror/lsp-haskell.git
