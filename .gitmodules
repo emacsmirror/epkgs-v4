@@ -168,8 +168,8 @@
 	path = mirror/ac-sly
 	url = git@github.com:emacsmirror/ac-sly.git
 [submodule "ac-source-ispell"]
-	path = mirror/ac-source-ispell
-	url = git@github.com:emacsmirror/ac-source-ispell.git
+	path = attic/ac-source-ispell
+	url = git@github.com:emacsattic/ac-source-ispell.git
 [submodule "academic-phrases"]
 	path = mirror/academic-phrases
 	url = git@github.com:emacsmirror/academic-phrases.git
@@ -2261,8 +2261,8 @@
 	path = mirror/clasker
 	url = git@github.com:emacsmirror/clasker.git
 [submodule "clay-mode"]
-	path = mirror/clay-mode
-	url = git@github.com:emacsmirror/clay-mode.git
+	path = attic/clay-mode
+	url = git@github.com:emacsattic/clay-mode.git
 [submodule "cldoc"]
 	path = attic/cldoc
 	url = git@github.com:emacsattic/cldoc.git
@@ -3384,8 +3384,8 @@
 	path = mirror/darkroom
 	url = git@github.com:emacsmirror/darkroom.git
 [submodule "darkroom-mode"]
-	path = mirror/darkroom-mode
-	url = git@github.com:emacsmirror/darkroom-mode.git
+	path = attic/darkroom-mode
+	url = git@github.com:emacsattic/darkroom-mode.git
 [submodule "darktooth-theme"]
 	path = mirror/darktooth-theme
 	url = git@github.com:emacsmirror/darktooth-theme.git
@@ -11291,8 +11291,8 @@
 	path = mirror/lorem-ipsum
 	url = git@github.com:emacsmirror/lorem-ipsum.git
 [submodule "lotto-check"]
-	path = mirror/lotto-check
-	url = git@github.com:emacsmirror/lotto-check.git
+	path = attic/lotto-check
+	url = git@github.com:emacsattic/lotto-check.git
 [submodule "lout-mode"]
 	path = attic/lout-mode
 	url = git@github.com:emacsattic/lout-mode.git
@@ -13385,8 +13385,8 @@
 	path = mirror/ogi
 	url = git@github.com:emacsmirror/ogi.git
 [submodule "ogre-material-mode"]
-	path = mirror/ogre-material-mode
-	url = git@github.com:emacsmirror/ogre-material-mode.git
+	path = attic/ogre-material-mode
+	url = git@github.com:emacsattic/ogre-material-mode.git
 [submodule "oicq"]
 	path = mirror/oicq
 	url = git@github.com:emacsmirror/oicq.git
@@ -13407,8 +13407,8 @@
 	path = mirror/om-mode
 	url = git@github.com:emacsmirror/om-mode.git
 [submodule "omake"]
-	path = mirror/omake
-	url = git@github.com:emacsmirror/omake.git
+	path = attic/omake
+	url = git@github.com:emacsattic/omake.git
 [submodule "omn-mode"]
 	path = mirror/omn-mode
 	url = git@github.com:emacsmirror/omn-mode.git
@@ -15744,8 +15744,8 @@
 	path = mirror/python-environment
 	url = git@github.com:emacsmirror/python-environment.git
 [submodule "python-extras"]
-	path = mirror/python-extras
-	url = git@github.com:emacsmirror/python-extras.git
+	path = attic/python-extras
+	url = git@github.com:emacsattic/python-extras.git
 [submodule "python-info"]
 	path = mirror/python-info
 	url = git@github.com:emacsmirror/python-info.git
@@ -19939,8 +19939,8 @@
 	path = mirror/w32-find-dired
 	url = git@github.com:emacsmirror/w32-find-dired.git
 [submodule "w32-fullscreen"]
-	path = mirror/w32-fullscreen
-	url = git@github.com:emacsmirror/w32-fullscreen.git
+	path = attic/w32-fullscreen
+	url = git@github.com:emacsattic/w32-fullscreen.git
 [submodule "w32-send-mapi"]
 	path = mirror/w32-send-mapi
 	url = git@github.com:emacsmirror/w32-send-mapi.git
