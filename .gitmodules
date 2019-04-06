@@ -11273,8 +11273,8 @@
 	url = git@github.com:emacsmirror/look-mode.git
 	branch = master
 [submodule "lookout"]
-	path = mirror/lookout
-	url = git@github.com:emacsmirror/lookout.git
+	path = attic/lookout
+	url = git@github.com:emacsattic/lookout.git
 [submodule "lookup"]
 	path = mirror/lookup
 	url = git@github.com:emacsmirror/lookup.git
@@ -19363,14 +19363,14 @@
 	url = git@github.com:emacsmirror/typoscript-mode.git
 	branch = master
 [submodule "u-appt"]
-	path = mirror/u-appt
-	url = git@github.com:emacsmirror/u-appt.git
+	path = attic/u-appt
+	url = git@github.com:emacsattic/u-appt.git
 [submodule "u-color-cycle"]
-	path = mirror/u-color-cycle
-	url = git@github.com:emacsmirror/u-color-cycle.git
+	path = attic/u-color-cycle
+	url = git@github.com:emacsattic/u-color-cycle.git
 [submodule "u-mandelbrot"]
-	path = mirror/u-mandelbrot
-	url = git@github.com:emacsmirror/u-mandelbrot.git
+	path = attic/u-mandelbrot
+	url = git@github.com:emacsattic/u-mandelbrot.git
 [submodule "u8tex"]
 	path = attic/u8tex
 	url = git@github.com:emacsattic/u8tex.git
