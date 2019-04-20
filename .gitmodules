@@ -17142,6 +17142,9 @@
 [submodule "shampoo"]
 	path = mirror/shampoo
 	url = git@github.com:emacsmirror/shampoo.git
+[submodule "shelisp"]
+	path = mirror/shelisp
+	url = git@github.com:emacsmirror/shelisp.git
 [submodule "shell-command"]
 	path = mirror/shell-command
 	url = git@github.com:emacsmirror/shell-command.git
@@ -21014,6 +21017,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "shelisp"]
-	path = mirror/shelisp
-	url = git@github.com:emacsmirror/shelisp.git
