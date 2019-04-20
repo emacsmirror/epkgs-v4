@@ -17515,6 +17515,9 @@
 [submodule "sm-c-mode"]
 	path = mirror/sm-c-mode
 	url = git@github.com:emacsmirror/sm-c-mode.git
+[submodule "smalltalk-mode"]
+	path = mirror/smalltalk-mode
+	url = git@github.com:emacsmirror/smalltalk-mode.git
 [submodule "smallurl"]
 	path = attic/smallurl
 	url = git@github.com:emacsattic/smallurl.git
@@ -21022,3 +21025,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "shelisp"]
+	path = mirror/shelisp
+	url = git@github.com:emacsmirror/shelisp.git
