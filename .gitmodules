@@ -11314,9 +11314,6 @@
 [submodule "lsp-clangd"]
 	path = attic/lsp-clangd
 	url = git@github.com:emacsattic/lsp-clangd.git
-[submodule "lsp-css"]
-	path = attic/lsp-css
-	url = git@github.com:emacsattic/lsp-css.git
 [submodule "lsp-dart"]
 	path = attic/lsp-dart
 	url = git@github.com:emacsattic/lsp-dart.git
@@ -11326,10 +11323,6 @@
 [submodule "lsp-fortran"]
 	path = attic/lsp-fortran
 	url = git@github.com:emacsattic/lsp-fortran.git
-[submodule "lsp-go"]
-	path = attic/lsp-go
-	url = git@github.com:emacsattic/lsp-go.git
-	branch = master
 [submodule "lsp-hack"]
 	path = attic/lsp-hack
 	url = git@github.com:emacsattic/lsp-hack.git
@@ -11373,10 +11366,6 @@
 [submodule "lsp-ruby"]
 	path = attic/lsp-ruby
 	url = git@github.com:emacsattic/lsp-ruby.git
-[submodule "lsp-rust"]
-	path = attic/lsp-rust
-	url = git@github.com:emacsattic/lsp-rust.git
-	branch = master
 [submodule "lsp-scala"]
 	path = mirror/lsp-scala
 	url = git@github.com:emacsmirror/lsp-scala.git
