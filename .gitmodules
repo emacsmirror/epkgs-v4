@@ -2951,7 +2951,6 @@
 [submodule "counsel-gtags"]
 	path = mirror/counsel-gtags
 	url = git@github.com:emacsmirror/counsel-gtags.git
-	branch = master
 [submodule "counsel-notmuch"]
 	path = mirror/counsel-notmuch
 	url = git@github.com:emacsmirror/counsel-notmuch.git
@@ -7666,6 +7665,9 @@
 [submodule "gnu-apl-mode"]
 	path = mirror/gnu-apl-mode
 	url = git@github.com:emacsmirror/gnu-apl-mode.git
+[submodule "gnu-elpa-keyring-update"]
+	path = mirror/gnu-elpa-keyring-update
+	url = git@github.com:emacsmirror/gnu-elpa-keyring-update.git
 [submodule "gnugo"]
 	path = mirror/gnugo
 	url = git@github.com:emacsmirror/gnugo.git
@@ -21116,6 +21118,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "gnu-elpa-keyring-update"]
-	path = mirror/gnu-elpa-keyring-update
-	url = git@github.com:emacsmirror/gnu-elpa-keyring-update.git
