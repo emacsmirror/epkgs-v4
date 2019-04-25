@@ -8394,6 +8394,9 @@
 [submodule "helm-bind-key"]
 	path = mirror/helm-bind-key
 	url = git@github.com:emacsmirror/helm-bind-key.git
+[submodule "helm-bitbucket"]
+	path = mirror/helm-bitbucket
+	url = git@github.com:emacsmirror/helm-bitbucket.git
 [submodule "helm-bm"]
 	path = mirror/helm-bm
 	url = git@github.com:emacsmirror/helm-bm.git
@@ -10447,6 +10450,9 @@
 [submodule "json-reformat"]
 	path = mirror/json-reformat
 	url = git@github.com:emacsmirror/json-reformat.git
+[submodule "json-reformatter-jq"]
+	path = mirror/json-reformatter-jq
+	url = git@github.com:emacsmirror/json-reformatter-jq.git
 [submodule "json-rpc"]
 	path = mirror/json-rpc
 	url = git@github.com:emacsmirror/json-rpc.git
@@ -12325,6 +12331,9 @@
 [submodule "mood-line"]
 	path = mirror/mood-line
 	url = git@github.com:emacsmirror/mood-line.git
+[submodule "mood-one-theme"]
+	path = mirror/mood-one-theme
+	url = git@github.com:emacsmirror/mood-one-theme.git
 [submodule "moody"]
 	path = mirror/moody
 	url = git@github.com:emacsmirror/moody.git
