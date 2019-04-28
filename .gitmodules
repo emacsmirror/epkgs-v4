@@ -10385,6 +10385,9 @@
 	path = mirror/jpop
 	url = git@github.com:emacsmirror/jpop.git
 	branch = master
+[submodule "jq-format"]
+	path = mirror/jq-format
+	url = git@github.com:emacsmirror/jq-format.git
 [submodule "jq-mode"]
 	path = mirror/jq-mode
 	url = git@github.com:emacsmirror/jq-mode.git
@@ -10455,9 +10458,6 @@
 [submodule "json-reformat"]
 	path = mirror/json-reformat
 	url = git@github.com:emacsmirror/json-reformat.git
-[submodule "json-reformatter-jq"]
-	path = mirror/json-reformatter-jq
-	url = git@github.com:emacsmirror/json-reformatter-jq.git
 [submodule "json-rpc"]
 	path = mirror/json-rpc
 	url = git@github.com:emacsmirror/json-rpc.git
