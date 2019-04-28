@@ -8418,6 +8418,9 @@
 [submodule "helm-c-yasnippet"]
 	path = mirror/helm-c-yasnippet
 	url = git@github.com:emacsmirror/helm-c-yasnippet.git
+[submodule "helm-catkin"]
+	path = mirror/helm-catkin
+	url = git@github.com:emacsmirror/helm-catkin.git
 [submodule "helm-charinfo"]
 	path = mirror/helm-charinfo
 	url = git@github.com:emacsmirror/helm-charinfo.git
@@ -12317,6 +12320,9 @@
 	path = mirror/monokai-alt-theme
 	url = git@github.com:emacsmirror/monokai-alt-theme.git
 	branch = master
+[submodule "monokai-pro-theme"]
+	path = mirror/monokai-pro-theme
+	url = git@github.com:emacsmirror/monokai-pro-theme.git
 [submodule "monokai-theme"]
 	path = mirror/monokai-theme
 	url = git@github.com:emacsmirror/monokai-theme.git
@@ -17546,6 +17552,9 @@
 [submodule "slime-js"]
 	path = mirror/slime-js
 	url = git@github.com:emacsmirror/slime-js.git
+[submodule "slime-repl-ansi-color"]
+	path = mirror/slime-repl-ansi-color
+	url = git@github.com:emacsmirror/slime-repl-ansi-color.git
 [submodule "slime-ritz"]
 	path = attic/slime-ritz
 	url = git@github.com:emacsattic/slime-ritz.git
