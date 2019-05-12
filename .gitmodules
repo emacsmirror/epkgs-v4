@@ -21124,3 +21124,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "advice-patch"]
+	path = mirror/advice-patch
+	url = git@github.com:emacsmirror/advice-patch.git
