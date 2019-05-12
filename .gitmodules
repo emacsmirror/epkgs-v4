@@ -11386,9 +11386,6 @@
 	path = mirror/lsp-haskell
 	url = git@github.com:emacsmirror/lsp-haskell.git
 	branch = master
-[submodule "lsp-html"]
-	path = attic/lsp-html
-	url = git@github.com:emacsattic/lsp-html.git
 [submodule "lsp-intellij"]
 	path = mirror/lsp-intellij
 	url = git@github.com:emacsmirror/lsp-intellij.git
