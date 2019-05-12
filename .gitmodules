@@ -282,6 +282,9 @@
 [submodule "adv-random-sig"]
 	path = mirror/adv-random-sig
 	url = git@github.com:emacsmirror/adv-random-sig.git
+[submodule "advice-patch"]
+	path = mirror/advice-patch
+	url = git@github.com:emacsmirror/advice-patch.git
 [submodule "advogato"]
 	path = attic/advogato
 	url = git@github.com:emacsattic/advogato.git
@@ -461,6 +464,9 @@
 [submodule "anchored-transpose"]
 	path = mirror/anchored-transpose
 	url = git@github.com:emacsmirror/anchored-transpose.git
+[submodule "android-env"]
+	path = mirror/android-env
+	url = git@github.com:emacsmirror/android-env.git
 [submodule "android-mode"]
 	path = mirror/android-mode
 	url = git@github.com:emacsmirror/android-mode.git
@@ -1322,6 +1328,9 @@
 	path = mirror/better-jump
 	url = git@github.com:emacsmirror/better-jump.git
 	branch = master
+[submodule "better-jumper"]
+	path = mirror/better-jumper
+	url = git@github.com:emacsmirror/better-jumper.git
 [submodule "better-registers"]
 	path = mirror/better-registers
 	url = git@github.com:emacsmirror/better-registers.git
@@ -4880,6 +4889,9 @@
 [submodule "elpad-client"]
 	path = mirror/elpad-client
 	url = git@github.com:emacsmirror/elpad-client.git
+[submodule "elpher"]
+	path = mirror/elpher
+	url = git@github.com:emacsmirror/elpher.git
 [submodule "elpy"]
 	path = mirror/elpy
 	url = git@github.com:emacsmirror/elpy.git
@@ -5861,6 +5873,9 @@
 [submodule "evm"]
 	path = mirror/evm
 	url = git@github.com:emacsmirror/evm.git
+[submodule "ewal"]
+	path = mirror/ewal
+	url = git@github.com:emacsmirror/ewal.git
 [submodule "ewb"]
 	path = mirror/ewb
 	url = git@github.com:emacsmirror/ewb.git
@@ -8119,6 +8134,9 @@
 [submodule "gscholar-bibtex"]
 	path = mirror/gscholar-bibtex
 	url = git@github.com:emacsmirror/gscholar-bibtex.git
+[submodule "gsettings"]
+	path = mirror/gsettings
+	url = git@github.com:emacsmirror/gsettings.git
 [submodule "gst-inspect"]
 	path = mirror/gst-inspect
 	url = git@github.com:emacsmirror/gst-inspect.git
@@ -8181,6 +8199,9 @@
 [submodule "gutenberg-coding"]
 	path = attic/gutenberg-coding
 	url = git@github.com:emacsattic/gutenberg-coding.git
+[submodule "gvariant"]
+	path = mirror/gvariant
+	url = git@github.com:emacsmirror/gvariant.git
 [submodule "gvpr-mode"]
 	path = mirror/gvpr-mode
 	url = git@github.com:emacsmirror/gvpr-mode.git
@@ -9724,6 +9745,9 @@
 	path = mirror/indent-tools
 	url = git@github.com:emacsmirror/indent-tools.git
 	branch = master
+[submodule "indian-ext"]
+	path = mirror/indian-ext
+	url = git@github.com:emacsmirror/indian-ext.git
 [submodule "indicate-changes"]
 	path = mirror/indicate-changes
 	url = git@github.com:emacsmirror/indicate-changes.git
@@ -10957,6 +10981,9 @@
 [submodule "leerzeichen"]
 	path = mirror/leerzeichen
 	url = git@github.com:emacsmirror/leerzeichen.git
+[submodule "leetcode"]
+	path = mirror/leetcode
+	url = git@github.com:emacsmirror/leetcode.git
 [submodule "legalese"]
 	path = mirror/legalese
 	url = git@github.com:emacsmirror/legalese.git
@@ -11212,6 +11239,9 @@
 [submodule "live-code-talks"]
 	path = mirror/live-code-talks
 	url = git@github.com:emacsmirror/live-code-talks.git
+[submodule "live-preview"]
+	path = mirror/live-preview
+	url = git@github.com:emacsmirror/live-preview.git
 [submodule "live-py-mode"]
 	path = mirror/live-py-mode
 	url = git@github.com:emacsmirror/live-py-mode.git
@@ -12962,6 +12992,9 @@
 	path = mirror/nix-buffer
 	url = git@github.com:emacsmirror/nix-buffer.git
 	branch = master
+[submodule "nix-haskell-mode"]
+	path = mirror/nix-haskell-mode
+	url = git@github.com:emacsmirror/nix-haskell-mode.git
 [submodule "nix-mode"]
 	path = mirror/nix-mode
 	url = git@github.com:emacsmirror/nix-mode.git
@@ -17132,6 +17165,9 @@
 [submodule "semi"]
 	path = mirror/semi
 	url = git@github.com:emacsmirror/semi.git
+[submodule "seml-mode"]
+	path = mirror/seml-mode
+	url = git@github.com:emacsmirror/seml-mode.git
 [submodule "sendmail-alias"]
 	path = attic/sendmail-alias
 	url = git@github.com:emacsattic/sendmail-alias.git
@@ -17375,6 +17411,9 @@
 [submodule "shrink-whitespace"]
 	path = mirror/shrink-whitespace
 	url = git@github.com:emacsmirror/shrink-whitespace.git
+[submodule "shroud"]
+	path = mirror/shroud
+	url = git@github.com:emacsmirror/shroud.git
 [submodule "shut-up"]
 	path = mirror/shut-up
 	url = git@github.com:emacsmirror/shut-up.git
@@ -17584,6 +17623,9 @@
 [submodule "sly"]
 	path = mirror/sly
 	url = git@github.com:emacsmirror/sly.git
+[submodule "sly-asdf"]
+	path = mirror/sly-asdf
+	url = git@github.com:emacsmirror/sly-asdf.git
 [submodule "sly-company"]
 	path = attic/sly-company
 	url = git@github.com:emacsattic/sly-company.git
@@ -17790,6 +17832,9 @@
 [submodule "soap"]
 	path = attic/soap
 	url = git@github.com:emacsattic/soap.git
+[submodule "soar-mode"]
+	path = mirror/soar-mode
+	url = git@github.com:emacsmirror/soar-mode.git
 [submodule "socyl"]
 	path = mirror/socyl
 	url = git@github.com:emacsmirror/socyl.git
@@ -20005,6 +20050,9 @@
 [submodule "vtags"]
 	path = attic/vtags
 	url = git@github.com:emacsattic/vtags.git
+[submodule "vterm"]
+	path = mirror/vterm
+	url = git@github.com:emacsmirror/vterm.git
 [submodule "vtx"]
 	path = attic/vtx
 	url = git@github.com:emacsattic/vtx.git
@@ -20304,6 +20352,9 @@
 [submodule "who-calls"]
 	path = attic/who-calls
 	url = git@github.com:emacsattic/who-calls.git
+[submodule "whois"]
+	path = mirror/whois
+	url = git@github.com:emacsmirror/whois.git
 [submodule "whole-line-funcs"]
 	path = mirror/whole-line-funcs
 	url = git@github.com:emacsmirror/whole-line-funcs.git
@@ -21124,6 +21175,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "advice-patch"]
-	path = mirror/advice-patch
-	url = git@github.com:emacsmirror/advice-patch.git
