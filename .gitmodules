@@ -16235,6 +16235,12 @@
 [submodule "realgud-byebug"]
 	path = mirror/realgud-byebug
 	url = git@github.com:emacsmirror/realgud-byebug.git
+[submodule "realgud-ipdb"]
+	path = mirror/realgud-ipdb
+	url = git@github.com:emacsmirror/realgud-ipdb.git
+[submodule "realgud-lldb"]
+	path = mirror/realgud-lldb
+	url = git@github.com:emacsmirror/realgud-lldb.git
 [submodule "realgud-old-debuggers"]
 	path = mirror/realgud-old-debuggers
 	url = git@github.com:emacsmirror/realgud-old-debuggers.git
@@ -16244,6 +16250,9 @@
 [submodule "realgud-rdb2"]
 	path = mirror/realgud-rdb2
 	url = git@github.com:emacsmirror/realgud-rdb2.git
+[submodule "realgud-trepan-ni"]
+	path = mirror/realgud-trepan-ni
+	url = git@github.com:emacsmirror/realgud-trepan-ni.git
 [submodule "really-simple-wiki"]
 	path = mirror/really-simple-wiki
 	url = git@github.com:emacsmirror/really-simple-wiki.git
