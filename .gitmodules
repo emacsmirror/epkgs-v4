@@ -419,6 +419,9 @@
 [submodule "amd-mode"]
 	path = mirror/amd-mode
 	url = git@github.com:emacsmirror/amd-mode.git
+[submodule "ameba"]
+	path = mirror/ameba
+	url = git@github.com:emacsmirror/ameba.git
 [submodule "amigo"]
 	path = attic/amigo
 	url = git@github.com:emacsattic/amigo.git
@@ -9163,6 +9166,9 @@
 	path = mirror/hl-anything
 	url = git@github.com:emacsmirror/hl-anything.git
 	branch = master
+[submodule "hl-block-mode"]
+	path = mirror/hl-block-mode
+	url = git@github.com:emacsmirror/hl-block-mode.git
 [submodule "hl-defined"]
 	path = mirror/hl-defined
 	url = git@github.com:emacsmirror/hl-defined.git
@@ -12544,6 +12550,9 @@
 	path = mirror/mu-cite
 	url = git@github.com:emacsmirror/mu-cite.git
 	branch = master
+[submodule "mu2tex"]
+	path = mirror/mu2tex
+	url = git@github.com:emacsmirror/mu2tex.git
 [submodule "mu4e"]
 	path = mirror/mu4e
 	url = git@github.com:emacsmirror/mu4e.git
@@ -14998,6 +15007,9 @@
 [submodule "phpstan"]
 	path = mirror/phpstan
 	url = git@github.com:emacsmirror/phpstan.git
+[submodule "phpt-mode"]
+	path = mirror/phpt-mode
+	url = git@github.com:emacsmirror/phpt-mode.git
 [submodule "phpunit"]
 	path = mirror/phpunit
 	url = git@github.com:emacsmirror/phpunit.git
@@ -17379,6 +17391,9 @@
 [submodule "show-css"]
 	path = mirror/show-css
 	url = git@github.com:emacsmirror/show-css.git
+[submodule "show-eol"]
+	path = mirror/show-eol
+	url = git@github.com:emacsmirror/show-eol.git
 [submodule "show-functions"]
 	path = attic/show-functions
 	url = git@github.com:emacsattic/show-functions.git
