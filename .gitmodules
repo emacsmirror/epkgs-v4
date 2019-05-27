@@ -4048,6 +4048,9 @@
 	path = mirror/docker-api
 	url = git@github.com:emacsmirror/docker-api.git
 	branch = master
+[submodule "docker-cli"]
+	path = mirror/docker-cli
+	url = git@github.com:emacsmirror/docker-cli.git
 [submodule "docker-compose-mode"]
 	path = mirror/docker-compose-mode
 	url = git@github.com:emacsmirror/docker-compose-mode.git
@@ -7963,6 +7966,9 @@
 [submodule "goto-last-change"]
 	path = mirror/goto-last-change
 	url = git@github.com:emacsmirror/goto-last-change.git
+[submodule "goto-last-point"]
+	path = mirror/goto-last-point
+	url = git@github.com:emacsmirror/goto-last-point.git
 [submodule "goto-line-preview"]
 	path = mirror/goto-line-preview
 	url = git@github.com:emacsmirror/goto-line-preview.git
@@ -11579,6 +11585,9 @@
 [submodule "magit-commit-training-wheels"]
 	path = attic/magit-commit-training-wheels
 	url = git@github.com:emacsattic/magit-commit-training-wheels.git
+[submodule "magit-diff-flycheck"]
+	path = mirror/magit-diff-flycheck
+	url = git@github.com:emacsmirror/magit-diff-flycheck.git
 [submodule "magit-filenotify"]
 	path = mirror/magit-filenotify
 	url = git@github.com:emacsmirror/magit-filenotify.git
@@ -16585,6 +16594,9 @@
 [submodule "rfc"]
 	path = mirror/rfc
 	url = git@github.com:emacsmirror/rfc.git
+[submodule "rfc-mode"]
+	path = mirror/rfc-mode
+	url = git@github.com:emacsmirror/rfc-mode.git
 [submodule "rfc-util"]
 	path = attic/rfc-util
 	url = git@github.com:emacsattic/rfc-util.git
