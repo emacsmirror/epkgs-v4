@@ -398,6 +398,9 @@
 	path = mirror/all-the-icons-ivy
 	url = git@github.com:emacsmirror/all-the-icons-ivy.git
 	branch = master
+[submodule "almost-mono-themes"]
+	path = mirror/almost-mono-themes
+	url = git@github.com:emacsmirror/almost-mono-themes.git
 [submodule "alore-mode"]
 	path = mirror/alore-mode
 	url = git@github.com:emacsmirror/alore-mode.git
@@ -2053,6 +2056,9 @@
 [submodule "cframe"]
 	path = mirror/cframe
 	url = git@github.com:emacsmirror/cframe.git
+[submodule "cfrs"]
+	path = mirror/cfrs
+	url = git@github.com:emacsmirror/cfrs.git
 [submodule "cfs"]
 	path = attic/cfs
 	url = git@github.com:emacsattic/cfs.git
@@ -2993,6 +2999,9 @@
 [submodule "counsel-world-clock"]
 	path = mirror/counsel-world-clock
 	url = git@github.com:emacsmirror/counsel-world-clock.git
+[submodule "countdown"]
+	path = mirror/countdown
+	url = git@github.com:emacsmirror/countdown.git
 [submodule "counter"]
 	path = mirror/counter
 	url = git@github.com:emacsmirror/counter.git
@@ -3180,6 +3189,9 @@
 [submodule "ctl-mode"]
 	path = mirror/ctl-mode
 	url = git@github.com:emacsmirror/ctl-mode.git
+[submodule "ctune"]
+	path = mirror/ctune
+	url = git@github.com:emacsmirror/ctune.git
 [submodule "ctxmenu"]
 	path = mirror/ctxmenu
 	url = git@github.com:emacsmirror/ctxmenu.git
@@ -3647,6 +3659,9 @@
 [submodule "diamondsms"]
 	path = attic/diamondsms
 	url = git@github.com:emacsattic/diamondsms.git
+[submodule "dianyou"]
+	path = mirror/dianyou
+	url = git@github.com:emacsmirror/dianyou.git
 [submodule "diary-manager"]
 	path = mirror/diary-manager
 	url = git@github.com:emacsmirror/diary-manager.git
@@ -5484,6 +5499,9 @@
 [submodule "eshell-prompt-extras"]
 	path = mirror/eshell-prompt-extras
 	url = git@github.com:emacsmirror/eshell-prompt-extras.git
+[submodule "eshell-toggle"]
+	path = mirror/eshell-toggle
+	url = git@github.com:emacsmirror/eshell-toggle.git
 [submodule "eshell-up"]
 	path = mirror/eshell-up
 	url = git@github.com:emacsmirror/eshell-up.git
@@ -6524,6 +6542,9 @@
 [submodule "flycheck-clojure"]
 	path = mirror/flycheck-clojure
 	url = git@github.com:emacsmirror/flycheck-clojure.git
+[submodule "flycheck-clolyze"]
+	path = mirror/flycheck-clolyze
+	url = git@github.com:emacsmirror/flycheck-clolyze.git
 [submodule "flycheck-color-mode-line"]
 	path = mirror/flycheck-color-mode-line
 	url = git@github.com:emacsmirror/flycheck-color-mode-line.git
@@ -10195,6 +10216,9 @@
 [submodule "jammer"]
 	path = mirror/jammer
 	url = git@github.com:emacsmirror/jammer.git
+[submodule "janet-mode"]
+	path = mirror/janet-mode
+	url = git@github.com:emacsmirror/janet-mode.git
 [submodule "japanese-holidays"]
 	path = mirror/japanese-holidays
 	url = git@github.com:emacsmirror/japanese-holidays.git
@@ -10581,6 +10605,9 @@
 [submodule "kakapo-mode"]
 	path = mirror/kakapo-mode
 	url = git@github.com:emacsmirror/kakapo-mode.git
+[submodule "kakoune"]
+	path = mirror/kakoune
+	url = git@github.com:emacsmirror/kakoune.git
 [submodule "kaleidoscope"]
 	path = mirror/kaleidoscope
 	url = git@github.com:emacsmirror/kaleidoscope.git
@@ -10646,6 +10673,9 @@
 [submodule "key-leap"]
 	path = mirror/key-leap
 	url = git@github.com:emacsmirror/key-leap.git
+[submodule "key-quiz"]
+	path = mirror/key-quiz
+	url = git@github.com:emacsmirror/key-quiz.git
 [submodule "key-seq"]
 	path = mirror/key-seq
 	url = git@github.com:emacsmirror/key-seq.git
@@ -11357,6 +11387,9 @@
 [submodule "logview"]
 	path = mirror/logview
 	url = git@github.com:emacsmirror/logview.git
+[submodule "lolcat"]
+	path = mirror/lolcat
+	url = git@github.com:emacsmirror/lolcat.git
 [submodule "lolcode-mode"]
 	path = mirror/lolcode-mode
 	url = git@github.com:emacsmirror/lolcode-mode.git
@@ -16256,9 +16289,18 @@
 [submodule "realgud-ipdb"]
 	path = mirror/realgud-ipdb
 	url = git@github.com:emacsmirror/realgud-ipdb.git
+[submodule "realgud-jdb"]
+	path = mirror/realgud-jdb
+	url = git@github.com:emacsmirror/realgud-jdb.git
 [submodule "realgud-lldb"]
 	path = mirror/realgud-lldb
 	url = git@github.com:emacsmirror/realgud-lldb.git
+[submodule "realgud-node-debug"]
+	path = mirror/realgud-node-debug
+	url = git@github.com:emacsmirror/realgud-node-debug.git
+[submodule "realgud-node-inspect"]
+	path = mirror/realgud-node-inspect
+	url = git@github.com:emacsmirror/realgud-node-inspect.git
 [submodule "realgud-old-debuggers"]
 	path = mirror/realgud-old-debuggers
 	url = git@github.com:emacsmirror/realgud-old-debuggers.git
@@ -16712,6 +16754,9 @@
 [submodule "rope-read-mode"]
 	path = mirror/rope-read-mode
 	url = git@github.com:emacsmirror/rope-read-mode.git
+[submodule "ros"]
+	path = mirror/ros
+	url = git@github.com:emacsmirror/ros.git
 [submodule "rotate"]
 	path = mirror/rotate
 	url = git@github.com:emacsmirror/rotate.git
@@ -19194,6 +19239,9 @@
 [submodule "todochiku"]
 	path = attic/todochiku
 	url = git@github.com:emacsattic/todochiku.git
+[submodule "todoist"]
+	path = mirror/todoist
+	url = git@github.com:emacsmirror/todoist.git
 [submodule "todoo"]
 	path = attic/todoo
 	url = git@github.com:emacsattic/todoo.git
