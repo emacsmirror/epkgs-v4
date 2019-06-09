@@ -21051,6 +21051,9 @@
 [submodule "yasnippet-classic-snippets"]
 	path = mirror/yasnippet-classic-snippets
 	url = git@github.com:emacsmirror/yasnippet-classic-snippets.git
+[submodule "yasnippet-lean"]
+	path = mirror/yasnippet-lean
+	url = git@github.com:emacsmirror/yasnippet-lean.git
 [submodule "yasnippet-snippets"]
 	path = mirror/yasnippet-snippets
 	url = git@github.com:emacsmirror/yasnippet-snippets.git
