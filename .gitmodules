@@ -8557,6 +8557,9 @@
 [submodule "helm-emms"]
 	path = mirror/helm-emms
 	url = git@github.com:emacsmirror/helm-emms.git
+[submodule "helm-esa"]
+	path = mirror/helm-esa
+	url = git@github.com:emacsmirror/helm-esa.git
 [submodule "helm-etags-plus"]
 	path = mirror/helm-etags-plus
 	url = git@github.com:emacsmirror/helm-etags-plus.git
@@ -11003,6 +11006,12 @@
 [submodule "ldraw-mode"]
 	path = attic/ldraw-mode
 	url = git@github.com:emacsattic/ldraw-mode.git
+[submodule "leaf"]
+	path = mirror/leaf
+	url = git@github.com:emacsmirror/leaf.git
+[submodule "leaf-keywords"]
+	path = mirror/leaf-keywords
+	url = git@github.com:emacsmirror/leaf-keywords.git
 [submodule "lean-mode"]
 	path = mirror/lean-mode
 	url = git@github.com:emacsmirror/lean-mode.git
