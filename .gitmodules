@@ -1587,6 +1587,9 @@
 [submodule "bpe"]
 	path = mirror/bpe
 	url = git@github.com:emacsmirror/bpe.git
+[submodule "bpftrace-mode"]
+	path = mirror/bpftrace-mode
+	url = git@github.com:emacsmirror/bpftrace-mode.git
 [submodule "bpr"]
 	path = mirror/bpr
 	url = git@github.com:emacsmirror/bpr.git
@@ -16473,6 +16476,9 @@
 [submodule "region-convert"]
 	path = mirror/region-convert
 	url = git@github.com:emacsmirror/region-convert.git
+[submodule "region-occurrences-highlighter"]
+	path = mirror/region-occurrences-highlighter
+	url = git@github.com:emacsmirror/region-occurrences-highlighter.git
 [submodule "region-state"]
 	path = mirror/region-state
 	url = git@github.com:emacsmirror/region-state.git
