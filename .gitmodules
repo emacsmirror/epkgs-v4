@@ -16837,8 +16837,8 @@
 	path = mirror/rubocopfmt
 	url = git@github.com:emacsmirror/rubocopfmt.git
 [submodule "ruby-additional"]
-	path = mirror/ruby-additional
-	url = git@github.com:emacsmirror/ruby-additional.git
+	path = attic/ruby-additional
+	url = git@github.com:emacsattic/ruby-additional.git
 [submodule "ruby-block"]
 	path = mirror/ruby-block
 	url = git@github.com:emacsmirror/ruby-block.git
