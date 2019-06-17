@@ -816,8 +816,8 @@
 	path = mirror/audio-notes-mode
 	url = git@github.com:emacsmirror/audio-notes-mode.git
 [submodule "augment"]
-	path = mirror/augment
-	url = git@github.com:emacsmirror/augment.git
+	path = attic/augment
+	url = git@github.com:emacsattic/augment.git
 [submodule "aumix-mode"]
 	path = mirror/aumix-mode
 	url = git@github.com:emacsmirror/aumix-mode.git
@@ -6753,8 +6753,8 @@
 	url = git@github.com:emacsattic/flycheck-scala-sbt.git
 	branch = master
 [submodule "flycheck-soar"]
-	path = mirror/flycheck-soar
-	url = git@github.com:emacsmirror/flycheck-soar.git
+	path = attic/flycheck-soar
+	url = git@github.com:emacsattic/flycheck-soar.git
 [submodule "flycheck-stack"]
 	path = mirror/flycheck-stack
 	url = git@github.com:emacsmirror/flycheck-stack.git
@@ -9161,8 +9161,8 @@
 	path = attic/himarks-mode
 	url = git@github.com:emacsattic/himarks-mode.git
 [submodule "himp"]
-	path = mirror/himp
-	url = git@github.com:emacsmirror/himp.git
+	path = attic/himp
+	url = git@github.com:emacsattic/himp.git
 [submodule "hindent"]
 	path = mirror/hindent
 	url = git@github.com:emacsmirror/hindent.git
@@ -9280,8 +9280,8 @@
 	path = mirror/hound
 	url = git@github.com:emacsmirror/hound.git
 [submodule "how-many-lines-in-project"]
-	path = mirror/how-many-lines-in-project
-	url = git@github.com:emacsmirror/how-many-lines-in-project.git
+	path = attic/how-many-lines-in-project
+	url = git@github.com:emacsattic/how-many-lines-in-project.git
 [submodule "howdoi"]
 	path = mirror/howdoi
 	url = git@github.com:emacsmirror/howdoi.git
@@ -9828,8 +9828,8 @@
 	path = mirror/inferior-pop-mode
 	url = git@github.com:emacsmirror/inferior-pop-mode.git
 [submodule "inferior-spim"]
-	path = mirror/inferior-spim
-	url = git@github.com:emacsmirror/inferior-spim.git
+	path = attic/inferior-spim
+	url = git@github.com:emacsattic/inferior-spim.git
 [submodule "infix"]
 	path = mirror/infix
 	url = git@github.com:emacsmirror/infix.git
@@ -17066,8 +17066,8 @@
 	path = mirror/scheme-complete
 	url = git@github.com:emacsmirror/scheme-complete.git
 [submodule "scheme-here"]
-	path = mirror/scheme-here
-	url = git@github.com:emacsmirror/scheme-here.git
+	path = attic/scheme-here
+	url = git@github.com:emacsattic/scheme-here.git
 [submodule "scheme48"]
 	path = attic/scheme48
 	url = git@github.com:emacsattic/scheme48.git
@@ -17094,8 +17094,8 @@
 	path = mirror/sclang-snippets
 	url = git@github.com:emacsmirror/sclang-snippets.git
 [submodule "scp"]
-	path = mirror/scp
-	url = git@github.com:emacsmirror/scp.git
+	path = attic/scp
+	url = git@github.com:emacsattic/scp.git
 [submodule "scpaste"]
 	path = mirror/scpaste
 	url = git@github.com:emacsmirror/scpaste.git
