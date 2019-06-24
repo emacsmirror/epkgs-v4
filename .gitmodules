@@ -3505,6 +3505,9 @@
 	path = mirror/ddskk
 	url = git@github.com:emacsmirror/ddskk.git
 	branch = master
+[submodule "ddskk-posframe"]
+	path = mirror/ddskk-posframe
+	url = git@github.com:emacsmirror/ddskk-posframe.git
 [submodule "deadgrep"]
 	path = mirror/deadgrep
 	url = git@github.com:emacsmirror/deadgrep.git
@@ -7171,6 +7174,9 @@
 [submodule "fringe-helper"]
 	path = mirror/fringe-helper
 	url = git@github.com:emacsmirror/fringe-helper.git
+[submodule "frog-jump-buffer"]
+	path = mirror/frog-jump-buffer
+	url = git@github.com:emacsmirror/frog-jump-buffer.git
 [submodule "frog-menu"]
 	path = mirror/frog-menu
 	url = git@github.com:emacsmirror/frog-menu.git
@@ -8567,6 +8573,9 @@
 	path = mirror/helm-etags-plus
 	url = git@github.com:emacsmirror/helm-etags-plus.git
 	branch = master
+[submodule "helm-evil-markers"]
+	path = mirror/helm-evil-markers
+	url = git@github.com:emacsmirror/helm-evil-markers.git
 [submodule "helm-eww"]
 	path = mirror/helm-eww
 	url = git@github.com:emacsmirror/helm-eww.git
@@ -10533,6 +10542,9 @@
 [submodule "json-snatcher"]
 	path = mirror/json-snatcher
 	url = git@github.com:emacsmirror/json-snatcher.git
+[submodule "jsonl"]
+	path = mirror/jsonl
+	url = git@github.com:emacsmirror/jsonl.git
 [submodule "jsonnet-mode"]
 	path = mirror/jsonnet-mode
 	url = git@github.com:emacsmirror/jsonnet-mode.git
@@ -13929,6 +13941,9 @@
 [submodule "org-listcruncher"]
 	path = mirror/org-listcruncher
 	url = git@github.com:emacsmirror/org-listcruncher.git
+[submodule "org-lookup-dnd"]
+	path = mirror/org-lookup-dnd
+	url = git@github.com:emacsmirror/org-lookup-dnd.git
 [submodule "org-mac-protocol"]
 	path = mirror/org-mac-protocol
 	url = git@github.com:emacsmirror/org-mac-protocol.git
@@ -15120,6 +15135,9 @@
 [submodule "pinbar"]
 	path = mirror/pinbar
 	url = git@github.com:emacsmirror/pinbar.git
+[submodule "pinboard"]
+	path = mirror/pinboard
+	url = git@github.com:emacsmirror/pinboard.git
 [submodule "pinboard-api"]
 	path = mirror/pinboard-api
 	url = git@github.com:emacsmirror/pinboard-api.git
@@ -19881,6 +19899,9 @@
 [submodule "vala-snippets"]
 	path = mirror/vala-snippets
 	url = git@github.com:emacsmirror/vala-snippets.git
+[submodule "vale-mode"]
+	path = mirror/vale-mode
+	url = git@github.com:emacsmirror/vale-mode.git
 [submodule "validate"]
 	path = mirror/validate
 	url = git@github.com:emacsmirror/validate.git
