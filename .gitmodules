@@ -339,9 +339,6 @@
 [submodule "alan-mode"]
 	path = mirror/alan-mode
 	url = git@github.com:emacsmirror/alan-mode.git
-[submodule "alarm"]
-	path = mirror/alarm
-	url = git@github.com:emacsmirror/alarm.git
 [submodule "alarm-clock"]
 	path = mirror/alarm-clock
 	url = git@github.com:emacsmirror/alarm-clock.git
@@ -2174,9 +2171,6 @@
 [submodule "chinese-yasdcv"]
 	path = mirror/chinese-yasdcv
 	url = git@github.com:emacsmirror/chinese-yasdcv.git
-[submodule "chm-view"]
-	path = mirror/chm-view
-	url = git@github.com:emacsmirror/chm-view.git
 [submodule "choice-program"]
 	path = mirror/choice-program
 	url = git@github.com:emacsmirror/choice-program.git
@@ -3869,9 +3863,6 @@
 [submodule "dired-single"]
 	path = mirror/dired-single
 	url = git@github.com:emacsmirror/dired-single.git
-[submodule "dired-sort"]
-	path = mirror/dired-sort
-	url = git@github.com:emacsmirror/dired-sort.git
 [submodule "dired-sort-menu"]
 	path = mirror/dired-sort-menu
 	url = git@github.com:emacsmirror/dired-sort-menu.git
@@ -4047,9 +4038,6 @@
 [submodule "doc-mode"]
 	path = mirror/doc-mode
 	url = git@github.com:emacsmirror/doc-mode.git
-[submodule "doc-view-extension"]
-	path = mirror/doc-view-extension
-	url = git@github.com:emacsmirror/doc-view-extension.git
 [submodule "docbook"]
 	path = mirror/docbook
 	url = git@github.com:emacsmirror/docbook.git
@@ -5578,9 +5566,6 @@
 [submodule "etable"]
 	path = mirror/etable
 	url = git@github.com:emacsmirror/etable.git
-[submodule "etags-extension"]
-	path = mirror/etags-extension
-	url = git@github.com:emacsmirror/etags-extension.git
 [submodule "etags-select"]
 	path = mirror/etags-select
 	url = git@github.com:emacsmirror/etags-select.git
@@ -6304,9 +6289,6 @@
 [submodule "find-func+"]
 	path = mirror/find-func+
 	url = git@github.com:emacsmirror/find-func-plus.git
-[submodule "find-func-extension"]
-	path = mirror/find-func-extension
-	url = git@github.com:emacsmirror/find-func-extension.git
 [submodule "find-git"]
 	path = mirror/find-git
 	url = git@github.com:emacsmirror/find-git.git
@@ -7234,9 +7216,6 @@
 [submodule "fullframe"]
 	path = mirror/fullframe
 	url = git@github.com:emacsmirror/fullframe.git
-[submodule "fullscreen"]
-	path = mirror/fullscreen
-	url = git@github.com:emacsmirror/fullscreen.git
 [submodule "fullscreen-mode"]
 	path = mirror/fullscreen-mode
 	url = git@github.com:emacsmirror/fullscreen-mode.git
@@ -8193,9 +8172,6 @@
 	path = mirror/gtk-pomodoro-indicator
 	url = git@github.com:emacsmirror/gtk-pomodoro-indicator.git
 	branch = master
-[submodule "gtk2hs"]
-	path = mirror/gtk2hs
-	url = git@github.com:emacsmirror/gtk2hs.git
 [submodule "gtranslate"]
 	path = attic/gtranslate
 	url = git@github.com:emacsattic/gtranslate.git
@@ -10035,9 +10011,6 @@
 [submodule "iresize"]
 	path = attic/iresize
 	url = git@github.com:emacsattic/iresize.git
-[submodule "irfc"]
-	path = mirror/irfc
-	url = git@github.com:emacsmirror/irfc.git
 [submodule "irish"]
 	path = attic/irish
 	url = git@github.com:emacsattic/irish.git
@@ -10989,9 +10962,6 @@
 [submodule "lazy-search"]
 	path = mirror/lazy-search
 	url = git@github.com:emacsmirror/lazy-search.git
-[submodule "lazy-set-key"]
-	path = mirror/lazy-set-key
-	url = git@github.com:emacsmirror/lazy-set-key.git
 [submodule "lbdb"]
 	path = attic/lbdb
 	url = git@github.com:emacsattic/lbdb.git
@@ -11742,9 +11712,6 @@
 [submodule "mail-inserts"]
 	path = attic/mail-inserts
 	url = git@github.com:emacsattic/mail-inserts.git
-[submodule "mail-notify"]
-	path = mirror/mail-notify
-	url = git@github.com:emacsmirror/mail-notify.git
 [submodule "mail-signature"]
 	path = mirror/mail-signature
 	url = git@github.com:emacsmirror/mail-signature.git
@@ -12570,8 +12537,8 @@
 	path = mirror/mru-yank
 	url = git@github.com:emacsmirror/mru-yank.git
 [submodule "ms-python"]
-	path = mirror/ms-python
-	url = git@github.com:emacsmirror/ms-python.git
+	path = attic/ms-python
+	url = git@github.com:emacsattic/ms-python.git
 [submodule "msearch"]
 	path = mirror/msearch
 	url = git@github.com:emacsmirror/msearch.git
@@ -12682,16 +12649,12 @@
 [submodule "multi-run"]
 	path = mirror/multi-run
 	url = git@github.com:emacsmirror/multi-run.git
-[submodule "multi-scratch"]
-	path = mirror/multi-scratch
-	url = git@github.com:emacsmirror/multi-scratch.git
 [submodule "multi-shell"]
 	path = mirror/multi-shell
 	url = git@github.com:emacsmirror/multi-shell.git
 [submodule "multi-term"]
 	path = mirror/multi-term
 	url = git@github.com:emacsmirror/multi-term.git
-	branch = master
 [submodule "multi-web-mode"]
 	path = mirror/multi-web-mode
 	url = git@github.com:emacsmirror/multi-web-mode.git
@@ -13003,9 +12966,6 @@
 [submodule "news-hack"]
 	path = attic/news-hack
 	url = git@github.com:emacsattic/news-hack.git
-[submodule "newsticker-extension"]
-	path = mirror/newsticker-extension
-	url = git@github.com:emacsmirror/newsticker-extension.git
 [submodule "newsticker-notify"]
 	path = mirror/newsticker-notify
 	url = git@github.com:emacsmirror/newsticker-notify.git
@@ -13558,9 +13518,6 @@
 [submodule "ogre-material-mode"]
 	path = attic/ogre-material-mode
 	url = git@github.com:emacsattic/ogre-material-mode.git
-[submodule "oicq"]
-	path = mirror/oicq
-	url = git@github.com:emacsmirror/oicq.git
 [submodule "old-fashioned-undo"]
 	path = mirror/old-fashioned-undo
 	url = git@github.com:emacsmirror/old-fashioned-undo.git
@@ -13862,9 +13819,6 @@
 	path = mirror/org-evil
 	url = git@github.com:emacsmirror/org-evil.git
 	branch = master
-[submodule "org-extension"]
-	path = mirror/org-extension
-	url = git@github.com:emacsmirror/org-extension.git
 [submodule "org-fancy-priorities"]
 	path = mirror/org-fancy-priorities
 	url = git@github.com:emacsmirror/org-fancy-priorities.git
@@ -13989,9 +13943,6 @@
 [submodule "org-octopress"]
 	path = mirror/org-octopress
 	url = git@github.com:emacsmirror/org-octopress.git
-[submodule "org-oddmuse"]
-	path = mirror/org-oddmuse
-	url = git@github.com:emacsmirror/org-oddmuse.git
 [submodule "org-onenote"]
 	path = mirror/org-onenote
 	url = git@github.com:emacsmirror/org-onenote.git
@@ -16218,9 +16169,6 @@
 [submodule "rcirc-dbus"]
 	path = mirror/rcirc-dbus
 	url = git@github.com:emacsmirror/rcirc-dbus.git
-[submodule "rcirc-extension"]
-	path = mirror/rcirc-extension
-	url = git@github.com:emacsmirror/rcirc-extension.git
 [submodule "rcirc-groups"]
 	path = mirror/rcirc-groups
 	url = git@github.com:emacsmirror/rcirc-groups.git
@@ -16233,9 +16181,6 @@
 [submodule "rcirc-notify"]
 	path = mirror/rcirc-notify
 	url = git@github.com:emacsmirror/rcirc-notify.git
-[submodule "rcirc-notify+"]
-	path = mirror/rcirc-notify+
-	url = git@github.com:emacsmirror/rcirc-notify-plus.git
 [submodule "rcirc-pounce"]
 	path = mirror/rcirc-pounce
 	url = git@github.com:emacsmirror/rcirc-pounce.git
@@ -17388,9 +17333,6 @@
 	path = mirror/shell-command
 	url = git@github.com:emacsmirror/shell-command.git
 	branch = master
-[submodule "shell-command-extension"]
-	path = mirror/shell-command-extension
-	url = git@github.com:emacsmirror/shell-command-extension.git
 [submodule "shell-command-queue"]
 	path = mirror/shell-command-queue
 	url = git@github.com:emacsmirror/shell-command-queue.git
@@ -18102,9 +18044,6 @@
 	path = mirror/speed-type
 	url = git@github.com:emacsmirror/speed-type.git
 	branch = master
-[submodule "speedbar-extension"]
-	path = mirror/speedbar-extension
-	url = git@github.com:emacsmirror/speedbar-extension.git
 [submodule "speeddating"]
 	path = mirror/speeddating
 	url = git@github.com:emacsmirror/speeddating.git
@@ -19099,9 +19038,6 @@
 [submodule "thing-cmds"]
 	path = mirror/thing-cmds
 	url = git@github.com:emacsmirror/thing-cmds.git
-[submodule "thing-edit"]
-	path = mirror/thing-edit
-	url = git@github.com:emacsmirror/thing-edit.git
 [submodule "thing-opt"]
 	path = mirror/thing-opt
 	url = git@github.com:emacsmirror/thing-opt.git
@@ -20334,9 +20270,6 @@
 [submodule "wcy-swbuff"]
 	path = mirror/wcy-swbuff
 	url = git@github.com:emacsmirror/wcy-swbuff.git
-[submodule "wdired-extension"]
-	path = mirror/wdired-extension
-	url = git@github.com:emacsmirror/wdired-extension.git
 [submodule "wdl-mode"]
 	path = mirror/wdl-mode
 	url = git@github.com:emacsmirror/wdl-mode.git
@@ -20553,9 +20486,6 @@
 [submodule "window-end-visible"]
 	path = mirror/window-end-visible
 	url = git@github.com:emacsmirror/window-end-visible.git
-[submodule "window-extension"]
-	path = mirror/window-extension
-	url = git@github.com:emacsmirror/window-extension.git
 [submodule "window-layout"]
 	path = mirror/window-layout
 	url = git@github.com:emacsmirror/window-layout.git
@@ -20578,9 +20508,6 @@
 [submodule "windresize"]
 	path = mirror/windresize
 	url = git@github.com:emacsmirror/windresize.git
-[submodule "windresize-extension"]
-	path = mirror/windresize-extension
-	url = git@github.com:emacsmirror/windresize-extension.git
 [submodule "windsize"]
 	path = mirror/windsize
 	url = git@github.com:emacsmirror/windsize.git
