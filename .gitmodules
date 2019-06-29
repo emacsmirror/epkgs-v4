@@ -2963,6 +2963,9 @@
 [submodule "counsel-etags"]
 	path = mirror/counsel-etags
 	url = git@github.com:emacsmirror/counsel-etags.git
+[submodule "counsel-ffdata"]
+	path = mirror/counsel-ffdata
+	url = git@github.com:emacsmirror/counsel-ffdata.git
 [submodule "counsel-gtags"]
 	path = mirror/counsel-gtags
 	url = git@github.com:emacsmirror/counsel-gtags.git
@@ -3029,6 +3032,9 @@
 [submodule "cparen"]
 	path = attic/cparen
 	url = git@github.com:emacsattic/cparen.git
+[submodule "cpp-capf"]
+	path = mirror/cpp-capf
+	url = git@github.com:emacsmirror/cpp-capf.git
 [submodule "cppref"]
 	path = mirror/cppref
 	url = git@github.com:emacsmirror/cppref.git
@@ -4907,6 +4913,9 @@
 [submodule "elpher"]
 	path = mirror/elpher
 	url = git@github.com:emacsmirror/elpher.git
+[submodule "elpl"]
+	path = mirror/elpl
+	url = git@github.com:emacsmirror/elpl.git
 [submodule "elpy"]
 	path = mirror/elpy
 	url = git@github.com:emacsmirror/elpy.git
@@ -7792,6 +7801,9 @@
 [submodule "go-autocomplete"]
 	path = mirror/go-autocomplete
 	url = git@github.com:emacsmirror/go-autocomplete.git
+[submodule "go-capf"]
+	path = mirror/go-capf
+	url = git@github.com:emacsmirror/go-capf.git
 [submodule "go-complete"]
 	path = mirror/go-complete
 	url = git@github.com:emacsmirror/go-complete.git
@@ -9893,6 +9905,9 @@
 [submodule "insert-construct"]
 	path = attic/insert-construct
 	url = git@github.com:emacsattic/insert-construct.git
+[submodule "insert-kaomoji"]
+	path = mirror/insert-kaomoji
+	url = git@github.com:emacsmirror/insert-kaomoji.git
 [submodule "insert-shebang"]
 	path = mirror/insert-shebang
 	url = git@github.com:emacsmirror/insert-shebang.git
@@ -12886,6 +12901,9 @@
 [submodule "navorski"]
 	path = mirror/navorski
 	url = git@github.com:emacsmirror/navorski.git
+[submodule "naysayer-theme"]
+	path = mirror/naysayer-theme
+	url = git@github.com:emacsmirror/naysayer-theme.git
 [submodule "nazna"]
 	path = mirror/nazna
 	url = git@github.com:emacsmirror/nazna.git
@@ -13068,6 +13086,9 @@
 [submodule "nnir-spotlight"]
 	path = mirror/nnir-spotlight
 	url = git@github.com:emacsmirror/nnir-spotlight.git
+[submodule "nnreddit"]
+	path = mirror/nnreddit
+	url = git@github.com:emacsmirror/nnreddit.git
 [submodule "nntodo"]
 	path = attic/nntodo
 	url = git@github.com:emacsattic/nntodo.git
@@ -15261,6 +15282,9 @@
 [submodule "poet-theme"]
 	path = mirror/poet-theme
 	url = git@github.com:emacsmirror/poet-theme.git
+[submodule "poetry"]
+	path = mirror/poetry
+	url = git@github.com:emacsmirror/poetry.git
 [submodule "point-pos"]
 	path = mirror/point-pos
 	url = git@github.com:emacsmirror/point-pos.git
@@ -17215,6 +17239,9 @@
 [submodule "selftest"]
 	path = attic/selftest
 	url = git@github.com:emacsattic/selftest.git
+[submodule "semaphore"]
+	path = mirror/semaphore
+	url = git@github.com:emacsmirror/semaphore.git
 [submodule "semi"]
 	path = mirror/semi
 	url = git@github.com:emacsmirror/semi.git
