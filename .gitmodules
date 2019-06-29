@@ -1156,8 +1156,8 @@
 	path = attic/baidu-life
 	url = git@github.com:emacsattic/baidu-life.git
 [submodule "bang"]
-	path = attic/bang
-	url = git@github.com:emacsattic/bang.git
+	path = mirror/bang
+	url = git@github.com:emacsmirror/bang.git
 [submodule "banner"]
 	path = attic/banner
 	url = git@github.com:emacsattic/banner.git
@@ -14890,6 +14890,9 @@
 [submodule "perltidy"]
 	path = mirror/perltidy
 	url = git@github.com:emacsmirror/perltidy.git
+[submodule "persist"]
+	path = mirror/persist
+	url = git@github.com:emacsmirror/persist.git
 [submodule "persistent-overlays"]
 	path = mirror/persistent-overlays
 	url = git@github.com:emacsmirror/persistent-overlays.git
@@ -21249,6 +21252,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "persist"]
-	path = mirror/persist
-	url = git@github.com:emacsmirror/persist.git
