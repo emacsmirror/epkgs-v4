@@ -1,3 +1,4 @@
+:PREAMBLE:
 #+SETUPFILE: .orgconfig
 #+NAME: setup
 #+BEGIN_SRC emacs-lisp :results silent
@@ -6,6 +7,13 @@
     (customize-save-variable variable (and (not (equal value "nil")) value))
     nil)
 #+END_SRC
+:END:
+* Set ~emir-emacs-reference~
+#+NAME: set--emir-emacs-reference
+#+BEGIN_SRC emacs-lisp :results silent
+  (emir--save-variable 'emir-emacs-reference "emacs-26.2")
+#+END_SRC
+
 * Set ~emir-pending-packages~
 #+NAME: set--emir-pending-packages
 #+BEGIN_SRC emacs-lisp :results silent :var value=val--emir-pending-packages
@@ -53,7 +61,7 @@
 | spamfilter            | spamfilter.el.txt                            |
 | tablegen-mode         | tablegen-mode.el?view=co                     |
 
-* Set ~emir--preferred-updatream~
+* Set ~emir--preferred-upstream~
 #+NAME: set--emir--preferred-upstreams
 #+BEGIN_SRC emacs-lisp :results silent :var value=val--emir--preferred-upstreams
   (emir--save-variable 'emir--preferred-upstreams value)
@@ -131,7 +139,6 @@
 | cl-lib      | backport of builtin           |
 | seq         | backport of builtin           |
 | soap-client | multi-file core not supported |
-| svg         | import of outdated upstream   |
 
 * Set ~emir--diverging-reason~
 #+NAME: set--emir--diverging-reason

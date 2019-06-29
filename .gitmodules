@@ -18488,6 +18488,9 @@
 [submodule "sv-kalender-namnsdagar"]
 	path = mirror/sv-kalender-namnsdagar
 	url = git@github.com:emacsmirror/sv-kalender-namnsdagar.git
+[submodule "svg"]
+	path = mirror/svg
+	url = git@github.com:emacsmirror/svg.git
 [submodule "svg-clock"]
 	path = mirror/svg-clock
 	url = git@github.com:emacsmirror/svg-clock.git
@@ -19355,6 +19358,9 @@
 [submodule "tracwiki-mode"]
 	path = mirror/tracwiki-mode
 	url = git@github.com:emacsmirror/tracwiki-mode.git
+[submodule "tramp"]
+	path = mirror/tramp
+	url = git@github.com:emacsmirror/tramp.git
 [submodule "tramp-hdfs"]
 	path = mirror/tramp-hdfs
 	url = git@github.com:emacsmirror/tramp-hdfs.git
@@ -21252,6 +21258,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "svg"]
-	path = mirror/svg
-	url = git@github.com:emacsmirror/svg.git
