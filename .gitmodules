@@ -21252,3 +21252,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "svg"]
+	path = mirror/svg
+	url = git@github.com:emacsmirror/svg.git
