@@ -21249,3 +21249,6 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "persist"]
+	path = mirror/persist
+	url = git@github.com:emacsmirror/persist.git
