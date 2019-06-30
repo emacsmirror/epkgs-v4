@@ -2386,6 +2386,9 @@
 [submodule "closure-lint-mode"]
 	path = mirror/closure-lint-mode
 	url = git@github.com:emacsmirror/closure-lint-mode.git
+[submodule "cloud-theme"]
+	path = mirror/cloud-theme
+	url = git@github.com:emacsmirror/cloud-theme.git
 [submodule "cloud-to-butt-erc"]
 	path = mirror/cloud-to-butt-erc
 	url = git@github.com:emacsmirror/cloud-to-butt-erc.git
@@ -3458,6 +3461,9 @@
 [submodule "date-field"]
 	path = mirror/date-field
 	url = git@github.com:emacsmirror/date-field.git
+[submodule "date2name"]
+	path = mirror/date2name
+	url = git@github.com:emacsmirror/date2name.git
 [submodule "datetime"]
 	path = mirror/datetime
 	url = git@github.com:emacsmirror/datetime.git
@@ -8574,6 +8580,9 @@
 [submodule "helm-exwm"]
 	path = mirror/helm-exwm
 	url = git@github.com:emacsmirror/helm-exwm.git
+[submodule "helm-file-preview"]
+	path = mirror/helm-file-preview
+	url = git@github.com:emacsmirror/helm-file-preview.git
 [submodule "helm-filesets"]
 	path = mirror/helm-filesets
 	url = git@github.com:emacsmirror/helm-filesets.git
@@ -19185,6 +19194,9 @@
 	path = mirror/tiny-menu
 	url = git@github.com:emacsmirror/tiny-menu.git
 	branch = master
+[submodule "tinypng"]
+	path = mirror/tinypng
+	url = git@github.com:emacsmirror/tinypng.git
 [submodule "tinysegmenter"]
 	path = mirror/tinysegmenter
 	url = git@github.com:emacsmirror/tinysegmenter.git
@@ -20584,6 +20596,9 @@
 [submodule "with-editor"]
 	path = mirror/with-editor
 	url = git@github.com:emacsmirror/with-editor.git
+[submodule "with-emacs"]
+	path = mirror/with-emacs
+	url = git@github.com:emacsmirror/with-emacs.git
 [submodule "with-file"]
 	path = attic/with-file
 	url = git@github.com:emacsattic/with-file.git
