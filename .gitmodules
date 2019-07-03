@@ -404,6 +404,9 @@
 [submodule "alossage"]
 	path = attic/alossage
 	url = git@github.com:emacsattic/alossage.git
+[submodule "alt-codes"]
+	path = mirror/alt-codes
+	url = git@github.com:emacsmirror/alt-codes.git
 [submodule "alt-font-menu"]
 	path = mirror/alt-font-menu
 	url = git@github.com:emacsmirror/alt-font-menu.git
