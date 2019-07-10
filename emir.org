@@ -133,12 +133,11 @@
   (emir--save-variable 'emir--preferred-builtins value)
 #+END_SRC
 #+NAME: val--emir--preferred-builtins
-| Name        | Reason                        |
-|-------------+-------------------------------|
-| cl-generic  | backport of builtin           |
-| cl-lib      | backport of builtin           |
-| seq         | backport of builtin           |
-| soap-client | multi-file core not supported |
+| Name       | Reason              |
+|------------+---------------------|
+| cl-generic | backport of builtin |
+| cl-lib     | backport of builtin |
+| seq        | backport of builtin |
 
 * Set ~emir--diverging-reason~
 #+NAME: set--emir--diverging-reason
