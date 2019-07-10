@@ -2025,6 +2025,9 @@
 [submodule "celssc-mode"]
 	path = mirror/celssc-mode
 	url = git@github.com:emacsmirror/celssc-mode.git
+[submodule "centaur-tabs"]
+	path = mirror/centaur-tabs
+	url = git@github.com:emacsmirror/centaur-tabs.git
 [submodule "centered-cursor-mode"]
 	path = mirror/centered-cursor-mode
 	url = git@github.com:emacsmirror/centered-cursor-mode.git
@@ -5931,6 +5934,9 @@
 [submodule "exec-path-from-shell"]
 	path = mirror/exec-path-from-shell
 	url = git@github.com:emacsmirror/exec-path-from-shell.git
+[submodule "execline"]
+	path = mirror/execline
+	url = git@github.com:emacsmirror/execline.git
 [submodule "exiftool"]
 	path = mirror/exiftool
 	url = git@github.com:emacsmirror/exiftool.git
@@ -6244,6 +6250,9 @@
 [submodule "filesets+"]
 	path = mirror/filesets+
 	url = git@github.com:emacsmirror/filesets-plus.git
+[submodule "filetags"]
+	path = mirror/filetags
+	url = git@github.com:emacsmirror/filetags.git
 [submodule "fileutils"]
 	path = attic/fileutils
 	url = git@github.com:emacsattic/fileutils.git
@@ -9025,6 +9034,9 @@
 	path = mirror/hfst-mode
 	url = git@github.com:emacsmirror/hfst-mode.git
 	branch = master
+[submodule "hg-histedit"]
+	path = mirror/hg-histedit
+	url = git@github.com:emacsmirror/hg-histedit.git
 [submodule "hgignore-mode"]
 	path = mirror/hgignore-mode
 	url = git@github.com:emacsmirror/hgignore-mode.git
@@ -9530,6 +9542,9 @@
 [submodule "icons-in-terminal"]
 	path = mirror/icons-in-terminal
 	url = git@github.com:emacsmirror/icons-in-terminal.git
+[submodule "icsql"]
+	path = mirror/icsql
+	url = git@github.com:emacsmirror/icsql.git
 [submodule "id-manager"]
 	path = mirror/id-manager
 	url = git@github.com:emacsmirror/id-manager.git
@@ -12052,6 +12067,9 @@
 [submodule "member-functions"]
 	path = mirror/member-functions
 	url = git@github.com:emacsmirror/member-functions.git
+[submodule "memento-mori"]
+	path = mirror/memento-mori
+	url = git@github.com:emacsmirror/memento-mori.git
 [submodule "memo-pop"]
 	path = mirror/memo-pop
 	url = git@github.com:emacsmirror/memo-pop.git
@@ -14101,6 +14119,9 @@
 [submodule "org-seenthis"]
 	path = mirror/org-seenthis
 	url = git@github.com:emacsmirror/org-seenthis.git
+[submodule "org-shoplist"]
+	path = mirror/org-shoplist
+	url = git@github.com:emacsmirror/org-shoplist.git
 [submodule "org-site"]
 	path = attic/org-site
 	url = git@github.com:emacsattic/org-site.git
@@ -18027,6 +18048,9 @@
 [submodule "space-chord"]
 	path = mirror/space-chord
 	url = git@github.com:emacsmirror/space-chord.git
+[submodule "spacebar"]
+	path = mirror/spacebar
+	url = git@github.com:emacsmirror/spacebar.git
 [submodule "spacegray-theme"]
 	path = mirror/spacegray-theme
 	url = git@github.com:emacsmirror/spacegray-theme.git
@@ -18855,6 +18879,9 @@
 [submodule "tei-html-docs-p5"]
 	path = attic/tei-html-docs-p5
 	url = git@github.com:emacsattic/tei-html-docs-p5.git
+[submodule "telega"]
+	path = mirror/telega
+	url = git@github.com:emacsmirror/telega.git
 [submodule "telepathy"]
 	path = mirror/telepathy
 	url = git@github.com:emacsmirror/telepathy.git
