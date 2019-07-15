@@ -6867,6 +6867,9 @@
 [submodule "flymake-go"]
 	path = mirror/flymake-go
 	url = git@github.com:emacsmirror/flymake-go.git
+[submodule "flymake-go-staticcheck"]
+	path = mirror/flymake-go-staticcheck
+	url = git@github.com:emacsmirror/flymake-go-staticcheck.git
 [submodule "flymake-google-cpplint"]
 	path = mirror/flymake-google-cpplint
 	url = git@github.com:emacsmirror/flymake-google-cpplint.git
@@ -8494,6 +8497,9 @@
 [submodule "helm-chrome"]
 	path = mirror/helm-chrome
 	url = git@github.com:emacsmirror/helm-chrome.git
+[submodule "helm-chrome-history"]
+	path = mirror/helm-chrome-history
+	url = git@github.com:emacsmirror/helm-chrome-history.git
 [submodule "helm-chronos"]
 	path = mirror/helm-chronos
 	url = git@github.com:emacsmirror/helm-chronos.git
@@ -10551,6 +10557,9 @@
 [submodule "json-rpc"]
 	path = mirror/json-rpc
 	url = git@github.com:emacsmirror/json-rpc.git
+[submodule "json-rpc-server"]
+	path = mirror/json-rpc-server
+	url = git@github.com:emacsmirror/json-rpc-server.git
 [submodule "json-sexp-mode"]
 	path = mirror/json-sexp-mode
 	url = git@github.com:emacsmirror/json-sexp-mode.git
@@ -15374,6 +15383,9 @@
 [submodule "poly-slim"]
 	path = mirror/poly-slim
 	url = git@github.com:emacsmirror/poly-slim.git
+[submodule "poly-wdl"]
+	path = mirror/poly-wdl
+	url = git@github.com:emacsmirror/poly-wdl.git
 [submodule "polymode"]
 	path = mirror/polymode
 	url = git@github.com:emacsmirror/polymode.git
@@ -18622,6 +18634,9 @@
 [submodule "symbolword-mode"]
 	path = mirror/symbolword-mode
 	url = git@github.com:emacsmirror/symbolword-mode.git
+[submodule "symex"]
+	path = mirror/symex
+	url = git@github.com:emacsmirror/symex.git
 [submodule "symfony"]
 	path = attic/symfony
 	url = git@github.com:emacsattic/symfony.git
