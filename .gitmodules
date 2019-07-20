@@ -4610,6 +4610,9 @@
 [submodule "eg"]
 	path = mirror/eg
 	url = git@github.com:emacsmirror/eg.git
+[submodule "egalgo"]
+	path = mirror/egalgo
+	url = git@github.com:emacsmirror/egalgo.git
 [submodule "egg"]
 	path = mirror/egg
 	url = git@github.com:emacsmirror/egg.git
@@ -4675,6 +4678,9 @@
 	path = mirror/ejc-sql
 	url = git@github.com:emacsmirror/ejc-sql.git
 	branch = master
+[submodule "ejson-mode"]
+	path = mirror/ejson-mode
+	url = git@github.com:emacsmirror/ejson-mode.git
 [submodule "el-autoyas"]
 	path = mirror/el-autoyas
 	url = git@github.com:emacsmirror/el-autoyas.git
@@ -8497,6 +8503,9 @@
 [submodule "helm-chrome"]
 	path = mirror/helm-chrome
 	url = git@github.com:emacsmirror/helm-chrome.git
+[submodule "helm-chrome-control"]
+	path = mirror/helm-chrome-control
+	url = git@github.com:emacsmirror/helm-chrome-control.git
 [submodule "helm-chrome-history"]
 	path = mirror/helm-chrome-history
 	url = git@github.com:emacsmirror/helm-chrome-history.git
@@ -8800,6 +8809,9 @@
 [submodule "helm-orgcard"]
 	path = mirror/helm-orgcard
 	url = git@github.com:emacsmirror/helm-orgcard.git
+[submodule "helm-osx-app"]
+	path = mirror/helm-osx-app
+	url = git@github.com:emacsmirror/helm-osx-app.git
 [submodule "helm-package"]
 	path = attic/helm-package
 	url = git@github.com:emacsattic/helm-package.git
@@ -15087,6 +15099,9 @@
 [submodule "phpcbf"]
 	path = mirror/phpcbf
 	url = git@github.com:emacsmirror/phpcbf.git
+[submodule "phps-mode"]
+	path = mirror/phps-mode
+	url = git@github.com:emacsmirror/phps-mode.git
 [submodule "phpstan"]
 	path = mirror/phpstan
 	url = git@github.com:emacsmirror/phpstan.git
@@ -18685,6 +18700,9 @@
 [submodule "sys"]
 	path = mirror/sys
 	url = git@github.com:emacsmirror/sys.git
+[submodule "sysctl"]
+	path = mirror/sysctl
+	url = git@github.com:emacsmirror/sysctl.git
 [submodule "syslog"]
 	path = attic/syslog
 	url = git@github.com:emacsattic/syslog.git
@@ -21324,6 +21342,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "phps-mode"]
-	path = mirror/phps-mode
-	url = git@github.com:emacsmirror/phps-mode.git
