@@ -2545,6 +2545,9 @@
 	path = mirror/color-theme-x
 	url = git@github.com:emacsmirror/color-theme-x.git
 	branch = master
+[submodule "colorless-themes"]
+	path = mirror/colorless-themes
+	url = git@github.com:emacsmirror/colorless-themes.git
 [submodule "colormaps"]
 	path = mirror/colormaps
 	url = git@github.com:emacsmirror/colormaps.git
@@ -3041,6 +3044,9 @@
 [submodule "cparen"]
 	path = attic/cparen
 	url = git@github.com:emacsattic/cparen.git
+[submodule "cpp-auto-include"]
+	path = mirror/cpp-auto-include
+	url = git@github.com:emacsmirror/cpp-auto-include.git
 [submodule "cpp-capf"]
 	path = mirror/cpp-capf
 	url = git@github.com:emacsmirror/cpp-capf.git
@@ -3440,6 +3446,9 @@
 [submodule "dash"]
 	path = mirror/dash
 	url = git@github.com:emacsmirror/dash.git
+[submodule "dash-alfred"]
+	path = mirror/dash-alfred
+	url = git@github.com:emacsmirror/dash-alfred.git
 [submodule "dash-at-point"]
 	path = mirror/dash-at-point
 	url = git@github.com:emacsmirror/dash-at-point.git
@@ -5888,6 +5897,9 @@
 [submodule "evil-textobj-syntax"]
 	path = mirror/evil-textobj-syntax
 	url = git@github.com:emacsmirror/evil-textobj-syntax.git
+[submodule "evil-traces"]
+	path = mirror/evil-traces
+	url = git@github.com:emacsmirror/evil-traces.git
 [submodule "evil-tutor"]
 	path = mirror/evil-tutor
 	url = git@github.com:emacsmirror/evil-tutor.git
@@ -10401,6 +10413,9 @@
 [submodule "jedi-eldoc"]
 	path = mirror/jedi-eldoc
 	url = git@github.com:emacsmirror/jedi-eldoc.git
+[submodule "jeison"]
+	path = mirror/jeison
+	url = git@github.com:emacsmirror/jeison.git
 [submodule "jekyll-modes"]
 	path = mirror/jekyll-modes
 	url = git@github.com:emacsmirror/jekyll-modes.git
@@ -10927,6 +10942,9 @@
 [submodule "lagn"]
 	path = mirror/lagn
 	url = git@github.com:emacsmirror/lagn.git
+[submodule "laguna-theme"]
+	path = mirror/laguna-theme
+	url = git@github.com:emacsmirror/laguna-theme.git
 [submodule "lambdacalc"]
 	path = mirror/lambdacalc
 	url = git@github.com:emacsmirror/lambdacalc.git
@@ -14074,6 +14092,9 @@
 [submodule "org-pua"]
 	path = mirror/org-pua
 	url = git@github.com:emacsmirror/org-pua.git
+[submodule "org-ql"]
+	path = mirror/org-ql
+	url = git@github.com:emacsmirror/org-ql.git
 [submodule "org-radiobutton"]
 	path = mirror/org-radiobutton
 	url = git@github.com:emacsmirror/org-radiobutton.git
@@ -17410,6 +17431,9 @@
 [submodule "shader-mode"]
 	path = mirror/shader-mode
 	url = git@github.com:emacsmirror/shader-mode.git
+[submodule "shadowenv"]
+	path = mirror/shadowenv
+	url = git@github.com:emacsmirror/shadowenv.git
 [submodule "shakespeare-mode"]
 	path = mirror/shakespeare-mode
 	url = git@github.com:emacsmirror/shakespeare-mode.git
@@ -18601,6 +18625,9 @@
 [submodule "swift-mode"]
 	path = mirror/swift-mode
 	url = git@github.com:emacsmirror/swift-mode.git
+[submodule "swift-playground-mode"]
+	path = mirror/swift-playground-mode
+	url = git@github.com:emacsmirror/swift-playground-mode.git
 [submodule "swift3-mode"]
 	path = mirror/swift3-mode
 	url = git@github.com:emacsmirror/swift3-mode.git
