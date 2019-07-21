@@ -6749,7 +6749,6 @@
 [submodule "flycheck-pony"]
 	path = mirror/flycheck-pony
 	url = git@github.com:emacsmirror/flycheck-pony.git
-	branch = master
 [submodule "flycheck-popup-tip"]
 	path = mirror/flycheck-popup-tip
 	url = git@github.com:emacsmirror/flycheck-popup-tip.git
