@@ -2177,6 +2177,9 @@
 [submodule "chinese-yasdcv"]
 	path = mirror/chinese-yasdcv
 	url = git@github.com:emacsmirror/chinese-yasdcv.git
+[submodule "chocolate-theme"]
+	path = mirror/chocolate-theme
+	url = git@github.com:emacsmirror/chocolate-theme.git
 [submodule "choice-program"]
 	path = mirror/choice-program
 	url = git@github.com:emacsmirror/choice-program.git
@@ -10467,6 +10470,9 @@
 [submodule "jira-markup-mode"]
 	path = mirror/jira-markup-mode
 	url = git@github.com:emacsmirror/jira-markup-mode.git
+[submodule "jiralib2"]
+	path = mirror/jiralib2
+	url = git@github.com:emacsmirror/jiralib2.git
 [submodule "jist"]
 	path = mirror/jist
 	url = git@github.com:emacsmirror/jist.git
@@ -11686,6 +11692,9 @@
 [submodule "magit-annex"]
 	path = mirror/magit-annex
 	url = git@github.com:emacsmirror/magit-annex.git
+[submodule "magit-circleci"]
+	path = mirror/magit-circleci
+	url = git@github.com:emacsmirror/magit-circleci.git
 [submodule "magit-commit-training-wheels"]
 	path = attic/magit-commit-training-wheels
 	url = git@github.com:emacsattic/magit-commit-training-wheels.git
@@ -13166,6 +13175,9 @@
 [submodule "no-littering"]
 	path = mirror/no-littering
 	url = git@github.com:emacsmirror/no-littering.git
+[submodule "no-spam"]
+	path = mirror/no-spam
+	url = git@github.com:emacsmirror/no-spam.git
 [submodule "no-word"]
 	path = mirror/no-word
 	url = git@github.com:emacsmirror/no-word.git
@@ -14460,6 +14472,9 @@
 	path = mirror/ox-gfm
 	url = git@github.com:emacsmirror/ox-gfm.git
 	branch = master
+[submodule "ox-haunt"]
+	path = mirror/ox-haunt
+	url = git@github.com:emacsmirror/ox-haunt.git
 [submodule "ox-html5slide"]
 	path = mirror/ox-html5slide
 	url = git@github.com:emacsmirror/ox-html5slide.git
@@ -14479,6 +14494,9 @@
 	path = mirror/ox-jira
 	url = git@github.com:emacsmirror/ox-jira.git
 	branch = master
+[submodule "ox-latex-subfigure"]
+	path = mirror/ox-latex-subfigure
+	url = git@github.com:emacsmirror/ox-latex-subfigure.git
 [submodule "ox-mdx-deck"]
 	path = mirror/ox-mdx-deck
 	url = git@github.com:emacsmirror/ox-mdx-deck.git
@@ -17244,6 +17262,9 @@
 [submodule "scroll-in-place"]
 	path = attic/scroll-in-place
 	url = git@github.com:emacsattic/scroll-in-place.git
+[submodule "scroll-on-drag"]
+	path = mirror/scroll-on-drag
+	url = git@github.com:emacsmirror/scroll-on-drag.git
 [submodule "scroll-restore"]
 	path = mirror/scroll-restore
 	url = git@github.com:emacsmirror/scroll-restore.git
