@@ -11482,7 +11482,6 @@
 [submodule "look-mode"]
 	path = mirror/look-mode
 	url = git@github.com:emacsmirror/look-mode.git
-	branch = master
 [submodule "lookout"]
 	path = attic/lookout
 	url = git@github.com:emacsattic/lookout.git
@@ -15525,6 +15524,9 @@
 [submodule "portage-navi"]
 	path = mirror/portage-navi
 	url = git@github.com:emacsmirror/portage-navi.git
+[submodule "porthole"]
+	path = mirror/porthole
+	url = git@github.com:emacsmirror/porthole.git
 [submodule "pos-tip"]
 	path = mirror/pos-tip
 	url = git@github.com:emacsmirror/pos-tip.git
