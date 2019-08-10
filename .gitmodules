@@ -5848,6 +5848,9 @@
 [submodule "evil-rsi"]
 	path = mirror/evil-rsi
 	url = git@github.com:emacsmirror/evil-rsi.git
+[submodule "evil-ruby-text-objects"]
+	path = mirror/evil-ruby-text-objects
+	url = git@github.com:emacsmirror/evil-ruby-text-objects.git
 [submodule "evil-scout"]
 	path = attic/evil-scout
 	url = git@github.com:emacsattic/evil-scout.git
@@ -6942,6 +6945,9 @@
 [submodule "flymake-python-pyflakes"]
 	path = mirror/flymake-python-pyflakes
 	url = git@github.com:emacsmirror/flymake-python-pyflakes.git
+[submodule "flymake-quickdef"]
+	path = mirror/flymake-quickdef
+	url = git@github.com:emacsmirror/flymake-quickdef.git
 [submodule "flymake-racket"]
 	path = mirror/flymake-racket
 	url = git@github.com:emacsmirror/flymake-racket.git
@@ -11992,6 +11998,9 @@
 [submodule "marmalade-client"]
 	path = mirror/marmalade-client
 	url = git@github.com:emacsmirror/marmalade-client.git
+[submodule "marquee-header"]
+	path = mirror/marquee-header
+	url = git@github.com:emacsmirror/marquee-header.git
 [submodule "marshal"]
 	path = mirror/marshal
 	url = git@github.com:emacsmirror/marshal.git
@@ -14490,6 +14499,9 @@
 	path = mirror/ox-jira
 	url = git@github.com:emacsmirror/ox-jira.git
 	branch = master
+[submodule "ox-json"]
+	path = mirror/ox-json
+	url = git@github.com:emacsmirror/ox-json.git
 [submodule "ox-latex-subfigure"]
 	path = mirror/ox-latex-subfigure
 	url = git@github.com:emacsmirror/ox-latex-subfigure.git
