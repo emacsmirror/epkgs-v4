@@ -9482,7 +9482,6 @@
 [submodule "hydandata-light-theme"]
 	path = mirror/hydandata-light-theme
 	url = git@github.com:emacsmirror/hydandata-light-theme.git
-	branch = master
 [submodule "hyde"]
 	path = mirror/hyde
 	url = git@github.com:emacsmirror/hyde.git
