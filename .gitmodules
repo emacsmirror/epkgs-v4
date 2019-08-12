@@ -1,6 +1,9 @@
 [submodule "0blayout"]
 	path = mirror/0blayout
 	url = git@github.com:emacsmirror/0blayout.git
+[submodule "0x0"]
+	path = mirror/0x0
+	url = git@github.com:emacsmirror/0x0.git
 [submodule "0xc"]
 	path = mirror/0xc
 	url = git@github.com:emacsmirror/0xc.git
@@ -4892,6 +4895,9 @@
 [submodule "ell"]
 	path = attic/ell
 	url = git@github.com:emacsattic/ell.git
+[submodule "ellocate"]
+	path = mirror/ellocate
+	url = git@github.com:emacsmirror/ellocate.git
 [submodule "elm-mode"]
 	path = mirror/elm-mode
 	url = git@github.com:emacsmirror/elm-mode.git
@@ -6675,6 +6681,9 @@
 [submodule "flycheck-hdevtools"]
 	path = mirror/flycheck-hdevtools
 	url = git@github.com:emacsmirror/flycheck-hdevtools.git
+[submodule "flycheck-indicator"]
+	path = mirror/flycheck-indicator
+	url = git@github.com:emacsmirror/flycheck-indicator.git
 [submodule "flycheck-ini-pyinilint"]
 	path = mirror/flycheck-ini-pyinilint
 	url = git@github.com:emacsmirror/flycheck-ini-pyinilint.git
@@ -8822,6 +8831,9 @@
 [submodule "helm-open-github"]
 	path = mirror/helm-open-github
 	url = git@github.com:emacsmirror/helm-open-github.git
+[submodule "helm-org"]
+	path = mirror/helm-org
+	url = git@github.com:emacsmirror/helm-org.git
 [submodule "helm-org-rifle"]
 	path = mirror/helm-org-rifle
 	url = git@github.com:emacsmirror/helm-org-rifle.git
@@ -12885,6 +12897,9 @@
 [submodule "mynt-mode"]
 	path = mirror/mynt-mode
 	url = git@github.com:emacsmirror/mynt-mode.git
+[submodule "myrddin-mode"]
+	path = mirror/myrddin-mode
+	url = git@github.com:emacsmirror/myrddin-mode.git
 [submodule "mysql"]
 	path = mirror/mysql
 	url = git@github.com:emacsmirror/mysql.git
@@ -15647,6 +15662,9 @@
 [submodule "proc-net"]
 	path = mirror/proc-net
 	url = git@github.com:emacsmirror/proc-net.git
+[submodule "proced-narrow"]
+	path = mirror/proced-narrow
+	url = git@github.com:emacsmirror/proced-narrow.git
 [submodule "processing-mode"]
 	path = mirror/processing-mode
 	url = git@github.com:emacsmirror/processing-mode.git
@@ -17182,6 +17200,9 @@
 	path = mirror/schrute
 	url = git@github.com:emacsmirror/schrute.git
 	branch = master
+[submodule "scihub"]
+	path = mirror/scihub
+	url = git@github.com:emacsmirror/scihub.git
 [submodule "scim-bridge"]
 	path = attic/scim-bridge
 	url = git@github.com:emacsattic/scim-bridge.git
@@ -19585,6 +19606,9 @@
 [submodule "try-code"]
 	path = mirror/try-code
 	url = git@github.com:emacsmirror/try-code.git
+[submodule "ts"]
+	path = mirror/ts
+	url = git@github.com:emacsmirror/ts.git
 [submodule "ts-comint"]
 	path = mirror/ts-comint
 	url = git@github.com:emacsmirror/ts-comint.git
