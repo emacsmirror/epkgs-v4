@@ -225,7 +225,9 @@
 | ert-expectations  | wiki needed by non-wiki |
 | filladapt         | upstream unresponsive   |
 | findr             | wiki needed by non-wiki |
+| helm-css-scss     | dropped by maintainer   |
 | helm-ls-svn       | semi-automatic import   |
+| helm-swoop        | dropped by maintainer   |
 | hide-lines        | wiki needed by non-wiki |
 | http-post-simple  | wiki needed by non-wiki |
 | hyperspec         | multiple non-upstreams  |
@@ -236,6 +238,7 @@
 | look-mode         | wiki needed by non-wiki |
 | magit-stgit       | dropped by maintainer   |
 | magit-svn         | dropped by maintainer   |
+| manage-minor-mode | dropped by maintainer   |
 | miniedit          | upstream disappeared    |
 | multi-term        | wiki needed by non-wiki |
 | nxhtml            | semi-automatic import   |
@@ -243,10 +246,12 @@
 | org-bullets       | upstream unresponsive   |
 | org-grep          | maintainer is dead      |
 | osd               | upstream disappeared    |
+| ov                | dropped by maintainer   |
 | pager             | upstream disappeared    |
 | picolisp          | manual tarball import   |
 | pointback         | upstream disappeared    |
 | read-char-spec    | upstream unresponsive   |
+| readability       | dropped by maintainer   |
 | ruby-additional   | semi-automatic import   |
 | session           | manual tarball import   |
 | setnu             | upstream unresponsive   |
@@ -256,6 +261,7 @@
 | smarty-mode       | upstream disappeared    |
 | sml-modeline      | manual tarball import   |
 | sr-speedbar       | wiki needed by non-wiki |
+| swoop             | dropped by maintainer   |
 | tail              | upstream disappeared    |
 | tex-smart-umlauts | semi-automatic import   |
 | text-translator   | semi-automatic import   |
