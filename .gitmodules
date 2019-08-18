@@ -1161,6 +1161,9 @@
 [submodule "baidu-life"]
 	path = attic/baidu-life
 	url = git@github.com:emacsattic/baidu-life.git
+[submodule "baidu-translate"]
+	path = mirror/baidu-translate
+	url = git@github.com:emacsmirror/baidu-translate.git
 [submodule "bang"]
 	path = mirror/bang
 	url = git@github.com:emacsmirror/bang.git
@@ -2287,6 +2290,9 @@
 [submodule "clang-format"]
 	path = mirror/clang-format
 	url = git@github.com:emacsmirror/clang-format.git
+[submodule "clang-format+"]
+	path = mirror/clang-format+
+	url = git@github.com:emacsmirror/clang-format-plus.git
 [submodule "clang-lookup"]
 	path = mirror/clang-lookup
 	url = git@github.com:emacsmirror/clang-lookup.git
@@ -2715,6 +2721,9 @@
 [submodule "company-flx"]
 	path = mirror/company-flx
 	url = git@github.com:emacsmirror/company-flx.git
+[submodule "company-fuzzy"]
+	path = mirror/company-fuzzy
+	url = git@github.com:emacsmirror/company-fuzzy.git
 [submodule "company-ghc"]
 	path = mirror/company-ghc
 	url = git@github.com:emacsmirror/company-ghc.git
@@ -3449,6 +3458,9 @@
 [submodule "dart-mode"]
 	path = mirror/dart-mode
 	url = git@github.com:emacsmirror/dart-mode.git
+[submodule "dart-server"]
+	path = mirror/dart-server
+	url = git@github.com:emacsmirror/dart-server.git
 [submodule "dash"]
 	path = mirror/dash
 	url = git@github.com:emacsmirror/dash.git
@@ -4603,6 +4615,9 @@
 [submodule "edts"]
 	path = mirror/edts
 	url = git@github.com:emacsmirror/edts.git
+[submodule "edwin"]
+	path = mirror/edwin
+	url = git@github.com:emacsmirror/edwin.git
 [submodule "ee"]
 	path = mirror/ee
 	url = git@github.com:emacsmirror/ee.git
@@ -5829,6 +5844,9 @@
 	path = mirror/evil-org
 	url = git@github.com:emacsmirror/evil-org.git
 	branch = master
+[submodule "evil-owl"]
+	path = mirror/evil-owl
+	url = git@github.com:emacsmirror/evil-owl.git
 [submodule "evil-paredit"]
 	path = mirror/evil-paredit
 	url = git@github.com:emacsmirror/evil-paredit.git
@@ -6027,6 +6045,9 @@
 [submodule "exwm-firefox-evil"]
 	path = mirror/exwm-firefox-evil
 	url = git@github.com:emacsmirror/exwm-firefox-evil.git
+[submodule "exwm-mff"]
+	path = mirror/exwm-mff
+	url = git@github.com:emacsmirror/exwm-mff.git
 [submodule "exwm-surf"]
 	path = mirror/exwm-surf
 	url = git@github.com:emacsmirror/exwm-surf.git
@@ -6081,6 +6102,9 @@
 [submodule "face-remap+"]
 	path = mirror/face-remap+
 	url = git@github.com:emacsmirror/face-remap-plus.git
+[submodule "face-shift"]
+	path = mirror/face-shift
+	url = git@github.com:emacsmirror/face-shift.git
 [submodule "facemenu+"]
 	path = mirror/facemenu+
 	url = git@github.com:emacsmirror/facemenu-plus.git
@@ -7296,6 +7320,9 @@
 [submodule "futhark-mode"]
 	path = mirror/futhark-mode
 	url = git@github.com:emacsmirror/futhark-mode.git
+[submodule "fuz"]
+	path = mirror/fuz
+	url = git@github.com:emacsmirror/fuz.git
 [submodule "fuzz"]
 	path = mirror/fuzz
 	url = git@github.com:emacsmirror/fuzz.git
@@ -8190,6 +8217,9 @@
 [submodule "grin"]
 	path = mirror/grin
 	url = git@github.com:emacsmirror/grin.git
+[submodule "grip-mode"]
+	path = mirror/grip-mode
+	url = git@github.com:emacsmirror/grip-mode.git
 [submodule "grizzl"]
 	path = mirror/grizzl
 	url = git@github.com:emacsmirror/grizzl.git
@@ -10200,6 +10230,9 @@
 	path = mirror/ivy
 	url = git@github.com:emacsmirror/ivy.git
 	branch = master
+[submodule "ivy-clojuredocs"]
+	path = mirror/ivy-clojuredocs
+	url = git@github.com:emacsmirror/ivy-clojuredocs.git
 [submodule "ivy-dired-history"]
 	path = mirror/ivy-dired-history
 	url = git@github.com:emacsmirror/ivy-dired-history.git
@@ -10600,6 +10633,9 @@
 	path = mirror/json-navigator
 	url = git@github.com:emacsmirror/json-navigator.git
 	branch = master
+[submodule "json-process-client"]
+	path = mirror/json-process-client
+	url = git@github.com:emacsmirror/json-process-client.git
 [submodule "json-reformat"]
 	path = mirror/json-reformat
 	url = git@github.com:emacsmirror/json-reformat.git
@@ -10708,6 +10744,9 @@
 [submodule "kanji-mode"]
 	path = mirror/kanji-mode
 	url = git@github.com:emacsmirror/kanji-mode.git
+[submodule "kaocha-runner"]
+	path = mirror/kaocha-runner
+	url = git@github.com:emacsmirror/kaocha-runner.git
 [submodule "kaolin-themes"]
 	path = mirror/kaolin-themes
 	url = git@github.com:emacsmirror/kaolin-themes.git
@@ -11291,6 +11330,9 @@
 	path = mirror/liso-theme
 	url = git@github.com:emacsmirror/liso-theme.git
 	branch = master
+[submodule "lisp-butt-mode"]
+	path = mirror/lisp-butt-mode
+	url = git@github.com:emacsmirror/lisp-butt-mode.git
 [submodule "lisp-editing"]
 	path = mirror/lisp-editing
 	url = git@github.com:emacsmirror/lisp-editing.git
@@ -11786,6 +11828,9 @@
 [submodule "magit-tramp"]
 	path = attic/magit-tramp
 	url = git@github.com:emacsattic/magit-tramp.git
+[submodule "magit-vcsh"]
+	path = mirror/magit-vcsh
+	url = git@github.com:emacsmirror/magit-vcsh.git
 [submodule "magit-view-file"]
 	path = mirror/magit-view-file
 	url = git@github.com:emacsmirror/magit-view-file.git
@@ -11965,6 +12010,9 @@
 [submodule "mark-select"]
 	path = mirror/mark-select
 	url = git@github.com:emacsmirror/mark-select.git
+[submodule "mark-thing-at"]
+	path = mirror/mark-thing-at
+	url = git@github.com:emacsmirror/mark-thing-at.git
 [submodule "mark-tools"]
 	path = mirror/mark-tools
 	url = git@github.com:emacsmirror/mark-tools.git
@@ -12276,6 +12324,9 @@
 	path = mirror/mini-header-line
 	url = git@github.com:emacsmirror/mini-header-line.git
 	branch = master
+[submodule "mini-modeline"]
+	path = mirror/mini-modeline
+	url = git@github.com:emacsmirror/mini-modeline.git
 [submodule "minibuf-isearch"]
 	path = mirror/minibuf-isearch
 	url = git@github.com:emacsmirror/minibuf-isearch.git
@@ -12598,6 +12649,9 @@
 [submodule "mozc"]
 	path = mirror/mozc
 	url = git@github.com:emacsmirror/mozc.git
+[submodule "mozc-cand-posframe"]
+	path = mirror/mozc-cand-posframe
+	url = git@github.com:emacsmirror/mozc-cand-posframe.git
 [submodule "mozc-im"]
 	path = mirror/mozc-im
 	url = git@github.com:emacsmirror/mozc-im.git
@@ -12997,6 +13051,9 @@
 [submodule "navi2ch"]
 	path = mirror/navi2ch
 	url = git@github.com:emacsmirror/navi2ch.git
+[submodule "navigel"]
+	path = mirror/navigel
+	url = git@github.com:emacsmirror/navigel.git
 [submodule "navorski"]
 	path = mirror/navorski
 	url = git@github.com:emacsmirror/navorski.git
@@ -13788,6 +13845,9 @@
 [submodule "org-alert"]
 	path = mirror/org-alert
 	url = git@github.com:emacsmirror/org-alert.git
+[submodule "org-analyzer"]
+	path = mirror/org-analyzer
+	url = git@github.com:emacsmirror/org-analyzer.git
 [submodule "org-assoc-tags"]
 	path = mirror/org-assoc-tags
 	url = git@github.com:emacsmirror/org-assoc-tags.git
@@ -16033,6 +16093,9 @@
 [submodule "python"]
 	path = mirror/python
 	url = git@github.com:emacsmirror/python.git
+[submodule "python-black"]
+	path = mirror/python-black
+	url = git@github.com:emacsmirror/python-black.git
 [submodule "python-cell"]
 	path = mirror/python-cell
 	url = git@github.com:emacsmirror/python-cell.git
@@ -19099,6 +19162,9 @@
 [submodule "tern-django"]
 	path = attic/tern-django
 	url = git@github.com:emacsattic/tern-django.git
+[submodule "terraform-doc"]
+	path = mirror/terraform-doc
+	url = git@github.com:emacsmirror/terraform-doc.git
 [submodule "terraform-mode"]
 	path = mirror/terraform-mode
 	url = git@github.com:emacsmirror/terraform-mode.git
@@ -20097,6 +20163,9 @@
 [submodule "vcomp"]
 	path = mirror/vcomp
 	url = git@github.com:emacsmirror/vcomp.git
+[submodule "vcsh"]
+	path = mirror/vcsh
+	url = git@github.com:emacsmirror/vcsh.git
 [submodule "vdiff"]
 	path = mirror/vdiff
 	url = git@github.com:emacsmirror/vdiff.git
@@ -20740,6 +20809,9 @@
 [submodule "wisi"]
 	path = mirror/wisi
 	url = git@github.com:emacsmirror/wisi.git
+[submodule "wisitoken-grammar-mode"]
+	path = mirror/wisitoken-grammar-mode
+	url = git@github.com:emacsmirror/wisitoken-grammar-mode.git
 [submodule "wisp-mode"]
 	path = mirror/wisp-mode
 	url = git@github.com:emacsmirror/wisp-mode.git
@@ -21426,6 +21498,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "wisitoken-grammar-mode"]
-	path = mirror/wisitoken-grammar-mode
-	url = git@github.com:emacsmirror/wisitoken-grammar-mode.git
