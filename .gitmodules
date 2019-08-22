@@ -4615,9 +4615,9 @@
 [submodule "edts"]
 	path = mirror/edts
 	url = git@github.com:emacsmirror/edts.git
-[submodule "edwin"]
-	path = mirror/edwin
-	url = git@github.com:emacsmirror/edwin.git
+[submodule "edwina"]
+	path = mirror/edwina
+	url = git@github.com:emacsmirror/edwina.git
 [submodule "ee"]
 	path = mirror/ee
 	url = git@github.com:emacsmirror/ee.git
