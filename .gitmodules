@@ -10768,6 +10768,9 @@
 [submodule "kbdraw"]
 	path = attic/kbdraw
 	url = git@github.com:emacsattic/kbdraw.git
+[submodule "kconfig-mode"]
+	path = mirror/kconfig-mode
+	url = git@github.com:emacsmirror/kconfig-mode.git
 [submodule "kdeconnect"]
 	path = mirror/kdeconnect
 	url = git@github.com:emacsmirror/kdeconnect.git
