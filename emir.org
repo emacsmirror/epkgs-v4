@@ -207,6 +207,7 @@
 #+NAME: val--emir--orphanage-reason
 | Package           | Reason                  |
 |-------------------+-------------------------|
+| ansible-doc       | dropped by maintainer   |
 | caml              | semi-automatic import   |
 | cg                | semi-automatic import   |
 | clang-format      | semi-automatic import   |
@@ -223,6 +224,7 @@
 | edb               | upstream unresponsive   |
 | elisp-depend      | upstream unresponsive   |
 | ert-expectations  | wiki needed by non-wiki |
+| fancy-battery     | dropped by maintainer   |
 | filladapt         | upstream unresponsive   |
 | findr             | wiki needed by non-wiki |
 | helm-css-scss     | dropped by maintainer   |
@@ -243,12 +245,15 @@
 | multi-term        | wiki needed by non-wiki |
 | nxhtml            | semi-automatic import   |
 | oberon            | upstream unresponsive   |
+| opam              | dropped by maintainer   |
 | org-bullets       | upstream unresponsive   |
 | org-grep          | maintainer is dead      |
 | osd               | upstream disappeared    |
+| osx-trash         | dropped by maintainer   |
 | ov                | dropped by maintainer   |
 | pager             | upstream disappeared    |
 | picolisp          | manual tarball import   |
+| pkg-info          | dropped by maintainer   |
 | pointback         | upstream disappeared    |
 | read-char-spec    | upstream unresponsive   |
 | readability       | dropped by maintainer   |
