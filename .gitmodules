@@ -15262,9 +15262,6 @@
 	path = mirror/picolisp
 	url = git@github.com:emacsmirror/picolisp.git
 	branch = master
-[submodule "picolisp-mode"]
-	path = mirror/picolisp-mode
-	url = git@github.com:emacsmirror/picolisp-mode.git
 [submodule "picolisp-wiki-mode"]
 	path = mirror/picolisp-wiki-mode
 	url = git@github.com:emacsmirror/picolisp-wiki-mode.git
@@ -15398,6 +15395,9 @@
 [submodule "plim-mode"]
 	path = mirror/plim-mode
 	url = git@github.com:emacsmirror/plim-mode.git
+[submodule "plisp-mode"]
+	path = mirror/plisp-mode
+	url = git@github.com:emacsmirror/plisp-mode.git
 [submodule "plone-mode"]
 	path = mirror/plone-mode
 	url = git@github.com:emacsmirror/plone-mode.git
