@@ -3020,6 +3020,9 @@
 	path = mirror/counsel-spotify
 	url = git@github.com:emacsmirror/counsel-spotify.git
 	branch = master
+[submodule "counsel-test"]
+	path = mirror/counsel-test
+	url = git@github.com:emacsmirror/counsel-test.git
 [submodule "counsel-tramp"]
 	path = mirror/counsel-tramp
 	url = git@github.com:emacsmirror/counsel-tramp.git
@@ -9090,6 +9093,9 @@
 	path = mirror/hemisu-theme
 	url = git@github.com:emacsmirror/hemisu-theme.git
 	branch = master
+[submodule "hercules"]
+	path = mirror/hercules
+	url = git@github.com:emacsmirror/hercules.git
 [submodule "heroku"]
 	path = mirror/heroku
 	url = git@github.com:emacsmirror/heroku.git
