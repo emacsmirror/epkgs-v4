@@ -8696,7 +8696,6 @@
 [submodule "helm-frame"]
 	path = mirror/helm-frame
 	url = git@github.com:emacsmirror/helm-frame.git
-	branch = master
 [submodule "helm-fuzzier"]
 	path = mirror/helm-fuzzier
 	url = git@github.com:emacsmirror/helm-fuzzier.git
