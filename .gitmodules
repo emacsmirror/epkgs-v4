@@ -497,6 +497,9 @@
 [submodule "anki-mode"]
 	path = mirror/anki-mode
 	url = git@github.com:emacsmirror/anki-mode.git
+[submodule "annalist"]
+	path = mirror/annalist
+	url = git@github.com:emacsmirror/annalist.git
 [submodule "annot"]
 	path = attic/annot
 	url = git@github.com:emacsattic/annot.git
@@ -760,6 +763,9 @@
 	path = mirror/assess
 	url = git@github.com:emacsmirror/assess.git
 	branch = master
+[submodule "asx"]
+	path = mirror/asx
+	url = git@github.com:emacsmirror/asx.git
 [submodule "async"]
 	path = mirror/async
 	url = git@github.com:emacsmirror/async.git
@@ -1164,6 +1170,9 @@
 [submodule "baidu-translate"]
 	path = mirror/baidu-translate
 	url = git@github.com:emacsmirror/baidu-translate.git
+[submodule "balanced-windows"]
+	path = mirror/balanced-windows
+	url = git@github.com:emacsmirror/balanced-windows.git
 [submodule "bang"]
 	path = mirror/bang
 	url = git@github.com:emacsmirror/bang.git
@@ -8699,6 +8708,9 @@
 [submodule "helm-fuzzier"]
 	path = mirror/helm-fuzzier
 	url = git@github.com:emacsmirror/helm-fuzzier.git
+[submodule "helm-fuzzy"]
+	path = mirror/helm-fuzzy
+	url = git@github.com:emacsmirror/helm-fuzzy.git
 [submodule "helm-fuzzy-find"]
 	path = mirror/helm-fuzzy-find
 	url = git@github.com:emacsmirror/helm-fuzzy-find.git
@@ -14156,6 +14168,9 @@
 [submodule "org-pdfview"]
 	path = mirror/org-pdfview
 	url = git@github.com:emacsmirror/org-pdfview.git
+[submodule "org-picklink"]
+	path = mirror/org-picklink
+	url = git@github.com:emacsmirror/org-picklink.git
 [submodule "org-pivotal"]
 	path = mirror/org-pivotal
 	url = git@github.com:emacsmirror/org-pivotal.git
@@ -14301,6 +14316,9 @@
 	path = mirror/org-table-sticky-header
 	url = git@github.com:emacsmirror/org-table-sticky-header.git
 	branch = master
+[submodule "org-tanglesync"]
+	path = mirror/org-tanglesync
+	url = git@github.com:emacsmirror/org-tanglesync.git
 [submodule "org-tfl"]
 	path = mirror/org-tfl
 	url = git@github.com:emacsmirror/org-tfl.git
@@ -16518,6 +16536,9 @@
 [submodule "realplay"]
 	path = attic/realplay
 	url = git@github.com:emacsattic/realplay.git
+[submodule "reaper"]
+	path = mirror/reaper
+	url = git@github.com:emacsmirror/reaper.git
 [submodule "reason-mode"]
 	path = mirror/reason-mode
 	url = git@github.com:emacsmirror/reason-mode.git
