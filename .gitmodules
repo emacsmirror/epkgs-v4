@@ -4015,6 +4015,9 @@
 [submodule "disptime"]
 	path = attic/disptime
 	url = git@github.com:emacsattic/disptime.git
+[submodule "dispwatch"]
+	path = mirror/dispwatch
+	url = git@github.com:emacsmirror/dispwatch.git
 [submodule "dist-file-mode"]
 	path = mirror/dist-file-mode
 	url = git@github.com:emacsmirror/dist-file-mode.git
@@ -9406,6 +9409,9 @@
 [submodule "howdoi"]
 	path = mirror/howdoi
 	url = git@github.com:emacsmirror/howdoi.git
+[submodule "howdoyou"]
+	path = mirror/howdoyou
+	url = git@github.com:emacsmirror/howdoyou.git
 [submodule "howm"]
 	path = mirror/howm
 	url = git@github.com:emacsmirror/howm.git
@@ -11245,6 +11251,9 @@
 [submodule "lib-requires"]
 	path = mirror/lib-requires
 	url = git@github.com:emacsmirror/lib-requires.git
+[submodule "libbasecampel"]
+	path = mirror/libbasecampel
+	url = git@github.com:emacsmirror/libbasecampel.git
 [submodule "libelcouch"]
 	path = mirror/libelcouch
 	url = git@github.com:emacsmirror/libelcouch.git
@@ -15733,6 +15742,9 @@
 [submodule "prg-comment"]
 	path = attic/prg-comment
 	url = git@github.com:emacsattic/prg-comment.git
+[submodule "prism"]
+	path = mirror/prism
+	url = git@github.com:emacsmirror/prism.git
 [submodule "private"]
 	path = mirror/private
 	url = git@github.com:emacsmirror/private.git
@@ -16392,6 +16404,9 @@
 [submodule "rbt"]
 	path = mirror/rbt
 	url = git@github.com:emacsmirror/rbt.git
+[submodule "rbtagger"]
+	path = mirror/rbtagger
+	url = git@github.com:emacsmirror/rbtagger.git
 [submodule "rc-mode"]
 	path = mirror/rc-mode
 	url = git@github.com:emacsmirror/rc-mode.git
@@ -18565,6 +18580,9 @@
 [submodule "stock-ticker"]
 	path = mirror/stock-ticker
 	url = git@github.com:emacsmirror/stock-ticker.git
+[submodule "stock-tracker"]
+	path = mirror/stock-tracker
+	url = git@github.com:emacsmirror/stock-tracker.git
 [submodule "strace-mode"]
 	path = mirror/strace-mode
 	url = git@github.com:emacsmirror/strace-mode.git
@@ -18996,6 +19014,9 @@
 [submodule "taskpaper-mode"]
 	path = mirror/taskpaper-mode
 	url = git@github.com:emacsmirror/taskpaper-mode.git
+[submodule "taskrunner"]
+	path = mirror/taskrunner
+	url = git@github.com:emacsmirror/taskrunner.git
 [submodule "tawny-mode"]
 	path = mirror/tawny-mode
 	url = git@github.com:emacsmirror/tawny-mode.git
