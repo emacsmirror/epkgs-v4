@@ -18894,6 +18894,9 @@
 [submodule "syslog"]
 	path = attic/syslog
 	url = git@github.com:emacsattic/syslog.git
+[submodule "syslog-mode"]
+	path = mirror/syslog-mode
+	url = git@github.com:emacsmirror/syslog-mode.git
 [submodule "system-packages"]
 	path = mirror/system-packages
 	url = git@github.com:emacsmirror/system-packages.git
