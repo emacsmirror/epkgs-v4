@@ -16114,8 +16114,8 @@
 	path = mirror/pylookup
 	url = git@github.com:emacsmirror/pylookup.git
 [submodule "pymacs"]
-	path = attic/pymacs
-	url = git@github.com:emacsattic/pymacs.git
+	path = mirror/pymacs
+	url = git@github.com:emacsmirror/pymacs.git
 [submodule "pynt"]
 	path = mirror/pynt
 	url = git@github.com:emacsmirror/pynt.git
