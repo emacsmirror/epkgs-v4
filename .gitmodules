@@ -1112,6 +1112,9 @@
 [submodule "aws-snippets"]
 	path = mirror/aws-snippets
 	url = git@github.com:emacsmirror/aws-snippets.git
+[submodule "awscli-capf"]
+	path = mirror/awscli-capf
+	url = git@github.com:emacsmirror/awscli-capf.git
 [submodule "axcess"]
 	path = attic/axcess
 	url = git@github.com:emacsattic/axcess.git
@@ -2474,6 +2477,9 @@
 [submodule "cocol"]
 	path = attic/cocol
 	url = git@github.com:emacsattic/cocol.git
+[submodule "codcut"]
+	path = mirror/codcut
+	url = git@github.com:emacsmirror/codcut.git
 [submodule "code-archive"]
 	path = mirror/code-archive
 	url = git@github.com:emacsmirror/code-archive.git
@@ -7245,6 +7251,9 @@
 [submodule "frecency"]
 	path = mirror/frecency
 	url = git@github.com:emacsmirror/frecency.git
+[submodule "frecentf"]
+	path = mirror/frecentf
+	url = git@github.com:emacsmirror/frecentf.git
 [submodule "free-keys"]
 	path = mirror/free-keys
 	url = git@github.com:emacsmirror/free-keys.git
@@ -10625,6 +10634,9 @@
 [submodule "js-lookup"]
 	path = mirror/js-lookup
 	url = git@github.com:emacsmirror/js-lookup.git
+[submodule "js-react-redux-yasnippets"]
+	path = mirror/js-react-redux-yasnippets
+	url = git@github.com:emacsmirror/js-react-redux-yasnippets.git
 [submodule "js2-closure"]
 	path = mirror/js2-closure
 	url = git@github.com:emacsmirror/js2-closure.git
