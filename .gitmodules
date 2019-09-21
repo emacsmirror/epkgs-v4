@@ -11272,9 +11272,9 @@
 [submodule "lib-requires"]
 	path = mirror/lib-requires
 	url = git@github.com:emacsmirror/lib-requires.git
-[submodule "libbasecampel"]
-	path = mirror/libbasecampel
-	url = git@github.com:emacsmirror/libbasecampel.git
+[submodule "libbcel"]
+	path = mirror/libbcel
+	url = git@github.com:emacsmirror/libbcel.git
 [submodule "libelcouch"]
 	path = mirror/libelcouch
 	url = git@github.com:emacsmirror/libelcouch.git
