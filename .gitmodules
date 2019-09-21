@@ -2611,6 +2611,9 @@
 [submodule "comicscript"]
 	path = mirror/comicscript
 	url = git@github.com:emacsmirror/comicscript.git
+[submodule "comint-hyperlink"]
+	path = mirror/comint-hyperlink
+	url = git@github.com:emacsmirror/comint-hyperlink.git
 [submodule "comint-intercept"]
 	path = mirror/comint-intercept
 	url = git@github.com:emacsmirror/comint-intercept.git
@@ -3816,6 +3819,9 @@
 [submodule "diminish"]
 	path = mirror/diminish
 	url = git@github.com:emacsmirror/diminish.git
+[submodule "diminish-buffer"]
+	path = mirror/diminish-buffer
+	url = git@github.com:emacsmirror/diminish-buffer.git
 [submodule "dimmer"]
 	path = mirror/dimmer
 	url = git@github.com:emacsmirror/dimmer.git
@@ -5112,6 +5118,9 @@
 [submodule "emacsql"]
 	path = mirror/emacsql
 	url = git@github.com:emacsmirror/emacsql.git
+[submodule "emacsql-sqlite3"]
+	path = mirror/emacsql-sqlite3
+	url = git@github.com:emacsmirror/emacsql-sqlite3.git
 [submodule "emacsserver"]
 	path = attic/emacsserver
 	url = git@github.com:emacsattic/emacsserver.git
@@ -13274,6 +13283,9 @@
 [submodule "nmodl"]
 	path = attic/nmodl
 	url = git@github.com:emacsattic/nmodl.git
+[submodule "nnhackernews"]
+	path = mirror/nnhackernews
+	url = git@github.com:emacsmirror/nnhackernews.git
 [submodule "nnir-est"]
 	path = mirror/nnir-est
 	url = git@github.com:emacsmirror/nnir-est.git
@@ -20895,6 +20907,9 @@
 [submodule "with-namespace"]
 	path = mirror/with-namespace
 	url = git@github.com:emacsmirror/with-namespace.git
+[submodule "with-proxy"]
+	path = mirror/with-proxy
+	url = git@github.com:emacsmirror/with-proxy.git
 [submodule "with-saved-messages"]
 	path = attic/with-saved-messages
 	url = git@github.com:emacsattic/with-saved-messages.git
