@@ -316,6 +316,9 @@
 [submodule "agtags"]
 	path = mirror/agtags
 	url = git@github.com:emacsmirror/agtags.git
+[submodule "ah"]
+	path = mirror/ah
+	url = git@github.com:emacsmirror/ah.git
 [submodule "ahg"]
 	path = mirror/ahg
 	url = git@github.com:emacsmirror/ahg.git
@@ -2871,6 +2874,9 @@
 [submodule "composer"]
 	path = mirror/composer
 	url = git@github.com:emacsmirror/composer.git
+[submodule "comware-router-mode"]
+	path = mirror/comware-router-mode
+	url = git@github.com:emacsmirror/comware-router-mode.git
 [submodule "conda"]
 	path = mirror/conda
 	url = git@github.com:emacsmirror/conda.git
@@ -6163,6 +6169,9 @@
 [submodule "fancy-battery"]
 	path = mirror/fancy-battery
 	url = git@github.com:emacsmirror/fancy-battery.git
+[submodule "fancy-dabbrev"]
+	path = mirror/fancy-dabbrev
+	url = git@github.com:emacsmirror/fancy-dabbrev.git
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = git@github.com:emacsmirror/fancy-narrow.git
@@ -6176,6 +6185,9 @@
 [submodule "fasm-mode"]
 	path = attic/fasm-mode
 	url = git@github.com:emacsattic/fasm-mode.git
+[submodule "fast-scroll"]
+	path = mirror/fast-scroll
+	url = git@github.com:emacsmirror/fast-scroll.git
 [submodule "fastdef"]
 	path = mirror/fastdef
 	url = git@github.com:emacsmirror/fastdef.git
@@ -8699,6 +8711,9 @@
 [submodule "helm-exwm"]
 	path = mirror/helm-exwm
 	url = git@github.com:emacsmirror/helm-exwm.git
+[submodule "helm-fd"]
+	path = mirror/helm-fd
+	url = git@github.com:emacsmirror/helm-fd.git
 [submodule "helm-file-preview"]
 	path = mirror/helm-file-preview
 	url = git@github.com:emacsmirror/helm-file-preview.git
@@ -9384,6 +9399,9 @@
 [submodule "hmac"]
 	path = mirror/hmac
 	url = git@github.com:emacsmirror/hmac.git
+[submodule "hnreader"]
+	path = mirror/hnreader
+	url = git@github.com:emacsmirror/hnreader.git
 [submodule "hoa-mode"]
 	path = mirror/hoa-mode
 	url = git@github.com:emacsmirror/hoa-mode.git
@@ -13639,6 +13657,9 @@
 	path = mirror/ob-sql-mode
 	url = git@github.com:emacsmirror/ob-sql-mode.git
 	branch = master
+[submodule "ob-svgbob"]
+	path = mirror/ob-svgbob
+	url = git@github.com:emacsmirror/ob-svgbob.git
 [submodule "ob-swift"]
 	path = mirror/ob-swift
 	url = git@github.com:emacsmirror/ob-swift.git
@@ -14310,6 +14331,9 @@
 [submodule "org-shoplist"]
 	path = mirror/org-shoplist
 	url = git@github.com:emacsmirror/org-shoplist.git
+[submodule "org-sidebar"]
+	path = mirror/org-sidebar
+	url = git@github.com:emacsmirror/org-sidebar.git
 [submodule "org-site"]
 	path = attic/org-site
 	url = git@github.com:emacsattic/org-site.git
@@ -18807,6 +18831,9 @@
 [submodule "sweetgreen"]
 	path = mirror/sweetgreen
 	url = git@github.com:emacsmirror/sweetgreen.git
+[submodule "swift-helpful"]
+	path = mirror/swift-helpful
+	url = git@github.com:emacsmirror/swift-helpful.git
 [submodule "swift-mode"]
 	path = mirror/swift-mode
 	url = git@github.com:emacsmirror/swift-mode.git
