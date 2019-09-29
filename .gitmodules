@@ -435,8 +435,8 @@
 	path = attic/amigo
 	url = git@github.com:emacsattic/amigo.git
 [submodule "amixer"]
-	path = mirror/amixer
-	url = git@github.com:emacsmirror/amixer.git
+	path = attic/amixer
+	url = git@github.com:emacsattic/amixer.git
 [submodule "aml-mode"]
 	path = mirror/aml-mode
 	url = git@github.com:emacsmirror/aml-mode.git
@@ -5302,8 +5302,8 @@
 	path = mirror/enscript
 	url = git@github.com:emacsmirror/enscript.git
 [submodule "ensime"]
-	path = mirror/ensime
-	url = git@github.com:emacsmirror/ensime.git
+	path = attic/ensime
+	url = git@github.com:emacsattic/ensime.git
 [submodule "env-print"]
 	path = attic/env-print
 	url = git@github.com:emacsattic/env-print.git
@@ -6714,8 +6714,8 @@
 	path = mirror/flycheck-elsa
 	url = git@github.com:emacsmirror/flycheck-elsa.git
 [submodule "flycheck-ensime"]
-	path = mirror/flycheck-ensime
-	url = git@github.com:emacsmirror/flycheck-ensime.git
+	path = attic/flycheck-ensime
+	url = git@github.com:emacsattic/flycheck-ensime.git
 [submodule "flycheck-flawfinder"]
 	path = mirror/flycheck-flawfinder
 	url = git@github.com:emacsmirror/flycheck-flawfinder.git
@@ -17329,7 +17329,6 @@
 [submodule "scala-mode"]
 	path = mirror/scala-mode
 	url = git@github.com:emacsmirror/scala-mode.git
-	branch = master
 [submodule "scalariform"]
 	path = mirror/scalariform
 	url = git@github.com:emacsmirror/scalariform.git
