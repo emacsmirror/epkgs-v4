@@ -410,6 +410,9 @@
 [submodule "alossage"]
 	path = attic/alossage
 	url = git@github.com:emacsattic/alossage.git
+[submodule "alsamixer"]
+	path = mirror/alsamixer
+	url = git@github.com:emacsmirror/alsamixer.git
 [submodule "alt-codes"]
 	path = mirror/alt-codes
 	url = git@github.com:emacsmirror/alt-codes.git
@@ -2834,6 +2837,9 @@
 [submodule "compare-windows-interactively"]
 	path = attic/compare-windows-interactively
 	url = git@github.com:emacsattic/compare-windows-interactively.git
+[submodule "compdef"]
+	path = mirror/compdef
+	url = git@github.com:emacsmirror/compdef.git
 [submodule "compilation-always-kill"]
 	path = mirror/compilation-always-kill
 	url = git@github.com:emacsmirror/compilation-always-kill.git
