@@ -11683,6 +11683,9 @@
 [submodule "lsp-javascript-typescript"]
 	path = attic/lsp-javascript-typescript
 	url = git@github.com:emacsattic/lsp-javascript-typescript.git
+[submodule "lsp-julia"]
+	path = mirror/lsp-julia
+	url = git@github.com:emacsmirror/lsp-julia.git
 [submodule "lsp-mode"]
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
