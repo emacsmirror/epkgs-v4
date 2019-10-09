@@ -5683,6 +5683,9 @@
 [submodule "eterm-256color"]
 	path = mirror/eterm-256color
 	url = git@github.com:emacsmirror/eterm-256color.git
+[submodule "eterm-fn"]
+	path = mirror/eterm-fn
+	url = git@github.com:emacsmirror/eterm-fn.git
 [submodule "etest"]
 	path = mirror/etest
 	url = git@github.com:emacsmirror/etest.git
