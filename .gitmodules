@@ -19675,7 +19675,6 @@
 [submodule "toxi-theme"]
 	path = mirror/toxi-theme
 	url = git@github.com:emacsmirror/toxi-theme.git
-	branch = master
 [submodule "tpum"]
 	path = attic/tpum
 	url = git@github.com:emacsattic/tpum.git
