@@ -187,17 +187,16 @@
 | ert-runner            | not a library [[https://github.com/rejeep/ert-runner.el/pull/16][#16]]          |
 | eziam-theme           | two-variant theme          |
 | farmhouse-theme       | two-variant theme [[https://github.com/mattly/emacs-farmhouse-theme/pull/3][#3]]       |
+| git-undo              | defect, pending [[https://github.com/jwiegley/git-undo-el/pull/2][#2]]         |
 | html5                 | no/mismatched main library |
 | literate-starter-kit  | not a package              |
 | majapahit-theme       | two-variant theme [[https://gitlab.com/franksn/majapahit-theme/merge_requests/1][#1]]       |
 | ne2wm                 | no/mismatched main library |
 | omtose-phellack-theme | two-variant theme          |
-| profile-dotemacs      | no feature                 |
 | punpun-theme          | two-variant theme [[https://github.com/wasamasa/punpun-theme/pull/7][#7]]       |
 | spacemacs-theme       | two-variant theme [[https://github.com/nashamri/spacemacs-theme/pull/63][#63]]      |
-| tao-theme             | two-variant theme [[https://github.com/11111000000/tao-theme-emacs/pull/17][#17]]      |
 | ultratex              | no/mismatched main library |
-| uni-confusables       | no feature [[http://debbugs.gnu.org/cgi/bugreport.cgi?bug=24517][debbugs#24517]]   |
+| uni-confusables       | generated                  |
 
 * Set ~emir--orphanage-reason~
 #+NAME: set--emir--orphanage-reason
