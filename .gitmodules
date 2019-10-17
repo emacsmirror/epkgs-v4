@@ -5091,8 +5091,8 @@
 	path = attic/emacs-name
 	url = git@github.com:emacsattic/emacs-name.git
 [submodule "emacs-setup"]
-	path = mirror/emacs-setup
-	url = git@github.com:emacsmirror/emacs-setup.git
+	path = attic/emacs-setup
+	url = git@github.com:emacsattic/emacs-setup.git
 [submodule "emacs-speaks-nonmem"]
 	path = mirror/emacs-speaks-nonmem
 	url = git@github.com:emacsmirror/emacs-speaks-nonmem.git
@@ -5115,8 +5115,8 @@
 	path = attic/emacs-xcode
 	url = git@github.com:emacsattic/emacs-xcode.git
 [submodule "emacsagist"]
-	path = mirror/emacsagist
-	url = git@github.com:emacsmirror/emacsagist.git
+	path = attic/emacsagist
+	url = git@github.com:emacsattic/emacsagist.git
 [submodule "emacsc"]
 	path = mirror/emacsc
 	url = git@github.com:emacsmirror/emacsc.git
@@ -13042,8 +13042,8 @@
 	url = git@github.com:emacsmirror/mysql-to-org.git
 	branch = master
 [submodule "mysql2sqlite"]
-	path = mirror/mysql2sqlite
-	url = git@github.com:emacsmirror/mysql2sqlite.git
+	path = attic/mysql2sqlite
+	url = git@github.com:emacsattic/mysql2sqlite.git
 [submodule "myterminal-controls"]
 	path = mirror/myterminal-controls
 	url = git@github.com:emacsmirror/myterminal-controls.git
