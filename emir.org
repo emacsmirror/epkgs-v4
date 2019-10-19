@@ -31,10 +31,11 @@
   (emir--save-variable 'emir-suspended-packages value)
 #+END_SRC
 #+NAME: val--emir-suspended-packages
-| Package | Reason |
-|---------+--------|
-| icicles | fails  |
+| Package | Reason    |
+|---------+-----------|
+| icicles | heisenbug |
 
+It freezes except when I try to investigate why it freezes.
 
 * Set ~emir-secondary-packages~
 #+NAME: set--emir-secondary-packages
@@ -152,6 +153,7 @@
 | autotest            | all-in-one repo     |
 | bibliothek          | all-in-one repo     |
 | cfengine-code-style | mostly non-elisp    |
+| clang-format        | mostly non-elisp    |
 | cmake-mode          | mostly non-elisp    |
 | cython-mode         | mostly non-elisp    |
 | diffscuss-mode      | mostly non-elisp    |

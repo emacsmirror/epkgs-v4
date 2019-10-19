@@ -12342,9 +12342,6 @@
 [submodule "metascript-mode"]
 	path = mirror/metascript-mode
 	url = git@github.com:emacsmirror/metascript-mode.git
-[submodule "metaweblog"]
-	path = mirror/metaweblog
-	url = git@github.com:emacsmirror/metaweblog.git
 [submodule "mew"]
 	path = mirror/mew
 	url = git@github.com:emacsmirror/mew.git
