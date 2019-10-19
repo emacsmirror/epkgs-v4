@@ -3776,6 +3776,9 @@
 [submodule "dictionary"]
 	path = mirror/dictionary
 	url = git@github.com:emacsmirror/dictionary.git
+[submodule "didyoumean"]
+	path = mirror/didyoumean
+	url = git@github.com:emacsmirror/didyoumean.git
 [submodule "diff+"]
 	path = mirror/diff+
 	url = git@github.com:emacsmirror/diff-plus.git
