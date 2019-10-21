@@ -4997,6 +4997,9 @@
 	path = mirror/elpa-clone
 	url = git@github.com:emacsmirror/elpa-clone.git
 	branch = master
+[submodule "elpa-deploy"]
+	path = mirror/elpa-deploy
+	url = git@github.com:emacsmirror/elpa-deploy.git
 [submodule "elpa-mirror"]
 	path = mirror/elpa-mirror
 	url = git@github.com:emacsmirror/elpa-mirror.git
@@ -10029,6 +10032,9 @@
 [submodule "info-lookmore"]
 	path = mirror/info-lookmore
 	url = git@github.com:emacsmirror/info-lookmore.git
+[submodule "info-rename-buffer"]
+	path = mirror/info-rename-buffer
+	url = git@github.com:emacsmirror/info-rename-buffer.git
 [submodule "infobook"]
 	path = attic/infobook
 	url = git@github.com:emacsattic/infobook.git
