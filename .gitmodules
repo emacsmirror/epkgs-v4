@@ -8449,6 +8449,9 @@
 [submodule "handhold"]
 	path = attic/handhold
 	url = git@github.com:emacsattic/handhold.git
+[submodule "handle"]
+	path = mirror/handle
+	url = git@github.com:emacsmirror/handle.git
 [submodule "handlebars-mode"]
 	path = mirror/handlebars-mode
 	url = git@github.com:emacsmirror/handlebars-mode.git
@@ -19703,6 +19706,9 @@
 [submodule "tramp"]
 	path = mirror/tramp
 	url = git@github.com:emacsmirror/tramp.git
+[submodule "tramp-auto-auth"]
+	path = mirror/tramp-auto-auth
+	url = git@github.com:emacsmirror/tramp-auto-auth.git
 [submodule "tramp-hdfs"]
 	path = mirror/tramp-hdfs
 	url = git@github.com:emacsmirror/tramp-hdfs.git
