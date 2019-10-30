@@ -2715,6 +2715,9 @@
 	path = mirror/company-coq
 	url = git@github.com:emacsmirror/company-coq.git
 	branch = master
+[submodule "company-ctags"]
+	path = mirror/company-ctags
+	url = git@github.com:emacsmirror/company-ctags.git
 [submodule "company-dcd"]
 	path = mirror/company-dcd
 	url = git@github.com:emacsmirror/company-dcd.git
