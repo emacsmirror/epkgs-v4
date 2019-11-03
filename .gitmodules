@@ -6986,6 +6986,9 @@
 [submodule "flymake-go-staticcheck"]
 	path = mirror/flymake-go-staticcheck
 	url = git@github.com:emacsmirror/flymake-go-staticcheck.git
+[submodule "flymake-golangci"]
+	path = mirror/flymake-golangci
+	url = git@github.com:emacsmirror/flymake-golangci.git
 [submodule "flymake-google-cpplint"]
 	path = mirror/flymake-google-cpplint
 	url = git@github.com:emacsmirror/flymake-google-cpplint.git
@@ -7705,6 +7708,9 @@
 [submodule "git-undo"]
 	path = mirror/git-undo
 	url = git@github.com:emacsmirror/git-undo.git
+[submodule "git-walktree"]
+	path = mirror/git-walktree
+	url = git@github.com:emacsmirror/git-walktree.git
 [submodule "git-wip-timemachine"]
 	path = mirror/git-wip-timemachine
 	url = git@github.com:emacsmirror/git-wip-timemachine.git
@@ -11691,6 +11697,9 @@
 [submodule "lsp-intellij"]
 	path = mirror/lsp-intellij
 	url = git@github.com:emacsmirror/lsp-intellij.git
+[submodule "lsp-ivy"]
+	path = mirror/lsp-ivy
+	url = git@github.com:emacsmirror/lsp-ivy.git
 [submodule "lsp-java"]
 	path = mirror/lsp-java
 	url = git@github.com:emacsmirror/lsp-java.git
@@ -18502,6 +18511,9 @@
 [submodule "sql-presto"]
 	path = mirror/sql-presto
 	url = git@github.com:emacsmirror/sql-presto.git
+[submodule "sql-sqlline"]
+	path = mirror/sql-sqlline
+	url = git@github.com:emacsmirror/sql-sqlline.git
 [submodule "sql-transform"]
 	path = mirror/sql-transform
 	url = git@github.com:emacsmirror/sql-transform.git
@@ -21222,6 +21234,9 @@
 [submodule "xml-event"]
 	path = attic/xml-event
 	url = git@github.com:emacsattic/xml-event.git
+[submodule "xml-format"]
+	path = mirror/xml-format
+	url = git@github.com:emacsmirror/xml-format.git
 [submodule "xml-lite"]
 	path = attic/xml-lite
 	url = git@github.com:emacsattic/xml-lite.git
