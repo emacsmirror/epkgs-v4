@@ -1348,6 +1348,12 @@
 [submodule "bencode"]
 	path = mirror/bencode
 	url = git@github.com:emacsmirror/bencode.git
+[submodule "bento"]
+	path = mirror/bento
+	url = git@github.com:emacsmirror/bento.git
+[submodule "berrys-theme"]
+	path = mirror/berrys-theme
+	url = git@github.com:emacsmirror/berrys-theme.git
 [submodule "bert"]
 	path = mirror/bert
 	url = git@github.com:emacsmirror/bert.git
@@ -9056,6 +9062,9 @@
 [submodule "helm-slime"]
 	path = mirror/helm-slime
 	url = git@github.com:emacsmirror/helm-slime.git
+[submodule "helm-sly"]
+	path = mirror/helm-sly
+	url = git@github.com:emacsmirror/helm-sly.git
 [submodule "helm-smex"]
 	path = mirror/helm-smex
 	url = git@github.com:emacsmirror/helm-smex.git
@@ -19768,6 +19777,9 @@
 [submodule "trashcan"]
 	path = attic/trashcan
 	url = git@github.com:emacsattic/trashcan.git
+[submodule "trashed"]
+	path = mirror/trashed
+	url = git@github.com:emacsmirror/trashed.git
 [submodule "traverselisp"]
 	path = attic/traverselisp
 	url = git@github.com:emacsattic/traverselisp.git
@@ -21551,6 +21563,9 @@
 [submodule "zephir-mode"]
 	path = mirror/zephir-mode
 	url = git@github.com:emacsmirror/zephir-mode.git
+[submodule "zero-input"]
+	path = mirror/zero-input
+	url = git@github.com:emacsmirror/zero-input.git
 [submodule "zerodark-theme"]
 	path = mirror/zerodark-theme
 	url = git@github.com:emacsmirror/zerodark-theme.git
