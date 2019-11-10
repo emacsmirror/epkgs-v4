@@ -1531,6 +1531,9 @@
 [submodule "blorg"]
 	path = attic/blorg
 	url = git@github.com:emacsattic/blorg.git
+[submodule "bluetooth"]
+	path = mirror/bluetooth
+	url = git@github.com:emacsmirror/bluetooth.git
 [submodule "bm"]
 	path = mirror/bm
 	url = git@github.com:emacsmirror/bm.git
@@ -14357,6 +14360,9 @@
 [submodule "org-s5"]
 	path = mirror/org-s5
 	url = git@github.com:emacsmirror/org-s5.git
+[submodule "org-scrum"]
+	path = mirror/org-scrum
+	url = git@github.com:emacsmirror/org-scrum.git
 [submodule "org-search-goto"]
 	path = mirror/org-search-goto
 	url = git@github.com:emacsmirror/org-search-goto.git
@@ -17502,9 +17508,6 @@
 	path = mirror/scrooge
 	url = git@github.com:emacsmirror/scrooge.git
 	branch = master
-[submodule "scrum"]
-	path = mirror/scrum
-	url = git@github.com:emacsmirror/scrum.git
 [submodule "scss-mode"]
 	path = mirror/scss-mode
 	url = git@github.com:emacsmirror/scss-mode.git
@@ -21660,6 +21663,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "bluetooth"]
-	path = mirror/bluetooth
-	url = git@github.com:emacsmirror/bluetooth.git
