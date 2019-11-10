@@ -4288,8 +4288,8 @@
 	path = attic/dragbox
 	url = git@github.com:emacsattic/dragbox.git
 [submodule "drawille"]
-	path = mirror/drawille
-	url = git@github.com:emacsmirror/drawille.git
+	path = attic/drawille
+	url = git@github.com:emacsattic/drawille.git
 [submodule "drill-instructor"]
 	path = mirror/drill-instructor
 	url = git@github.com:emacsmirror/drill-instructor.git
@@ -14137,8 +14137,8 @@
 	path = mirror/org-gnome
 	url = git@github.com:emacsmirror/org-gnome.git
 [submodule "org-gnome-calendar"]
-	path = mirror/org-gnome-calendar
-	url = git@github.com:emacsmirror/org-gnome-calendar.git
+	path = attic/org-gnome-calendar
+	url = git@github.com:emacsattic/org-gnome-calendar.git
 [submodule "org-grep"]
 	path = mirror/org-grep
 	url = git@github.com:emacsmirror/org-grep.git
