@@ -5428,8 +5428,8 @@
 	path = mirror/erc-highlight-nicknames
 	url = git@github.com:emacsmirror/erc-highlight-nicknames.git
 [submodule "erc-hipchatify"]
-	path = mirror/erc-hipchatify
-	url = git@github.com:emacsmirror/erc-hipchatify.git
+	path = attic/erc-hipchatify
+	url = git@github.com:emacsattic/erc-hipchatify.git
 	branch = master
 [submodule "erc-hl-nicks"]
 	path = mirror/erc-hl-nicks
