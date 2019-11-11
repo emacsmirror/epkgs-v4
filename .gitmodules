@@ -10095,7 +10095,6 @@
 [submodule "inkpot-theme"]
 	path = mirror/inkpot-theme
 	url = git@github.com:emacsmirror/inkpot-theme.git
-	branch = master
 [submodule "inktc"]
 	path = attic/inktc
 	url = git@github.com:emacsattic/inktc.git
