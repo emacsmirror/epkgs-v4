@@ -18681,6 +18681,9 @@
 	path = mirror/strace-mode
 	url = git@github.com:emacsmirror/strace-mode.git
 	branch = master
+[submodule "straight"]
+	path = mirror/straight
+	url = git@github.com:emacsmirror/straight.git
 [submodule "stream"]
 	path = mirror/stream
 	url = git@github.com:emacsmirror/stream.git
