@@ -497,6 +497,9 @@
 [submodule "ani-fcsh"]
 	path = attic/ani-fcsh
 	url = git@github.com:emacsattic/ani-fcsh.git
+[submodule "anki-connect"]
+	path = mirror/anki-connect
+	url = git@github.com:emacsmirror/anki-connect.git
 [submodule "anki-editor"]
 	path = mirror/anki-editor
 	url = git@github.com:emacsmirror/anki-editor.git
@@ -1641,6 +1644,9 @@
 [submodule "bravegnuworld-mode"]
 	path = attic/bravegnuworld-mode
 	url = git@github.com:emacsattic/bravegnuworld-mode.git
+[submodule "brazilian-holidays"]
+	path = mirror/brazilian-holidays
+	url = git@github.com:emacsmirror/brazilian-holidays.git
 [submodule "breadcrumb"]
 	path = attic/breadcrumb
 	url = git@github.com:emacsattic/breadcrumb.git
@@ -7820,6 +7826,9 @@
 [submodule "global-modes"]
 	path = attic/global-modes
 	url = git@github.com:emacsattic/global-modes.git
+[submodule "global-tags"]
+	path = mirror/global-tags
+	url = git@github.com:emacsmirror/global-tags.git
 [submodule "globalff"]
 	path = mirror/globalff
 	url = git@github.com:emacsmirror/globalff.git
@@ -14472,6 +14481,9 @@
 [submodule "org-wild-notifier"]
 	path = mirror/org-wild-notifier
 	url = git@github.com:emacsmirror/org-wild-notifier.git
+[submodule "org-working-set"]
+	path = mirror/org-working-set
+	url = git@github.com:emacsmirror/org-working-set.git
 [submodule "org-wunderlist"]
 	path = mirror/org-wunderlist
 	url = git@github.com:emacsmirror/org-wunderlist.git
@@ -20013,6 +20025,9 @@
 [submodule "ultratex"]
 	path = mirror/ultratex
 	url = git@github.com:emacsmirror/ultratex.git
+[submodule "uml-mode"]
+	path = mirror/uml-mode
+	url = git@github.com:emacsmirror/uml-mode.git
 [submodule "umlaute"]
 	path = attic/umlaute
 	url = git@github.com:emacsattic/umlaute.git
@@ -20324,6 +20339,9 @@
 [submodule "vcsh"]
 	path = mirror/vcsh
 	url = git@github.com:emacsmirror/vcsh.git
+[submodule "vdf-mode"]
+	path = mirror/vdf-mode
+	url = git@github.com:emacsmirror/vdf-mode.git
 [submodule "vdiff"]
 	path = mirror/vdiff
 	url = git@github.com:emacsmirror/vdiff.git
