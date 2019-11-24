@@ -10779,8 +10779,8 @@
 	path = mirror/jst
 	url = git@github.com:emacsmirror/jst.git
 [submodule "jsx-mode"]
-	path = mirror/jsx-mode
-	url = git@github.com:emacsmirror/jsx-mode.git
+	path = attic/jsx-mode
+	url = git@github.com:emacsattic/jsx-mode.git
 [submodule "jtags"]
 	path = mirror/jtags
 	url = git@github.com:emacsmirror/jtags.git
