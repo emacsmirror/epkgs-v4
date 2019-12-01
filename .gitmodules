@@ -10980,6 +10980,9 @@
 [submodule "kfg"]
 	path = mirror/kfg
 	url = git@github.com:emacsmirror/kfg.git
+[submodule "khardel"]
+	path = mirror/khardel
+	url = git@github.com:emacsmirror/khardel.git
 [submodule "kibit-helper"]
 	path = mirror/kibit-helper
 	url = git@github.com:emacsmirror/kibit-helper.git
@@ -12619,6 +12622,9 @@
 [submodule "modtime-skip-mode"]
 	path = mirror/modtime-skip-mode
 	url = git@github.com:emacsmirror/modtime-skip-mode.git
+[submodule "modus-themes"]
+	path = mirror/modus-themes
+	url = git@github.com:emacsmirror/modus-themes.git
 [submodule "moe-theme"]
 	path = mirror/moe-theme
 	url = git@github.com:emacsmirror/moe-theme.git
@@ -21404,8 +21410,8 @@
 	path = attic/yaham
 	url = git@github.com:emacsattic/yaham.git
 [submodule "yahoo-weather"]
-	path = mirror/yahoo-weather
-	url = git@github.com:emacsmirror/yahoo-weather.git
+	path = attic/yahoo-weather
+	url = git@github.com:emacsattic/yahoo-weather.git
 [submodule "yahtzee"]
 	path = mirror/yahtzee
 	url = git@github.com:emacsmirror/yahtzee.git
