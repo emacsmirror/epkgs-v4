@@ -3044,6 +3044,9 @@
 [submodule "counsel-gtags"]
 	path = mirror/counsel-gtags
 	url = git@github.com:emacsmirror/counsel-gtags.git
+[submodule "counsel-jq"]
+	path = mirror/counsel-jq
+	url = git@github.com:emacsmirror/counsel-jq.git
 [submodule "counsel-notmuch"]
 	path = mirror/counsel-notmuch
 	url = git@github.com:emacsmirror/counsel-notmuch.git
