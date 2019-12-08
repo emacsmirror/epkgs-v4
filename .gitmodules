@@ -11153,6 +11153,9 @@
 [submodule "language-id"]
 	path = mirror/language-id
 	url = git@github.com:emacsmirror/language-id.git
+[submodule "lastfm"]
+	path = mirror/lastfm
+	url = git@github.com:emacsmirror/lastfm.git
 [submodule "lastpass"]
 	path = mirror/lastpass
 	url = git@github.com:emacsmirror/lastpass.git
@@ -14563,6 +14566,9 @@
 [submodule "origami"]
 	path = mirror/origami
 	url = git@github.com:emacsmirror/origami.git
+[submodule "ormolu"]
+	path = mirror/ormolu
+	url = git@github.com:emacsmirror/ormolu.git
 [submodule "orthodox"]
 	path = mirror/orthodox
 	url = git@github.com:emacsmirror/orthodox.git

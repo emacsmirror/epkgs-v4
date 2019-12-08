@@ -194,6 +194,7 @@ It freezes except when I try to investigate why it freezes.
 | html5                 | no/mismatched main library |
 | literate-starter-kit  | not a package              |
 | majapahit-theme       | two-variant theme [[https://gitlab.com/franksn/majapahit-theme/merge_requests/1][#1]]       |
+| modus-themes          | two-variant theme          |
 | ne2wm                 | no/mismatched main library |
 | omtose-phellack-theme | two-variant theme          |
 | punpun-theme          | two-variant theme [[https://github.com/wasamasa/punpun-theme/pull/7][#7]]       |
