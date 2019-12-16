@@ -14967,6 +14967,9 @@
 [submodule "parse-csv"]
 	path = mirror/parse-csv
 	url = git@github.com:emacsmirror/parse-csv.git
+[submodule "parse-it"]
+	path = mirror/parse-it
+	url = git@github.com:emacsmirror/parse-it.git
 [submodule "parsebib"]
 	path = mirror/parsebib
 	url = git@github.com:emacsmirror/parsebib.git
@@ -16957,6 +16960,9 @@
 [submodule "revbufs"]
 	path = attic/revbufs
 	url = git@github.com:emacsattic/revbufs.git
+[submodule "reveal-in-folder"]
+	path = mirror/reveal-in-folder
+	url = git@github.com:emacsmirror/reveal-in-folder.git
 [submodule "reveal-in-osx-finder"]
 	path = mirror/reveal-in-osx-finder
 	url = git@github.com:emacsmirror/reveal-in-osx-finder.git
