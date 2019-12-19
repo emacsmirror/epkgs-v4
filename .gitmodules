@@ -11928,6 +11928,9 @@
 	path = mirror/magit-p4
 	url = git@github.com:emacsmirror/magit-p4.git
 	branch = master
+[submodule "magit-patch-changelog"]
+	path = mirror/magit-patch-changelog
+	url = git@github.com:emacsmirror/magit-patch-changelog.git
 [submodule "magit-popup"]
 	path = mirror/magit-popup
 	url = git@github.com:emacsmirror/magit-popup.git
@@ -17602,6 +17605,9 @@
 [submodule "selectric-mode"]
 	path = mirror/selectric-mode
 	url = git@github.com:emacsmirror/selectric-mode.git
+[submodule "selectrum"]
+	path = mirror/selectrum
+	url = git@github.com:emacsmirror/selectrum.git
 [submodule "selftest"]
 	path = attic/selftest
 	url = git@github.com:emacsattic/selftest.git
