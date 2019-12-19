@@ -21710,3 +21710,9 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "elisp-benchmarks"]
+	path = mirror/elisp-benchmarks
+	url = git@github.com:emacsmirror/elisp-benchmarks.git
+[submodule "windower"]
+	path = mirror/windower
+	url = git@github.com:emacsmirror/windower.git
