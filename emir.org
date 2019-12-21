@@ -216,6 +216,7 @@ It freezes except when I try to investigate why it freezes.
 | clang-format      | semi-automatic import   |
 | color-theme       | semi-automatic import   |
 | confluence        | semi-automatic import   |
+| cpp-auto-include  | upstream unresponsive   |
 | crontab-mode      | upstream disappeared    |
 | darcsum           | semi-automatic import   |
 | dedicated         | upstream disappeared    |
