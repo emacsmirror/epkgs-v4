@@ -4924,6 +4924,9 @@
 [submodule "elim"]
 	path = attic/elim
 	url = git@github.com:emacsattic/elim.git
+[submodule "elisp-benchmarks"]
+	path = mirror/elisp-benchmarks
+	url = git@github.com:emacsmirror/elisp-benchmarks.git
 [submodule "elisp-def"]
 	path = mirror/elisp-def
 	url = git@github.com:emacsmirror/elisp-def.git
@@ -20975,6 +20978,9 @@
 [submodule "window-purpose"]
 	path = mirror/window-purpose
 	url = git@github.com:emacsmirror/window-purpose.git
+[submodule "windower"]
+	path = mirror/windower
+	url = git@github.com:emacsmirror/windower.git
 [submodule "windows-path"]
 	path = mirror/windows-path
 	url = git@github.com:emacsmirror/windows-path.git
@@ -21710,9 +21716,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "elisp-benchmarks"]
-	path = mirror/elisp-benchmarks
-	url = git@github.com:emacsmirror/elisp-benchmarks.git
-[submodule "windower"]
-	path = mirror/windower
-	url = git@github.com:emacsmirror/windower.git
