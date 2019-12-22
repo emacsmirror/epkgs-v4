@@ -2298,6 +2298,9 @@
 [submodule "cl-array"]
 	path = attic/cl-array
 	url = git@github.com:emacsattic/cl-array.git
+[submodule "cl-font-lock"]
+	path = mirror/cl-font-lock
+	url = git@github.com:emacsmirror/cl-font-lock.git
 [submodule "cl-format"]
 	path = mirror/cl-format
 	url = git@github.com:emacsmirror/cl-format.git
@@ -6551,6 +6554,9 @@
 [submodule "flame"]
 	path = mirror/flame
 	url = git@github.com:emacsmirror/flame.git
+[submodule "flames-of-freedom"]
+	path = mirror/flames-of-freedom
+	url = git@github.com:emacsmirror/flames-of-freedom.git
 [submodule "flappymacs"]
 	path = mirror/flappymacs
 	url = git@github.com:emacsmirror/flappymacs.git
@@ -7656,6 +7662,9 @@
 [submodule "git-auto-commit-mode"]
 	path = mirror/git-auto-commit-mode
 	url = git@github.com:emacsmirror/git-auto-commit-mode.git
+[submodule "git-backup"]
+	path = mirror/git-backup
+	url = git@github.com:emacsmirror/git-backup.git
 [submodule "git-code-review"]
 	path = mirror/git-code-review
 	url = git@github.com:emacsmirror/git-code-review.git
@@ -7868,6 +7877,9 @@
 [submodule "gnome-calendar"]
 	path = mirror/gnome-calendar
 	url = git@github.com:emacsmirror/gnome-calendar.git
+[submodule "gnome-screencast"]
+	path = mirror/gnome-screencast
+	url = git@github.com:emacsmirror/gnome-screencast.git
 [submodule "gnomenm"]
 	path = mirror/gnomenm
 	url = git@github.com:emacsmirror/gnomenm.git
@@ -20094,6 +20106,9 @@
 [submodule "undo-browse"]
 	path = attic/undo-browse
 	url = git@github.com:emacsattic/undo-browse.git
+[submodule "undo-fu"]
+	path = mirror/undo-fu
+	url = git@github.com:emacsmirror/undo-fu.git
 [submodule "undo-group"]
 	path = attic/undo-group
 	url = git@github.com:emacsattic/undo-group.git
@@ -21339,6 +21354,9 @@
 	path = mirror/xo
 	url = git@github.com:emacsmirror/xo.git
 	branch = master
+[submodule "xonsh-mode"]
+	path = mirror/xonsh-mode
+	url = git@github.com:emacsmirror/xonsh-mode.git
 [submodule "xpkg"]
 	path = attic/xpkg
 	url = git@github.com:emacsattic/xpkg.git
