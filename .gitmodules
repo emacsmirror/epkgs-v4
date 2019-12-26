@@ -4427,8 +4427,8 @@
 	path = mirror/e2wm
 	url = git@github.com:emacsmirror/e2wm.git
 [submodule "e2wm-R"]
-	path = mirror/e2wm-R
-	url = git@github.com:emacsmirror/e2wm-R.git
+	path = attic/e2wm-R
+	url = git@github.com:emacsattic/e2wm-R.git
 [submodule "e2wm-bookmark"]
 	path = mirror/e2wm-bookmark
 	url = git@github.com:emacsmirror/e2wm-bookmark.git
@@ -4627,8 +4627,8 @@
 	path = mirror/ediprolog
 	url = git@github.com:emacsmirror/ediprolog.git
 [submodule "edit-at-point"]
-	path = mirror/edit-at-point
-	url = git@github.com:emacsmirror/edit-at-point.git
+	path = attic/edit-at-point
+	url = git@github.com:emacsattic/edit-at-point.git
 [submodule "edit-color-stamp"]
 	path = mirror/edit-color-stamp
 	url = git@github.com:emacsmirror/edit-color-stamp.git
@@ -5341,8 +5341,8 @@
 	path = mirror/enlive
 	url = git@github.com:emacsmirror/enlive.git
 [submodule "eno"]
-	path = mirror/eno
-	url = git@github.com:emacsmirror/eno.git
+	path = attic/eno
+	url = git@github.com:emacsattic/eno.git
 [submodule "enotify"]
 	path = mirror/enotify
 	url = git@github.com:emacsmirror/enotify.git
@@ -9842,8 +9842,8 @@
 	path = mirror/ido-load-library
 	url = git@github.com:emacsmirror/ido-load-library.git
 [submodule "ido-migemo"]
-	path = mirror/ido-migemo
-	url = git@github.com:emacsmirror/ido-migemo.git
+	path = attic/ido-migemo
+	url = git@github.com:emacsattic/ido-migemo.git
 [submodule "ido-occasional"]
 	path = mirror/ido-occasional
 	url = git@github.com:emacsmirror/ido-occasional.git
@@ -10151,8 +10151,8 @@
 	url = git@github.com:emacsmirror/inline-docs.git
 	branch = master
 [submodule "inlineR"]
-	path = mirror/inlineR
-	url = git@github.com:emacsmirror/inlineR.git
+	path = attic/inlineR
+	url = git@github.com:emacsattic/inlineR.git
 [submodule "insert-construct"]
 	path = attic/insert-construct
 	url = git@github.com:emacsattic/insert-construct.git
@@ -14295,8 +14295,8 @@
 	path = mirror/org-msg
 	url = git@github.com:emacsmirror/org-msg.git
 [submodule "org-multiple-keymap"]
-	path = mirror/org-multiple-keymap
-	url = git@github.com:emacsmirror/org-multiple-keymap.git
+	path = attic/org-multiple-keymap
+	url = git@github.com:emacsattic/org-multiple-keymap.git
 [submodule "org-nan"]
 	path = mirror/org-nan
 	url = git@github.com:emacsmirror/org-nan.git
@@ -14545,8 +14545,8 @@
 	path = mirror/org-working-set
 	url = git@github.com:emacsmirror/org-working-set.git
 [submodule "org-wunderlist"]
-	path = mirror/org-wunderlist
-	url = git@github.com:emacsmirror/org-wunderlist.git
+	path = attic/org-wunderlist
+	url = git@github.com:emacsattic/org-wunderlist.git
 [submodule "org-yaml"]
 	path = mirror/org-yaml
 	url = git@github.com:emacsmirror/org-yaml.git
@@ -16449,8 +16449,8 @@
 	url = git@github.com:emacsmirror/quick-peek.git
 	branch = master
 [submodule "quick-preview"]
-	path = mirror/quick-preview
-	url = git@github.com:emacsmirror/quick-preview.git
+	path = attic/quick-preview
+	url = git@github.com:emacsattic/quick-preview.git
 [submodule "quick-shell-keybind"]
 	path = mirror/quick-shell-keybind
 	url = git@github.com:emacsmirror/quick-shell-keybind.git
