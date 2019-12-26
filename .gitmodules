@@ -785,6 +785,9 @@
 [submodule "async-eval"]
 	path = mirror/async-eval
 	url = git@github.com:emacsmirror/async-eval.git
+[submodule "atcoder-tools"]
+	path = mirror/atcoder-tools
+	url = git@github.com:emacsmirror/atcoder-tools.git
 [submodule "atim-unscroll"]
 	path = mirror/atim-unscroll
 	url = git@github.com:emacsmirror/atim-unscroll.git
@@ -3806,6 +3809,9 @@
 [submodule "diff+"]
 	path = mirror/diff+
 	url = git@github.com:emacsmirror/diff-plus.git
+[submodule "diff-at-point"]
+	path = mirror/diff-at-point
+	url = git@github.com:emacsmirror/diff-at-point.git
 [submodule "diff-ediff"]
 	path = mirror/diff-ediff
 	url = git@github.com:emacsmirror/diff-ediff.git
@@ -4721,6 +4727,9 @@
 [submodule "eglot"]
 	path = mirror/eglot
 	url = git@github.com:emacsmirror/eglot.git
+[submodule "eglot-jl"]
+	path = mirror/eglot-jl
+	url = git@github.com:emacsmirror/eglot-jl.git
 [submodule "ego"]
 	path = mirror/ego
 	url = git@github.com:emacsmirror/ego.git
@@ -6931,6 +6940,9 @@
 [submodule "flycheck-swiftlint"]
 	path = mirror/flycheck-swiftlint
 	url = git@github.com:emacsmirror/flycheck-swiftlint.git
+[submodule "flycheck-swiftx"]
+	path = mirror/flycheck-swiftx
+	url = git@github.com:emacsmirror/flycheck-swiftx.git
 [submodule "flycheck-tcl"]
 	path = mirror/flycheck-tcl
 	url = git@github.com:emacsmirror/flycheck-tcl.git
@@ -7665,6 +7677,9 @@
 [submodule "git-backup"]
 	path = mirror/git-backup
 	url = git@github.com:emacsmirror/git-backup.git
+[submodule "git-backup-ivy"]
+	path = mirror/git-backup-ivy
+	url = git@github.com:emacsmirror/git-backup-ivy.git
 [submodule "git-code-review"]
 	path = mirror/git-code-review
 	url = git@github.com:emacsmirror/git-code-review.git
@@ -9113,6 +9128,9 @@
 	path = mirror/helm-sql-connect
 	url = git@github.com:emacsmirror/helm-sql-connect.git
 	branch = master
+[submodule "helm-switch-shell"]
+	path = mirror/helm-switch-shell
+	url = git@github.com:emacsmirror/helm-switch-shell.git
 [submodule "helm-swoop"]
 	path = mirror/helm-swoop
 	url = git@github.com:emacsmirror/helm-swoop.git
@@ -10374,6 +10392,9 @@
 [submodule "ivy-feedwrangler"]
 	path = mirror/ivy-feedwrangler
 	url = git@github.com:emacsmirror/ivy-feedwrangler.git
+[submodule "ivy-fuz"]
+	path = mirror/ivy-fuz
+	url = git@github.com:emacsmirror/ivy-fuz.git
 [submodule "ivy-lobsters"]
 	path = mirror/ivy-lobsters
 	url = git@github.com:emacsmirror/ivy-lobsters.git
@@ -11761,6 +11782,9 @@
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
 	branch = master
+[submodule "lsp-mssql"]
+	path = mirror/lsp-mssql
+	url = git@github.com:emacsmirror/lsp-mssql.git
 [submodule "lsp-ocaml"]
 	path = attic/lsp-ocaml
 	url = git@github.com:emacsattic/lsp-ocaml.git
@@ -12521,6 +12545,9 @@
 [submodule "minor-mode-hack"]
 	path = mirror/minor-mode-hack
 	url = git@github.com:emacsmirror/minor-mode-hack.git
+[submodule "minsk-theme"]
+	path = mirror/minsk-theme
+	url = git@github.com:emacsmirror/minsk-theme.git
 [submodule "mip-mode"]
 	path = mirror/mip-mode
 	url = git@github.com:emacsmirror/mip-mode.git
@@ -13349,6 +13376,9 @@
 	path = mirror/nix-buffer
 	url = git@github.com:emacsmirror/nix-buffer.git
 	branch = master
+[submodule "nix-env-install"]
+	path = mirror/nix-env-install
+	url = git@github.com:emacsmirror/nix-env-install.git
 [submodule "nix-haskell-mode"]
 	path = mirror/nix-haskell-mode
 	url = git@github.com:emacsmirror/nix-haskell-mode.git
@@ -15840,6 +15870,9 @@
 [submodule "ppindent"]
 	path = mirror/ppindent
 	url = git@github.com:emacsmirror/ppindent.git
+[submodule "ppp"]
+	path = mirror/ppp
+	url = git@github.com:emacsmirror/ppp.git
 [submodule "prand"]
 	path = mirror/prand
 	url = git@github.com:emacsmirror/prand.git
@@ -18467,6 +18500,9 @@
 	path = mirror/speed-type
 	url = git@github.com:emacsmirror/speed-type.git
 	branch = master
+[submodule "speedbar-git-respect"]
+	path = mirror/speedbar-git-respect
+	url = git@github.com:emacsmirror/speedbar-git-respect.git
 [submodule "speeddating"]
 	path = mirror/speeddating
 	url = git@github.com:emacsmirror/speeddating.git
@@ -19849,6 +19885,9 @@
 	path = mirror/tree-mode
 	url = git@github.com:emacsmirror/tree-mode.git
 	branch = master
+[submodule "treefactor"]
+	path = mirror/treefactor
+	url = git@github.com:emacsmirror/treefactor.git
 [submodule "treemacs"]
 	path = mirror/treemacs
 	url = git@github.com:emacsmirror/treemacs.git
@@ -20585,6 +20624,9 @@
 [submodule "vr"]
 	path = attic/vr
 	url = git@github.com:emacsattic/vr.git
+[submodule "vscdark-theme"]
+	path = mirror/vscdark-theme
+	url = git@github.com:emacsmirror/vscdark-theme.git
 [submodule "vscode-icon"]
 	path = mirror/vscode-icon
 	url = git@github.com:emacsmirror/vscode-icon.git
@@ -21647,6 +21689,9 @@
 [submodule "zig-mode"]
 	path = mirror/zig-mode
 	url = git@github.com:emacsmirror/zig-mode.git
+[submodule "zim-wiki-mode"]
+	path = mirror/zim-wiki-mode
+	url = git@github.com:emacsmirror/zim-wiki-mode.git
 [submodule "zlc"]
 	path = mirror/zlc
 	url = git@github.com:emacsmirror/zlc.git
