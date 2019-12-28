@@ -7587,6 +7587,9 @@
 [submodule "german-holidays"]
 	path = mirror/german-holidays
 	url = git@github.com:emacsmirror/german-holidays.git
+[submodule "gerrit"]
+	path = mirror/gerrit
+	url = git@github.com:emacsmirror/gerrit.git
 [submodule "gerrit-download"]
 	path = mirror/gerrit-download
 	url = git@github.com:emacsmirror/gerrit-download.git
@@ -17125,6 +17128,9 @@
 	path = mirror/riscv-mode
 	url = git@github.com:emacsmirror/riscv-mode.git
 	branch = master
+[submodule "rivet-mode"]
+	path = mirror/rivet-mode
+	url = git@github.com:emacsmirror/rivet-mode.git
 [submodule "rjsx-mode"]
 	path = mirror/rjsx-mode
 	url = git@github.com:emacsmirror/rjsx-mode.git
