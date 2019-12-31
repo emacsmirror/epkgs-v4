@@ -2378,6 +2378,9 @@
 [submodule "clipboard-collector"]
 	path = mirror/clipboard-collector
 	url = git@github.com:emacsmirror/clipboard-collector.git
+[submodule "clipetty"]
+	path = mirror/clipetty
+	url = git@github.com:emacsmirror/clipetty.git
 [submodule "cliphist"]
 	path = mirror/cliphist
 	url = git@github.com:emacsmirror/cliphist.git
@@ -3650,6 +3653,9 @@
 [submodule "defhook"]
 	path = mirror/defhook
 	url = git@github.com:emacsmirror/defhook.git
+[submodule "define-it"]
+	path = mirror/define-it
+	url = git@github.com:emacsmirror/define-it.git
 [submodule "define-word"]
 	path = mirror/define-word
 	url = git@github.com:emacsmirror/define-word.git
@@ -4524,6 +4530,9 @@
 [submodule "ebuild-mode"]
 	path = mirror/ebuild-mode
 	url = git@github.com:emacsmirror/ebuild-mode.git
+[submodule "ebuku"]
+	path = mirror/ebuku
+	url = git@github.com:emacsmirror/ebuku.git
 [submodule "ec"]
 	path = attic/ec
 	url = git@github.com:emacsattic/ec.git
@@ -10026,6 +10035,9 @@
 [submodule "indent-info"]
 	path = mirror/indent-info
 	url = git@github.com:emacsmirror/indent-info.git
+[submodule "indent-lint"]
+	path = mirror/indent-lint
+	url = git@github.com:emacsmirror/indent-lint.git
 [submodule "indent-tabs-maybe"]
 	path = attic/indent-tabs-maybe
 	url = git@github.com:emacsattic/indent-tabs-maybe.git
@@ -12440,6 +12452,9 @@
 [submodule "metascript-mode"]
 	path = mirror/metascript-mode
 	url = git@github.com:emacsmirror/metascript-mode.git
+[submodule "metrics-tracker"]
+	path = mirror/metrics-tracker
+	url = git@github.com:emacsmirror/metrics-tracker.git
 [submodule "mew"]
 	path = mirror/mew
 	url = git@github.com:emacsmirror/mew.git
