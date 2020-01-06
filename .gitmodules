@@ -506,6 +506,9 @@
 [submodule "anki-mode"]
 	path = mirror/anki-mode
 	url = git@github.com:emacsmirror/anki-mode.git
+[submodule "anki-vocabulary"]
+	path = mirror/anki-vocabulary
+	url = git@github.com:emacsmirror/anki-vocabulary.git
 [submodule "annalist"]
 	path = mirror/annalist
 	url = git@github.com:emacsmirror/annalist.git
@@ -4936,6 +4939,9 @@
 [submodule "elfeed-protocol"]
 	path = mirror/elfeed-protocol
 	url = git@github.com:emacsmirror/elfeed-protocol.git
+[submodule "elfeed-score"]
+	path = mirror/elfeed-score
+	url = git@github.com:emacsmirror/elfeed-score.git
 [submodule "elgrep"]
 	path = mirror/elgrep
 	url = git@github.com:emacsmirror/elgrep.git
@@ -8259,6 +8265,9 @@
 [submodule "grails-projectile-mode"]
 	path = mirror/grails-projectile-mode
 	url = git@github.com:emacsmirror/grails-projectile-mode.git
+[submodule "grammarly"]
+	path = mirror/grammarly
+	url = git@github.com:emacsmirror/grammarly.git
 [submodule "grandshell-theme"]
 	path = mirror/grandshell-theme
 	url = git@github.com:emacsmirror/grandshell-theme.git
@@ -8816,6 +8825,9 @@
 [submodule "helm-firefox"]
 	path = mirror/helm-firefox
 	url = git@github.com:emacsmirror/helm-firefox.git
+[submodule "helm-fish-completion"]
+	path = mirror/helm-fish-completion
+	url = git@github.com:emacsmirror/helm-fish-completion.git
 [submodule "helm-flx"]
 	path = mirror/helm-flx
 	url = git@github.com:emacsmirror/helm-flx.git
@@ -12209,6 +12221,9 @@
 [submodule "markchars"]
 	path = mirror/markchars
 	url = git@github.com:emacsmirror/markchars.git
+[submodule "markdown-changelog"]
+	path = mirror/markdown-changelog
+	url = git@github.com:emacsmirror/markdown-changelog.git
 [submodule "markdown-edit-indirect"]
 	path = attic/markdown-edit-indirect
 	url = git@github.com:emacsattic/markdown-edit-indirect.git
@@ -13721,6 +13736,9 @@
 [submodule "ob-elixir"]
 	path = mirror/ob-elixir
 	url = git@github.com:emacsmirror/ob-elixir.git
+[submodule "ob-elm"]
+	path = mirror/ob-elm
+	url = git@github.com:emacsmirror/ob-elm.git
 [submodule "ob-elvish"]
 	path = mirror/ob-elvish
 	url = git@github.com:emacsmirror/ob-elvish.git
@@ -13730,6 +13748,9 @@
 [submodule "ob-go"]
 	path = mirror/ob-go
 	url = git@github.com:emacsmirror/ob-go.git
+[submodule "ob-graphql"]
+	path = mirror/ob-graphql
+	url = git@github.com:emacsmirror/ob-graphql.git
 [submodule "ob-html-chrome"]
 	path = mirror/ob-html-chrome
 	url = git@github.com:emacsmirror/ob-html-chrome.git
@@ -21707,6 +21728,9 @@
 	path = mirror/zerodark-theme
 	url = git@github.com:emacsmirror/zerodark-theme.git
 	branch = master
+[submodule "zetteldeft"]
+	path = mirror/zetteldeft
+	url = git@github.com:emacsmirror/zetteldeft.git
 [submodule "zig-mode"]
 	path = mirror/zig-mode
 	url = git@github.com:emacsmirror/zig-mode.git
