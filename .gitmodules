@@ -11587,6 +11587,9 @@
 [submodule "litable"]
 	path = mirror/litable
 	url = git@github.com:emacsmirror/litable.git
+[submodule "litanize"]
+	path = mirror/litanize
+	url = git@github.com:emacsmirror/litanize.git
 [submodule "litecoin-ticker"]
 	path = mirror/litecoin-ticker
 	url = git@github.com:emacsmirror/litecoin-ticker.git
