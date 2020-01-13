@@ -4887,6 +4887,9 @@
 [submodule "elder"]
 	path = attic/elder
 	url = git@github.com:emacsattic/elder.git
+[submodule "eldev"]
+	path = mirror/eldev
+	url = git@github.com:emacsmirror/eldev.git
 [submodule "eldo-mode"]
 	path = attic/eldo-mode
 	url = git@github.com:emacsattic/eldo-mode.git
@@ -9672,6 +9675,9 @@
 [submodule "hugsql-ghosts"]
 	path = mirror/hugsql-ghosts
 	url = git@github.com:emacsmirror/hugsql-ghosts.git
+[submodule "humanoid-themes"]
+	path = mirror/humanoid-themes
+	url = git@github.com:emacsmirror/humanoid-themes.git
 [submodule "hungarian-holidays"]
 	path = mirror/hungarian-holidays
 	url = git@github.com:emacsmirror/hungarian-holidays.git
@@ -20491,6 +20497,9 @@
 [submodule "vel"]
 	path = attic/vel
 	url = git@github.com:emacsattic/vel.git
+[submodule "verb"]
+	path = mirror/verb
+	url = git@github.com:emacsmirror/verb.git
 [submodule "verbiste"]
 	path = attic/verbiste
 	url = git@github.com:emacsattic/verbiste.git
