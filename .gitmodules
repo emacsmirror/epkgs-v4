@@ -1399,8 +1399,8 @@
 	path = mirror/bibclean-format
 	url = git@github.com:emacsmirror/bibclean-format.git
 [submodule "bibeltex"]
-	path = mirror/bibeltex
-	url = git@github.com:emacsmirror/bibeltex.git
+	path = attic/bibeltex
+	url = git@github.com:emacsattic/bibeltex.git
 [submodule "bibfind"]
 	path = attic/bibfind
 	url = git@github.com:emacsattic/bibfind.git
@@ -14299,14 +14299,14 @@
 	path = mirror/org-kindle
 	url = git@github.com:emacsmirror/org-kindle.git
 [submodule "org-link-minor-mode"]
-	path = mirror/org-link-minor-mode
-	url = git@github.com:emacsmirror/org-link-minor-mode.git
+	path = attic/org-link-minor-mode
+	url = git@github.com:emacsattic/org-link-minor-mode.git
 [submodule "org-link-travis"]
 	path = mirror/org-link-travis
 	url = git@github.com:emacsmirror/org-link-travis.git
 [submodule "org-linkany"]
-	path = mirror/org-linkany
-	url = git@github.com:emacsmirror/org-linkany.git
+	path = attic/org-linkany
+	url = git@github.com:emacsattic/org-linkany.git
 [submodule "org-listcruncher"]
 	path = mirror/org-listcruncher
 	url = git@github.com:emacsmirror/org-listcruncher.git
@@ -14314,8 +14314,8 @@
 	path = mirror/org-lookup-dnd
 	url = git@github.com:emacsmirror/org-lookup-dnd.git
 [submodule "org-mac-protocol"]
-	path = mirror/org-mac-protocol
-	url = git@github.com:emacsmirror/org-mac-protocol.git
+	path = attic/org-mac-protocol
+	url = git@github.com:emacsattic/org-mac-protocol.git
 [submodule "org-magit"]
 	path = mirror/org-magit
 	url = git@github.com:emacsmirror/org-magit.git
