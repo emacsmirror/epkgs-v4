@@ -629,6 +629,7 @@ It freezes except when I try to investigate why it freezes.
 | darcsum           | semi-automatic import   |
 | dedicated         | upstream disappeared    |
 | dic-lookup-w3m    | semi-automatic import   |
+| direx             | dropped by maintainer   |
 | dirtree           | wiki needed by non-wiki |
 | doom              | upstream unresponsive   |
 | dsvn              | semi-automatic import   |
@@ -655,6 +656,7 @@ It freezes except when I try to investigate why it freezes.
 | magit-svn         | dropped by maintainer   |
 | manage-minor-mode | dropped by maintainer   |
 | miniedit          | upstream disappeared    |
+| mongo             | dropped by maintainer   |
 | multi-term        | wiki needed by non-wiki |
 | nxhtml            | semi-automatic import   |
 | oberon            | upstream unresponsive   |
@@ -668,6 +670,7 @@ It freezes except when I try to investigate why it freezes.
 | picolisp          | manual tarball import   |
 | pkg-info          | dropped by maintainer   |
 | pointback         | upstream disappeared    |
+| popwin            | dropped by maintainer   |
 | read-char-spec    | upstream unresponsive   |
 | readability       | dropped by maintainer   |
 | ruby-additional   | semi-automatic import   |
@@ -683,14 +686,18 @@ It freezes except when I try to investigate why it freezes.
 | tail              | upstream disappeared    |
 | tex-smart-umlauts | semi-automatic import   |
 | text-translator   | semi-automatic import   |
+| thingopt          | dropped by maintainer   |
 | transpose-frame   | wiki needed by non-wiki |
 | tree-mode         | wiki needed by non-wiki |
 | undo-tree         | two diverging upstreams |
+| undohist          | dropped by maintainer   |
 | vala-mode         | upstream disappeared    |
 | vm                | semi-automatic import   |
 | w32-browser       | wiki needed by non-wiki |
 | w3m               | semi-automatic import   |
 | windata           | wiki needed by non-wiki |
+| yafolding         | upstream unresponsive   |
+| yascroll          | dropped by maintainer   |
 
 * Set ~emir--other-vcs~
 #+NAME: set--emir--other-vcs
