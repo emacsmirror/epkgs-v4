@@ -618,7 +618,9 @@ It freezes except when I try to investigate why it freezes.
 #+NAME: val--emir--orphanage-reason
 | Package           | Reason                  |
 |-------------------+-------------------------|
+| 4clojure          | dropped by maintainer   |
 | ansible-doc       | dropped by maintainer   |
+| applescript-mode  | dropped by maintainer   |
 | caml              | semi-automatic import   |
 | cg                | semi-automatic import   |
 | clang-format      | semi-automatic import   |

@@ -644,7 +644,6 @@
 [submodule "applescript-mode"]
 	path = mirror/applescript-mode
 	url = git@github.com:emacsmirror/applescript-mode.git
-	branch = master
 [submodule "application"]
 	path = mirror/application
 	url = git@github.com:emacsmirror/application.git
