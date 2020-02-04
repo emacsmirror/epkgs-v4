@@ -7063,6 +7063,9 @@
 [submodule "flymake-hlint"]
 	path = mirror/flymake-hlint
 	url = git@github.com:emacsmirror/flymake-hlint.git
+[submodule "flymake-joker"]
+	path = mirror/flymake-joker
+	url = git@github.com:emacsmirror/flymake-joker.git
 [submodule "flymake-jshint"]
 	path = mirror/flymake-jshint
 	url = git@github.com:emacsmirror/flymake-jshint.git
@@ -9540,6 +9543,9 @@
 [submodule "hookify"]
 	path = mirror/hookify
 	url = git@github.com:emacsmirror/hookify.git
+[submodule "horizon-theme"]
+	path = mirror/horizon-theme
+	url = git@github.com:emacsmirror/horizon-theme.git
 [submodule "horoscope"]
 	path = mirror/horoscope
 	url = git@github.com:emacsmirror/horoscope.git
@@ -11154,6 +11160,9 @@
 	path = mirror/ksp-cfg-mode
 	url = git@github.com:emacsmirror/ksp-cfg-mode.git
 	branch = master
+[submodule "kubectx-mode"]
+	path = mirror/kubectx-mode
+	url = git@github.com:emacsmirror/kubectx-mode.git
 [submodule "kubel"]
 	path = mirror/kubel
 	url = git@github.com:emacsmirror/kubel.git
@@ -13556,6 +13565,9 @@
 [submodule "notmuch"]
 	path = mirror/notmuch
 	url = git@github.com:emacsmirror/notmuch.git
+[submodule "notmuch-bookmarks"]
+	path = mirror/notmuch-bookmarks
+	url = git@github.com:emacsmirror/notmuch-bookmarks.git
 [submodule "notmuch-labeler"]
 	path = mirror/notmuch-labeler
 	url = git@github.com:emacsmirror/notmuch-labeler.git
@@ -16451,6 +16463,9 @@
 	path = mirror/qt-pro-mode
 	url = git@github.com:emacsmirror/qt-pro-mode.git
 	branch = master
+[submodule "qtcreator-theme"]
+	path = mirror/qtcreator-theme
+	url = git@github.com:emacsmirror/qtcreator-theme.git
 [submodule "qtdoc"]
 	path = attic/qtdoc
 	url = git@github.com:emacsattic/qtdoc.git
@@ -17799,6 +17814,9 @@
 [submodule "sfst"]
 	path = attic/sfst
 	url = git@github.com:emacsattic/sfst.git
+[submodule "sfz-mode"]
+	path = mirror/sfz-mode
+	url = git@github.com:emacsmirror/sfz-mode.git
 [submodule "sgml-id"]
 	path = attic/sgml-id
 	url = git@github.com:emacsattic/sgml-id.git
@@ -20197,6 +20215,9 @@
 [submodule "undo-fu"]
 	path = mirror/undo-fu
 	url = git@github.com:emacsmirror/undo-fu.git
+[submodule "undo-fu-session"]
+	path = mirror/undo-fu-session
+	url = git@github.com:emacsmirror/undo-fu-session.git
 [submodule "undo-group"]
 	path = attic/undo-group
 	url = git@github.com:emacsattic/undo-group.git
