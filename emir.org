@@ -643,6 +643,7 @@ It freezes except when I try to investigate why it freezes.
 | filladapt         | upstream unresponsive   |
 | findr             | wiki needed by non-wiki |
 | gnuplot           | dropped by maintainer   |
+| haxe-mode         | dropped by maintainer   |
 | helm-css-scss     | dropped by maintainer   |
 | helm-ls-svn       | semi-automatic import   |
 | helm-swoop        | dropped by maintainer   |
