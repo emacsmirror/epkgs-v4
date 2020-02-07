@@ -675,7 +675,6 @@ It freezes except when I try to investigate why it freezes.
 | pointback         | upstream disappeared    |
 | popwin            | dropped by maintainer   |
 | read-char-spec    | upstream unresponsive   |
-| readability       | dropped by maintainer   |
 | ruby-additional   | semi-automatic import   |
 | session           | manual tarball import   |
 | setnu             | upstream unresponsive   |

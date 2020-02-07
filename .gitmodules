@@ -16742,8 +16742,8 @@
 	path = attic/read-table-data
 	url = git@github.com:emacsattic/read-table-data.git
 [submodule "readability"]
-	path = mirror/readability
-	url = git@github.com:emacsmirror/readability.git
+	path = attic/readability
+	url = git@github.com:emacsattic/readability.git
 [submodule "readline-complete"]
 	path = mirror/readline-complete
 	url = git@github.com:emacsmirror/readline-complete.git
