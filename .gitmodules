@@ -1031,6 +1031,9 @@
 [submodule "autobookmarks"]
 	path = mirror/autobookmarks
 	url = git@github.com:emacsmirror/autobookmarks.git
+[submodule "autobuild"]
+	path = mirror/autobuild
+	url = git@github.com:emacsmirror/autobuild.git
 [submodule "autocap"]
 	path = attic/autocap
 	url = git@github.com:emacsattic/autocap.git
@@ -2869,6 +2872,9 @@
 [submodule "compdef"]
 	path = mirror/compdef
 	url = git@github.com:emacsmirror/compdef.git
+[submodule "competitive-programming-snippets"]
+	path = mirror/competitive-programming-snippets
+	url = git@github.com:emacsmirror/competitive-programming-snippets.git
 [submodule "compilation-always-kill"]
 	path = mirror/compilation-always-kill
 	url = git@github.com:emacsmirror/compilation-always-kill.git
@@ -3933,6 +3939,9 @@
 [submodule "dired-filetype-face"]
 	path = mirror/dired-filetype-face
 	url = git@github.com:emacsmirror/dired-filetype-face.git
+[submodule "dired-git"]
+	path = mirror/dired-git
+	url = git@github.com:emacsmirror/dired-git.git
 [submodule "dired-git-info"]
 	path = mirror/dired-git-info
 	url = git@github.com:emacsmirror/dired-git-info.git
@@ -20696,6 +20705,12 @@
 [submodule "vr"]
 	path = attic/vr
 	url = git@github.com:emacsattic/vr.git
+[submodule "vs-dark-theme"]
+	path = mirror/vs-dark-theme
+	url = git@github.com:emacsmirror/vs-dark-theme.git
+[submodule "vs-light-theme"]
+	path = mirror/vs-light-theme
+	url = git@github.com:emacsmirror/vs-light-theme.git
 [submodule "vscdark-theme"]
 	path = mirror/vscdark-theme
 	url = git@github.com:emacsmirror/vscdark-theme.git
