@@ -14729,8 +14729,8 @@
 	path = attic/osx-osascript
 	url = git@github.com:emacsattic/osx-osascript.git
 [submodule "osx-plist"]
-	path = attic/osx-plist
-	url = git@github.com:emacsattic/osx-plist.git
+	path = mirror/osx-plist
+	url = git@github.com:emacsmirror/osx-plist.git
 [submodule "osx-trash"]
 	path = mirror/osx-trash
 	url = git@github.com:emacsmirror/osx-trash.git
@@ -20493,6 +20493,9 @@
 [submodule "vc-partial-commit"]
 	path = mirror/vc-partial-commit
 	url = git@github.com:emacsmirror/vc-partial-commit.git
+[submodule "vcard"]
+	path = mirror/vcard
+	url = git@github.com:emacsmirror/vcard.git
 [submodule "vcl-mode"]
 	path = mirror/vcl-mode
 	url = git@github.com:emacsmirror/vcl-mode.git
@@ -21869,6 +21872,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "vcard"]
-	path = mirror/vcard
-	url = git@github.com:emacsmirror/vcard.git
