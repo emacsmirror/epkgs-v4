@@ -397,10 +397,16 @@
 [submodule "all-the-icons-gnus"]
 	path = mirror/all-the-icons-gnus
 	url = git@github.com:emacsmirror/all-the-icons-gnus.git
+[submodule "all-the-icons-ibuffer"]
+	path = mirror/all-the-icons-ibuffer
+	url = git@github.com:emacsmirror/all-the-icons-ibuffer.git
 [submodule "all-the-icons-ivy"]
 	path = mirror/all-the-icons-ivy
 	url = git@github.com:emacsmirror/all-the-icons-ivy.git
 	branch = master
+[submodule "all-the-icons-ivy-rich"]
+	path = mirror/all-the-icons-ivy-rich
+	url = git@github.com:emacsmirror/all-the-icons-ivy-rich.git
 [submodule "almost-mono-themes"]
 	path = mirror/almost-mono-themes
 	url = git@github.com:emacsmirror/almost-mono-themes.git
@@ -4209,6 +4215,9 @@
 [submodule "docsetutil"]
 	path = mirror/docsetutil
 	url = git@github.com:emacsmirror/docsetutil.git
+[submodule "doct"]
+	path = mirror/doct
+	url = git@github.com:emacsmirror/doct.git
 [submodule "doh"]
 	path = attic/doh
 	url = git@github.com:emacsattic/doh.git
@@ -6780,6 +6789,9 @@
 	path = mirror/flycheck-dogma
 	url = git@github.com:emacsmirror/flycheck-dogma.git
 	branch = master
+[submodule "flycheck-drstring"]
+	path = mirror/flycheck-drstring
+	url = git@github.com:emacsmirror/flycheck-drstring.git
 [submodule "flycheck-dtrace"]
 	path = mirror/flycheck-dtrace
 	url = git@github.com:emacsmirror/flycheck-dtrace.git
@@ -6821,6 +6833,9 @@
 [submodule "flycheck-grammalecte"]
 	path = mirror/flycheck-grammalecte
 	url = git@github.com:emacsmirror/flycheck-grammalecte.git
+[submodule "flycheck-grammarly"]
+	path = mirror/flycheck-grammarly
+	url = git@github.com:emacsmirror/flycheck-grammarly.git
 [submodule "flycheck-haskell"]
 	path = mirror/flycheck-haskell
 	url = git@github.com:emacsmirror/flycheck-haskell.git
@@ -10985,6 +11000,9 @@
 [submodule "keep-end"]
 	path = mirror/keep-end
 	url = git@github.com:emacsmirror/keep-end.git
+[submodule "keepass-mode"]
+	path = mirror/keepass-mode
+	url = git@github.com:emacsmirror/keepass-mode.git
 [submodule "kerl"]
 	path = mirror/kerl
 	url = git@github.com:emacsmirror/kerl.git
@@ -12814,6 +12832,9 @@
 	path = mirror/moonscript
 	url = git@github.com:emacsmirror/moonscript.git
 	branch = master
+[submodule "moonshot"]
+	path = mirror/moonshot
+	url = git@github.com:emacsmirror/moonshot.git
 [submodule "morganey-mode"]
 	path = mirror/morganey-mode
 	url = git@github.com:emacsmirror/morganey-mode.git
@@ -14257,6 +14278,9 @@
 [submodule "org-fancy-priorities"]
 	path = mirror/org-fancy-priorities
 	url = git@github.com:emacsmirror/org-fancy-priorities.git
+[submodule "org-fragtog"]
+	path = mirror/org-fragtog
+	url = git@github.com:emacsmirror/org-fragtog.git
 [submodule "org-fstree"]
 	path = attic/org-fstree
 	url = git@github.com:emacsattic/org-fstree.git
@@ -18365,6 +18389,9 @@
 	path = mirror/smmry
 	url = git@github.com:emacsmirror/smmry.git
 	branch = master
+[submodule "smog"]
+	path = mirror/smog
+	url = git@github.com:emacsmirror/smog.git
 [submodule "smooth-scroll"]
 	path = mirror/smooth-scroll
 	url = git@github.com:emacsmirror/smooth-scroll.git
