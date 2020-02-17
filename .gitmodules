@@ -547,9 +547,6 @@
 [submodule "ansys-mod"]
 	path = mirror/ansys-mod
 	url = git@github.com:emacsmirror/ansys-mod.git
-[submodule "ansys-mode"]
-	path = mirror/ansys-mode
-	url = git@github.com:emacsmirror/ansys-mode.git
 [submodule "ant"]
 	path = mirror/ant
 	url = git@github.com:emacsmirror/ant.git
@@ -630,6 +627,9 @@
 [submodule "apache-mode"]
 	path = mirror/apache-mode
 	url = git@github.com:emacsmirror/apache-mode.git
+[submodule "apdl-mode"]
+	path = mirror/apdl-mode
+	url = git@github.com:emacsmirror/apdl-mode.git
 [submodule "apel"]
 	path = mirror/apel
 	url = git@github.com:emacsmirror/apel.git
