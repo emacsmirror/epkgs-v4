@@ -6953,6 +6953,9 @@
 	path = attic/flycheck-rebar3
 	url = git@github.com:emacsattic/flycheck-rebar3.git
 	branch = master
+[submodule "flycheck-relint"]
+	path = mirror/flycheck-relint
+	url = git@github.com:emacsmirror/flycheck-relint.git
 [submodule "flycheck-rust"]
 	path = mirror/flycheck-rust
 	url = git@github.com:emacsmirror/flycheck-rust.git
