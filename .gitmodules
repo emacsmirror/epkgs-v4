@@ -11377,6 +11377,9 @@
 	path = mirror/leanote
 	url = git@github.com:emacsmirror/leanote.git
 	branch = master
+[submodule "learn-ocaml"]
+	path = mirror/learn-ocaml
+	url = git@github.com:emacsmirror/learn-ocaml.git
 [submodule "lectionary"]
 	path = attic/lectionary
 	url = git@github.com:emacsattic/lectionary.git
@@ -16149,6 +16152,9 @@
 	path = mirror/prompts
 	url = git@github.com:emacsmirror/prompts.git
 	branch = master
+[submodule "pronto"]
+	path = mirror/pronto
+	url = git@github.com:emacsmirror/pronto.git
 [submodule "proof-general"]
 	path = mirror/proof-general
 	url = git@github.com:emacsmirror/proof-general.git
@@ -17016,6 +17022,9 @@
 	path = mirror/remember-last-theme
 	url = git@github.com:emacsmirror/remember-last-theme.git
 	branch = master
+[submodule "remind-bindings"]
+	path = mirror/remind-bindings
+	url = git@github.com:emacsmirror/remind-bindings.git
 [submodule "remind-conf-mode"]
 	path = mirror/remind-conf-mode
 	url = git@github.com:emacsmirror/remind-conf-mode.git
@@ -20853,6 +20862,9 @@
 [submodule "walkclj"]
 	path = mirror/walkclj
 	url = git@github.com:emacsmirror/walkclj.git
+[submodule "walkman"]
+	path = mirror/walkman
+	url = git@github.com:emacsmirror/walkman.git
 [submodule "wand"]
 	path = mirror/wand
 	url = git@github.com:emacsmirror/wand.git
@@ -21222,6 +21234,9 @@
 [submodule "with-saved-messages"]
 	path = attic/with-saved-messages
 	url = git@github.com:emacsattic/with-saved-messages.git
+[submodule "with-shell-interpreter"]
+	path = mirror/with-shell-interpreter
+	url = git@github.com:emacsmirror/with-shell-interpreter.git
 [submodule "with-simulated-input"]
 	path = mirror/with-simulated-input
 	url = git@github.com:emacsmirror/with-simulated-input.git
