@@ -6368,6 +6368,9 @@
 [submodule "ffi-xlib"]
 	path = attic/ffi-xlib
 	url = git@github.com:emacsattic/ffi-xlib.git
+[submodule "ffmpeg-player"]
+	path = mirror/ffmpeg-player
+	url = git@github.com:emacsmirror/ffmpeg-player.git
 [submodule "fic-ext-mode"]
 	path = mirror/fic-ext-mode
 	url = git@github.com:emacsmirror/fic-ext-mode.git
@@ -10440,6 +10443,9 @@
 	path = mirror/ivy
 	url = git@github.com:emacsmirror/ivy.git
 	branch = master
+[submodule "ivy-clipmenu"]
+	path = mirror/ivy-clipmenu
+	url = git@github.com:emacsmirror/ivy-clipmenu.git
 [submodule "ivy-clojuredocs"]
 	path = mirror/ivy-clojuredocs
 	url = git@github.com:emacsmirror/ivy-clojuredocs.git
@@ -15922,6 +15928,9 @@
 [submodule "posframe"]
 	path = mirror/posframe
 	url = git@github.com:emacsmirror/posframe.git
+[submodule "posix-manual"]
+	path = mirror/posix-manual
+	url = git@github.com:emacsmirror/posix-manual.git
 [submodule "posn-on-screen"]
 	path = mirror/posn-on-screen
 	url = git@github.com:emacsmirror/posn-on-screen.git
@@ -20666,6 +20675,9 @@
 [submodule "viper-in-more-modes"]
 	path = mirror/viper-in-more-modes
 	url = git@github.com:emacsmirror/viper-in-more-modes.git
+[submodule "virtual-auto-fill"]
+	path = mirror/virtual-auto-fill
+	url = git@github.com:emacsmirror/virtual-auto-fill.git
 [submodule "virtualenv"]
 	path = mirror/virtualenv
 	url = git@github.com:emacsmirror/virtualenv.git
