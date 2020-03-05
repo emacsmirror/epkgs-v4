@@ -8238,8 +8238,8 @@
 	path = mirror/goto-chg
 	url = git@github.com:emacsmirror/goto-chg.git
 [submodule "goto-gem"]
-	path = mirror/goto-gem
-	url = git@github.com:emacsmirror/goto-gem.git
+	path = attic/goto-gem
+	url = git@github.com:emacsattic/goto-gem.git
 [submodule "goto-last-change"]
 	path = mirror/goto-last-change
 	url = git@github.com:emacsmirror/goto-last-change.git
@@ -8391,8 +8391,8 @@
 	path = mirror/griffin
 	url = git@github.com:emacsmirror/griffin.git
 [submodule "grin"]
-	path = mirror/grin
-	url = git@github.com:emacsmirror/grin.git
+	path = attic/grin
+	url = git@github.com:emacsattic/grin.git
 [submodule "grip-mode"]
 	path = mirror/grip-mode
 	url = git@github.com:emacsmirror/grip-mode.git
@@ -15149,8 +15149,8 @@
 	url = git@github.com:emacsmirror/passmm.git
 	branch = master
 [submodule "passthword"]
-	path = mirror/passthword
-	url = git@github.com:emacsmirror/passthword.git
+	path = attic/passthword
+	url = git@github.com:emacsattic/passthword.git
 [submodule "password-generator"]
 	path = mirror/password-generator
 	url = git@github.com:emacsmirror/password-generator.git
@@ -18075,8 +18075,8 @@
 	url = git@github.com:emacsmirror/signal.git
 	branch = master
 [submodule "signature"]
-	path = mirror/signature
-	url = git@github.com:emacsmirror/signature.git
+	path = attic/signature
+	url = git@github.com:emacsattic/signature.git
 [submodule "silkworm-theme"]
 	path = mirror/silkworm-theme
 	url = git@github.com:emacsmirror/silkworm-theme.git
