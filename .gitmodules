@@ -12328,6 +12328,9 @@
 	path = mirror/maruo-macro-mode
 	url = git@github.com:emacsmirror/maruo-macro-mode.git
 	branch = master
+[submodule "masm-mode"]
+	path = mirror/masm-mode
+	url = git@github.com:emacsmirror/masm-mode.git
 [submodule "masquerade-mode"]
 	path = mirror/masquerade-mode
 	url = git@github.com:emacsmirror/masquerade-mode.git
@@ -12526,6 +12529,9 @@
 [submodule "metrics-tracker"]
 	path = mirror/metrics-tracker
 	url = git@github.com:emacsmirror/metrics-tracker.git
+[submodule "metronome"]
+	path = mirror/metronome
+	url = git@github.com:emacsmirror/metronome.git
 [submodule "mew"]
 	path = mirror/mew
 	url = git@github.com:emacsmirror/mew.git
