@@ -832,6 +832,9 @@
 [submodule "auctex"]
 	path = mirror/auctex
 	url = git@github.com:emacsmirror/auctex.git
+[submodule "auctex-cluttex"]
+	path = mirror/auctex-cluttex
+	url = git@github.com:emacsmirror/auctex-cluttex.git
 [submodule "auctex-latexmk"]
 	path = mirror/auctex-latexmk
 	url = git@github.com:emacsmirror/auctex-latexmk.git
@@ -10912,6 +10915,9 @@
 [submodule "julia-shell"]
 	path = mirror/julia-shell
 	url = git@github.com:emacsmirror/julia-shell.git
+[submodule "julia-snail"]
+	path = mirror/julia-snail
+	url = git@github.com:emacsmirror/julia-snail.git
 [submodule "jumblr"]
 	path = mirror/jumblr
 	url = git@github.com:emacsmirror/jumblr.git
@@ -14585,6 +14591,9 @@
 [submodule "org-super-agenda"]
 	path = mirror/org-super-agenda
 	url = git@github.com:emacsmirror/org-super-agenda.git
+[submodule "org-superstar"]
+	path = mirror/org-superstar
+	url = git@github.com:emacsmirror/org-superstar.git
 [submodule "org-sync"]
 	path = mirror/org-sync
 	url = git@github.com:emacsmirror/org-sync.git
@@ -18505,6 +18514,9 @@
 [submodule "solidity-mode"]
 	path = mirror/solidity-mode
 	url = git@github.com:emacsmirror/solidity-mode.git
+[submodule "somafm"]
+	path = mirror/somafm
+	url = git@github.com:emacsmirror/somafm.git
 [submodule "songbook"]
 	path = mirror/songbook
 	url = git@github.com:emacsmirror/songbook.git
