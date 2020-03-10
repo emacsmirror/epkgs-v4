@@ -555,30 +555,32 @@ It freezes except when I try to investigate why it freezes.
   (emir--save-variable 'emir--diverging-reason value)
 #+END_SRC
 #+NAME: val--emir--diverging-reason
-| Package             | Reason              |
-|---------------------+---------------------|
-| auth-source-pass    | part of Emacs 26.1  |
-| autotest            | all-in-one repo     |
-| bibliothek          | all-in-one repo     |
-| cfengine-code-style | mostly non-elisp    |
-| clang-format        | mostly non-elisp    |
-| cmake-mode          | mostly non-elisp    |
-| cython-mode         | mostly non-elisp    |
-| diffscuss-mode      | mostly non-elisp    |
-| fold-dwim-org       | obsolete dependency |
-| forecast            | all-in-one repo     |
-| google-c-style      | mostly non-elisp    |
-| less-css-mode       | part of Emacs 26.1  |
-| nemerle             | mostly non-elisp    |
-| ninja-mode          | mostly non-elisp    |
-| org-variable-pitch  | all-in-one repo     |
-| paper-theme         | all-in-one repo     |
-| po-mode             | mostly non-elisp    |
-| pylint              | mostly non-elisp    |
-| smart-compile       | all-in-one repo     |
-| thrift              | mostly non-elisp    |
-| toggle              | all-in-one repo     |
-| wisp-mode           | mostly non-elisp    |
+| Package              | Reason              |
+|----------------------+---------------------|
+| auth-source-pass     | part of Emacs 26.1  |
+| autotest             | all-in-one repo     |
+| bibliothek           | all-in-one repo     |
+| cfengine-code-style  | mostly non-elisp    |
+| clang-format         | mostly non-elisp    |
+| cmake-mode           | mostly non-elisp    |
+| cython-mode          | mostly non-elisp    |
+| diffscuss-mode       | mostly non-elisp    |
+| fold-dwim-org        | obsolete dependency |
+| forecast             | all-in-one repo     |
+| google-c-style       | mostly non-elisp    |
+| less-css-mode        | part of Emacs 26.1  |
+| modus-operandi-theme | dedicated branches  |
+| modus-vivendi-theme  | dedicated branches  |
+| nemerle              | mostly non-elisp    |
+| ninja-mode           | mostly non-elisp    |
+| org-variable-pitch   | all-in-one repo     |
+| paper-theme          | all-in-one repo     |
+| po-mode              | mostly non-elisp    |
+| pylint               | mostly non-elisp    |
+| smart-compile        | all-in-one repo     |
+| thrift               | mostly non-elisp    |
+| toggle               | all-in-one repo     |
+| wisp-mode            | mostly non-elisp    |
 
 * Set ~emir--library-reason~
 #+NAME: set--emir--library-reason
