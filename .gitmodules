@@ -1527,6 +1527,9 @@
 	path = mirror/bliss-theme
 	url = git@github.com:emacsmirror/bliss-theme.git
 	branch = master
+[submodule "blitzmax-mode"]
+	path = mirror/blitzmax-mode
+	url = git@github.com:emacsmirror/blitzmax-mode.git
 [submodule "bln-mode"]
 	path = mirror/bln-mode
 	url = git@github.com:emacsmirror/bln-mode.git
@@ -7637,6 +7640,9 @@
 [submodule "geocode"]
 	path = mirror/geocode
 	url = git@github.com:emacsmirror/geocode.git
+[submodule "geolocation"]
+	path = mirror/geolocation
+	url = git@github.com:emacsmirror/geolocation.git
 [submodule "german-holidays"]
 	path = mirror/german-holidays
 	url = git@github.com:emacsmirror/german-holidays.git
@@ -9588,6 +9594,9 @@
 [submodule "hound"]
 	path = mirror/hound
 	url = git@github.com:emacsmirror/hound.git
+[submodule "hover"]
+	path = mirror/hover
+	url = git@github.com:emacsmirror/hover.git
 [submodule "how-many-lines-in-project"]
 	path = attic/how-many-lines-in-project
 	url = git@github.com:emacsattic/how-many-lines-in-project.git
