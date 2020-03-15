@@ -12633,6 +12633,9 @@
 [submodule "mingus"]
 	path = mirror/mingus
 	url = git@github.com:emacsmirror/mingus.git
+[submodule "mini-frame"]
+	path = mirror/mini-frame
+	url = git@github.com:emacsmirror/mini-frame.git
 [submodule "mini-header-line"]
 	path = mirror/mini-header-line
 	url = git@github.com:emacsmirror/mini-header-line.git
@@ -17060,6 +17063,9 @@
 [submodule "register-list"]
 	path = mirror/register-list
 	url = git@github.com:emacsmirror/register-list.git
+[submodule "register-quicknav"]
+	path = mirror/register-quicknav
+	url = git@github.com:emacsmirror/register-quicknav.git
 [submodule "regression"]
 	path = attic/regression
 	url = git@github.com:emacsattic/regression.git
@@ -17873,6 +17879,9 @@
 	path = mirror/seoul256-theme
 	url = git@github.com:emacsmirror/seoul256-theme.git
 	branch = master
+[submodule "separedit"]
+	path = mirror/separedit
+	url = git@github.com:emacsmirror/separedit.git
 [submodule "seq-numbering"]
 	path = attic/seq-numbering
 	url = git@github.com:emacsattic/seq-numbering.git
@@ -17917,6 +17926,9 @@
 [submodule "setq-trap"]
 	path = attic/setq-trap
 	url = git@github.com:emacsattic/setq-trap.git
+[submodule "sexp-diff"]
+	path = mirror/sexp-diff
+	url = git@github.com:emacsmirror/sexp-diff.git
 [submodule "sexp-move"]
 	path = mirror/sexp-move
 	url = git@github.com:emacsmirror/sexp-move.git

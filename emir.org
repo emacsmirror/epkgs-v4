@@ -620,95 +620,85 @@ It freezes except when I try to investigate why it freezes.
 #+NAME: val--emir--orphanage-reason
 | Package              | Reason                  |
 |----------------------+-------------------------|
+| 4clojure             | dropped by maintainer   |
 | ac-alchemist         | dropped by maintainer   |
 | ac-capf              | dropped by maintainer   |
 | ac-emoji             | dropped by maintainer   |
 | ac-etags             | dropped by maintainer   |
 | ac-ispell            | dropped by maintainer   |
 | ac-racer             | dropped by maintainer   |
-| anzu                 | dropped by maintainer   |
-| codic                | dropped by maintainer   |
-| cpp-auto-include     | dropped by maintainer   |
-| dired-k              | dropped by maintainer   |
-| easy-highlight       | dropped by maintainer   |
-| emamux               | dropped by maintainer   |
-| evil-anzu            | dropped by maintainer   |
-| fontawesome          | dropped by maintainer   |
-| git-gutter           | dropped by maintainer   |
-| git-gutter-fringe    | dropped by maintainer   |
-| git-messenger        | dropped by maintainer   |
-| go-add-tags          | dropped by maintainer   |
-| go-direx             | dropped by maintainer   |
-| go-eldoc             | dropped by maintainer   |
-| go-impl              | dropped by maintainer   |
-| gom-mode             | dropped by maintainer   |
-| helm-ack             | dropped by maintainer   |
-| helm-ag              | dropped by maintainer   |
-| helm-github-issues   | dropped by maintainer   |
-| helm-gtags           | dropped by maintainer   |
-| helm-haskell-import  | dropped by maintainer   |
-| helm-ispell          | dropped by maintainer   |
-| helm-open-github     | dropped by maintainer   |
-| helm-package         | dropped by maintainer   |
-| helm-perldoc         | dropped by maintainer   |
-| helm-pydoc           | dropped by maintainer   |
-| helm-robe            | dropped by maintainer   |
-| helm-themes          | dropped by maintainer   |
-| import-popwin        | dropped by maintainer   |
-| jedi-eldoc           | dropped by maintainer   |
-| konoha-mode          | dropped by maintainer   |
-| literate-coffee-mode | dropped by maintainer   |
-| ltsv                 | dropped by maintainer   |
-| octicons             | dropped by maintainer   |
-| perl-utils           | dropped by maintainer   |
-| popup-complete       | dropped by maintainer   |
-| quickrun             | dropped by maintainer   |
-| reverse-theme        | dropped by maintainer   |
-| smeargle             | dropped by maintainer   |
-| sound-wav            | dropped by maintainer   |
-| sourcemap            | dropped by maintainer   |
-| splitjoin            | dropped by maintainer   |
-| terraform-mode       | dropped by maintainer   |
-| test-more            | dropped by maintainer   |
-| tora-mode            | dropped by maintainer   |
-| zoom-window          | dropped by maintainer   |
-| 4clojure             | dropped by maintainer   |
 | ansible-doc          | dropped by maintainer   |
+| anzu                 | dropped by maintainer   |
 | applescript-mode     | dropped by maintainer   |
 | caml                 | semi-automatic import   |
 | cg                   | semi-automatic import   |
 | clang-format         | semi-automatic import   |
+| codic                | dropped by maintainer   |
 | color-theme          | semi-automatic import   |
+| company-jedi         | dropped by maintainer   |
 | confluence           | semi-automatic import   |
+| cpp-auto-include     | dropped by maintainer   |
 | cpp-auto-include     | upstream unresponsive   |
 | crontab-mode         | upstream disappeared    |
 | darcsum              | semi-automatic import   |
 | dedicated            | upstream disappeared    |
 | dic-lookup-w3m       | semi-automatic import   |
+| dired-k              | dropped by maintainer   |
 | direx                | dropped by maintainer   |
 | dirtree              | wiki needed by non-wiki |
 | doom                 | upstream unresponsive   |
 | dsvn                 | semi-automatic import   |
+| easy-highlight       | dropped by maintainer   |
 | ecasound             | upstream disappeared    |
 | edb                  | upstream unresponsive   |
 | elisp-depend         | upstream unresponsive   |
+| emamux               | dropped by maintainer   |
+| emamux-ruby-test     | dropped by maintainer   |
 | ert-expectations     | wiki needed by non-wiki |
+| evil-anzu            | dropped by maintainer   |
+| evil-textobj-line    | dropped by maintainer   |
 | fancy-battery        | dropped by maintainer   |
 | filladapt            | upstream unresponsive   |
 | findr                | wiki needed by non-wiki |
+| fontawesome          | dropped by maintainer   |
+| git-gutter           | dropped by maintainer   |
+| git-gutter-fringe    | dropped by maintainer   |
+| git-messenger        | dropped by maintainer   |
 | gnuplot              | dropped by maintainer   |
+| go-add-tags          | dropped by maintainer   |
+| go-direx             | dropped by maintainer   |
+| go-eldoc             | dropped by maintainer   |
+| go-impl              | dropped by maintainer   |
+| gom-mode             | dropped by maintainer   |
 | haxe-mode            | dropped by maintainer   |
+| helm-ack             | dropped by maintainer   |
+| helm-ag              | dropped by maintainer   |
 | helm-css-scss        | dropped by maintainer   |
+| helm-github-issues   | dropped by maintainer   |
+| helm-gtags           | dropped by maintainer   |
+| helm-haskell-import  | dropped by maintainer   |
+| helm-ispell          | dropped by maintainer   |
 | helm-ls-svn          | semi-automatic import   |
+| helm-open-github     | dropped by maintainer   |
+| helm-package         | dropped by maintainer   |
+| helm-perldoc         | dropped by maintainer   |
+| helm-pydoc           | dropped by maintainer   |
+| helm-robe            | dropped by maintainer   |
 | helm-swoop           | dropped by maintainer   |
+| helm-themes          | dropped by maintainer   |
 | hide-lines           | wiki needed by non-wiki |
 | http-post-simple     | wiki needed by non-wiki |
 | hyperspec            | multiple non-upstreams  |
+| import-popwin        | dropped by maintainer   |
+| jedi-eldoc           | dropped by maintainer   |
 | key-chord            | wiki needed by non-wiki |
 | keydef               | upstream disappeared    |
+| konoha-mode          | dropped by maintainer   |
 | levenshtein          | wiki needed by non-wiki |
 | linkd                | wiki multiple files     |
+| literate-coffee-mode | dropped by maintainer   |
 | look-mode            | wiki needed by non-wiki |
+| ltsv                 | dropped by maintainer   |
 | magit-stgit          | dropped by maintainer   |
 | magit-svn            | dropped by maintainer   |
 | manage-minor-mode    | dropped by maintainer   |
@@ -717,6 +707,7 @@ It freezes except when I try to investigate why it freezes.
 | multi-term           | wiki needed by non-wiki |
 | nxhtml               | semi-automatic import   |
 | oberon               | upstream unresponsive   |
+| octicons             | dropped by maintainer   |
 | opam                 | dropped by maintainer   |
 | org-bullets          | upstream unresponsive   |
 | org-grep             | maintainer is dead      |
@@ -724,11 +715,15 @@ It freezes except when I try to investigate why it freezes.
 | osx-trash            | dropped by maintainer   |
 | ov                   | dropped by maintainer   |
 | pager                | upstream disappeared    |
+| perl-utils           | dropped by maintainer   |
 | picolisp             | manual tarball import   |
 | pkg-info             | dropped by maintainer   |
 | pointback            | upstream disappeared    |
+| popup-complete       | dropped by maintainer   |
 | popwin               | dropped by maintainer   |
+| quickrun             | dropped by maintainer   |
 | read-char-spec       | upstream unresponsive   |
+| reverse-theme        | dropped by maintainer   |
 | ruby-additional      | semi-automatic import   |
 | session              | manual tarball import   |
 | setnu                | upstream unresponsive   |
@@ -736,13 +731,20 @@ It freezes except when I try to investigate why it freezes.
 | shell-history        | wiki needed by non-wiki |
 | showtip              | wiki needed by non-wiki |
 | smarty-mode          | upstream disappeared    |
+| smeargle             | dropped by maintainer   |
 | sml-modeline         | manual tarball import   |
+| sound-wav            | dropped by maintainer   |
+| sourcemap            | dropped by maintainer   |
+| splitjoin            | dropped by maintainer   |
 | sr-speedbar          | wiki needed by non-wiki |
 | swoop                | dropped by maintainer   |
 | tail                 | upstream disappeared    |
+| terraform-mode       | dropped by maintainer   |
+| test-more            | dropped by maintainer   |
 | tex-smart-umlauts    | semi-automatic import   |
 | text-translator      | semi-automatic import   |
 | thingopt             | dropped by maintainer   |
+| tora-mode            | dropped by maintainer   |
 | transpose-frame      | wiki needed by non-wiki |
 | tree-mode            | wiki needed by non-wiki |
 | undo-tree            | two diverging upstreams |
@@ -754,6 +756,7 @@ It freezes except when I try to investigate why it freezes.
 | windata              | wiki needed by non-wiki |
 | yafolding            | upstream unresponsive   |
 | yascroll             | dropped by maintainer   |
+| zoom-window          | dropped by maintainer   |
 
 * Set ~emir--other-vcs~
 #+NAME: set--emir--other-vcs
