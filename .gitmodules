@@ -14237,7 +14237,6 @@
 [submodule "org-bullets"]
 	path = mirror/org-bullets
 	url = git@github.com:emacsmirror/org-bullets.git
-	branch = master
 [submodule "org-caldav"]
 	path = mirror/org-caldav
 	url = git@github.com:emacsmirror/org-caldav.git
