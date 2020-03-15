@@ -467,6 +467,9 @@
 	path = mirror/ample-zen-theme
 	url = git@github.com:emacsmirror/ample-zen-theme.git
 	branch = master
+[submodule "amread-mode"]
+	path = mirror/amread-mode
+	url = git@github.com:emacsmirror/amread-mode.git
 [submodule "amx"]
 	path = mirror/amx
 	url = git@github.com:emacsmirror/amx.git
@@ -675,6 +678,9 @@
 [submodule "apu"]
 	path = mirror/apu
 	url = git@github.com:emacsmirror/apu.git
+[submodule "aqi"]
+	path = mirror/aqi
+	url = git@github.com:emacsmirror/aqi.git
 [submodule "arbitools"]
 	path = mirror/arbitools
 	url = git@github.com:emacsmirror/arbitools.git
@@ -2845,6 +2851,9 @@
 [submodule "company-quickhelp"]
 	path = mirror/company-quickhelp
 	url = git@github.com:emacsmirror/company-quickhelp.git
+[submodule "company-quickhelp-terminal"]
+	path = mirror/company-quickhelp-terminal
+	url = git@github.com:emacsmirror/company-quickhelp-terminal.git
 [submodule "company-racer"]
 	path = mirror/company-racer
 	url = git@github.com:emacsmirror/company-racer.git
@@ -3106,6 +3115,9 @@
 [submodule "counsel-tramp"]
 	path = mirror/counsel-tramp
 	url = git@github.com:emacsmirror/counsel-tramp.git
+[submodule "counsel-web"]
+	path = mirror/counsel-web
+	url = git@github.com:emacsmirror/counsel-web.git
 [submodule "counsel-world-clock"]
 	path = mirror/counsel-world-clock
 	url = git@github.com:emacsmirror/counsel-world-clock.git
@@ -4753,6 +4765,9 @@
 [submodule "egg"]
 	path = mirror/egg
 	url = git@github.com:emacsmirror/egg.git
+[submodule "egg-timer"]
+	path = mirror/egg-timer
+	url = git@github.com:emacsmirror/egg-timer.git
 [submodule "egison-mode"]
 	path = mirror/egison-mode
 	url = git@github.com:emacsmirror/egison-mode.git
@@ -6585,6 +6600,9 @@
 [submodule "fit-frame"]
 	path = mirror/fit-frame
 	url = git@github.com:emacsmirror/fit-frame.git
+[submodule "fit-text-scale"]
+	path = mirror/fit-text-scale
+	url = git@github.com:emacsmirror/fit-text-scale.git
 [submodule "fix-buffers-list"]
 	path = mirror/fix-buffers-list
 	url = git@github.com:emacsmirror/fix-buffers-list.git
@@ -12236,6 +12254,9 @@
 [submodule "manage-minor-mode"]
 	path = mirror/manage-minor-mode
 	url = git@github.com:emacsmirror/manage-minor-mode.git
+[submodule "manage-minor-mode-table"]
+	path = mirror/manage-minor-mode-table
+	url = git@github.com:emacsmirror/manage-minor-mode-table.git
 [submodule "mandm-theme"]
 	path = mirror/mandm-theme
 	url = git@github.com:emacsmirror/mandm-theme.git
@@ -12559,6 +12580,9 @@
 [submodule "mexican-holidays"]
 	path = mirror/mexican-holidays
 	url = git@github.com:emacsmirror/mexican-holidays.git
+[submodule "meyvn"]
+	path = mirror/meyvn
+	url = git@github.com:emacsmirror/meyvn.git
 [submodule "mgmtconfig-mode"]
 	path = mirror/mgmtconfig-mode
 	url = git@github.com:emacsmirror/mgmtconfig-mode.git
@@ -12783,6 +12807,12 @@
 [submodule "modtime-skip-mode"]
 	path = mirror/modtime-skip-mode
 	url = git@github.com:emacsmirror/modtime-skip-mode.git
+[submodule "modus-operandi-theme"]
+	path = mirror/modus-operandi-theme
+	url = git@github.com:emacsmirror/modus-operandi-theme.git
+[submodule "modus-vivendi-theme"]
+	path = mirror/modus-vivendi-theme
+	url = git@github.com:emacsmirror/modus-vivendi-theme.git
 [submodule "moe-theme"]
 	path = mirror/moe-theme
 	url = git@github.com:emacsmirror/moe-theme.git
@@ -13524,6 +13554,9 @@
 [submodule "nmodl"]
 	path = attic/nmodl
 	url = git@github.com:emacsattic/nmodl.git
+[submodule "nndiscourse"]
+	path = mirror/nndiscourse
+	url = git@github.com:emacsmirror/nndiscourse.git
 [submodule "nnhackernews"]
 	path = mirror/nnhackernews
 	url = git@github.com:emacsmirror/nnhackernews.git
@@ -20618,6 +20651,9 @@
 [submodule "versions"]
 	path = mirror/versions
 	url = git@github.com:emacsmirror/versions.git
+[submodule "versuri"]
+	path = mirror/versuri
+	url = git@github.com:emacsmirror/versuri.git
 [submodule "vertica"]
 	path = mirror/vertica
 	url = git@github.com:emacsmirror/vertica.git
@@ -21953,9 +21989,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "modus-operandi-theme"]
-	path = mirror/modus-operandi-theme
-	url = git@github.com:emacsmirror/modus-operandi-theme.git
-[submodule "modus-vivendi-theme"]
-	path = mirror/modus-vivendi-theme
-	url = git@github.com:emacsmirror/modus-vivendi-theme.git
