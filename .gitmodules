@@ -8086,7 +8086,6 @@
 [submodule "go-add-tags"]
 	path = mirror/go-add-tags
 	url = git@github.com:emacsmirror/go-add-tags.git
-	branch = master
 [submodule "go-autocomplete"]
 	path = mirror/go-autocomplete
 	url = git@github.com:emacsmirror/go-autocomplete.git
@@ -8124,7 +8123,6 @@
 [submodule "go-impl"]
 	path = mirror/go-impl
 	url = git@github.com:emacsmirror/go-impl.git
-	branch = master
 [submodule "go-imports"]
 	path = mirror/go-imports
 	url = git@github.com:emacsmirror/go-imports.git
@@ -9095,8 +9093,8 @@
 	path = mirror/helm-osx-app
 	url = git@github.com:emacsmirror/helm-osx-app.git
 [submodule "helm-package"]
-	path = attic/helm-package
-	url = git@github.com:emacsattic/helm-package.git
+	path = mirror/helm-package
+	url = git@github.com:emacsmirror/helm-package.git
 [submodule "helm-pages"]
 	path = mirror/helm-pages
 	url = git@github.com:emacsmirror/helm-pages.git
@@ -17208,7 +17206,6 @@
 [submodule "reverse-theme"]
 	path = mirror/reverse-theme
 	url = git@github.com:emacsmirror/reverse-theme.git
-	branch = master
 [submodule "review"]
 	path = mirror/review
 	url = git@github.com:emacsmirror/review.git
