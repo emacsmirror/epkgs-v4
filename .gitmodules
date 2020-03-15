@@ -1796,6 +1796,9 @@
 [submodule "buffer-watcher"]
 	path = mirror/buffer-watcher
 	url = git@github.com:emacsmirror/buffer-watcher.git
+[submodule "buffer-wrap"]
+	path = mirror/buffer-wrap
+	url = git@github.com:emacsmirror/buffer-wrap.git
 [submodule "buffermenu"]
 	path = attic/buffermenu
 	url = git@github.com:emacsattic/buffermenu.git
@@ -6572,6 +6575,9 @@
 [submodule "fiplr"]
 	path = mirror/fiplr
 	url = git@github.com:emacsmirror/fiplr.git
+[submodule "fira-code-mode"]
+	path = mirror/fira-code-mode
+	url = git@github.com:emacsmirror/fira-code-mode.git
 [submodule "firecode-theme"]
 	path = mirror/firecode-theme
 	url = git@github.com:emacsmirror/firecode-theme.git
@@ -11862,6 +11868,9 @@
 [submodule "lsp-clangd"]
 	path = attic/lsp-clangd
 	url = git@github.com:emacsattic/lsp-clangd.git
+[submodule "lsp-docker"]
+	path = mirror/lsp-docker
+	url = git@github.com:emacsmirror/lsp-docker.git
 [submodule "lsp-elixir"]
 	path = mirror/lsp-elixir
 	url = git@github.com:emacsmirror/lsp-elixir.git
@@ -17952,6 +17961,9 @@
 [submodule "shampoo"]
 	path = mirror/shampoo
 	url = git@github.com:emacsmirror/shampoo.git
+[submodule "share2computer"]
+	path = mirror/share2computer
+	url = git@github.com:emacsmirror/share2computer.git
 [submodule "shelisp"]
 	path = mirror/shelisp
 	url = git@github.com:emacsmirror/shelisp.git
@@ -18794,6 +18806,9 @@
 [submodule "sql-presto"]
 	path = mirror/sql-presto
 	url = git@github.com:emacsmirror/sql-presto.git
+[submodule "sql-smie"]
+	path = mirror/sql-smie
+	url = git@github.com:emacsmirror/sql-smie.git
 [submodule "sql-sqlline"]
 	path = mirror/sql-sqlline
 	url = git@github.com:emacsmirror/sql-sqlline.git
@@ -21989,6 +22004,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "sql-smie"]
-	path = mirror/sql-smie
-	url = git@github.com:emacsmirror/sql-smie.git
