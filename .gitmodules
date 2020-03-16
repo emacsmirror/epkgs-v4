@@ -1024,6 +1024,9 @@
 [submodule "auto-scroll"]
 	path = mirror/auto-scroll
 	url = git@github.com:emacsmirror/auto-scroll.git
+[submodule "auto-scroll-mode"]
+	path = mirror/auto-scroll-mode
+	url = git@github.com:emacsmirror/auto-scroll-mode.git
 [submodule "auto-shell-command"]
 	path = mirror/auto-shell-command
 	url = git@github.com:emacsmirror/auto-shell-command.git
@@ -1679,6 +1682,9 @@
 [submodule "breathe"]
 	path = attic/breathe
 	url = git@github.com:emacsattic/breathe.git
+[submodule "brf"]
+	path = mirror/brf
+	url = git@github.com:emacsmirror/brf.git
 [submodule "brief"]
 	path = mirror/brief
 	url = git@github.com:emacsmirror/brief.git
@@ -1805,6 +1811,9 @@
 [submodule "buffi"]
 	path = attic/buffi
 	url = git@github.com:emacsattic/buffi.git
+[submodule "bufler"]
+	path = mirror/bufler
+	url = git@github.com:emacsmirror/bufler.git
 [submodule "bufshow"]
 	path = mirror/bufshow
 	url = git@github.com:emacsmirror/bufshow.git
