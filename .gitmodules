@@ -20099,6 +20099,9 @@
 	path = mirror/tree-mode
 	url = git@github.com:emacsmirror/tree-mode.git
 	branch = master
+[submodule "tree-sitter"]
+	path = mirror/tree-sitter
+	url = git@github.com:emacsmirror/tree-sitter.git
 [submodule "treefactor"]
 	path = mirror/treefactor
 	url = git@github.com:emacsmirror/treefactor.git
