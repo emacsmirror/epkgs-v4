@@ -20376,7 +20376,6 @@
 [submodule "undo-tree"]
 	path = mirror/undo-tree
 	url = git@github.com:emacsmirror/undo-tree.git
-	branch = master
 [submodule "undoc"]
 	path = attic/undoc
 	url = git@github.com:emacsattic/undoc.git
