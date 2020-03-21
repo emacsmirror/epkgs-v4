@@ -3372,6 +3372,9 @@
 [submodule "curl"]
 	path = mirror/curl
 	url = git@github.com:emacsmirror/curl.git
+[submodule "curl-to-elisp"]
+	path = mirror/curl-to-elisp
+	url = git@github.com:emacsmirror/curl-to-elisp.git
 [submodule "current-story"]
 	path = mirror/current-story
 	url = git@github.com:emacsmirror/current-story.git
@@ -10496,6 +10499,9 @@
 	path = mirror/ivy-dired-history
 	url = git@github.com:emacsmirror/ivy-dired-history.git
 	branch = master
+[submodule "ivy-emoji"]
+	path = mirror/ivy-emoji
+	url = git@github.com:emacsmirror/ivy-emoji.git
 [submodule "ivy-erlang-complete"]
 	path = mirror/ivy-erlang-complete
 	url = git@github.com:emacsmirror/ivy-erlang-complete.git
@@ -15482,6 +15488,9 @@
 	path = mirror/perspeen
 	url = git@github.com:emacsmirror/perspeen.git
 	branch = master
+[submodule "pest-mode"]
+	path = mirror/pest-mode
+	url = git@github.com:emacsmirror/pest-mode.git
 [submodule "pfuture"]
 	path = mirror/pfuture
 	url = git@github.com:emacsmirror/pfuture.git
@@ -15770,6 +15779,9 @@
 [submodule "playlist"]
 	path = attic/playlist
 	url = git@github.com:emacsattic/playlist.git
+[submodule "playonline"]
+	path = mirror/playonline
+	url = git@github.com:emacsmirror/playonline.git
 [submodule "plenv"]
 	path = mirror/plenv
 	url = git@github.com:emacsmirror/plenv.git
@@ -20884,6 +20896,9 @@
 [submodule "vue-mode"]
 	path = mirror/vue-mode
 	url = git@github.com:emacsmirror/vue-mode.git
+[submodule "vuiet"]
+	path = mirror/vuiet
+	url = git@github.com:emacsmirror/vuiet.git
 [submodule "vvb-mode"]
 	path = attic/vvb-mode
 	url = git@github.com:emacsattic/vvb-mode.git
@@ -20971,6 +20986,9 @@
 [submodule "walkman"]
 	path = mirror/walkman
 	url = git@github.com:emacsmirror/walkman.git
+[submodule "wallpaper"]
+	path = mirror/wallpaper
+	url = git@github.com:emacsmirror/wallpaper.git
 [submodule "wand"]
 	path = mirror/wand
 	url = git@github.com:emacsmirror/wand.git
