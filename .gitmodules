@@ -2336,9 +2336,6 @@
 [submodule "cl-array"]
 	path = attic/cl-array
 	url = git@github.com:emacsattic/cl-array.git
-[submodule "cl-font-lock"]
-	path = mirror/cl-font-lock
-	url = git@github.com:emacsmirror/cl-font-lock.git
 [submodule "cl-format"]
 	path = mirror/cl-format
 	url = git@github.com:emacsmirror/cl-format.git
@@ -7285,6 +7282,9 @@
 [submodule "font-lock+"]
 	path = mirror/font-lock+
 	url = git@github.com:emacsmirror/font-lock-plus.git
+[submodule "font-lock-cl"]
+	path = mirror/font-lock-cl
+	url = git@github.com:emacsmirror/font-lock-cl.git
 [submodule "font-lock-ext"]
 	path = mirror/font-lock-ext
 	url = git@github.com:emacsmirror/font-lock-ext.git
