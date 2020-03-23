@@ -5356,6 +5356,9 @@
 [submodule "emoji-fontset"]
 	path = mirror/emoji-fontset
 	url = git@github.com:emacsmirror/emoji-fontset.git
+[submodule "emoji-github"]
+	path = mirror/emoji-github
+	url = git@github.com:emacsmirror/emoji-github.git
 [submodule "emoji-recall"]
 	path = mirror/emoji-recall
 	url = git@github.com:emacsmirror/emoji-recall.git
@@ -6341,6 +6344,9 @@
 [submodule "fdlcap"]
 	path = mirror/fdlcap
 	url = git@github.com:emacsmirror/fdlcap.git
+[submodule "feather"]
+	path = mirror/feather
+	url = git@github.com:emacsmirror/feather.git
 [submodule "feature-mode"]
 	path = mirror/feature-mode
 	url = git@github.com:emacsmirror/feature-mode.git
@@ -7436,6 +7442,9 @@
 [submodule "freex"]
 	path = attic/freex
 	url = git@github.com:emacsattic/freex.git
+[submodule "freeze-it"]
+	path = mirror/freeze-it
+	url = git@github.com:emacsmirror/freeze-it.git
 [submodule "fringe-current-line"]
 	path = mirror/fringe-current-line
 	url = git@github.com:emacsmirror/fringe-current-line.git
@@ -7676,6 +7685,9 @@
 [submodule "geocode"]
 	path = mirror/geocode
 	url = git@github.com:emacsmirror/geocode.git
+[submodule "geoip"]
+	path = mirror/geoip
+	url = git@github.com:emacsmirror/geoip.git
 [submodule "geolocation"]
 	path = mirror/geolocation
 	url = git@github.com:emacsmirror/geolocation.git
@@ -11824,6 +11836,9 @@
 [submodule "logview"]
 	path = mirror/logview
 	url = git@github.com:emacsmirror/logview.git
+[submodule "lol-data-dragon"]
+	path = mirror/lol-data-dragon
+	url = git@github.com:emacsmirror/lol-data-dragon.git
 [submodule "lolcat"]
 	path = mirror/lolcat
 	url = git@github.com:emacsmirror/lolcat.git
@@ -12753,6 +12768,9 @@
 [submodule "mldonkey"]
 	path = attic/mldonkey
 	url = git@github.com:emacsattic/mldonkey.git
+[submodule "mlso-theme"]
+	path = mirror/mlso-theme
+	url = git@github.com:emacsmirror/mlso-theme.git
 [submodule "mm2mw"]
 	path = mirror/mm2mw
 	url = git@github.com:emacsmirror/mm2mw.git
@@ -12829,6 +12847,9 @@
 	path = mirror/modern-cpp-font-lock
 	url = git@github.com:emacsmirror/modern-cpp-font-lock.git
 	branch = master
+[submodule "modern-fringes"]
+	path = mirror/modern-fringes
+	url = git@github.com:emacsmirror/modern-fringes.git
 [submodule "modtime-skip-mode"]
 	path = mirror/modtime-skip-mode
 	url = git@github.com:emacsmirror/modtime-skip-mode.git
@@ -13056,6 +13077,9 @@
 [submodule "msgcodes"]
 	path = attic/msgcodes
 	url = git@github.com:emacsattic/msgcodes.git
+[submodule "msgpack"]
+	path = mirror/msgpack
+	url = git@github.com:emacsmirror/msgpack.git
 [submodule "msn"]
 	path = attic/msn
 	url = git@github.com:emacsattic/msn.git
@@ -13375,6 +13399,9 @@
 [submodule "nasm-mode"]
 	path = mirror/nasm-mode
 	url = git@github.com:emacsmirror/nasm-mode.git
+[submodule "native-complete"]
+	path = mirror/native-complete
+	url = git@github.com:emacsmirror/native-complete.git
 [submodule "natsel"]
 	path = attic/natsel
 	url = git@github.com:emacsattic/natsel.git
@@ -13707,6 +13734,9 @@
 [submodule "noxml-fold"]
 	path = mirror/noxml-fold
 	url = git@github.com:emacsmirror/noxml-fold.git
+[submodule "npm"]
+	path = mirror/npm
+	url = git@github.com:emacsmirror/npm.git
 [submodule "npm-mode"]
 	path = mirror/npm-mode
 	url = git@github.com:emacsmirror/npm-mode.git
@@ -14601,6 +14631,9 @@
 [submodule "org-rich-yank"]
 	path = mirror/org-rich-yank
 	url = git@github.com:emacsmirror/org-rich-yank.git
+[submodule "org-roam"]
+	path = mirror/org-roam
+	url = git@github.com:emacsmirror/org-roam.git
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
@@ -14698,6 +14731,9 @@
 [submodule "org-tree-slide"]
 	path = mirror/org-tree-slide
 	url = git@github.com:emacsmirror/org-tree-slide.git
+[submodule "org-treescope"]
+	path = mirror/org-treescope
+	url = git@github.com:emacsmirror/org-treescope.git
 [submodule "org-trello"]
 	path = mirror/org-trello
 	url = git@github.com:emacsmirror/org-trello.git
@@ -19987,6 +20023,9 @@
 	path = mirror/tommyh-theme
 	url = git@github.com:emacsmirror/tommyh-theme.git
 	branch = master
+[submodule "tongbu"]
+	path = mirror/tongbu
+	url = git@github.com:emacsmirror/tongbu.git
 [submodule "tool-bar+"]
 	path = mirror/tool-bar+
 	url = git@github.com:emacsmirror/tool-bar-plus.git
