@@ -19321,6 +19321,9 @@
 [submodule "sx"]
 	path = mirror/sx
 	url = git@github.com:emacsmirror/sx.git
+[submodule "sxiv"]
+	path = mirror/sxiv
+	url = git@github.com:emacsmirror/sxiv.git
 [submodule "symbol-overlay"]
 	path = mirror/symbol-overlay
 	url = git@github.com:emacsmirror/symbol-overlay.git
