@@ -786,6 +786,9 @@
 	path = mirror/assess
 	url = git@github.com:emacsmirror/assess.git
 	branch = master
+[submodule "astyle"]
+	path = mirror/astyle
+	url = git@github.com:emacsmirror/astyle.git
 [submodule "asx"]
 	path = mirror/asx
 	url = git@github.com:emacsmirror/asx.git
@@ -1058,6 +1061,9 @@
 [submodule "autocompletion-php-functions"]
 	path = mirror/autocompletion-php-functions
 	url = git@github.com:emacsmirror/autocompletion-php-functions.git
+[submodule "autocrypt"]
+	path = mirror/autocrypt
+	url = git@github.com:emacsmirror/autocrypt.git
 [submodule "autocue"]
 	path = attic/autocue
 	url = git@github.com:emacsattic/autocue.git
@@ -1517,6 +1523,9 @@
 [submodule "blacken"]
 	path = mirror/blacken
 	url = git@github.com:emacsmirror/blacken.git
+[submodule "blackout"]
+	path = mirror/blackout
+	url = git@github.com:emacsmirror/blackout.git
 [submodule "blank-mode"]
 	path = mirror/blank-mode
 	url = git@github.com:emacsmirror/blank-mode.git
@@ -1688,6 +1697,9 @@
 [submodule "brief"]
 	path = mirror/brief
 	url = git@github.com:emacsmirror/brief.git
+[submodule "brightscript-mode"]
+	path = mirror/brightscript-mode
+	url = git@github.com:emacsmirror/brightscript-mode.git
 [submodule "broadcast"]
 	path = mirror/broadcast
 	url = git@github.com:emacsmirror/broadcast.git
@@ -2267,6 +2279,9 @@
 [submodule "chronometer"]
 	path = mirror/chronometer
 	url = git@github.com:emacsmirror/chronometer.git
+[submodule "chronometrist"]
+	path = mirror/chronometrist
+	url = git@github.com:emacsmirror/chronometrist.git
 [submodule "chronos"]
 	path = mirror/chronos
 	url = git@github.com:emacsmirror/chronos.git
@@ -4688,6 +4703,9 @@
 [submodule "edit-at-point"]
 	path = attic/edit-at-point
 	url = git@github.com:emacsattic/edit-at-point.git
+[submodule "edit-chrome-textarea"]
+	path = mirror/edit-chrome-textarea
+	url = git@github.com:emacsmirror/edit-chrome-textarea.git
 [submodule "edit-color-stamp"]
 	path = mirror/edit-color-stamp
 	url = git@github.com:emacsmirror/edit-color-stamp.git
@@ -6297,6 +6315,9 @@
 [submodule "fancy-narrow"]
 	path = mirror/fancy-narrow
 	url = git@github.com:emacsmirror/fancy-narrow.git
+[submodule "fantom-theme"]
+	path = mirror/fantom-theme
+	url = git@github.com:emacsmirror/fantom-theme.git
 [submodule "farmhouse-theme"]
 	path = mirror/farmhouse-theme
 	url = git@github.com:emacsmirror/farmhouse-theme.git
@@ -8221,6 +8242,9 @@
 [submodule "gom-mode"]
 	path = mirror/gom-mode
 	url = git@github.com:emacsmirror/gom-mode.git
+[submodule "gomacro-mode"]
+	path = mirror/gomacro-mode
+	url = git@github.com:emacsmirror/gomacro-mode.git
 [submodule "goofey"]
 	path = attic/goofey
 	url = git@github.com:emacsattic/goofey.git
@@ -9397,6 +9421,9 @@
 [submodule "hide-url"]
 	path = mirror/hide-url
 	url = git@github.com:emacsmirror/hide-url.git
+[submodule "hidepw"]
+	path = mirror/hidepw
+	url = git@github.com:emacsmirror/hidepw.git
 [submodule "hideshow-org"]
 	path = mirror/hideshow-org
 	url = git@github.com:emacsmirror/hideshow-org.git
@@ -10770,6 +10797,9 @@
 [submodule "jest"]
 	path = mirror/jest
 	url = git@github.com:emacsmirror/jest.git
+[submodule "jest-test-mode"]
+	path = mirror/jest-test-mode
+	url = git@github.com:emacsmirror/jest-test-mode.git
 [submodule "jetbrains"]
 	path = mirror/jetbrains
 	url = git@github.com:emacsmirror/jetbrains.git
@@ -13583,6 +13613,9 @@
 [submodule "nixos-options"]
 	path = mirror/nixos-options
 	url = git@github.com:emacsmirror/nixos-options.git
+[submodule "nixpkgs-fmt"]
+	path = mirror/nixpkgs-fmt
+	url = git@github.com:emacsmirror/nixpkgs-fmt.git
 [submodule "nlinum"]
 	path = mirror/nlinum
 	url = git@github.com:emacsmirror/nlinum.git
@@ -14541,6 +14574,9 @@
 [submodule "org-password-manager"]
 	path = mirror/org-password-manager
 	url = git@github.com:emacsmirror/org-password-manager.git
+[submodule "org-pdftools"]
+	path = mirror/org-pdftools
+	url = git@github.com:emacsmirror/org-pdftools.git
 [submodule "org-pdfview"]
 	path = mirror/org-pdfview
 	url = git@github.com:emacsmirror/org-pdfview.git
@@ -17343,6 +17379,9 @@
 [submodule "rijndael"]
 	path = mirror/rijndael
 	url = git@github.com:emacsmirror/rijndael.git
+[submodule "rime"]
+	path = mirror/rime
+	url = git@github.com:emacsmirror/rime.git
 [submodule "rimero-theme"]
 	path = mirror/rimero-theme
 	url = git@github.com:emacsmirror/rimero-theme.git
@@ -19188,6 +19227,9 @@
 [submodule "sv-kalender-namnsdagar"]
 	path = mirror/sv-kalender-namnsdagar
 	url = git@github.com:emacsmirror/sv-kalender-namnsdagar.git
+[submodule "svelte-mode"]
+	path = mirror/svelte-mode
+	url = git@github.com:emacsmirror/svelte-mode.git
 [submodule "svg"]
 	path = mirror/svg
 	url = git@github.com:emacsmirror/svg.git
@@ -20862,6 +20904,9 @@
 [submodule "vkill"]
 	path = attic/vkill
 	url = git@github.com:emacsattic/vkill.git
+[submodule "vlc"]
+	path = mirror/vlc
+	url = git@github.com:emacsmirror/vlc.git
 [submodule "vlf"]
 	path = mirror/vlf
 	url = git@github.com:emacsmirror/vlf.git
@@ -21903,6 +21948,9 @@
 [submodule "yesql-ghosts"]
 	path = mirror/yesql-ghosts
 	url = git@github.com:emacsmirror/yesql-ghosts.git
+[submodule "yesterbox"]
+	path = mirror/yesterbox
+	url = git@github.com:emacsmirror/yesterbox.git
 [submodule "yod"]
 	path = attic/yod
 	url = git@github.com:emacsattic/yod.git
