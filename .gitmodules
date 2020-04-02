@@ -2863,6 +2863,9 @@
 	path = mirror/company-ngram
 	url = git@github.com:emacsmirror/company-ngram.git
 	branch = master
+[submodule "company-org-roam"]
+	path = mirror/company-org-roam
+	url = git@github.com:emacsmirror/company-org-roam.git
 [submodule "company-plsense"]
 	path = mirror/company-plsense
 	url = git@github.com:emacsmirror/company-plsense.git
@@ -3068,6 +3071,9 @@
 [submodule "corral"]
 	path = mirror/corral
 	url = git@github.com:emacsmirror/corral.git
+[submodule "cort"]
+	path = mirror/cort
+	url = git@github.com:emacsmirror/cort.git
 [submodule "cosmo"]
 	path = mirror/cosmo
 	url = git@github.com:emacsmirror/cosmo.git
@@ -3604,6 +3610,9 @@
 [submodule "dashboard-hackernews"]
 	path = mirror/dashboard-hackernews
 	url = git@github.com:emacsmirror/dashboard-hackernews.git
+[submodule "dashboard-ls"]
+	path = mirror/dashboard-ls
+	url = git@github.com:emacsmirror/dashboard-ls.git
 [submodule "dashboard-project-status"]
 	path = mirror/dashboard-project-status
 	url = git@github.com:emacsmirror/dashboard-project-status.git
@@ -3644,6 +3653,9 @@
 [submodule "db-sql"]
 	path = mirror/db-sql
 	url = git@github.com:emacsmirror/db-sql.git
+[submodule "dbc"]
+	path = mirror/dbc
+	url = git@github.com:emacsmirror/dbc.git
 [submodule "dbfrobs"]
 	path = attic/dbfrobs
 	url = git@github.com:emacsattic/dbfrobs.git
@@ -11467,6 +11479,9 @@
 [submodule "leaf"]
 	path = mirror/leaf
 	url = git@github.com:emacsmirror/leaf.git
+[submodule "leaf-convert"]
+	path = mirror/leaf-convert
+	url = git@github.com:emacsmirror/leaf-convert.git
 [submodule "leaf-keywords"]
 	path = mirror/leaf-keywords
 	url = git@github.com:emacsmirror/leaf-keywords.git
@@ -13217,6 +13232,9 @@
 [submodule "multi-term"]
 	path = mirror/multi-term
 	url = git@github.com:emacsmirror/multi-term.git
+[submodule "multi-vterm"]
+	path = mirror/multi-vterm
+	url = git@github.com:emacsmirror/multi-vterm.git
 [submodule "multi-web-mode"]
 	path = mirror/multi-web-mode
 	url = git@github.com:emacsmirror/multi-web-mode.git
