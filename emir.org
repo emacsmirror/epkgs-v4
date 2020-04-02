@@ -669,6 +669,7 @@ It freezes except when I try to investigate why it freezes.
 | go-direx             | dropped by maintainer   |
 | go-eldoc             | dropped by maintainer   |
 | go-impl              | dropped by maintainer   |
+| god-mode             | dropped by maintainer   |
 | gom-mode             | dropped by maintainer   |
 | haxe-mode            | dropped by maintainer   |
 | helm-ack             | dropped by maintainer   |
