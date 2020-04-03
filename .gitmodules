@@ -6299,9 +6299,6 @@
 [submodule "faces+"]
 	path = mirror/faces+
 	url = git@github.com:emacsmirror/faces-plus.git
-[submodule "faceup"]
-	path = mirror/faceup
-	url = git@github.com:emacsmirror/faceup.git
 [submodule "factlog"]
 	path = mirror/factlog
 	url = git@github.com:emacsmirror/factlog.git

@@ -11,7 +11,7 @@
 * Set ~emir-emacs-reference~
 #+NAME: set--emir-emacs-reference
 #+BEGIN_SRC emacs-lisp :results silent
-  (emir--save-variable 'emir-emacs-reference "emacs-26.3")
+  (emir--save-variable 'emir-emacs-reference "emacs-27.0.90")
 #+END_SRC
 
 * Set ~emir-pending-packages~
@@ -481,7 +481,6 @@ It freezes except when I try to investigate why it freezes.
 |--------------------+----------------------|
 | ace-window         | squash               |
 | ack                | [[https://github.com/leoliu/sokoban/issues/2][leoliu/sokoban#2]]     |
-| ada-mode           | builtin              |
 | aggressive-indent  | [[https://github.com/milkypostman/melpa/issues/3383][melpa#3383]]           |
 | async              | squash               |
 | avy                | squash               |
@@ -547,6 +546,7 @@ It freezes except when I try to investigate why it freezes.
 |------------+---------------------|
 | cl-generic | backport of builtin |
 | cl-lib     | backport of builtin |
+| nadvice    | backport of builtin |
 | seq        | backport of builtin |
 
 * Set ~emir--diverging-reason~
