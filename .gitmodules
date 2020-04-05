@@ -20179,6 +20179,9 @@
 [submodule "transient"]
 	path = mirror/transient
 	url = git@github.com:emacsmirror/transient.git
+[submodule "transient-dwim"]
+	path = mirror/transient-dwim
+	url = git@github.com:emacsmirror/transient-dwim.git
 [submodule "translate"]
 	path = attic/translate
 	url = git@github.com:emacsattic/translate.git
