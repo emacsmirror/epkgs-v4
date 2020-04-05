@@ -9501,7 +9501,6 @@
 [submodule "highlight-operators"]
 	path = mirror/highlight-operators
 	url = git@github.com:emacsmirror/highlight-operators.git
-	branch = master
 [submodule "highlight-parentheses"]
 	path = mirror/highlight-parentheses
 	url = git@github.com:emacsmirror/highlight-parentheses.git
@@ -10149,7 +10148,6 @@
 [submodule "immortal-scratch"]
 	path = mirror/immortal-scratch
 	url = git@github.com:emacsmirror/immortal-scratch.git
-	branch = master
 [submodule "immutant-server"]
 	path = mirror/immutant-server
 	url = git@github.com:emacsmirror/immutant-server.git

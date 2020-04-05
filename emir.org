@@ -23,7 +23,6 @@
 | Package     | Reason                            |
 |-------------+-----------------------------------|
 | ada-ref-man | no license, no elisp, no response |
-| nadvice     | backport                          |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages
