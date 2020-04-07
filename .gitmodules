@@ -2343,8 +2343,8 @@
 	url = git@github.com:emacsmirror/circe-notifications.git
 	branch = master
 [submodule "circle"]
-	path = mirror/circle
-	url = git@github.com:emacsmirror/circle.git
+	path = attic/circle
+	url = git@github.com:emacsattic/circle.git
 [submodule "cisco-router-mode"]
 	path = mirror/cisco-router-mode
 	url = git@github.com:emacsmirror/cisco-router-mode.git
@@ -7888,11 +7888,11 @@
 	path = mirror/git-ps1-mode
 	url = git@github.com:emacsmirror/git-ps1-mode.git
 [submodule "git-show"]
-	path = mirror/git-show
-	url = git@github.com:emacsmirror/git-show.git
+	path = attic/git-show
+	url = git@github.com:emacsattic/git-show.git
 [submodule "git-time-machine"]
-	path = mirror/git-time-machine
-	url = git@github.com:emacsmirror/git-time-machine.git
+	path = attic/git-time-machine
+	url = git@github.com:emacsattic/git-time-machine.git
 [submodule "git-time-metric"]
 	path = mirror/git-time-metric
 	url = git@github.com:emacsmirror/git-time-metric.git
@@ -7918,11 +7918,11 @@
 	path = mirror/githorg
 	url = git@github.com:emacsmirror/githorg.git
 [submodule "github"]
-	path = mirror/github
-	url = git@github.com:emacsmirror/github.git
+	path = attic/github
+	url = git@github.com:emacsattic/github.git
 [submodule "github-api-v3"]
-	path = mirror/github-api-v3
-	url = git@github.com:emacsmirror/github-api-v3.git
+	path = attic/github-api-v3
+	url = git@github.com:emacsattic/github-api-v3.git
 [submodule "github-browse-file"]
 	path = mirror/github-browse-file
 	url = git@github.com:emacsmirror/github-browse-file.git
@@ -12150,8 +12150,8 @@
 	path = mirror/magit-gitflow
 	url = git@github.com:emacsmirror/magit-gitflow.git
 [submodule "magit-identities"]
-	path = mirror/magit-identities
-	url = git@github.com:emacsmirror/magit-identities.git
+	path = attic/magit-identities
+	url = git@github.com:emacsattic/magit-identities.git
 [submodule "magit-imerge"]
 	path = mirror/magit-imerge
 	url = git@github.com:emacsmirror/magit-imerge.git
@@ -12209,8 +12209,8 @@
 	path = mirror/magit-vcsh
 	url = git@github.com:emacsmirror/magit-vcsh.git
 [submodule "magit-view-file"]
-	path = mirror/magit-view-file
-	url = git@github.com:emacsmirror/magit-view-file.git
+	path = attic/magit-view-file
+	url = git@github.com:emacsattic/magit-view-file.git
 [submodule "magithub"]
 	path = mirror/magithub
 	url = git@github.com:emacsmirror/magithub.git
@@ -14533,8 +14533,8 @@
 	path = attic/org-mac-protocol
 	url = git@github.com:emacsattic/org-mac-protocol.git
 [submodule "org-magit"]
-	path = mirror/org-magit
-	url = git@github.com:emacsmirror/org-magit.git
+	path = attic/org-magit
+	url = git@github.com:emacsattic/org-magit.git
 [submodule "org-make-toc"]
 	path = mirror/org-make-toc
 	url = git@github.com:emacsmirror/org-make-toc.git
@@ -16120,8 +16120,8 @@
 	url = git@github.com:emacsmirror/postcss-sorting.git
 	branch = master
 [submodule "posterous"]
-	path = mirror/posterous
-	url = git@github.com:emacsmirror/posterous.git
+	path = attic/posterous
+	url = git@github.com:emacsattic/posterous.git
 [submodule "pov-mode"]
 	path = mirror/pov-mode
 	url = git@github.com:emacsmirror/pov-mode.git
