@@ -426,8 +426,8 @@
 	path = mirror/alt-font-menu
 	url = git@github.com:emacsmirror/alt-font-menu.git
 [submodule "alternative-files"]
-	path = mirror/alternative-files
-	url = git@github.com:emacsmirror/alternative-files.git
+	path = attic/alternative-files
+	url = git@github.com:emacsattic/alternative-files.git
 [submodule "altmap"]
 	path = attic/altmap
 	url = git@github.com:emacsattic/altmap.git
@@ -774,8 +774,8 @@
 	path = mirror/asn1-mode
 	url = git@github.com:emacsmirror/asn1-mode.git
 [submodule "asp-mode"]
-	path = mirror/asp-mode
-	url = git@github.com:emacsmirror/asp-mode.git
+	path = attic/asp-mode
+	url = git@github.com:emacsattic/asp-mode.git
 [submodule "aspectj"]
 	path = attic/aspectj
 	url = git@github.com:emacsattic/aspectj.git
@@ -829,8 +829,8 @@
 	url = git@github.com:emacsmirror/atom-one-dark-theme.git
 	branch = master
 [submodule "atom-syndication"]
-	path = mirror/atom-syndication
-	url = git@github.com:emacsmirror/atom-syndication.git
+	path = attic/atom-syndication
+	url = git@github.com:emacsattic/atom-syndication.git
 [submodule "atomic-chrome"]
 	path = mirror/atomic-chrome
 	url = git@github.com:emacsmirror/atomic-chrome.git
@@ -2998,8 +2998,8 @@
 	path = attic/connectivity
 	url = git@github.com:emacsattic/connectivity.git
 [submodule "conspire"]
-	path = mirror/conspire
-	url = git@github.com:emacsmirror/conspire.git
+	path = attic/conspire
+	url = git@github.com:emacsattic/conspire.git
 [submodule "constant-theme"]
 	path = mirror/constant-theme
 	url = git@github.com:emacsmirror/constant-theme.git
@@ -4471,8 +4471,8 @@
 	path = attic/dupwords
 	url = git@github.com:emacsattic/dupwords.git
 [submodule "durendal"]
-	path = mirror/durendal
-	url = git@github.com:emacsmirror/durendal.git
+	path = attic/durendal
+	url = git@github.com:emacsattic/durendal.git
 [submodule "dut-mode"]
 	path = mirror/dut-mode
 	url = git@github.com:emacsmirror/dut-mode.git
@@ -4956,8 +4956,8 @@
 	path = attic/el4r
 	url = git@github.com:emacsattic/el4r.git
 [submodule "elang"]
-	path = mirror/elang
-	url = git@github.com:emacsmirror/elang.git
+	path = attic/elang
+	url = git@github.com:emacsattic/elang.git
 [submodule "elbank"]
 	path = mirror/elbank
 	url = git@github.com:emacsmirror/elbank.git
@@ -6057,8 +6057,8 @@
 	path = mirror/evil-rails
 	url = git@github.com:emacsmirror/evil-rails.git
 [submodule "evil-rebellion"]
-	path = mirror/evil-rebellion
-	url = git@github.com:emacsmirror/evil-rebellion.git
+	path = attic/evil-rebellion
+	url = git@github.com:emacsattic/evil-rebellion.git
 [submodule "evil-replace-with-char"]
 	path = mirror/evil-replace-with-char
 	url = git@github.com:emacsmirror/evil-replace-with-char.git
@@ -9194,8 +9194,8 @@
 	path = mirror/helm-projectile
 	url = git@github.com:emacsmirror/helm-projectile.git
 [submodule "helm-projectile-all"]
-	path = mirror/helm-projectile-all
-	url = git@github.com:emacsmirror/helm-projectile-all.git
+	path = attic/helm-projectile-all
+	url = git@github.com:emacsattic/helm-projectile-all.git
 [submodule "helm-pt"]
 	path = mirror/helm-pt
 	url = git@github.com:emacsmirror/helm-pt.git
@@ -13736,8 +13736,8 @@
 	path = mirror/noob-arrows-mode
 	url = git@github.com:emacsmirror/noob-arrows-mode.git
 [submodule "nopaste"]
-	path = mirror/nopaste
-	url = git@github.com:emacsmirror/nopaste.git
+	path = attic/nopaste
+	url = git@github.com:emacsattic/nopaste.git
 [submodule "noprefix"]
 	path = mirror/noprefix
 	url = git@github.com:emacsmirror/noprefix.git
@@ -17375,8 +17375,8 @@
 	path = mirror/rhtml-mode
 	url = git@github.com:emacsmirror/rhtml-mode.git
 [submodule "ri"]
-	path = mirror/ri
-	url = git@github.com:emacsmirror/ri.git
+	path = attic/ri
+	url = git@github.com:emacsattic/ri.git
 [submodule "rib-mode"]
 	path = mirror/rib-mode
 	url = git@github.com:emacsmirror/rib-mode.git
