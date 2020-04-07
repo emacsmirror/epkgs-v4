@@ -1383,6 +1383,9 @@
 [submodule "bencode"]
 	path = mirror/bencode
 	url = git@github.com:emacsmirror/bencode.git
+[submodule "bencoding"]
+	path = mirror/bencoding
+	url = git@github.com:emacsmirror/bencoding.git
 [submodule "bento"]
 	path = mirror/bento
 	url = git@github.com:emacsmirror/bento.git
@@ -1966,6 +1969,9 @@
 [submodule "cal-desk-calendar"]
 	path = attic/cal-desk-calendar
 	url = git@github.com:emacsattic/cal-desk-calendar.git
+[submodule "calc-at-point"]
+	path = mirror/calc-at-point
+	url = git@github.com:emacsmirror/calc-at-point.git
 [submodule "calc-inline"]
 	path = mirror/calc-inline
 	url = git@github.com:emacsmirror/calc-inline.git
@@ -3347,6 +3353,9 @@
 [submodule "ctl-mode"]
 	path = mirror/ctl-mode
 	url = git@github.com:emacsmirror/ctl-mode.git
+[submodule "ctrlf"]
+	path = mirror/ctrlf
+	url = git@github.com:emacsmirror/ctrlf.git
 [submodule "ctune"]
 	path = mirror/ctune
 	url = git@github.com:emacsmirror/ctune.git
@@ -20593,6 +20602,9 @@
 [submodule "unmunge-general"]
 	path = attic/unmunge-general
 	url = git@github.com:emacsattic/unmunge-general.git
+[submodule "unobtrusive-magit-theme"]
+	path = mirror/unobtrusive-magit-theme
+	url = git@github.com:emacsmirror/unobtrusive-magit-theme.git
 [submodule "unparen"]
 	path = mirror/unparen
 	url = git@github.com:emacsmirror/unparen.git
