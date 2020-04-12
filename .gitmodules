@@ -17783,6 +17783,9 @@
 [submodule "scan"]
 	path = mirror/scan
 	url = git@github.com:emacsmirror/scan.git
+[submodule "scanner"]
+	path = mirror/scanner
+	url = git@github.com:emacsmirror/scanner.git
 [submodule "scf-mode"]
 	path = mirror/scf-mode
 	url = git@github.com:emacsmirror/scf-mode.git
