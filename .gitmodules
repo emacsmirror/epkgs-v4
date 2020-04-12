@@ -3205,6 +3205,9 @@
 [submodule "cpputils-cmake"]
 	path = mirror/cpputils-cmake
 	url = git@github.com:emacsmirror/cpputils-cmake.git
+[submodule "cpu-sos"]
+	path = mirror/cpu-sos
+	url = git@github.com:emacsmirror/cpu-sos.git
 [submodule "cql-mode"]
 	path = mirror/cql-mode
 	url = git@github.com:emacsmirror/cql-mode.git
@@ -8543,6 +8546,9 @@
 	path = mirror/gtk-pomodoro-indicator
 	url = git@github.com:emacsmirror/gtk-pomodoro-indicator.git
 	branch = master
+[submodule "gtk-variant"]
+	path = mirror/gtk-variant
+	url = git@github.com:emacsmirror/gtk-variant.git
 [submodule "gtranslate"]
 	path = attic/gtranslate
 	url = git@github.com:emacsattic/gtranslate.git
@@ -11695,6 +11701,9 @@
 [submodule "lisp-extra-font-lock"]
 	path = mirror/lisp-extra-font-lock
 	url = git@github.com:emacsmirror/lisp-extra-font-lock.git
+[submodule "lisp-local"]
+	path = mirror/lisp-local
+	url = git@github.com:emacsmirror/lisp-local.git
 [submodule "lisp-re"]
 	path = attic/lisp-re
 	url = git@github.com:emacsattic/lisp-re.git
@@ -12796,6 +12805,9 @@
 [submodule "misc-fns"]
 	path = mirror/misc-fns
 	url = git@github.com:emacsmirror/misc-fns.git
+[submodule "mix"]
+	path = mirror/mix
+	url = git@github.com:emacsmirror/mix.git
 [submodule "mixed-pitch"]
 	path = mirror/mixed-pitch
 	url = git@github.com:emacsmirror/mixed-pitch.git
@@ -14695,6 +14707,9 @@
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
+[submodule "org-runbook"]
+	path = mirror/org-runbook
+	url = git@github.com:emacsmirror/org-runbook.git
 [submodule "org-s5"]
 	path = mirror/org-s5
 	url = git@github.com:emacsmirror/org-s5.git
@@ -18704,6 +18719,12 @@
 	path = mirror/soothe-theme
 	url = git@github.com:emacsmirror/soothe-theme.git
 	branch = master
+[submodule "sorcery-theme"]
+	path = mirror/sorcery-theme
+	url = git@github.com:emacsmirror/sorcery-theme.git
+[submodule "soria-theme"]
+	path = mirror/soria-theme
+	url = git@github.com:emacsmirror/soria-theme.git
 [submodule "sort+"]
 	path = mirror/sort+
 	url = git@github.com:emacsmirror/sort-plus.git
@@ -18829,6 +18850,9 @@
 [submodule "speedread"]
 	path = attic/speedread
 	url = git@github.com:emacsattic/speedread.git
+[submodule "spell-fu"]
+	path = mirror/spell-fu
+	url = git@github.com:emacsmirror/spell-fu.git
 [submodule "spell-number"]
 	path = mirror/spell-number
 	url = git@github.com:emacsmirror/spell-number.git
@@ -21849,6 +21873,9 @@
 [submodule "xwindow-ring"]
 	path = attic/xwindow-ring
 	url = git@github.com:emacsattic/xwindow-ring.git
+[submodule "xwwp"]
+	path = mirror/xwwp
+	url = git@github.com:emacsmirror/xwwp.git
 [submodule "xyzzy"]
 	path = mirror/xyzzy
 	url = git@github.com:emacsmirror/xyzzy.git
