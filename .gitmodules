@@ -5059,6 +5059,9 @@
 	path = mirror/elisp-depend
 	url = git@github.com:emacsmirror/elisp-depend.git
 	branch = master
+[submodule "elisp-depmap"]
+	path = mirror/elisp-depmap
+	url = git@github.com:emacsmirror/elisp-depmap.git
 [submodule "elisp-docstring-mode"]
 	path = mirror/elisp-docstring-mode
 	url = git@github.com:emacsmirror/elisp-docstring-mode.git
@@ -7487,6 +7490,9 @@
 [submodule "freeze-it"]
 	path = mirror/freeze-it
 	url = git@github.com:emacsmirror/freeze-it.git
+[submodule "friendly-tramp-path"]
+	path = mirror/friendly-tramp-path
+	url = git@github.com:emacsmirror/friendly-tramp-path.git
 [submodule "fringe-current-line"]
 	path = mirror/fringe-current-line
 	url = git@github.com:emacsmirror/fringe-current-line.git
@@ -9934,6 +9940,9 @@
 [submodule "icomplete+"]
 	path = mirror/icomplete+
 	url = git@github.com:emacsmirror/icomplete-plus.git
+[submodule "icomplete-vertical"]
+	path = mirror/icomplete-vertical
+	url = git@github.com:emacsmirror/icomplete-vertical.git
 [submodule "icons-in-terminal"]
 	path = mirror/icons-in-terminal
 	url = git@github.com:emacsmirror/icons-in-terminal.git
@@ -11495,6 +11504,12 @@
 [submodule "leaf-keywords"]
 	path = mirror/leaf-keywords
 	url = git@github.com:emacsmirror/leaf-keywords.git
+[submodule "leaf-manager"]
+	path = mirror/leaf-manager
+	url = git@github.com:emacsmirror/leaf-manager.git
+[submodule "leaf-tree"]
+	path = mirror/leaf-tree
+	url = git@github.com:emacsmirror/leaf-tree.git
 [submodule "lean-mode"]
 	path = mirror/lean-mode
 	url = git@github.com:emacsmirror/lean-mode.git
@@ -11954,6 +11969,9 @@
 [submodule "lsp-clangd"]
 	path = attic/lsp-clangd
 	url = git@github.com:emacsattic/lsp-clangd.git
+[submodule "lsp-dart"]
+	path = mirror/lsp-dart
+	url = git@github.com:emacsmirror/lsp-dart.git
 [submodule "lsp-docker"]
 	path = mirror/lsp-docker
 	url = git@github.com:emacsmirror/lsp-docker.git
@@ -14807,6 +14825,9 @@
 [submodule "org-treescope"]
 	path = mirror/org-treescope
 	url = git@github.com:emacsmirror/org-treescope.git
+[submodule "org-treeusage"]
+	path = mirror/org-treeusage
+	url = git@github.com:emacsmirror/org-treeusage.git
 [submodule "org-trello"]
 	path = mirror/org-trello
 	url = git@github.com:emacsmirror/org-trello.git
@@ -17196,6 +17217,9 @@
 [submodule "register-quicknav"]
 	path = mirror/register-quicknav
 	url = git@github.com:emacsmirror/register-quicknav.git
+[submodule "rego-mode"]
+	path = mirror/rego-mode
+	url = git@github.com:emacsmirror/rego-mode.git
 [submodule "regression"]
 	path = attic/regression
 	url = git@github.com:emacsattic/regression.git
@@ -18520,6 +18544,9 @@
 [submodule "smart-indent-rigidly"]
 	path = mirror/smart-indent-rigidly
 	url = git@github.com:emacsmirror/smart-indent-rigidly.git
+[submodule "smart-input-source"]
+	path = mirror/smart-input-source
+	url = git@github.com:emacsmirror/smart-input-source.git
 [submodule "smart-jump"]
 	path = mirror/smart-jump
 	url = git@github.com:emacsmirror/smart-jump.git
