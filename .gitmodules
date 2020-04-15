@@ -14622,7 +14622,6 @@
 [submodule "org-parser"]
 	path = mirror/org-parser
 	url = git@github.com:emacsmirror/org-parser.git
-	branch = master
 [submodule "org-password-manager"]
 	path = mirror/org-password-manager
 	url = git@github.com:emacsmirror/org-password-manager.git
@@ -22197,7 +22196,6 @@
 [submodule "zpresent"]
 	path = mirror/zpresent
 	url = git@github.com:emacsmirror/zpresent.git
-	branch = master
 [submodule "zprint-mode"]
 	path = mirror/zprint-mode
 	url = git@github.com:emacsmirror/zprint-mode.git
