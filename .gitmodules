@@ -5663,8 +5663,8 @@
 	path = mirror/erlang
 	url = git@github.com:emacsmirror/erlang.git
 [submodule "erlang-dired-mode"]
-	path = mirror/erlang-dired-mode
-	url = git@github.com:emacsmirror/erlang-dired-mode.git
+	path = attic/erlang-dired-mode
+	url = git@github.com:emacsattic/erlang-dired-mode.git
 [submodule "erlstack-mode"]
 	path = mirror/erlstack-mode
 	url = git@github.com:emacsmirror/erlstack-mode.git
@@ -6598,8 +6598,8 @@
 	path = mirror/find-git
 	url = git@github.com:emacsmirror/find-git.git
 [submodule "find-in-repo"]
-	path = mirror/find-in-repo
-	url = git@github.com:emacsmirror/find-in-repo.git
+	path = attic/find-in-repo
+	url = git@github.com:emacsattic/find-in-repo.git
 [submodule "find-lib"]
 	path = attic/find-lib
 	url = git@github.com:emacsattic/find-lib.git
@@ -8904,8 +8904,8 @@
 	path = mirror/helm-dash
 	url = git@github.com:emacsmirror/helm-dash.git
 [submodule "helm-delicious"]
-	path = mirror/helm-delicious
-	url = git@github.com:emacsmirror/helm-delicious.git
+	path = attic/helm-delicious
+	url = git@github.com:emacsattic/helm-delicious.git
 [submodule "helm-descbinds"]
 	path = mirror/helm-descbinds
 	url = git@github.com:emacsmirror/helm-descbinds.git
@@ -10719,8 +10719,8 @@
 	path = mirror/java-mode-indent-annotations
 	url = git@github.com:emacsmirror/java-mode-indent-annotations.git
 [submodule "java-mode-plus"]
-	path = mirror/java-mode-plus
-	url = git@github.com:emacsmirror/java-mode-plus.git
+	path = attic/java-mode-plus
+	url = git@github.com:emacsattic/java-mode-plus.git
 [submodule "java-open"]
 	path = attic/java-open
 	url = git@github.com:emacsattic/java-open.git
@@ -10883,14 +10883,14 @@
 	path = mirror/jonprl-mode
 	url = git@github.com:emacsmirror/jonprl-mode.git
 [submodule "joseph-autopair"]
-	path = mirror/joseph-autopair
-	url = git@github.com:emacsmirror/joseph-autopair.git
+	path = attic/joseph-autopair
+	url = git@github.com:emacsattic/joseph-autopair.git
 [submodule "joseph-file-util"]
-	path = mirror/joseph-file-util
-	url = git@github.com:emacsmirror/joseph-file-util.git
+	path = attic/joseph-file-util
+	url = git@github.com:emacsattic/joseph-file-util.git
 [submodule "joseph-single-dired"]
-	path = mirror/joseph-single-dired
-	url = git@github.com:emacsmirror/joseph-single-dired.git
+	path = attic/joseph-single-dired
+	url = git@github.com:emacsattic/joseph-single-dired.git
 [submodule "journal"]
 	path = attic/journal
 	url = git@github.com:emacsattic/journal.git
@@ -13796,8 +13796,8 @@
 	path = attic/noticeify
 	url = git@github.com:emacsattic/noticeify.git
 [submodule "notify"]
-	path = mirror/notify
-	url = git@github.com:emacsmirror/notify.git
+	path = attic/notify
+	url = git@github.com:emacsattic/notify.git
 [submodule "notmuch"]
 	path = mirror/notmuch
 	url = git@github.com:emacsmirror/notmuch.git
@@ -14865,8 +14865,8 @@
 	path = attic/org-wunderlist
 	url = git@github.com:emacsattic/org-wunderlist.git
 [submodule "org-yaml"]
-	path = mirror/org-yaml
-	url = git@github.com:emacsmirror/org-yaml.git
+	path = attic/org-yaml
+	url = git@github.com:emacsattic/org-yaml.git
 [submodule "org2blog"]
 	path = mirror/org2blog
 	url = git@github.com:emacsmirror/org2blog.git
@@ -15231,8 +15231,8 @@
 	path = mirror/page-break-lines
 	url = git@github.com:emacsmirror/page-break-lines.git
 [submodule "page-mode"]
-	path = mirror/page-mode
-	url = git@github.com:emacsmirror/page-mode.git
+	path = attic/page-mode
+	url = git@github.com:emacsattic/page-mode.git
 [submodule "pager"]
 	path = mirror/pager
 	url = git@github.com:emacsmirror/pager.git
@@ -15532,8 +15532,8 @@
 	path = mirror/per-buffer-theme
 	url = git@github.com:emacsmirror/per-buffer-theme.git
 [submodule "per-window-point"]
-	path = mirror/per-window-point
-	url = git@github.com:emacsmirror/per-window-point.git
+	path = attic/per-window-point
+	url = git@github.com:emacsattic/per-window-point.git
 [submodule "perfect-margin"]
 	path = mirror/perfect-margin
 	url = git@github.com:emacsmirror/perfect-margin.git
@@ -18220,8 +18220,8 @@
 	path = attic/shop
 	url = git@github.com:emacsattic/shop.git
 [submodule "short-lambda"]
-	path = mirror/short-lambda
-	url = git@github.com:emacsmirror/short-lambda.git
+	path = attic/short-lambda
+	url = git@github.com:emacsattic/short-lambda.git
 [submodule "shoulda"]
 	path = mirror/shoulda
 	url = git@github.com:emacsmirror/shoulda.git
@@ -19874,8 +19874,8 @@
 	path = mirror/textile-mode
 	url = git@github.com:emacsmirror/textile-mode.git
 [submodule "textlint"]
-	path = mirror/textlint
-	url = git@github.com:emacsmirror/textlint.git
+	path = attic/textlint
+	url = git@github.com:emacsattic/textlint.git
 [submodule "textmate"]
 	path = mirror/textmate
 	url = git@github.com:emacsmirror/textmate.git
@@ -20048,8 +20048,8 @@
 	path = mirror/tinysegmenter
 	url = git@github.com:emacsmirror/tinysegmenter.git
 [submodule "tipshare"]
-	path = mirror/tipshare
-	url = git@github.com:emacsmirror/tipshare.git
+	path = attic/tipshare
+	url = git@github.com:emacsattic/tipshare.git
 [submodule "title-time"]
 	path = mirror/title-time
 	url = git@github.com:emacsmirror/title-time.git
