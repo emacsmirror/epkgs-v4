@@ -1253,6 +1253,9 @@
 	path = mirror/basic-c-compile
 	url = git@github.com:emacsmirror/basic-c-compile.git
 	branch = master
+[submodule "basic-ide"]
+	path = mirror/basic-ide
+	url = git@github.com:emacsmirror/basic-ide.git
 [submodule "basic-mode"]
 	path = mirror/basic-mode
 	url = git@github.com:emacsmirror/basic-mode.git
@@ -1727,6 +1730,9 @@
 [submodule "browse-urn"]
 	path = mirror/browse-urn
 	url = git@github.com:emacsmirror/browse-urn.git
+[submodule "brutal-theme"]
+	path = mirror/brutal-theme
+	url = git@github.com:emacsmirror/brutal-theme.git
 [submodule "brutalist-theme"]
 	path = mirror/brutalist-theme
 	url = git@github.com:emacsmirror/brutalist-theme.git
@@ -18333,6 +18339,9 @@
 [submodule "simple-httpd"]
 	path = mirror/simple-httpd
 	url = git@github.com:emacsmirror/simple-httpd.git
+[submodule "simple-modeline"]
+	path = mirror/simple-modeline
+	url = git@github.com:emacsmirror/simple-modeline.git
 [submodule "simple-mpc"]
 	path = mirror/simple-mpc
 	url = git@github.com:emacsmirror/simple-mpc.git
@@ -18808,6 +18817,9 @@
 [submodule "space-chord"]
 	path = mirror/space-chord
 	url = git@github.com:emacsmirror/space-chord.git
+[submodule "space-theming"]
+	path = mirror/space-theming
+	url = git@github.com:emacsmirror/space-theming.git
 [submodule "spacebar"]
 	path = mirror/spacebar
 	url = git@github.com:emacsmirror/spacebar.git
