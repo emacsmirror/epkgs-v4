@@ -1455,6 +1455,9 @@
 [submodule "bibslurp"]
 	path = mirror/bibslurp
 	url = git@github.com:emacsmirror/bibslurp.git
+[submodule "bibtex-completion"]
+	path = mirror/bibtex-completion
+	url = git@github.com:emacsmirror/bibtex-completion.git
 [submodule "bibtex-mode"]
 	path = attic/bibtex-mode
 	url = git@github.com:emacsattic/bibtex-mode.git
@@ -8815,9 +8818,6 @@
 	path = mirror/helm-bbdb
 	url = git@github.com:emacsmirror/helm-bbdb.git
 	branch = master
-[submodule "helm-bibtex"]
-	path = mirror/helm-bibtex
-	url = git@github.com:emacsmirror/helm-bibtex.git
 [submodule "helm-bibtexkey"]
 	path = mirror/helm-bibtexkey
 	url = git@github.com:emacsmirror/helm-bibtexkey.git
