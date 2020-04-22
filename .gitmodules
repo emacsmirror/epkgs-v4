@@ -15594,9 +15594,6 @@
 [submodule "perl-utils"]
 	path = mirror/perl-utils
 	url = git@github.com:emacsmirror/perl-utils.git
-[submodule "perl6-mode"]
-	path = mirror/perl6-mode
-	url = git@github.com:emacsmirror/perl6-mode.git
 [submodule "perlbrew"]
 	path = mirror/perlbrew
 	url = git@github.com:emacsmirror/perlbrew.git
@@ -16884,6 +16881,9 @@
 [submodule "rake"]
 	path = mirror/rake
 	url = git@github.com:emacsmirror/rake.git
+[submodule "raku-mode"]
+	path = mirror/raku-mode
+	url = git@github.com:emacsmirror/raku-mode.git
 [submodule "rally-mode"]
 	path = mirror/rally-mode
 	url = git@github.com:emacsmirror/rally-mode.git
