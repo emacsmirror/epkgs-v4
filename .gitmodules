@@ -10290,7 +10290,6 @@
 [submodule "info-buffer"]
 	path = mirror/info-buffer
 	url = git@github.com:emacsmirror/info-buffer.git
-	branch = master
 [submodule "info-colors"]
 	path = mirror/info-colors
 	url = git@github.com:emacsmirror/info-colors.git
