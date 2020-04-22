@@ -2971,6 +2971,9 @@
 [submodule "completion-ignored-build"]
 	path = attic/completion-ignored-build
 	url = git@github.com:emacsattic/completion-ignored-build.git
+[submodule "completions-frame"]
+	path = mirror/completions-frame
+	url = git@github.com:emacsmirror/completions-frame.git
 [submodule "composable"]
 	path = mirror/composable
 	url = git@github.com:emacsmirror/composable.git
@@ -6721,6 +6724,9 @@
 [submodule "flashcard-sm5"]
 	path = attic/flashcard-sm5
 	url = git@github.com:emacsattic/flashcard-sm5.git
+[submodule "flatfluc-theme"]
+	path = mirror/flatfluc-theme
+	url = git@github.com:emacsmirror/flatfluc-theme.git
 [submodule "flatland-black-theme"]
 	path = mirror/flatland-black-theme
 	url = git@github.com:emacsmirror/flatland-black-theme.git
@@ -11374,6 +11380,9 @@
 [submodule "lambdacalc"]
 	path = mirror/lambdacalc
 	url = git@github.com:emacsmirror/lambdacalc.git
+[submodule "lambdapi-mode"]
+	path = mirror/lambdapi-mode
+	url = git@github.com:emacsmirror/lambdapi-mode.git
 [submodule "lammps-mode"]
 	path = mirror/lammps-mode
 	url = git@github.com:emacsmirror/lammps-mode.git
@@ -12546,6 +12555,9 @@
 [submodule "mc"]
 	path = mirror/mc
 	url = git@github.com:emacsmirror/mc.git
+[submodule "mc-calc"]
+	path = mirror/mc-calc
+	url = git@github.com:emacsmirror/mc-calc.git
 [submodule "mc-extras"]
 	path = mirror/mc-extras
 	url = git@github.com:emacsmirror/mc-extras.git
@@ -12624,6 +12636,9 @@
 [submodule "menu-bar+"]
 	path = mirror/menu-bar+
 	url = git@github.com:emacsmirror/menu-bar-plus.git
+[submodule "meow"]
+	path = mirror/meow
+	url = git@github.com:emacsmirror/meow.git
 [submodule "merlin"]
 	path = mirror/merlin
 	url = git@github.com:emacsmirror/merlin.git
@@ -14594,6 +14609,9 @@
 [submodule "org-msg"]
 	path = mirror/org-msg
 	url = git@github.com:emacsmirror/org-msg.git
+[submodule "org-multi-wiki"]
+	path = mirror/org-multi-wiki
+	url = git@github.com:emacsmirror/org-multi-wiki.git
 [submodule "org-multiple-keymap"]
 	path = attic/org-multiple-keymap
 	url = git@github.com:emacsattic/org-multiple-keymap.git
@@ -14727,6 +14745,9 @@
 [submodule "org-roam"]
 	path = mirror/org-roam
 	url = git@github.com:emacsmirror/org-roam.git
+[submodule "org-roam-bibtex"]
+	path = mirror/org-roam-bibtex
+	url = git@github.com:emacsmirror/org-roam-bibtex.git
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
@@ -15049,6 +15070,9 @@
 [submodule "ovpn-mode"]
 	path = mirror/ovpn-mode
 	url = git@github.com:emacsmirror/ovpn-mode.git
+[submodule "owcmd"]
+	path = mirror/owcmd
+	url = git@github.com:emacsmirror/owcmd.git
 [submodule "owdriver"]
 	path = mirror/owdriver
 	url = git@github.com:emacsmirror/owdriver.git
@@ -18194,6 +18218,9 @@
 [submodule "shen-mode"]
 	path = mirror/shen-mode
 	url = git@github.com:emacsmirror/shen-mode.git
+[submodule "shfmt"]
+	path = mirror/shfmt
+	url = git@github.com:emacsmirror/shfmt.git
 [submodule "shift-lock"]
 	path = attic/shift-lock
 	url = git@github.com:emacsattic/shift-lock.git
