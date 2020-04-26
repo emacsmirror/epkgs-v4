@@ -476,6 +476,9 @@
 [submodule "anaconda-mode"]
 	path = mirror/anaconda-mode
 	url = git@github.com:emacsmirror/anaconda-mode.git
+[submodule "anakondo"]
+	path = mirror/anakondo
+	url = git@github.com:emacsmirror/anakondo.git
 [submodule "analog"]
 	path = attic/analog
 	url = git@github.com:emacsattic/analog.git
@@ -12021,6 +12024,9 @@
 [submodule "lsp-julia"]
 	path = mirror/lsp-julia
 	url = git@github.com:emacsmirror/lsp-julia.git
+[submodule "lsp-latex"]
+	path = mirror/lsp-latex
+	url = git@github.com:emacsmirror/lsp-latex.git
 [submodule "lsp-mode"]
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
@@ -12037,6 +12043,9 @@
 [submodule "lsp-p4"]
 	path = mirror/lsp-p4
 	url = git@github.com:emacsmirror/lsp-p4.git
+[submodule "lsp-pascal"]
+	path = mirror/lsp-pascal
+	url = git@github.com:emacsmirror/lsp-pascal.git
 [submodule "lsp-php"]
 	path = attic/lsp-php
 	url = git@github.com:emacsattic/lsp-php.git
@@ -13597,6 +13606,9 @@
 [submodule "networkmanager"]
 	path = mirror/networkmanager
 	url = git@github.com:emacsmirror/networkmanager.git
+[submodule "neuron-mode"]
+	path = mirror/neuron-mode
+	url = git@github.com:emacsmirror/neuron-mode.git
 [submodule "never-comment"]
 	path = mirror/never-comment
 	url = git@github.com:emacsmirror/never-comment.git
@@ -14325,6 +14337,9 @@
 [submodule "order-head"]
 	path = attic/order-head
 	url = git@github.com:emacsattic/order-head.git
+[submodule "orderless"]
+	path = mirror/orderless
+	url = git@github.com:emacsmirror/orderless.git
 [submodule "ordinal"]
 	path = mirror/ordinal
 	url = git@github.com:emacsmirror/ordinal.git
@@ -15505,6 +15520,9 @@
 [submodule "pdb"]
 	path = attic/pdb
 	url = git@github.com:emacsattic/pdb.git
+[submodule "pdb-capf"]
+	path = mirror/pdb-capf
+	url = git@github.com:emacsmirror/pdb-capf.git
 [submodule "pdb-mode"]
 	path = mirror/pdb-mode
 	url = git@github.com:emacsmirror/pdb-mode.git
@@ -21506,6 +21524,9 @@
 [submodule "windresize"]
 	path = mirror/windresize
 	url = git@github.com:emacsmirror/windresize.git
+[submodule "winds"]
+	path = mirror/winds
+	url = git@github.com:emacsmirror/winds.git
 [submodule "windsize"]
 	path = mirror/windsize
 	url = git@github.com:emacsmirror/windsize.git
