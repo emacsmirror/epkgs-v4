@@ -2818,8 +2818,8 @@
 	path = mirror/company-ebdb
 	url = git@github.com:emacsmirror/company-ebdb.git
 [submodule "company-edbi"]
-	path = mirror/company-edbi
-	url = git@github.com:emacsmirror/company-edbi.git
+	path = attic/company-edbi
+	url = git@github.com:emacsattic/company-edbi.git
 [submodule "company-emoji"]
 	path = mirror/company-emoji
 	url = git@github.com:emacsmirror/company-emoji.git
@@ -2921,8 +2921,8 @@
 	path = mirror/company-tabnine
 	url = git@github.com:emacsmirror/company-tabnine.git
 [submodule "company-tern"]
-	path = mirror/company-tern
-	url = git@github.com:emacsmirror/company-tern.git
+	path = attic/company-tern
+	url = git@github.com:emacsattic/company-tern.git
 [submodule "company-terraform"]
 	path = mirror/company-terraform
 	url = git@github.com:emacsmirror/company-terraform.git
@@ -4696,17 +4696,17 @@
 	path = mirror/edbi
 	url = git@github.com:emacsmirror/edbi.git
 [submodule "edbi-database-url"]
-	path = mirror/edbi-database-url
-	url = git@github.com:emacsmirror/edbi-database-url.git
+	path = attic/edbi-database-url
+	url = git@github.com:emacsattic/edbi-database-url.git
 [submodule "edbi-django"]
-	path = mirror/edbi-django
-	url = git@github.com:emacsmirror/edbi-django.git
+	path = attic/edbi-django
+	url = git@github.com:emacsattic/edbi-django.git
 [submodule "edbi-minor-mode"]
-	path = mirror/edbi-minor-mode
-	url = git@github.com:emacsmirror/edbi-minor-mode.git
+	path = attic/edbi-minor-mode
+	url = git@github.com:emacsattic/edbi-minor-mode.git
 [submodule "edbi-sqlite"]
-	path = mirror/edbi-sqlite
-	url = git@github.com:emacsmirror/edbi-sqlite.git
+	path = attic/edbi-sqlite
+	url = git@github.com:emacsattic/edbi-sqlite.git
 [submodule "ede-compdb"]
 	path = mirror/ede-compdb
 	url = git@github.com:emacsmirror/ede-compdb.git
@@ -5487,8 +5487,8 @@
 	path = attic/env-print
 	url = git@github.com:emacsattic/env-print.git
 [submodule "envdir"]
-	path = mirror/envdir
-	url = git@github.com:emacsmirror/envdir.git
+	path = attic/envdir
+	url = git@github.com:emacsattic/envdir.git
 [submodule "enwc"]
 	path = mirror/enwc
 	url = git@github.com:emacsmirror/enwc.git
@@ -19487,8 +19487,8 @@
 	path = mirror/sync-scroll
 	url = git@github.com:emacsmirror/sync-scroll.git
 [submodule "syndicate"]
-	path = mirror/syndicate
-	url = git@github.com:emacsmirror/syndicate.git
+	path = attic/syndicate
+	url = git@github.com:emacsattic/syndicate.git
 	branch = master
 [submodule "synonymous"]
 	path = mirror/synonymous
@@ -20768,8 +20768,8 @@
 	path = attic/ushell
 	url = git@github.com:emacsattic/ushell.git
 [submodule "usql"]
-	path = mirror/usql
-	url = git@github.com:emacsmirror/usql.git
+	path = attic/usql
+	url = git@github.com:emacsattic/usql.git
 [submodule "utf-8m"]
 	path = attic/utf-8m
 	url = git@github.com:emacsattic/utf-8m.git
