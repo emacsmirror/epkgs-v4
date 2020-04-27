@@ -8001,6 +8001,9 @@
 [submodule "gitlab-ci-mode-flycheck"]
 	path = mirror/gitlab-ci-mode-flycheck
 	url = git@github.com:emacsmirror/gitlab-ci-mode-flycheck.git
+[submodule "gitlab-snip-helm"]
+	path = mirror/gitlab-snip-helm
+	url = git@github.com:emacsmirror/gitlab-snip-helm.git
 [submodule "gitolite-clone"]
 	path = mirror/gitolite-clone
 	url = git@github.com:emacsmirror/gitolite-clone.git
@@ -11206,6 +11209,9 @@
 [submodule "keypress-multi-event"]
 	path = mirror/keypress-multi-event
 	url = git@github.com:emacsmirror/keypress-multi-event.git
+[submodule "keypression"]
+	path = mirror/keypression
+	url = git@github.com:emacsmirror/keypression.git
 [submodule "keyring"]
 	path = attic/keyring
 	url = git@github.com:emacsattic/keyring.git
@@ -14799,6 +14805,9 @@
 [submodule "org-snooze"]
 	path = mirror/org-snooze
 	url = git@github.com:emacsmirror/org-snooze.git
+[submodule "org-special-block-extras"]
+	path = mirror/org-special-block-extras
+	url = git@github.com:emacsmirror/org-special-block-extras.git
 [submodule "org-sql"]
 	path = mirror/org-sql
 	url = git@github.com:emacsmirror/org-sql.git
