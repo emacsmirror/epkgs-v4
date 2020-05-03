@@ -23,6 +23,7 @@
 | Package     | Reason                            |
 |-------------+-----------------------------------|
 | ada-ref-man | no license, no elisp, no response |
+| gnu-elpa    | provides wrong feature            |
 
 * Set ~emir-suspended-packages~
 #+NAME: set--emir-suspended-packages

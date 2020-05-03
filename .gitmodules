@@ -3127,6 +3127,9 @@
 [submodule "counsel-etags"]
 	path = mirror/counsel-etags
 	url = git@github.com:emacsmirror/counsel-etags.git
+[submodule "counsel-fd"]
+	path = mirror/counsel-fd
+	url = git@github.com:emacsmirror/counsel-fd.git
 [submodule "counsel-ffdata"]
 	path = mirror/counsel-ffdata
 	url = git@github.com:emacsmirror/counsel-ffdata.git
@@ -7508,6 +7511,9 @@
 [submodule "freeze-it"]
 	path = mirror/freeze-it
 	url = git@github.com:emacsmirror/freeze-it.git
+[submodule "friendly-shell"]
+	path = mirror/friendly-shell
+	url = git@github.com:emacsmirror/friendly-shell.git
 [submodule "friendly-tramp-path"]
 	path = mirror/friendly-tramp-path
 	url = git@github.com:emacsmirror/friendly-tramp-path.git
@@ -7708,6 +7714,9 @@
 [submodule "geiser"]
 	path = mirror/geiser
 	url = git@github.com:emacsmirror/geiser.git
+[submodule "geiser-kawa"]
+	path = mirror/geiser-kawa
+	url = git@github.com:emacsmirror/geiser-kawa.git
 [submodule "genauto"]
 	path = attic/genauto
 	url = git@github.com:emacsattic/genauto.git
@@ -8222,6 +8231,9 @@
 [submodule "go-mode"]
 	path = mirror/go-mode
 	url = git@github.com:emacsmirror/go-mode.git
+[submodule "go-noisegate"]
+	path = mirror/go-noisegate
+	url = git@github.com:emacsmirror/go-noisegate.git
 [submodule "go-playground"]
 	path = mirror/go-playground
 	url = git@github.com:emacsmirror/go-playground.git
@@ -10311,9 +10323,15 @@
 [submodule "infohelp"]
 	path = attic/infohelp
 	url = git@github.com:emacsattic/infohelp.git
+[submodule "inform"]
+	path = mirror/inform
+	url = git@github.com:emacsmirror/inform.git
 [submodule "inform-mode"]
 	path = mirror/inform-mode
 	url = git@github.com:emacsmirror/inform-mode.git
+[submodule "inform7"]
+	path = mirror/inform7
+	url = git@github.com:emacsmirror/inform7.git
 [submodule "inherit-local"]
 	path = mirror/inherit-local
 	url = git@github.com:emacsmirror/inherit-local.git
@@ -11414,6 +11432,9 @@
 [submodule "language-id"]
 	path = mirror/language-id
 	url = git@github.com:emacsmirror/language-id.git
+[submodule "languagetool"]
+	path = mirror/languagetool
+	url = git@github.com:emacsmirror/languagetool.git
 [submodule "lastfm"]
 	path = mirror/lastfm
 	url = git@github.com:emacsmirror/lastfm.git
@@ -12669,6 +12690,9 @@
 	path = mirror/meson-mode
 	url = git@github.com:emacsmirror/meson-mode.git
 	branch = master
+[submodule "message-attachment-reminder"]
+	path = mirror/message-attachment-reminder
+	url = git@github.com:emacsmirror/message-attachment-reminder.git
 [submodule "message-log"]
 	path = attic/message-log
 	url = git@github.com:emacsattic/message-log.git
@@ -14557,6 +14581,9 @@
 [submodule "org-hyde"]
 	path = mirror/org-hyde
 	url = git@github.com:emacsmirror/org-hyde.git
+[submodule "org-id-cleanup"]
+	path = mirror/org-id-cleanup
+	url = git@github.com:emacsmirror/org-id-cleanup.git
 [submodule "org-if"]
 	path = mirror/org-if
 	url = git@github.com:emacsmirror/org-if.git
@@ -18322,6 +18349,9 @@
 	path = mirror/shr-tag-pre-highlight
 	url = git@github.com:emacsmirror/shr-tag-pre-highlight.git
 	branch = master
+[submodule "shrface"]
+	path = mirror/shrface
+	url = git@github.com:emacsmirror/shrface.git
 [submodule "shrink-path"]
 	path = mirror/shrink-path
 	url = git@github.com:emacsmirror/shrink-path.git
