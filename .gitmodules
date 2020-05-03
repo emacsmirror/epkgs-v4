@@ -21485,7 +21485,6 @@
 [submodule "widgetjs"]
 	path = mirror/widgetjs
 	url = git@github.com:emacsmirror/widgetjs.git
-	branch = master
 [submodule "wiki"]
 	path = mirror/wiki
 	url = git@github.com:emacsmirror/wiki.git
