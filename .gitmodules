@@ -8366,7 +8366,6 @@
 [submodule "gotham-theme"]
 	path = mirror/gotham-theme
 	url = git@github.com:emacsmirror/gotham-theme.git
-	branch = master
 [submodule "goto-char-other-window"]
 	path = attic/goto-char-other-window
 	url = git@github.com:emacsattic/goto-char-other-window.git
@@ -16577,7 +16576,6 @@
 [submodule "punpun-theme"]
 	path = mirror/punpun-theme
 	url = git@github.com:emacsmirror/punpun-theme.git
-	branch = master
 [submodule "punycode"]
 	path = attic/punycode
 	url = git@github.com:emacsattic/punycode.git
