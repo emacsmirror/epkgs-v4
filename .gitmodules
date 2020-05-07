@@ -12001,6 +12001,9 @@
 [submodule "lpc-mode"]
 	path = attic/lpc-mode
 	url = git@github.com:emacsattic/lpc-mode.git
+[submodule "lpy"]
+	path = mirror/lpy
+	url = git@github.com:emacsmirror/lpy.git
 [submodule "ls-lisp+"]
 	path = mirror/ls-lisp+
 	url = git@github.com:emacsmirror/ls-lisp-plus.git
@@ -13349,6 +13352,9 @@
 [submodule "multishell"]
 	path = mirror/multishell
 	url = git@github.com:emacsmirror/multishell.git
+[submodule "multistate"]
+	path = mirror/multistate
+	url = git@github.com:emacsmirror/multistate.git
 [submodule "multitran"]
 	path = mirror/multitran
 	url = git@github.com:emacsmirror/multitran.git
@@ -13848,6 +13854,9 @@
 [submodule "notes-mode"]
 	path = mirror/notes-mode
 	url = git@github.com:emacsmirror/notes-mode.git
+[submodule "nothing-theme"]
+	path = mirror/nothing-theme
+	url = git@github.com:emacsmirror/nothing-theme.git
 [submodule "noticeify"]
 	path = attic/noticeify
 	url = git@github.com:emacsattic/noticeify.git
@@ -20936,6 +20945,9 @@
 [submodule "vector-utils"]
 	path = mirror/vector-utils
 	url = git@github.com:emacsmirror/vector-utils.git
+[submodule "vega-view"]
+	path = mirror/vega-view
+	url = git@github.com:emacsmirror/vega-view.git
 [submodule "vel"]
 	path = attic/vel
 	url = git@github.com:emacsattic/vel.git
