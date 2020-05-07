@@ -14708,8 +14708,8 @@
 	path = mirror/org-pdftools
 	url = git@github.com:emacsmirror/org-pdftools.git
 [submodule "org-pdfview"]
-	path = mirror/org-pdfview
-	url = git@github.com:emacsmirror/org-pdfview.git
+	path = attic/org-pdfview
+	url = git@github.com:emacsattic/org-pdfview.git
 [submodule "org-picklink"]
 	path = mirror/org-picklink
 	url = git@github.com:emacsmirror/org-picklink.git
