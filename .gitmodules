@@ -3955,7 +3955,6 @@
 [submodule "digit-groups"]
 	path = mirror/digit-groups
 	url = git@github.com:emacsmirror/digit-groups.git
-	branch = master
 [submodule "digitalocean"]
 	path = mirror/digitalocean
 	url = git@github.com:emacsmirror/digitalocean.git
