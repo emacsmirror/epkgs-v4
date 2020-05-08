@@ -8140,6 +8140,9 @@
 [submodule "gnus-mock"]
 	path = mirror/gnus-mock
 	url = git@github.com:emacsmirror/gnus-mock.git
+[submodule "gnus-notes"]
+	path = mirror/gnus-notes
+	url = git@github.com:emacsmirror/gnus-notes.git
 [submodule "gnus-notify"]
 	path = mirror/gnus-notify
 	url = git@github.com:emacsmirror/gnus-notify.git
