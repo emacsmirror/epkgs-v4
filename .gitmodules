@@ -874,6 +874,9 @@
 [submodule "aurquery"]
 	path = mirror/aurquery
 	url = git@github.com:emacsmirror/aurquery.git
+[submodule "auth-source-xoauth2"]
+	path = mirror/auth-source-xoauth2
+	url = git@github.com:emacsmirror/auth-source-xoauth2.git
 [submodule "auto-arg-mode"]
 	path = attic/auto-arg-mode
 	url = git@github.com:emacsattic/auto-arg-mode.git
@@ -9958,6 +9961,9 @@
 [submodule "icaps"]
 	path = attic/icaps
 	url = git@github.com:emacsattic/icaps.git
+[submodule "iceberg-theme"]
+	path = mirror/iceberg-theme
+	url = git@github.com:emacsmirror/iceberg-theme.git
 [submodule "icicles"]
 	path = mirror/icicles
 	url = git@github.com:emacsmirror/icicles.git
@@ -11650,6 +11656,9 @@
 [submodule "libelcouch"]
 	path = mirror/libelcouch
 	url = git@github.com:emacsmirror/libelcouch.git
+[submodule "liberime"]
+	path = mirror/liberime
+	url = git@github.com:emacsmirror/liberime.git
 [submodule "libgit"]
 	path = mirror/libgit
 	url = git@github.com:emacsmirror/libgit.git
@@ -14433,6 +14442,9 @@
 	path = mirror/org-bookmark-heading
 	url = git@github.com:emacsmirror/org-bookmark-heading.git
 	branch = master
+[submodule "org-books"]
+	path = mirror/org-books
+	url = git@github.com:emacsmirror/org-books.git
 [submodule "org-brain"]
 	path = mirror/org-brain
 	url = git@github.com:emacsmirror/org-brain.git
@@ -22178,6 +22190,9 @@
 [submodule "ysq-modeline"]
 	path = attic/ysq-modeline
 	url = git@github.com:emacsattic/ysq-modeline.git
+[submodule "ytel"]
+	path = mirror/ytel
+	url = git@github.com:emacsmirror/ytel.git
 [submodule "z3-mode"]
 	path = mirror/z3-mode
 	url = git@github.com:emacsmirror/z3-mode.git
