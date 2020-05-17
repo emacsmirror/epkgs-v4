@@ -22350,3 +22350,12 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
+[submodule "eldoc"]
+	path = mirror/eldoc
+	url = git@github.com:emacsmirror/eldoc.git
+[submodule "project"]
+	path = mirror/project
+	url = git@github.com:emacsmirror/project.git
+[submodule "xref"]
+	path = mirror/xref
+	url = git@github.com:emacsmirror/xref.git
