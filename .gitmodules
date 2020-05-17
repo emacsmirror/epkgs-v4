@@ -9893,6 +9893,9 @@
 	path = mirror/hyperbole
 	url = git@github.com:emacsmirror/hyperbole.git
 	branch = master
+[submodule "hyperlist-mode"]
+	path = mirror/hyperlist-mode
+	url = git@github.com:emacsmirror/hyperlist-mode.git
 [submodule "hyperspace"]
 	path = mirror/hyperspace
 	url = git@github.com:emacsmirror/hyperspace.git
@@ -14817,6 +14820,9 @@
 [submodule "org-roam-bibtex"]
 	path = mirror/org-roam-bibtex
 	url = git@github.com:emacsmirror/org-roam-bibtex.git
+[submodule "org-roam-server"]
+	path = mirror/org-roam-server
+	url = git@github.com:emacsmirror/org-roam-server.git
 [submodule "org-rtm"]
 	path = mirror/org-rtm
 	url = git@github.com:emacsmirror/org-rtm.git
@@ -15036,6 +15042,9 @@
 [submodule "os"]
 	path = attic/os
 	url = git@github.com:emacsattic/os.git
+[submodule "osa"]
+	path = mirror/osa
+	url = git@github.com:emacsmirror/osa.git
 [submodule "osc"]
 	path = mirror/osc
 	url = git@github.com:emacsmirror/osc.git
