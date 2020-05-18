@@ -5005,6 +5005,9 @@
 [submodule "eldo-mode"]
 	path = attic/eldo-mode
 	url = git@github.com:emacsattic/eldo-mode.git
+[submodule "eldoc"]
+	path = mirror/eldoc
+	url = git@github.com:emacsmirror/eldoc.git
 [submodule "eldoc-box"]
 	path = mirror/eldoc-box
 	url = git@github.com:emacsmirror/eldoc-box.git
@@ -11844,6 +11847,9 @@
 	path = mirror/literal-string
 	url = git@github.com:emacsmirror/literal-string.git
 	branch = master
+[submodule "literate-calc-mode"]
+	path = mirror/literate-calc-mode
+	url = git@github.com:emacsmirror/literate-calc-mode.git
 [submodule "literate-coffee-mode"]
 	path = mirror/literate-coffee-mode
 	url = git@github.com:emacsmirror/literate-coffee-mode.git
@@ -14258,6 +14264,9 @@
 [submodule "ogre-material-mode"]
 	path = attic/ogre-material-mode
 	url = git@github.com:emacsattic/ogre-material-mode.git
+[submodule "oj"]
+	path = mirror/oj
+	url = git@github.com:emacsmirror/oj.git
 [submodule "old-fashioned-undo"]
 	path = mirror/old-fashioned-undo
 	url = git@github.com:emacsmirror/old-fashioned-undo.git
@@ -16407,6 +16416,9 @@
 [submodule "programmer-dvorak"]
 	path = mirror/programmer-dvorak
 	url = git@github.com:emacsmirror/programmer-dvorak.git
+[submodule "project"]
+	path = mirror/project
+	url = git@github.com:emacsmirror/project.git
 [submodule "project-abbrev"]
 	path = mirror/project-abbrev
 	url = git@github.com:emacsmirror/project-abbrev.git
@@ -17459,6 +17471,9 @@
 	path = mirror/restclient-test
 	url = git@github.com:emacsmirror/restclient-test.git
 	branch = master
+[submodule "retrie"]
+	path = mirror/retrie
+	url = git@github.com:emacsmirror/retrie.git
 [submodule "revbufs"]
 	path = attic/revbufs
 	url = git@github.com:emacsattic/revbufs.git
@@ -20740,6 +20755,9 @@
 [submodule "uniesc"]
 	path = attic/uniesc
 	url = git@github.com:emacsattic/uniesc.git
+[submodule "unifdef"]
+	path = mirror/unifdef
+	url = git@github.com:emacsmirror/unifdef.git
 [submodule "unify-buffer"]
 	path = mirror/unify-buffer
 	url = git@github.com:emacsmirror/unify-buffer.git
@@ -21984,6 +22002,9 @@
 [submodule "xrdb-mode"]
 	path = attic/xrdb-mode
 	url = git@github.com:emacsattic/xrdb-mode.git
+[submodule "xref"]
+	path = mirror/xref
+	url = git@github.com:emacsmirror/xref.git
 [submodule "xref-js2"]
 	path = mirror/xref-js2
 	url = git@github.com:emacsmirror/xref-js2.git
@@ -22350,12 +22371,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "eldoc"]
-	path = mirror/eldoc
-	url = git@github.com:emacsmirror/eldoc.git
-[submodule "project"]
-	path = mirror/project
-	url = git@github.com:emacsmirror/project.git
-[submodule "xref"]
-	path = mirror/xref
-	url = git@github.com:emacsmirror/xref.git
