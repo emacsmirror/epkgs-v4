@@ -7001,8 +7001,8 @@
 	path = mirror/flycheck-mercury
 	url = git@github.com:emacsmirror/flycheck-mercury.git
 [submodule "flycheck-mix"]
-	path = mirror/flycheck-mix
-	url = git@github.com:emacsmirror/flycheck-mix.git
+	path = attic/flycheck-mix
+	url = git@github.com:emacsattic/flycheck-mix.git
 	branch = master
 [submodule "flycheck-mmark"]
 	path = mirror/flycheck-mmark
