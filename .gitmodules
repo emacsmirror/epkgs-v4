@@ -3800,6 +3800,9 @@
 [submodule "demo-it"]
 	path = mirror/demo-it
 	url = git@github.com:emacsmirror/demo-it.git
+[submodule "deno-fmt"]
+	path = mirror/deno-fmt
+	url = git@github.com:emacsmirror/deno-fmt.git
 [submodule "descr-text+"]
 	path = mirror/descr-text+
 	url = git@github.com:emacsmirror/descr-text-plus.git
@@ -5497,6 +5500,9 @@
 [submodule "envdir"]
 	path = attic/envdir
 	url = git@github.com:emacsattic/envdir.git
+[submodule "envrc"]
+	path = mirror/envrc
+	url = git@github.com:emacsmirror/envrc.git
 [submodule "enwc"]
 	path = mirror/enwc
 	url = git@github.com:emacsmirror/enwc.git
@@ -6914,6 +6920,9 @@
 [submodule "flycheck-dtrace"]
 	path = mirror/flycheck-dtrace
 	url = git@github.com:emacsmirror/flycheck-dtrace.git
+[submodule "flycheck-eldev"]
+	path = mirror/flycheck-eldev
+	url = git@github.com:emacsmirror/flycheck-eldev.git
 [submodule "flycheck-elixir"]
 	path = mirror/flycheck-elixir
 	url = git@github.com:emacsmirror/flycheck-elixir.git
@@ -7648,6 +7657,9 @@
 [submodule "gallery"]
 	path = attic/gallery
 	url = git@github.com:emacsattic/gallery.git
+[submodule "gameoflife"]
+	path = mirror/gameoflife
+	url = git@github.com:emacsmirror/gameoflife.git
 [submodule "gams-ac"]
 	path = mirror/gams-ac
 	url = git@github.com:emacsmirror/gams-ac.git
@@ -12229,6 +12241,9 @@
 [submodule "magit-commit-training-wheels"]
 	path = attic/magit-commit-training-wheels
 	url = git@github.com:emacsattic/magit-commit-training-wheels.git
+[submodule "magit-delta"]
+	path = mirror/magit-delta
+	url = git@github.com:emacsmirror/magit-delta.git
 [submodule "magit-diff-flycheck"]
 	path = mirror/magit-diff-flycheck
 	url = git@github.com:emacsmirror/magit-diff-flycheck.git
@@ -13302,6 +13317,9 @@
 [submodule "mudel"]
 	path = mirror/mudel
 	url = git@github.com:emacsmirror/mudel.git
+[submodule "mugur"]
+	path = mirror/mugur
+	url = git@github.com:emacsmirror/mugur.git
 [submodule "mule-menu"]
 	path = mirror/mule-menu
 	url = git@github.com:emacsmirror/mule-menu.git
@@ -15054,6 +15072,9 @@
 [submodule "osa"]
 	path = mirror/osa
 	url = git@github.com:emacsmirror/osa.git
+[submodule "osa-chrome"]
+	path = mirror/osa-chrome
+	url = git@github.com:emacsmirror/osa-chrome.git
 [submodule "osc"]
 	path = mirror/osc
 	url = git@github.com:emacsmirror/osc.git
@@ -16552,6 +16573,9 @@
 [submodule "ps2pdf"]
 	path = mirror/ps2pdf
 	url = git@github.com:emacsmirror/ps2pdf.git
+[submodule "psalm"]
+	path = mirror/psalm
+	url = git@github.com:emacsmirror/psalm.git
 [submodule "psc-ide"]
 	path = mirror/psc-ide
 	url = git@github.com:emacsmirror/psc-ide.git
@@ -17993,6 +18017,9 @@
 	path = mirror/scratch
 	url = git@github.com:emacsmirror/scratch.git
 	branch = master
+[submodule "scratch-comment"]
+	path = mirror/scratch-comment
+	url = git@github.com:emacsmirror/scratch-comment.git
 [submodule "scratch-ext"]
 	path = mirror/scratch-ext
 	url = git@github.com:emacsmirror/scratch-ext.git
@@ -19511,6 +19538,9 @@
 [submodule "swiper-helm"]
 	path = mirror/swiper-helm
 	url = git@github.com:emacsmirror/swiper-helm.git
+[submodule "swiss-holidays"]
+	path = mirror/swiss-holidays
+	url = git@github.com:emacsmirror/swiss-holidays.git
 [submodule "swiss-move"]
 	path = mirror/swiss-move
 	url = git@github.com:emacsmirror/swiss-move.git
