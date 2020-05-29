@@ -2394,6 +2394,9 @@
 [submodule "claire-mode"]
 	path = attic/claire-mode
 	url = git@github.com:emacsattic/claire-mode.git
+[submodule "clang-capf"]
+	path = mirror/clang-capf
+	url = git@github.com:emacsmirror/clang-capf.git
 [submodule "clang-format"]
 	path = mirror/clang-format
 	url = git@github.com:emacsmirror/clang-format.git
@@ -3214,9 +3217,6 @@
 [submodule "cpp-auto-include"]
 	path = mirror/cpp-auto-include
 	url = git@github.com:emacsmirror/cpp-auto-include.git
-[submodule "cpp-capf"]
-	path = mirror/cpp-capf
-	url = git@github.com:emacsmirror/cpp-capf.git
 [submodule "cppref"]
 	path = mirror/cppref
 	url = git@github.com:emacsmirror/cppref.git
@@ -4553,6 +4553,9 @@
 [submodule "e2wm-direx"]
 	path = mirror/e2wm-direx
 	url = git@github.com:emacsmirror/e2wm-direx.git
+[submodule "e2wm-perspb"]
+	path = mirror/e2wm-perspb
+	url = git@github.com:emacsmirror/e2wm-perspb.git
 [submodule "e2wm-pkgex4pl"]
 	path = mirror/e2wm-pkgex4pl
 	url = git@github.com:emacsmirror/e2wm-pkgex4pl.git
@@ -7774,6 +7777,9 @@
 [submodule "gentext-texinfo"]
 	path = attic/gentext-texinfo
 	url = git@github.com:emacsattic/gentext-texinfo.git
+[submodule "geo"]
+	path = mirror/geo
+	url = git@github.com:emacsmirror/geo.git
 [submodule "geocode"]
 	path = mirror/geocode
 	url = git@github.com:emacsmirror/geocode.git
@@ -14673,6 +14679,9 @@
 [submodule "org-linkany"]
 	path = attic/org-linkany
 	url = git@github.com:emacsattic/org-linkany.git
+[submodule "org-linkotron"]
+	path = mirror/org-linkotron
+	url = git@github.com:emacsmirror/org-linkotron.git
 [submodule "org-listcruncher"]
 	path = mirror/org-listcruncher
 	url = git@github.com:emacsmirror/org-listcruncher.git
@@ -22152,6 +22161,9 @@
 [submodule "yaoddmuse"]
 	path = mirror/yaoddmuse
 	url = git@github.com:emacsmirror/yaoddmuse.git
+[submodule "yaol"]
+	path = mirror/yaol
+	url = git@github.com:emacsmirror/yaol.git
 [submodule "yapfify"]
 	path = mirror/yapfify
 	url = git@github.com:emacsmirror/yapfify.git
@@ -22401,6 +22413,3 @@
 [submodule "zzz-to-char"]
 	path = mirror/zzz-to-char
 	url = git@github.com:emacsmirror/zzz-to-char.git
-[submodule "geo"]
-	path = mirror/geo
-	url = git@github.com:emacsmirror/geo.git
