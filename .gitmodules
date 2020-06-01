@@ -1168,6 +1168,9 @@
 [submodule "axiom-environment"]
 	path = mirror/axiom-environment
 	url = git@github.com:emacsmirror/axiom-environment.git
+[submodule "ayu-theme"]
+	path = mirror/ayu-theme
+	url = git@github.com:emacsmirror/ayu-theme.git
 [submodule "babel"]
 	path = mirror/babel
 	url = git@github.com:emacsmirror/babel.git
@@ -2003,6 +2006,9 @@
 [submodule "calfw-gcal"]
 	path = mirror/calfw-gcal
 	url = git@github.com:emacsmirror/calfw-gcal.git
+[submodule "calibredb"]
+	path = mirror/calibredb
+	url = git@github.com:emacsmirror/calibredb.git
 [submodule "call-graph"]
 	path = mirror/call-graph
 	url = git@github.com:emacsmirror/call-graph.git
@@ -14938,6 +14944,9 @@
 [submodule "org-tanglesync"]
 	path = mirror/org-tanglesync
 	url = git@github.com:emacsmirror/org-tanglesync.git
+[submodule "org-taskforecast"]
+	path = mirror/org-taskforecast
+	url = git@github.com:emacsmirror/org-taskforecast.git
 [submodule "org-tfl"]
 	path = mirror/org-tfl
 	url = git@github.com:emacsmirror/org-tfl.git
@@ -16104,6 +16113,9 @@
 [submodule "pmdm"]
 	path = mirror/pmdm
 	url = git@github.com:emacsmirror/pmdm.git
+[submodule "pnpm-mode"]
+	path = mirror/pnpm-mode
+	url = git@github.com:emacsmirror/pnpm-mode.git
 [submodule "po-mode"]
 	path = mirror/po-mode
 	url = git@github.com:emacsmirror/po-mode.git
@@ -20483,6 +20495,9 @@
 [submodule "trindle"]
 	path = mirror/trindle
 	url = git@github.com:emacsmirror/trindle.git
+[submodule "tron-legacy-theme"]
+	path = mirror/tron-legacy-theme
+	url = git@github.com:emacsmirror/tron-legacy-theme.git
 [submodule "trr"]
 	path = mirror/trr
 	url = git@github.com:emacsmirror/trr.git
@@ -22265,6 +22280,9 @@
 [submodule "ysq-modeline"]
 	path = attic/ysq-modeline
 	url = git@github.com:emacsattic/ysq-modeline.git
+[submodule "ytdl"]
+	path = mirror/ytdl
+	url = git@github.com:emacsmirror/ytdl.git
 [submodule "ytel"]
 	path = mirror/ytel
 	url = git@github.com:emacsmirror/ytel.git
