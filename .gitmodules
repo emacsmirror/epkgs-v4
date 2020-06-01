@@ -12959,8 +12959,8 @@
 	path = mirror/mmm-jinja2
 	url = git@github.com:emacsmirror/mmm-jinja2.git
 [submodule "mmm-mako"]
-	path = mirror/mmm-mako
-	url = git@github.com:emacsmirror/mmm-mako.git
+	path = attic/mmm-mako
+	url = git@github.com:emacsattic/mmm-mako.git
 [submodule "mmm-mode"]
 	path = mirror/mmm-mode
 	url = git@github.com:emacsmirror/mmm-mode.git
@@ -13889,8 +13889,8 @@
 	path = mirror/northcode-theme
 	url = git@github.com:emacsmirror/northcode-theme.git
 [submodule "nose"]
-	path = mirror/nose
-	url = git@github.com:emacsmirror/nose.git
+	path = attic/nose
+	url = git@github.com:emacsattic/nose.git
 [submodule "notebook"]
 	path = attic/notebook
 	url = git@github.com:emacsattic/notebook.git
@@ -16727,8 +16727,8 @@
 	path = mirror/pydoc
 	url = git@github.com:emacsmirror/pydoc.git
 [submodule "pydoc-info"]
-	path = mirror/pydoc-info
-	url = git@github.com:emacsmirror/pydoc-info.git
+	path = attic/pydoc-info
+	url = git@github.com:emacsattic/pydoc-info.git
 [submodule "pyenv-mode"]
 	path = mirror/pyenv-mode
 	url = git@github.com:emacsmirror/pyenv-mode.git
@@ -18704,8 +18704,8 @@
 	path = mirror/smart-dabbrev
 	url = git@github.com:emacsmirror/smart-dabbrev.git
 [submodule "smart-dash"]
-	path = mirror/smart-dash
-	url = git@github.com:emacsmirror/smart-dash.git
+	path = attic/smart-dash
+	url = git@github.com:emacsattic/smart-dash.git
 [submodule "smart-dnd"]
 	path = mirror/smart-dnd
 	url = git@github.com:emacsmirror/smart-dnd.git
@@ -20771,8 +20771,8 @@
 	path = attic/unicode-helper
 	url = git@github.com:emacsattic/unicode-helper.git
 [submodule "unicode-input"]
-	path = mirror/unicode-input
-	url = git@github.com:emacsmirror/unicode-input.git
+	path = attic/unicode-input
+	url = git@github.com:emacsattic/unicode-input.git
 [submodule "unicode-math-input"]
 	path = mirror/unicode-math-input
 	url = git@github.com:emacsmirror/unicode-math-input.git
@@ -21693,8 +21693,8 @@
 	path = mirror/wisitoken-grammar-mode
 	url = git@github.com:emacsmirror/wisitoken-grammar-mode.git
 [submodule "wisp-mode"]
-	path = mirror/wisp-mode
-	url = git@github.com:emacsmirror/wisp-mode.git
+	path = attic/wisp-mode
+	url = git@github.com:emacsattic/wisp-mode.git
 [submodule "wispjs-mode"]
 	path = mirror/wispjs-mode
 	url = git@github.com:emacsmirror/wispjs-mode.git
