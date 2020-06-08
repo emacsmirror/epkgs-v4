@@ -2479,6 +2479,9 @@
 [submodule "cljr-helm"]
 	path = mirror/cljr-helm
 	url = git@github.com:emacsmirror/cljr-helm.git
+[submodule "cljr-ivy"]
+	path = mirror/cljr-ivy
+	url = git@github.com:emacsmirror/cljr-ivy.git
 [submodule "cljsbuild-mode"]
 	path = mirror/cljsbuild-mode
 	url = git@github.com:emacsmirror/cljsbuild-mode.git
@@ -2896,6 +2899,9 @@
 [submodule "company-org-roam"]
 	path = mirror/company-org-roam
 	url = git@github.com:emacsmirror/company-org-roam.git
+[submodule "company-plisp"]
+	path = mirror/company-plisp
+	url = git@github.com:emacsmirror/company-plisp.git
 [submodule "company-plsense"]
 	path = mirror/company-plsense
 	url = git@github.com:emacsmirror/company-plsense.git
@@ -3432,6 +3438,9 @@
 [submodule "curl-to-elisp"]
 	path = mirror/curl-to-elisp
 	url = git@github.com:emacsmirror/curl-to-elisp.git
+[submodule "currency-convert"]
+	path = mirror/currency-convert
+	url = git@github.com:emacsmirror/currency-convert.git
 [submodule "current-story"]
 	path = mirror/current-story
 	url = git@github.com:emacsmirror/current-story.git
@@ -10963,6 +10972,9 @@
 [submodule "journal-search"]
 	path = attic/journal-search
 	url = git@github.com:emacsattic/journal-search.git
+[submodule "journalctl-mode"]
+	path = mirror/journalctl-mode
+	url = git@github.com:emacsmirror/journalctl-mode.git
 [submodule "joystick"]
 	path = attic/joystick
 	url = git@github.com:emacsattic/joystick.git
@@ -11209,6 +11221,9 @@
 [submodule "keepass-mode"]
 	path = mirror/keepass-mode
 	url = git@github.com:emacsmirror/keepass-mode.git
+[submodule "keg"]
+	path = mirror/keg
+	url = git@github.com:emacsmirror/keg.git
 [submodule "kerl"]
 	path = mirror/kerl
 	url = git@github.com:emacsmirror/kerl.git
@@ -11756,6 +11771,9 @@
 [submodule "linkify"]
 	path = mirror/linkify
 	url = git@github.com:emacsmirror/linkify.git
+[submodule "linkode"]
+	path = mirror/linkode
+	url = git@github.com:emacsmirror/linkode.git
 [submodule "links"]
 	path = attic/links
 	url = git@github.com:emacsattic/links.git
@@ -12100,6 +12118,9 @@
 [submodule "lsp-latex"]
 	path = mirror/lsp-latex
 	url = git@github.com:emacsmirror/lsp-latex.git
+[submodule "lsp-metals"]
+	path = mirror/lsp-metals
+	url = git@github.com:emacsmirror/lsp-metals.git
 [submodule "lsp-mode"]
 	path = mirror/lsp-mode
 	url = git@github.com:emacsmirror/lsp-mode.git
@@ -13501,6 +13522,9 @@
 [submodule "myanmar-input-methods"]
 	path = mirror/myanmar-input-methods
 	url = git@github.com:emacsmirror/myanmar-input-methods.git
+[submodule "mybigword"]
+	path = mirror/mybigword
+	url = git@github.com:emacsmirror/mybigword.git
 [submodule "mybuffers"]
 	path = mirror/mybuffers
 	url = git@github.com:emacsmirror/mybuffers.git
@@ -21245,6 +21269,9 @@
 [submodule "vscdark-theme"]
 	path = mirror/vscdark-theme
 	url = git@github.com:emacsmirror/vscdark-theme.git
+[submodule "vscode-dark-plus-theme"]
+	path = mirror/vscode-dark-plus-theme
+	url = git@github.com:emacsmirror/vscode-dark-plus-theme.git
 [submodule "vscode-icon"]
 	path = mirror/vscode-icon
 	url = git@github.com:emacsmirror/vscode-icon.git
@@ -22249,6 +22276,9 @@
 [submodule "yesterbox"]
 	path = mirror/yesterbox
 	url = git@github.com:emacsmirror/yesterbox.git
+[submodule "ynab"]
+	path = mirror/ynab
+	url = git@github.com:emacsmirror/ynab.git
 [submodule "yod"]
 	path = attic/yod
 	url = git@github.com:emacsattic/yod.git
@@ -22345,6 +22375,9 @@
 [submodule "zim-wiki-mode"]
 	path = mirror/zim-wiki-mode
 	url = git@github.com:emacsmirror/zim-wiki-mode.git
+[submodule "zimports"]
+	path = mirror/zimports
+	url = git@github.com:emacsmirror/zimports.git
 [submodule "zlc"]
 	path = mirror/zlc
 	url = git@github.com:emacsmirror/zlc.git

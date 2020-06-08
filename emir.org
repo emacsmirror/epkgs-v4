@@ -781,6 +781,7 @@ It freezes except when I try to investigate why it freezes.
 | text-translator   | bzr   |
 | vm                | bzr   |
 | w3m               | cvs   |
+
 * Set ~emir--archived-packages~
 #+NAME: set--emir--archived-packages
 #+BEGIN_SRC emacs-lisp :results silent
