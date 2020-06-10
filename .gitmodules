@@ -7795,9 +7795,6 @@
 [submodule "geo"]
 	path = mirror/geo
 	url = git@github.com:emacsmirror/geo.git
-[submodule "geocode"]
-	path = mirror/geocode
-	url = git@github.com:emacsmirror/geocode.git
 [submodule "geoip"]
 	path = mirror/geoip
 	url = git@github.com:emacsmirror/geoip.git
