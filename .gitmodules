@@ -710,6 +710,9 @@
 [submodule "archive-rpm"]
 	path = mirror/archive-rpm
 	url = git@github.com:emacsmirror/archive-rpm.git
+[submodule "arduino-cli-mode"]
+	path = mirror/arduino-cli-mode
+	url = git@github.com:emacsmirror/arduino-cli-mode.git
 [submodule "arduino-mode"]
 	path = mirror/arduino-mode
 	url = git@github.com:emacsmirror/arduino-mode.git
@@ -5885,6 +5888,9 @@
 [submodule "etags-update"]
 	path = mirror/etags-update
 	url = git@github.com:emacsmirror/etags-update.git
+[submodule "etc-sudoers-mode"]
+	path = mirror/etc-sudoers-mode
+	url = git@github.com:emacsmirror/etc-sudoers-mode.git
 [submodule "eterm-256color"]
 	path = mirror/eterm-256color
 	url = git@github.com:emacsmirror/eterm-256color.git
@@ -7752,6 +7758,9 @@
 [submodule "geiser-kawa"]
 	path = mirror/geiser-kawa
 	url = git@github.com:emacsmirror/geiser-kawa.git
+[submodule "gemini-mode"]
+	path = mirror/gemini-mode
+	url = git@github.com:emacsmirror/gemini-mode.git
 [submodule "genauto"]
 	path = attic/genauto
 	url = git@github.com:emacsattic/genauto.git
@@ -12109,6 +12118,9 @@
 [submodule "lsp-javascript-typescript"]
 	path = attic/lsp-javascript-typescript
 	url = git@github.com:emacsattic/lsp-javascript-typescript.git
+[submodule "lsp-jedi"]
+	path = mirror/lsp-jedi
+	url = git@github.com:emacsmirror/lsp-jedi.git
 [submodule "lsp-julia"]
 	path = mirror/lsp-julia
 	url = git@github.com:emacsmirror/lsp-julia.git
@@ -15275,6 +15287,9 @@
 [submodule "ox-latex-subfigure"]
 	path = mirror/ox-latex-subfigure
 	url = git@github.com:emacsmirror/ox-latex-subfigure.git
+[submodule "ox-leanpub"]
+	path = mirror/ox-leanpub
+	url = git@github.com:emacsmirror/ox-leanpub.git
 [submodule "ox-mdx-deck"]
 	path = mirror/ox-mdx-deck
 	url = git@github.com:emacsmirror/ox-mdx-deck.git
