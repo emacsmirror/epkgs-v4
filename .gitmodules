@@ -6988,6 +6988,9 @@
 [submodule "flycheck-grammarly"]
 	path = mirror/flycheck-grammarly
 	url = git@github.com:emacsmirror/flycheck-grammarly.git
+[submodule "flycheck-guile"]
+	path = mirror/flycheck-guile
+	url = git@github.com:emacsmirror/flycheck-guile.git
 [submodule "flycheck-haskell"]
 	path = mirror/flycheck-haskell
 	url = git@github.com:emacsmirror/flycheck-haskell.git
@@ -8878,6 +8881,9 @@
 	path = attic/helm-anything
 	url = git@github.com:emacsattic/helm-anything.git
 	branch = master
+[submodule "helm-apt"]
+	path = mirror/helm-apt
+	url = git@github.com:emacsmirror/helm-apt.git
 [submodule "helm-aws"]
 	path = mirror/helm-aws
 	url = git@github.com:emacsmirror/helm-aws.git
@@ -9408,6 +9414,9 @@
 [submodule "helm-w3m"]
 	path = mirror/helm-w3m
 	url = git@github.com:emacsmirror/helm-w3m.git
+[submodule "helm-wikipedia"]
+	path = mirror/helm-wikipedia
+	url = git@github.com:emacsmirror/helm-wikipedia.git
 [submodule "helm-wordnet"]
 	path = mirror/helm-wordnet
 	url = git@github.com:emacsmirror/helm-wordnet.git
