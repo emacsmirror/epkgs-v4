@@ -18761,8 +18761,8 @@
 	path = mirror/smart-dabbrev
 	url = git@github.com:emacsmirror/smart-dabbrev.git
 [submodule "smart-dash"]
-	path = attic/smart-dash
-	url = git@github.com:emacsattic/smart-dash.git
+	path = mirror/smart-dash
+	url = git@github.com:emacsmirror/smart-dash.git
 [submodule "smart-dnd"]
 	path = mirror/smart-dnd
 	url = git@github.com:emacsmirror/smart-dnd.git
