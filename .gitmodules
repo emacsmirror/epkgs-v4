@@ -2921,8 +2921,8 @@
 	path = mirror/company-quickhelp-terminal
 	url = git@github.com:emacsmirror/company-quickhelp-terminal.git
 [submodule "company-racer"]
-	path = mirror/company-racer
-	url = git@github.com:emacsmirror/company-racer.git
+	path = attic/company-racer
+	url = git@github.com:emacsattic/company-racer.git
 [submodule "company-reftex"]
 	path = mirror/company-reftex
 	url = git@github.com:emacsmirror/company-reftex.git
