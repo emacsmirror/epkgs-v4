@@ -785,7 +785,7 @@ It freezes except when I try to investigate why it freezes.
 | vm                | bzr   |
 | w3m               | cvs   |
 
-* Set ~emir--archived-packages~
+* Update ~emir--archived-packages~
 #+NAME: set--emir--archived-packages
 #+BEGIN_SRC emacs-lisp :results silent
   (emir-gh-foreach-query
@@ -793,9 +793,33 @@ It freezes except when I try to investigate why it freezes.
    (lambda (data)
      (customize-save-variable
       'emir--archived-packages
-      (cl-mapcan (pcase-lambda (`(,name . ,alist))
-		   (when-let ((archived (alist-get 'isArchived alist)))
-		     (list name)))
-		 data))))
+      (mapcan (pcase-lambda (`(,name . ,alist))
+                (and-let* ((archived (alist-get 'isArchived alist)))
+                  (list name)))
+              data))))
 #+END_SRC
 
+* Update ~emir--moved-packages~
+#+NAME: set--emir--moved-packages
+#+BEGIN_SRC emacs-lisp :results silent
+  (emir-gh-foreach-query
+   '(nameWithOwner)
+   (lambda (data)
+     (customize-save-variable
+      'emir--moved-packages
+      (mapcan (pcase-lambda (`(,name . ,data))
+                (message "Checking %s..." name)
+                (let* ((pkg (epkg name))
+                       (old (concat (oref pkg upstream-user) "/"
+                                    (oref pkg upstream-name)))
+                       (new (cdr (assq 'nameWithOwner data))))
+                  (prog1 (and (not (equal new old))
+                              (list (list name old new)))
+                    (message "Checking %s...done" name))))
+              data)))))
+#+END_SRC
+
+* _
+;; Local Variables:
+;; indent-tabs-mode: nil
+;; End:
