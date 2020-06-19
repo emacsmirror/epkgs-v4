@@ -12980,8 +12980,8 @@
 	path = mirror/mk-project
 	url = git@github.com:emacsmirror/mk-project.git
 [submodule "mk-project+"]
-	path = mirror/mk-project+
-	url = git@github.com:emacsmirror/mk-project-plus.git
+	path = attic/mk-project+
+	url = git@github.com:emacsattic/mk-project-plus.git
 [submodule "mkback"]
 	path = attic/mkback
 	url = git@github.com:emacsattic/mkback.git
